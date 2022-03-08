@@ -6,7 +6,7 @@ XSC224u Final Project: Pre-training BERT on national security domain corpus
 - All artifacts related to the collection (primarily through web scraping) of data for both pretraining and finetuing
 <br></br>
 ### 2. Preprocessing
-- All artifacts related to the preprocessing data from raw files up to being tokenized.
+- All artifacts related to the preprocessing of data from raw files up to the point of tokenization.
 <br></br>
 ### 3. Modeling
 - All artificats related to building/tweaking our BERT language models
