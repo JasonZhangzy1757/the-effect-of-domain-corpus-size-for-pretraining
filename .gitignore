@@ -156,6 +156,6 @@ cython_debug/
 
 # Datasets
 dataset/army_mipb/mipb/pdfs
-dataset/army_mipb/mipb/pdfs
 dataset/fas_doddir_army/pdfs
+dataset/dfq/pdfs
 **/.DS_Store
