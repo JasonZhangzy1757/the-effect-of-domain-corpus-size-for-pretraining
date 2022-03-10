@@ -8,6 +8,7 @@ __pycache__/
 
 #Data
 Data/
+Preprocessing/size_count.txt
 
 # Distribution / packaging
 .Python
