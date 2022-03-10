@@ -1,4 +1,1 @@
-asyncio
-aiohttp
-aiofiles
 requests_html
