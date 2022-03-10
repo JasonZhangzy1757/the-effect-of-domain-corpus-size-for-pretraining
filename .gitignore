@@ -155,7 +155,9 @@ cython_debug/
 #.idea/
 
 # Datasets
-dataset/army_mipb/mipb/pdfs
+dataset/army_mipb/pdfs
 dataset/fas_doddir_army/pdfs
 dataset/dfq/pdfs
+dataset/fas_doddir_usaf/pdfs
+dataset/fas_eprint/pdfs
 **/.DS_Store
