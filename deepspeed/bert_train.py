@@ -16,6 +16,7 @@ from datasets import load_dataset
 from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 from tqdm.auto import tqdm
+from transformers import BertModel, BertForMaskedLM, BertForPreTraining
 from transformers import (
     AdamW,
     AutoConfig,
@@ -163,12 +164,13 @@ def main(
         logger.error("You need to specify model_name_or_path")
         return
 
-    model = AutoModelForMaskedLM.from_pretrained(
+    model = BertForMaskedLM.from_pretrained(
         model_name_or_path,
         from_tf=False,
         config=AutoConfig.from_pretrained(model_name_or_path)
     )
-    tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
+    # tokenizer = BertTokenizer.from_pretrained(model_name_or_path)
+    tokenizer = BertTokenizer.from_pretrained("wp-vocab-30500-vocab.txt")
     max_seq_length = tokenizer.model_max_length
 
     def tokenize_function(examples):
