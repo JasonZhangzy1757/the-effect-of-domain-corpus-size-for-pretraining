@@ -63,7 +63,6 @@ def main(
     load_checkpoint_dir: str = None,
     # Dataset Params
     train_file: str = None,
-    validation_file: str = None,
     mask_prob: float = 0.15,
     # Model Params
     model_name_or_path: str = None,
@@ -103,7 +102,6 @@ def main(
         all_arguments = {
             # Dataset Params
             "train_file": train_file,
-            "validation_file": validation_file,
             "mask_prob": mask_prob,
             # Training Params
             "batch_size": batch_size,
@@ -126,7 +124,6 @@ def main(
         # Set the hparams
         # Dataset Params
         train_file = hparams.get("train_file", train_file)
-        validation_file = hparams.get("validation_file", validation_file)
         mask_prob = hparams.get("mask_prob", mask_prob)
         # Training Params
         epoch = hparams.get("epoch", batch_size)
@@ -149,14 +146,13 @@ def main(
 
     ######### Create Dataset #########
     data_files = {}
-    if train_file is None or validation_file is None:
-        logger.error("Need to specify both train_file and val_file")
+    if train_file is None:
+        logger.error("Need to specify both train_file")
         return
-    if (not train_file.endswith(".json")) or (not validation_file.endswith(".json")):
+    if (not train_file.endswith(".json")):
         logger.error("train_file and val_file should all be json files")
 
     data_files["train"] = train_file
-    data_files["validation"] = validation_file
 
     raw_datasets = load_dataset("json", data_files=data_files)
 
@@ -315,5 +311,5 @@ if __name__ == "__main__":
     fire.Fire(main)
 
 """
-deepspeed --include localhost:1,2 bert_train.py --checkpoint_dir bert_pretrain --model_name_or_path bert-base-uncased --train_file train.json --validation_file val.json --batch_size 128
+deepspeed --include localhost:1,2 bert_train.py --checkpoint_dir bert_pretrain --model_name_or_path bert-base-uncased --train_file train.json --batch_size 128
 """
