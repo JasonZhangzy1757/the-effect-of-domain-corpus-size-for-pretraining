@@ -1,6 +1,7 @@
 deepspeed
 transformers[deepspeed]
 datasets
+tensorboard
 firebase
 pytz
 loguru
