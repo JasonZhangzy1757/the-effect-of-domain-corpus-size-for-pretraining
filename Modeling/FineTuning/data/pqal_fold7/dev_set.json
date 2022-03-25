@@ -1,0 +1,1765 @@
+{
+    "24606627": {
+        "QUESTION": "The objective structured clinical examination: can physician-examiners participate from a distance?",
+        "CONTEXTS": [
+            "Currently, a 'pedagogical gap' exists in distributed medical education in that distance educators teach medical students but typically do not have the opportunity to assess them in large-scale examinations such as the objective structured clinical examination (OSCE). We developed a remote examiner OSCE (reOSCE) that was integrated into a traditional OSCE to establish whether remote examination technology may be used to bridge this gap. The purpose of this study was to explore whether remote physician-examiners can replace on-site physician-examiners in an OSCE, and to determine the feasibility of this new examination method.",
+            "Forty Year 3 medical students were randomised into six reOSCE stations that were incorporated into two tracks of a 10-station traditional OSCE. For the reOSCE stations, student performance was assessed by both a local examiner (LE) in the room and a remote examiner (RE) who viewed the OSCE encounters from a distance. The primary endpoint was the correlation of scores between LEs and REs across all reOSCE stations. The secondary endpoint was a post-OSCE survey of both REs and students.",
+            "Statistically significant correlations were found between LE and RE checklist scores for history taking (r = 0.64-r = 0.80), physical examination (r = 0.41-r = 0.54), and management stations (r = 0.78). Correlations between LE and RE global ratings were more varied (r = 0.21-r = 0.77). Correlations on three of the six stations reached significance. Qualitative analysis of feedback from REs and students showed high acceptance of the reOSCE despite technological issues."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Attitude of Health Personnel",
+            "Checklist",
+            "Clinical Competence",
+            "Education, Medical",
+            "Educational Measurement",
+            "Educational Technology",
+            "Faculty, Medical",
+            "Feasibility Studies",
+            "Female",
+            "Humans",
+            "Male",
+            "Medical History Taking",
+            "Physical Examination",
+            "Remote Consultation",
+            "Reproducibility of Results",
+            "Students, Medical"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "This preliminary study demonstrated that OSCE ratings by LEs and REs were reasonably comparable when using checklists. Remote examination may be a feasible and acceptable way of assessing students' clinical skills, but further validity evidence will be required before it can be recommended for use in high-stakes examinations."
+    },
+    "18948835": {
+        "QUESTION": "Does somatostatin confer insulinostatic effects of neuromedin u in the rat pancreas?",
+        "CONTEXTS": [
+            "Neuromedin U (NmU) is a neuropeptide with anorexigenic activity. Two receptor subtypes (NmUR1 and NmUR2) confer the effects of NmU on target cells. We have recently demonstrated that NmU reduces insulin secretion from isolated pancreatic islets. Aim of our current study is to investigate the role of somatostatin at mediating the effects of NmU on insulin secretion.",
+            "Expression of NmU in the pancreas was detected by immunohistochemistry. Insulin and somatostatin secretion from in situ perfused rat pancreas and isolated pancreatic islets was measured by radioimmunoassay. The paracrine effects of somatostatin within pancreatic islets were blocked by cyclosomatostatin, a somatostatin receptor antagonist.",
+            "Receptor subtype NmUR1, but not NmUR2, was expressed in the endocrine pancreas, predominantly in the periphery. Neuromedin U reduced insulin secretion from in situ perfused rat pancreas and stimulated somatostatin secretion from isolated pancreatic islets. Neuromedin U stimulated somatostatin secretion at both physiological and supraphysiological glucose concentrations. Cyclosomatostatin increased insulin secretion and reduced NmU-induced inhibition of insulin secretion."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Animals",
+            "Insulin",
+            "Neuropeptides",
+            "Pancreas",
+            "Rats",
+            "Rats, Wistar",
+            "Receptors, Neurotransmitter",
+            "Somatostatin"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Neuromedin U reduces insulin and increases somatostatin secretion. Blockade of somatostatin action abolishes the inhibition of insulin secretion by NmU. The results of the study suggest that somatostatin mediates the inhibitory action of NmU on insulin secretion."
+    },
+    "11566686": {
+        "QUESTION": "In vivo visualization of pyloric mucosal hypertrophy in infants with hypertrophic pyloric stenosis: is there an etiologic role?",
+        "CONTEXTS": [
+            "Infantile hypertrophic pyloric stenosis (IHPS) is a common condition which presents in infants at 2-12 weeks of postnatal life, and whose cause remains obscure. Multiple associated abnormalities have been recognized within the external hypertrophied pyloric muscle layer, but the internal component of the pyloric mucosa has received scant attention in the literature to date. Our purpose in this study was to show that pyloric mucosal redundancy is a constant finding in infants with IHPS, to discuss its possible cause, and to explore the hypothesis of a relationship between pyloric mucosal redundancy and the development of IHPS.",
+            "We identified 102 consecutive infants with surgically confirmed IHPS and determined the thickness of the pyloric mucosa compared with the thickness of the surrounding hypertrophied muscle. Fifty-one infants who did not have pyloric stenosis served as controls.",
+            "Mean mucosal thickness in patients with IHPS approximated mean muscle thickness, with a ratio of 0.89. In infants with IHPS, the pyloric mucosa constitutes approximately one third of the cross-sectional diameter of the pyloric mass and fills and obstructs the pyloric canal."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Female",
+            "Gastric Mucosa",
+            "Humans",
+            "Hypertrophy",
+            "Infant",
+            "Infant, Newborn",
+            "Male",
+            "Pyloric Stenosis",
+            "Pylorus"
+        ],
+        "YEAR": "2001",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Mucosal redundancy is a constant associated finding in IHPS. Although the origin of the redundancy and a cause-and-effect relationship are difficult to establish, our findings support the hypothesis that hypergastrinemia may be implicated in the pathogenesis of IHPS, and suggest that mucosal thickening could be implicated as one of the initiating factors in its development."
+    },
+    "15483019": {
+        "QUESTION": "Is eligibility for a chemotherapy protocol a good prognostic factor for invasive bladder cancer after radical cystectomy?",
+        "CONTEXTS": [
+            "To assess whether eligibility to an adjuvant chemotherapy protocol in itself represents a good prognostic factor after radical cystectomy for bladder cancer.",
+            "Between April 1984 and May 1989, our institution entered 35 patients with invasive bladder cancer into the Swiss Group for Clinical and Epidemiological Cancer Research (SAKK) study 09/84. They were randomly assigned to either observation or three postoperative courses of cisplatin monotherapy after cystectomy. This study had a negative result. The outcome of these 35 patients (protocol group) was compared with an age- and tumor-stage-matched cohort (matched group; n = 35) who also underwent cystectomy during the same period, but were not entered into the SAKK study, as well as the remaining 57 patients treated during the study period for the same indication (remaining group).",
+            "Median overall survival decreased from 76.3 months in the protocol group to 52.1 months in the matched group and to 20.3 months in the remaining group. The respective times of median recurrence-free survival were 67.2, 16.0, and 9.4 months. Tumor progression occurred in 46% of the protocol group compared with 69% in the matched group and 65% in the remaining group (P<.05). Cancer-related death was noted in 40% of the protocol group, 57% in the matched group, and 56% in the remaining group."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Antineoplastic Agents",
+            "Case-Control Studies",
+            "Chemotherapy, Adjuvant",
+            "Cisplatin",
+            "Cohort Studies",
+            "Combined Modality Therapy",
+            "Cystectomy",
+            "Disease-Free Survival",
+            "Female",
+            "Humans",
+            "Male",
+            "Prognosis",
+            "Survival Rate",
+            "Urinary Bladder Neoplasms"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "These data suggest that being willing and fit enough for a chemotherapy protocol is a good prognostic factor for invasive bladder cancer. This eligibility bias emphasizes the need for prospective, randomized trials, and indicates that single-group studies using historical or matched controls have to be interpreted with caution."
+    },
+    "27928673": {
+        "QUESTION": "Do ART patients face higher C-section rates during their stage of delivery?",
+        "CONTEXTS": [
+            "The mode of delivery depends on multiple parameters. After assisted reproductive technology (ART), previous studies have shown elevated C-section rates but few studies differentiated between elective and emergency operations and different protocols of cryopreservation. Because these studies did not use multiparity as exclusion criteria which reduces confounding with previous pregnancies, aim of this study is to compare mode of delivery of different techniques of ART using data of primiparae only [1, 2].",
+            "Retrospective analysis of patient data treated at the university hospital of Luebeck in a period of 12 years. Patients were divided in different groups according to their way of conception: spontaneous conception and conception after\u00a0ART. The group of ART was further divided into: (a) a group of fresh transferred embryos (IVF/ICSI), (b) vitrification and (c) slow freezing. Exclusion criteria were defined as: multiparity, delivery<24.\u00a0+\u00a00\u00a0p.m., incomplete data and treatment outside university of Luebeck. Main parameter of this study was mode of delivery which was divided into spontaneous delivery or C-section. C-sections were further differentiated into elective or emergency C-sections.",
+            "The group of fresh transferred embryos and slow freezing showed higher risks for elective and emergency C-sections (elective C-sections odds ratio 2.0, CI 95% 1.6-2.6, emergency C-sections odds ratio 1.4, CI 95% 1.1-1.9). Moreover, all groups of ART show enhanced risk of significant perinatal bleeding."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Cesarean Section",
+            "Female",
+            "Humans",
+            "Pregnancy",
+            "Reproductive Techniques, Assisted",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2017",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Patients after ART treatment suffer from higher C-section rates during their stage of delivery."
+    },
+    "21739621": {
+        "QUESTION": "Does obesity predict knee pain over fourteen years in women, independently of radiographic changes?",
+        "CONTEXTS": [
+            "To examine longitudinal patterns in body mass index (BMI) over 14 years and its association with knee pain in the Chingford Study.",
+            "We studied a total of 594 women with BMI data from clinic visits at years (Y) 1, 5, 10, and 15. Knee pain at Y15 was assessed by questionnaire. Associations between BMI over 14 years and knee pain at Y15 were examined using logistic regression.",
+            "BMI significantly increased from Y1 to Y15 (P<0.0005) with medians (interquartile ranges) of 24.5 kg/m(2)  (22.5-27.2 kg/m(2) ) and 26.5 kg/m(2)  (23.9-30.1 kg/m(2) ), respectively. At Y15, 45.1% of subjects had knee pain. A greater BMI at Y1 (odds ratio [OR] 1.34, 95% confidence interval [95% CI]1.05-1.69), at Y15 (OR 1.34, 95% CI 1.10-1.61), and change in BMI over 15 years (OR 1.40, 95% CI 1.00-1.93) were significant predictors of knee pain at Y15 (P<0.05). BMI change was associated with bilateral (OR 1.61, 95% CI 1.05-1.76, P = 0.024) but not unilateral knee pain (OR 1.22, 95% CI 0.73-1.76, P = 0.298). The association between BMI change and knee pain was independent of radiographic knee osteoarthritis (OA). The strength of association between BMI and knee pain at Y15 was similar during followup measurements."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Arthralgia",
+            "Body Mass Index",
+            "England",
+            "Female",
+            "Humans",
+            "Knee Joint",
+            "Logistic Models",
+            "Longitudinal Studies",
+            "Middle Aged",
+            "Obesity",
+            "Odds Ratio",
+            "Osteoarthritis, Knee",
+            "Pain Measurement",
+            "Prospective Studies",
+            "Radiography",
+            "Risk Assessment",
+            "Risk Factors",
+            "Surveys and Questionnaires",
+            "Time Factors"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Over 14 years, a higher BMI predicts knee pain at Y15 in women, independently of radiographic knee OA. When adjusted, the association was significant in bilateral, not unilateral, knee pain, suggesting alternative pathologic mechanisms may exist. The longitudinal effect of BMI on knee pain at Y15 is equally important at any time point, which may assist reducing the population burden of knee pain."
+    },
+    "17295865": {
+        "QUESTION": "Acute hepatitis C in Israel: a predominantly iatrogenic disease?",
+        "CONTEXTS": [
+            "Acute hepatitis C virus infection in the era of universal screening of blood products has not disappeared, and is thought to be transmitted primarily via injecting drug use. A growing body of evidence supports iatrogenic transmission as an important mode of transmission. The aim of this study was to examine transmission routes and clinical characteristics in a group of patients with acute hepatitis C in Israel.",
+            "A retrospective chart review was conducted in three different liver clinics in Israel, of all new hepatitis C patients. Patients identified as possible acute hepatitis C were re-interviewed and all other sources such as blood bank records and pre-employment check-ups reviewed in order to establish the diagnosis of acute hepatitis C infection and to identify the transmission route.",
+            "Twenty-nine patients were found to have acute hepatitis C, representing 0.75% of all new referrals for hepatitis C. The most frequent (65%) mode of transmission was iatrogenic involving several, often minimal, procedures and clinical settings. The group in which iatrogenic transmission was suspected was older and the patients more often in monogamous relationship compared with other transmission routes groups. Injecting drug use was the second most common route of infection. Spontaneous seroconversion has occurred in approximately one third of the patients."
+        ],
+        "LABELS": [
+            "BACKGROUND AND AIMS",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acute Disease",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Female",
+            "Hepatitis C",
+            "Humans",
+            "Iatrogenic Disease",
+            "Male",
+            "Middle Aged",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Acute hepatitis C in the post universal blood products screening era was found to be predominantly an iatrogenic disease in the investigated localities. This finding should direct attention and resources towards the development and implementation of preventive measures."
+    },
+    "18269157": {
+        "QUESTION": "Biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery: is there a difference between advanced surface ablation and sub-Bowman's keratomileusis?",
+        "CONTEXTS": [
+            "To describe the biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery.",
+            "Histologic, ultrastructural, and cohesive tensile strength evaluations were performed on 25 normal human corneal specimens, 206 uncomplicated LASIK specimens, 17 uncomplicated sub-Bowman's keratomileusis (SBK) specimens, 4 uncomplicated photorefractive keratectomy (PRK) specimens, 2 uncomplicated advanced surface ablation (ASA) specimens, 5 keratoconus specimens, 12 postoperative LASIK ectasia specimens, and 1 postoperative PRK ectasia specimen and compared to previously published studies.",
+            "Histologic and ultrastructural studies of normal corneas showed significant differences in the direction of collagen fibrils and/or the degree of lamellar interweaving in Bowman's layer, the anterior third of the corneal stroma, the posterior two-thirds of the corneal stroma, and Descemet's membrane. Cohesive tensile strength testing directly supported these morphologic findings as the stronger, more rigid regions of the cornea were located anteriorly and peripherally. This suggests that PRK and ASA, and secondarily SBK, should be biomechanically safer than conventional LASIK with regard to risk for causing keratectasia after surgery. Because adult human corneal stromal wounds heal slowly and incompletely, all excimer laser keratorefractive surgical techniques still have some distinct disadvantages due to inadequate reparative wound healing. Despite reducing some of the risk for corneal haze compared to conventional PRK, ASA cases still can develop corneal haze or breakthrough haze from the hypercellular fibrotic stromal scarring. In contrast, similar to conventional LASIK, SBK still has the short- and long-term potential for interface wound complications from the hypocellular primitive stromal scar."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Biomechanical Phenomena",
+            "Bowman Membrane",
+            "Compressive Strength",
+            "Cornea",
+            "Corneal Surgery, Laser",
+            "Humans",
+            "Keratoconus",
+            "Lasers, Excimer",
+            "Tensile Strength",
+            "Wound Healing"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Ophthalmic pathology and basic science research show that SBK and ASA are improvements in excimer laser keratorefractive surgery compared to conventional LASIK or PRK, particularly with regard to maintaining corneal biomechanics and perhaps moderately reducing the risk of corneal haze. However, most of the disadvantages caused by wound healing issues remain."
+    },
+    "25168472": {
+        "QUESTION": "Can static foot posture measurements predict regional plantar surface area?",
+        "CONTEXTS": [
+            "The intent of this study was to determine if the use of a single or combination of static foot posture measurements can be used to predict rearfoot, midfoot, and forefoot plantar surface area in individuals with pronated or normal foot types.",
+            "Twelve foot measurements were collected on 52 individuals (mean age 25.8 years) with the change in midfoot width used to place subjects in a pronated or normal foot mobility group. Dynamic plantar contact area was collected during walking with a pressure sensor platform. The 12 measures were entered into a stepwise regression analysis to determine the optimal set of measures associated with regional plantar surface area.",
+            "A two variable model was found to describe the relationship between the foot measurements and forefoot plantar contact area (r(2)=0.79, p<0.0001). A four variable model was found to describe the relationship between the foot measurements and midfoot plantar contact area (r(2)=0.85, p<0.0001) in those individuals with a 1.26cm or greater change in midfoot width."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Biomechanical Phenomena",
+            "Female",
+            "Foot",
+            "Humans",
+            "Male",
+            "Posture",
+            "Predictive Value of Tests",
+            "Pressure",
+            "Weight-Bearing"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The results indicate that clinicians can use a combination of simple, reliable and time efficient foot measures to explain 79% and 85% of the plantar surface area in the forefoot and midfoot, respectively."
+    },
+    "24433626": {
+        "QUESTION": "Prevalence of chronic conditions among Medicare Part A beneficiaries in 2008 and 2010: are Medicare beneficiaries getting sicker?",
+        "CONTEXTS": [
+            "Medicare beneficiaries who have chronic conditions are responsible for a disproportionate share of Medicare fee-for-service expenditures. The objective of this study was to analyze the change in the health of Medicare beneficiaries enrolled in Part A (hospital insurance) between 2008 and 2010 by comparing the prevalence of 11 chronic conditions.",
+            "We conducted descriptive analyses using the 2008 and 2010 Chronic Conditions Public Use Files, which are newly available from the Centers for Medicare and Medicaid Services and have administrative (claims) data on 100% of the Medicare fee-for-service population. We examined the data by age, sex, and dual eligibility (eligibility for both Medicare and Medicaid).",
+            "Medicare Part A beneficiaries had more chronic conditions on average in 2010 than in 2008. The percentage increase in the average number of chronic conditions was larger for dual-eligible beneficiaries (2.8%) than for nondual-eligible beneficiaries (1.2%). The prevalence of some chronic conditions, such as congestive heart failure, ischemic heart disease, and stroke/transient ischemic attack, decreased. The deterioration of average health was due to other chronic conditions: chronic kidney disease, depression, diabetes, osteoporosis, rheumatoid arthritis/osteoarthritis. Trends in Alzheimer's disease, cancer, and chronic obstructive pulmonary disease showed differences by sex or dual eligibility or both."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Chronic Disease",
+            "Female",
+            "Health Services Research",
+            "Humans",
+            "Insurance Claim Review",
+            "Male",
+            "Medicare Part A",
+            "Middle Aged",
+            "Prevalence",
+            "Time Factors",
+            "United States"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Analyzing the prevalence of 11 chronic conditions by using Medicare claims data provides a monitoring tool that can guide health care providers and policy makers in devising strategies to address chronic conditions and rising health care costs."
+    },
+    "17096624": {
+        "QUESTION": "Do patterns of knowledge and attitudes exist among unvaccinated seniors?",
+        "CONTEXTS": [
+            "To examine patterns of knowledge and attitudes among adults aged>65 years unvaccinated for influenza.",
+            "Surveyed Medicare beneficiaries in 5 areas; clustered unvaccinated seniors by their immunization related knowledge and attitudes.",
+            "Identified 4 clusters: Potentials (45%) would receive influenza vaccine to prevent disease; Fearful Uninformeds (9%) were unsure if influenza vaccine causes illness; Doubters (27%) were unsure if vaccine is efficacious; Misinformeds (19%) believed influenza vaccine causes illness. More Potentials (75%) and Misinformeds (70%) ever received influenza vaccine than did Fearful Uninformeds (18%) and Doubters (29%)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Female",
+            "Health Knowledge, Attitudes, Practice",
+            "Humans",
+            "Immunization Programs",
+            "Influenza A virus",
+            "Influenza, Human",
+            "Interviews as Topic",
+            "Male",
+            "United States"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Findings suggest that cluster analyses may be useful in identifying groups for targeted health messages."
+    },
+    "21618245": {
+        "QUESTION": "Does surgery or radiation therapy impact survival for patients with extrapulmonary small cell cancers?",
+        "CONTEXTS": [
+            "Extrapulmonary small cell carcinomas (EPSCC) are rare tumors where therapy remains poorly defined. We sought to determine the impact of surgical extirpation and radiation therapy for outcomes of EPSCC.",
+            "The Surveillance, Epidemiology, and End Results (SEER) database was queried for patients with EPSCC which were further categorized by site and evaluated for survival by specific treatment strategy.",
+            "We identified 94,173 patients with small cell carcinoma of which 88,605 (94.1%) and 5,568 (5.9%) had pulmonary small cell carcinoma and EPSCC, respectively. EPSCC patients were subdivided by site with the following proportions: genitourinary (24.1%), gastrointestinal (22.1%), head and neck (7.1%), breast (4%), and miscellaneous (42.7%). Overall EPSSC and specifically gastrointestinal disease had significantly improved median, 5- and 10-year survival with surgery and/or radiation for all stages and sizes. For all EPSCCs multivariate analysis revealed age (>50), gender (female), stage (regional, distant), radiation, and surgery to be independent predictors of survival."
+        ],
+        "LABELS": [
+            "BACKGROUND AND OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Brachytherapy",
+            "Breast Neoplasms",
+            "Combined Modality Therapy",
+            "Female",
+            "Follow-Up Studies",
+            "Gastrointestinal Neoplasms",
+            "Head and Neck Neoplasms",
+            "Humans",
+            "Lung Neoplasms",
+            "Male",
+            "Small Cell Lung Carcinoma",
+            "Survival Rate",
+            "Treatment Outcome",
+            "Urogenital Neoplasms"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Although outcomes for EPSCC remains poor, both surgery and radiation is shown to significantly improve median, 5- and 10-year survival rates. EPSCC patients who are potential candidates for surgical resection or radiation therapy may benefit from these treatments."
+    },
+    "12690589": {
+        "QUESTION": "Can continuous physical training counteract aging effect on myoelectric fatigue?",
+        "CONTEXTS": [
+            "To compare the myoelectric onset of muscle fatigue in physically active trained young skiers with respect to elderly skiers and to test whether continuous training can counteract the selective loss of type II muscle fibers usually observed with aging.",
+            "An observational, cross-sectional study of the myoelectric onset of muscle fatigue in the left tibialis anterior muscles.",
+            "Surface electromyography recorded with portable devices at a downhill ski rescue lodge in the Italian Alps.",
+            "Fifty-four physically trained, active skiers (43 men, 11 women; age range, 24-85y).",
+            "Questionnaire on physical activity and 2 sustained isometric voluntary contractions at 20% and 2 at 80% of the maximal voluntary contraction level.",
+            "Isometric contractions and mean and median spectral frequencies calculated to monitor the myoelectric manifestations of muscle fatigue.",
+            "Fatigue indices did not differ significantly between younger and older subjects and, thus, did not show a correlation between myoelectric manifestations of muscle fatigue and age in physically active subjects."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "DESIGN",
+            "SETTING",
+            "PARTICIPANTS",
+            "INTERVENTIONS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Age Factors",
+            "Aged",
+            "Aged, 80 and over",
+            "Aging",
+            "Cross-Sectional Studies",
+            "Electromyography",
+            "Exercise",
+            "Female",
+            "Humans",
+            "Isometric Contraction",
+            "Leg",
+            "Male",
+            "Middle Aged",
+            "Muscle Fatigue",
+            "Muscle, Skeletal",
+            "Physical Fitness"
+        ],
+        "YEAR": "2003",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "It appears possible that aging skeletal muscles subjected to continuous exercise develop an adaptive response that counteracts the selective loss of type II muscle fibers usually observed in the muscles of elderly sedentary subjects. Our results suggest that physical activity could be considered in the elderly within a broad rehabilitative framework in which appropriate and even tailored physical training could be planned to counteract the physiologic effects of aging on muscle fiber distribution."
+    },
+    "18575014": {
+        "QUESTION": "Nasal polyposis: is there an inheritance pattern?",
+        "CONTEXTS": [
+            "Nasal Polyposis (NP) is defined as a chronic inflammatory disease of sinonasal mucosa leading to diffuse formation of benign polyps. Although family histories are frequently suggested in medical literature, no specific study focused on this point has been reported. The purpose of this study is to determine whether a hereditary factor could be implied for NP in a family where several members were affected. We included 99 members of this family.",
+            "All patients were assessed for conditions known to be associated with the development or presence of NP. Concerning NP, patients were screened with a validated questionnaire and selected patients had a medical examination by an Ear, Nose and Throat practitioner.",
+            "Thirteen patients had a personal history of NP without asthma, aspirin intolerance, Churg Strauss syndrome, cystic fibrosis, Young's syndrome, bare lymphocyte syndrome, or primary ciliary dyskinesia. Within this family, 19.7% of those older than 17 years were affected by NP, as compared with the national French prevalence of 2.1%."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Child",
+            "Consanguinity",
+            "Female",
+            "France",
+            "Genetic Linkage",
+            "Humans",
+            "Inheritance Patterns",
+            "Male",
+            "Middle Aged",
+            "Nasal Polyps",
+            "Paranasal Sinus Diseases",
+            "Pedigree"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Regarding the pedigree, we discuss different modes of inheritance. The presence of consanguineous unions in this family suggests the possibility of a common ancestor and thus a recessive autosomal mode of inheritance."
+    },
+    "15800018": {
+        "QUESTION": "Are even impaired fasting blood glucose levels preoperatively associated with increased mortality after CABG surgery?",
+        "CONTEXTS": [
+            "Impaired fasting glucose (IFG) below the diagnostic threshold for diabetes mellitus (DM) is associated with macrovascular pathology and increased mortality after percutaneous coronary interventions. The study goal was to determine whether pre-operative fasting blood glucose (fB-glu) is associated with an increased mortality after coronary artery bypass grafting (CABG).",
+            "During 2001-03, 1895 patients underwent primary CABG [clinical DM (CDM) in 440/1895; complete data on fB-glu for n=1375/1455]. Using pre-operative fB-glu, non-diabetics were categorized as having normal fB-glu (<5.6 mmol/L), IFG (5.6<or =fB-glu<6.1 mmol/L), or suspected DM (SDM) (>or =6.1 mmol/L). fB-glu was normal in 59%. The relative risks of 30 day and 1 year mortality compared with patients with normal fB-glu was 1.7 [95% confidence interval (CI): 0.5-5.5] and 2.9 (CI: 0.8-11.2) with IFG, 2.8 (CI: 1.1-7.2) and 1.9 (CI: 0.5-6.3) with SDM vs. 1.8 (CI: 0.8-4.0) and 1.6 (CI: 0.6-4.3) if CDM, respectively. The receiver operator characteristic area for the continuous variable fB-glu and 1 year mortality was 0.65 (P=0.002)."
+        ],
+        "LABELS": [
+            "AIMS",
+            "METHODS AND RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Blood Glucose",
+            "Coronary Artery Bypass",
+            "Diabetes Mellitus",
+            "Diabetic Angiopathies",
+            "Fasting",
+            "Female",
+            "Humans",
+            "Male",
+            "Multivariate Analysis",
+            "Myocardial Infarction",
+            "Preoperative Care",
+            "ROC Curve",
+            "Retrospective Studies",
+            "Risk Factors",
+            "Survival Analysis",
+            "Sweden"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The elevated risk of death after CABG surgery known previously to be associated with CDM seems also to be shared by a group of similar size that includes patients with IFG and undiagnosed DM."
+    },
+    "16428354": {
+        "QUESTION": "Does rural or urban residence make a difference to neonatal outcome in premature birth?",
+        "CONTEXTS": [
+            "Patients living in rural areas may be at a disadvantage in accessing tertiary health care.AIM: To test the hypothesis that very premature infants born to mothers residing in rural areas have poorer outcomes than those residing in urban areas in the state of New South Wales (NSW) and the Australian Capital Territory (ACT) despite a coordinated referral and transport system.",
+            "\"Rural\" or \"urban\" status was based on the location of maternal residence. Perinatal characteristics, major morbidity and case mix adjusted mortality were compared between 1879 rural and 6775 urban infants<32 weeks gestational age, born in 1992-2002 and admitted to all 10 neonatal intensive care units in NSW and ACT.",
+            "Rural mothers were more likely to be teenaged, indigenous, and to have had a previous premature birth, prolonged ruptured membrane, and antenatal corticosteroid. Urban mothers were more likely to have had assisted conception and a caesarean section. More urban (93% v 83%) infants were born in a tertiary obstetric hospital. Infants of rural residence had a higher mortality (adjusted odds ratio (OR) 1.26, 95% confidence interval (CI) 1.07 to 1.48, p = 0.005). This trend was consistently seen in all subgroups and significantly for the tertiary hospital born population and the 30-31 weeks gestation subgroup. Regional birth data in this gestational age range also showed a higher stillbirth rate among rural infants (OR 1.20, 95% CI 1.09 to 1.32, p<0.001)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Australian Capital Territory",
+            "Epidemiologic Methods",
+            "Female",
+            "Gestational Age",
+            "Humans",
+            "Infant, Newborn",
+            "Infant, Premature",
+            "New South Wales",
+            "Pregnancy",
+            "Pregnancy Outcome",
+            "Premature Birth",
+            "Residence Characteristics",
+            "Rural Health",
+            "Stillbirth",
+            "Urban Health"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Premature births from rural mothers have a higher risk of stillbirth and mortality in neonatal intensive care than urban infants."
+    },
+    "16968183": {
+        "QUESTION": "Is laparoscopic cholecystectomy safe and acceptable as a day case procedure?",
+        "CONTEXTS": [
+            "This study reviewed the results of performing day case laparoscopic cholecystectomy to assess the feasibility and safety of the procedure as a day case.",
+            "This is a prospective study of 150 day case laparoscopic cholecystectomies performed between September 1999 and December 2004 under the care of the senior author. The results of a follow-up questionnaire to assess post-discharge clinical course and patient satisfaction were analyzed. All patients had commenced eating and drinking and were fully mobile before discharge home. The length of hospital stay was 4-8 hours.",
+            "The mean age of the patients was 43 years; 134 patients had an American Society of Anesthesiologists grade I, the remaining 16 patients were grade II. The mean operative time was 41 minutes. There were no conversions to open procedures. There was no bleeding, no visceral injury, and no mortality. There was one admission directly from the day surgical unit (admission rate of 0.6%), but no readmission following discharge. No patients were admitted due to postoperative nausea or pain. Ninety-nine (66%) of 150 patients responded to our questionnaire: 97% were satisfied about the information they had received. Patients rated their satisfaction with the procedure as follows: 75% excellent, 21% good, 3% satisfied, and 1 patient un-satisfied. Ninety-four percent of the patients would recommend the procedure as a day case."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Ambulatory Surgical Procedures",
+            "Cholecystectomy, Laparoscopic",
+            "Cost-Benefit Analysis",
+            "Drinking",
+            "Eating",
+            "Feasibility Studies",
+            "Female",
+            "Follow-Up Studies",
+            "Gallbladder Diseases",
+            "Humans",
+            "Length of Stay",
+            "Male",
+            "Middle Aged",
+            "Patient Admission",
+            "Patient Discharge",
+            "Patient Satisfaction",
+            "Postoperative Nausea and Vomiting",
+            "Prospective Studies",
+            "Surveys and Questionnaires",
+            "Treatment Outcome",
+            "United Kingdom"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Day case laparoscopic cholecystectomy is safe, feasible, and cost-effective when patients are carefully selected. It provides good patient satisfaction."
+    },
+    "10759659": {
+        "QUESTION": "The nurse cystoscopist: a feasible option?",
+        "CONTEXTS": [
+            "To compare the accuracy achieved by a trained urology nurse practitioner (UNP) and consultant urologist in detecting bladder tumours during flexible cystoscopy.",
+            "Eighty-three patients underwent flexible cystoscopy by both the UNP and consultant urologist, each unaware of the other's findings. Before comparing the findings, each declared whether there was tumour or any suspicious lesion requiring biopsy.",
+            "Of 83 patients examined by flexible cystoscopy, 26 were found to have a tumour or a suspicious lesion. One tumour was missed by the UNP and one by the urologist; each tumour was minute. Analysis using the chance-corrected proportional agreement (Kappa) was 0.94, indicating very close agreement."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Cystoscopy",
+            "Evaluation Studies as Topic",
+            "Feasibility Studies",
+            "Humans",
+            "Liability, Legal",
+            "Nurse Practitioners",
+            "Sensitivity and Specificity",
+            "Urinary Bladder Neoplasms",
+            "Urology"
+        ],
+        "YEAR": "2000",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A UNP can be trained to perform cystoscopy and detect suspicious lesions as accurately as can a consultant urologist. Legal and training issues in implementation are important."
+    },
+    "25218577": {
+        "QUESTION": "Preservation of the PCL when performing cruciate-retaining TKA: Is the tibial tuberosity a reliable predictor of the PCL footprint location?",
+        "CONTEXTS": [
+            "Reconstruction of the joint line is crucial in total knee arthroplasty (TKA). A routine height of tibial cut to maintain the natural joint line may compromise the preservation of the PCL. Since the PCL footprint is not accessible prior to tibial osteotomy, it seems beneficial to identify a reliable extraarticular anatomic landmark for predicting the PCL footprint and being visible within standard TKA approach. The fibula head predicts reliably the location of PCL footprint; however, it is not accessible during TKA. The aim of this study now was to analyze whether the tibial tuberosity can serve as a reliable referencing landmark to estimate the PCL footprint height prior to tibial cut.",
+            "The first consecutive case series included 216 CR TKA. Standing postoperative lateral view radiographs were utilized to measure the vertical distance between tibial tuberosity and tibial osteotomy plane. In the second case series, 223 knee MRIs were consecutively analyzed to measure the vertical distance between tibial tuberosity and PCL footprint. The probability of partial or total PCL removal was calculated for different vertical distances between tibial tuberosity and tibial cutting surface.",
+            "The vertical distance between the tibial tuberosity and tibial cut averaged 24.7 \u00b1 4 mm. The average vertical distance from tibial tuberosity to proximal and to distal PCL footprint was found to be 22 \u00b1 4.4 and 16 \u00b1 4.4 mm, respectively. Five knees were considered at 50% risk of an entire PCL removal after CR TKA."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Arthroplasty, Replacement, Knee",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Osteotomy",
+            "Posterior Cruciate Ligament",
+            "Radiography",
+            "Tibia"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Current surgical techniques of tibial preparation may result in partial or total PCL damage. Tibial tuberosity is a useful anatomical landmark to locate the PCL footprint and to predict the probability of its detachment pre-, intra-, and postoperatively. This knowledge might be useful to predict and avoid instability, consecutive pain, and dissatisfaction after TKA related to PCL insufficiency."
+    },
+    "25691513": {
+        "QUESTION": "Do communication disorders extend to musical messages?",
+        "CONTEXTS": [
+            "Effective musical communication requires conveyance of the intended message in a manner perceptible to the receiver. Communication disorders that impair transmitting or decoding of structural features of music (e.g., pitch, timbre) and/or symbolic representation may result in atypical musical communication, which can have a negative impact on music therapy interventions.",
+            "This study compared recognition of symbolic representation of emotions or movements in music by two groups of children with different communicative characteristics: severe to profound hearing loss (using cochlear implants [CI]) and autism spectrum disorder (ASD). Their responses were compared to those of children with typical-development and normal hearing (TD-NH). Accuracy was examined as a function of communicative status, emotional or movement category, and individual characteristics.",
+            "Participants listened to recorded musical excerpts conveying emotions or movements and matched them with labels. Measures relevant to auditory and/or language function were also gathered.",
+            "There was no significant difference between the ASD and TD-NH groups in identification of musical emotions or movements. However, the CI group was significantly less accurate than the other two groups in identification of both emotions and movements. Mixed effects logistic regression revealed different patterns of accuracy for specific emotions as a function of group."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Auditory Perception",
+            "Child",
+            "Child Development Disorders, Pervasive",
+            "Cochlear Implantation",
+            "Communication Disorders",
+            "Deafness",
+            "Emotions",
+            "Female",
+            "Humans",
+            "Male",
+            "Music"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Conveyance of emotions or movements through music may be decoded differently by persons with different types of communication disorders. Because music is the primary therapeutic tool in music therapy sessions, clinicians should consider these differential abilities when selecting music for clinical interventions focusing on emotions or movement."
+    },
+    "8262881": {
+        "QUESTION": "Body dysmorphic disorder: does it have a psychotic subtype?",
+        "CONTEXTS": [
+            "Although body dysmorphic disorder (BDD) is classified in DSM-III-R as a nonpsychotic somatoform disorder, controversy exists as to whether BDD can present with psychotic features. If it can, this raises the possibility that its DSM-III-R psychotic counterpart-delusional disorder, somatic type--may not be a separate disorder. The purpose of this study was to determine whether patients with nonpsychotic BDD (defined according to DSM-III-R criteria, i.e., with maintenance of some insight) were different from patients with psychotic BDD (those whose preoccupation was without insight and of delusional intensity).",
+            "Fifty consecutive patients meeting DSM-III-R criteria A and C for BDD were assessed with a semistructured interview and the Structured Clinical Interview for DSM-III-R (SCID). Family histories of psychiatric disorders were blindly assessed. The 24 patients with nonpsychotic BDD were compared with the 26 patients with psychotic BDD with respect to demographics, phenomenology, course of illness, associated features, comorbid psychiatric disorders, family history, and treatment response.",
+            "Patients with psychotic BDD displayed a significantly higher rate of lifetime DSM-III-R psychotic disorder diagnoses than patients with nonpsychotic BDD. However, the two groups did not differ significantly on most other variables examined. For instance, both psychotic and nonpsychotic patients displayed significant morbidity; high comorbidity with mood, anxiety, and psychoactive substance use disorders; and apparent preferential response to serotonin reuptake inhibitors rather than to non-serotonin reuptake blocking antidepressants or antipsychotics."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Body Image",
+            "Comorbidity",
+            "Delusions",
+            "Diagnosis, Differential",
+            "Female",
+            "Humans",
+            "Male",
+            "Mental Disorders",
+            "Middle Aged",
+            "Psychiatric Status Rating Scales",
+            "Somatoform Disorders",
+            "Terminology as Topic",
+            "Treatment Outcome"
+        ],
+        "YEAR": "1993",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Body dysmorphic disorder may have a closely related psychotic subtype that significantly overlaps with, or may even be the same disorder as, the BDD variant of delusional disorder, somatic type. Inclusion of a psychotic subtype for BDD should be considered for future editions of DSM."
+    },
+    "22428608": {
+        "QUESTION": "Would corrected QT dispersion predict left ventricular hypertrophy in hypertensive patients?",
+        "CONTEXTS": [
+            "We explored whether QT corrected dispersion (QTcD) can identify left ventricular hypertrophy (LVH) in hypertensives.",
+            "We enrolled 100 hypertensive patients (study group) and 30 normotensive subjects (control group). Echocardiography was performed to measure left ventricular mass and left ventricular mass index. Electrocardiogram was performed to measure QTcD.",
+            "LVH was present in 42 patients (42%) of the study group, none among controls. Hypertensive patients had significantly greater indices of LVH and QTcD compared with controls (p<0.001 for all). Similarly, among hypertensive patients, those with LVH had a significantly greater QTcD compared with those without (p<0.001). Pearson's correlation coefficient test demonstrated strongly positive correlations between QTcD and the indices of LVH (p<0.001 for all). Analysis of the receiver operating characteristic curves identified 60 ms as the optimal cut-off value of QTcD that best predicts LVH in hypertensives. Using this value, QTcD was able to predict LVH with a sensitivity of 92.9% and specificity 98.2%."
+        ],
+        "LABELS": [
+            "AIMS",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Cross-Sectional Studies",
+            "Echocardiography",
+            "Electrocardiography",
+            "Female",
+            "Humans",
+            "Hypertension",
+            "Hypertrophy, Left Ventricular",
+            "Male",
+            "Middle Aged",
+            "Myocardial Contraction",
+            "Predictive Value of Tests",
+            "Risk Factors",
+            "Sensitivity and Specificity",
+            "Statistics, Nonparametric"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "QTcD is significantly increased in hypertensive patients with LVH compared with those without, being strongly correlated with the indices of LVH. A QTcD cut-off value of 60 ms predicted LVH in hypertensive patients with a high sensitivity and specificity."
+    },
+    "8017535": {
+        "QUESTION": "Substance use and HIV-related sexual behaviors among US high school students: are they related?",
+        "CONTEXTS": [
+            "This study was undertaken to examine whether use of alcohol, cigarettes, marijuana, cocaine, and other illicit drugs is related to the likelihood of sexual behaviors that increase risk for human immunodeficiency virus (HIV) infection among youth.",
+            "The 1990 national Youth Risk Behavior Survey was used to collect self-reported information about a broad range of health risk behaviors from a representative sample of 11,631 high school students in the United States.",
+            "Students who reported no substance use were least likely to report having had sexual intercourse, having had four or more sex partners, and not having used a condom at last sexual intercourse. Adjusted for age, sex, and race/ethnicity, odds ratios for each of these sexual risk behaviors were greatest among students who had used marijuana, cocaine, or other illicit drugs. Students who had used only alcohol or cigarettes had smaller but still significant increases in the likelihood of having had sexual intercourse and of having had four or more sex partners."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adolescent Behavior",
+            "Cross-Sectional Studies",
+            "Female",
+            "HIV Infections",
+            "Health Knowledge, Attitudes, Practice",
+            "Humans",
+            "Male",
+            "Odds Ratio",
+            "Risk-Taking",
+            "Sexual Behavior",
+            "Substance-Related Disorders",
+            "United States"
+        ],
+        "YEAR": "1994",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "HIV prevention programs for youth should recognize that substance use may be an important indicator of risk for HIV infection and acquired immunodeficiency syndrome through its association with unsafe sexual behaviors."
+    },
+    "11776681": {
+        "QUESTION": "Is intrapartum vibroacoustic stimulation an effective predictor of fetal acidosis?",
+        "CONTEXTS": [
+            "The hypothesis of this prospective study is that intrapartum vibroacoustic stimulation (VAS) is an effective predictor of fetal acidosis during labor. Various clinical conditions, such as term versus preterm gestation, first stage versus second stage of labor, and fetal heart rate (FHR) variable decelerations versus late decelerations will be tested.",
+            "During the study period, 113 patients were studied prospectively in either active phase of first stage (n = 53) or during the second stage of labor (n = 60). They were selected from cases exhibiting moderate to severe FHR variable decelerations or late decelerations. The fetuses of study subjects received a VAS for three seconds and FHR changes were recorded. Fetal scalp blood pH or umbilical arterial blood pH was obtained within 15 minutes of VAS. The relationship between FHR responses to VAS and fetal blood pH in term and preterm gestations, the relationship of two tests (VAS and fetal blood pH) to type of FHR decelerations, and the predictability of neonatal morbidity by two tests were analyzed. Where appropriate, Fisher's exact test (p<0.05 was considered statistically different) and the odd ratio with 95% confidence intervals were used for statistical analyses.",
+            "Excellent association between acceleration response to VAS and pH>or = 7.20, and between a negative response to VAS (no acceleration or decelerations) and pH<7.20 were found in the first stage of labor, the second stage of labor, and the combination of both stages together (p = 0.0001, OR = 10.6 [3.3-34.0]). It was observed that negative VAS responses for predicting fetal acidosis (pH<7.20) were comparable between term (>or = 37 weeks) and preterm (<37 weeks,>or = 34 weeks) fetuses. Since the preterm fetuses enrolled in the study were limited in number, it is difficult to draw adequate conclusions. The positive predictive value (PPV) of fetal acidosis was 67% in both groups of FHR variable decelerations and late decelerations, but the false negative rate of acceleration VAS response for predicting no acidosis was significantly higher in the group of late decelerations (29% vs 8%, p = 0.034). Finally, both a negative VAS response and fetal acidosis (pH<7.20) have equal predictability for neonatal morbidity. The PPV of NICU admission by a negative VAS response was two times higher than that of fetal acidosis (PPV = 61% vs 29%, p = 0.038)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acidosis",
+            "Acoustic Stimulation",
+            "Blood Specimen Collection",
+            "Female",
+            "Fetal Blood",
+            "Fetal Diseases",
+            "Heart Rate, Fetal",
+            "Humans",
+            "Hydrogen-Ion Concentration",
+            "Labor, Obstetric",
+            "Pregnancy",
+            "Prospective Studies",
+            "Scalp",
+            "Sensitivity and Specificity",
+            "Vibration"
+        ],
+        "YEAR": "2001",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "We found that intrapartum VAS was an effective predictor of fetal acidosis in cases of FHR variable decelerations, but its predictability for fetal acidosis in cases of FHR late decelerations was limited. Both VAS and fetal blood pH are good predictors of neonatal morbidity."
+    },
+    "24748473": {
+        "QUESTION": "Are there risk factors that increase the rate of staple line leakage in patients undergoing primary sleeve gastrectomy for morbid obesity?",
+        "CONTEXTS": [
+            "Laparoscopic sleeve gastrectomy (LSG) is currently being performed with increasing frequency worldwide. It offers an excellent weight loss and resolution of comorbidities in the short term with a very low incidence of complications. However, the ever present risk of a staple line leak is still a major concern.",
+            "Since 2005, data from obese patients that undergo bariatric procedures in Germany are prospectively registered in an online database and analyzed at the Institute of Quality Assurance in Surgical Medicine. For the current analysis, all patients that had undergone primary sleeve gastrectomy for morbid obesity within a 7-year period were considered.",
+            "Using the GBSR, data from 5.400 LSGs were considered for analysis. Staple line leak rate decreased during the study period from 6.5 to 1.4 %. Male gender, higher BMI, concomitant sleep apnea, conversion to laparotomy, longer operation time, use of both buttresses and oversewing, and the occurrence of intraoperative complications were associated with a significantly higher leakage rate. On multivariate analysis, operation time and year of procedure only had a significant impact on staple line leak rate."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Bariatric Surgery",
+            "Body Mass Index",
+            "Comorbidity",
+            "Female",
+            "Gastrectomy",
+            "Germany",
+            "Humans",
+            "Intraoperative Complications",
+            "Laparoscopy",
+            "Male",
+            "Middle Aged",
+            "Obesity, Morbid",
+            "Operative Time",
+            "Postoperative Complications",
+            "Risk Factors",
+            "Surgical Stapling",
+            "Weight Loss",
+            "Young Adult"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The results of the current study demonstrated that there are factors that increase the risk of a leakage which would enable surgeons to define risk groups, to more carefully select patients, and to offer a closer follow-up during the postoperative course with early recognition and adequate treatment. All future efforts should be focused on a further reduction of serious complications to make the LSG a widely accepted and safer procedure."
+    },
+    "26363639": {
+        "QUESTION": "Is aerobic workload positively related to ambulatory blood pressure?",
+        "CONTEXTS": [
+            "Cardiovascular disease is prevalent among workers with high levels of occupational physical activity. The increased risk may be due to a high relative aerobic workload, possibly leading to increased blood pressure. However, studies investigating the relation between relative aerobic workload and ambulatory blood pressure (ABP) are lacking. The aim was to explore the relationship between objectively measured relative aerobic workload and ABP.",
+            "A total of 116 cleaners aged 18-65 years were included after informed consent was obtained. A portable device (Spacelabs 90217) was mounted for 24-h measurements of ABP, and an Actiheart was mounted for 24-h heart rate measurements to calculate relative aerobic workload as percentage of relative heart rate reserve. A repeated-measure multi-adjusted mixed model was applied for analysis.",
+            "A fully adjusted mixed model of measurements throughout the day showed significant positive relations (p<0.001): a 1% increase in mean relative aerobic workload was associated with an increase of 0.42 \u00b1 0.05 mmHg (95% CI 0.32-0.52 mmHg) in systolic ABP and 0.30 \u00b1 0.04 mmHg (95% CI 0.22-0.38 mmHg) in diastolic ABP. Correlations between relative aerobic workload and ABP were significant."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Blood Pressure",
+            "Blood Pressure Monitoring, Ambulatory",
+            "Cross-Sectional Studies",
+            "Exercise",
+            "Female",
+            "Heart Rate",
+            "Humans",
+            "Hypertension",
+            "Male",
+            "Middle Aged",
+            "Workload",
+            "Young Adult"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Because workers may have an elevated relative aerobic workload for several hours each working day, this relationship may elucidate a mechanism behind the increased risk for cardiovascular disease among workers exposed to high levels of occupational physical activity."
+    },
+    "8111516": {
+        "QUESTION": "Do family physicians make good sentinels for influenza?",
+        "CONTEXTS": [
+            "To determine whether volunteer family physician reports of the frequency of influenza-like illness (ILI) usefully supplement information from other influenza surveillance systems conducted by the Centers for Disease Control and Prevention.",
+            "Evaluation of physician reports from five influenza surveillance seasons (1987-88 through 1991-92).",
+            "Family physician office practices in all regions of the United States.",
+            "An average of 140 physicians during each of five influenza seasons.",
+            "None.",
+            "An office visit or hospitalization of a patient for ILI, defined as presence of fever (temperature>or = 37.8 degrees C) and cough, sore throat, or myalgia, along with the physician's clinical judgment of influenza. A subset of physicians collected specimens for confirmation of influenza virus by culture.",
+            "Physicians attributed 81,408 (5%) of 1,672,542 office visits to ILI; 2754 (3%) patients with ILI were hospitalized. Persons 65 years of age and older accounted for 11% of visits for ILI and 43% of hospitalizations for ILI. In three of five seasons, physicians obtained influenza virus isolates from a greater proportion of specimens compared with those processed by World Health Organization laboratories (36% vs 12%). Influenza virus isolates from sentinel physicians peaked from 1 to 4 weeks earlier than those reported by World Health Organization laboratories. Physicians reported peak morbidity 1 to 4 weeks earlier than state and territorial health departments in four of five seasons and 2 to 5 weeks earlier than peak mortality reported by 121 cities during seasons with excess mortality associated with pneumonia and influenza."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PARTICIPANTS",
+            "INTERVENTIONS",
+            "OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Centers for Disease Control and Prevention (U.S.)",
+            "Child",
+            "Child, Preschool",
+            "Family Practice",
+            "Humans",
+            "Infant",
+            "Influenza, Human",
+            "Middle Aged",
+            "Population Surveillance",
+            "United States"
+        ],
+        "YEAR": "1993",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Family physicians provide sensitive, timely, and accurate community influenza morbidity data that complement data from other surveillance systems. This information enables monitoring of the type, timing, and intensity of influenza activity and can help health care workers implement prevention or control measures."
+    },
+    "26175531": {
+        "QUESTION": "Is Aspiration Thrombectomy Beneficial in Patients Undergoing Primary Percutaneous Coronary Intervention?",
+        "CONTEXTS": [
+            "It is unclear whether intravenous glycoprotein IIb/IIIa inhibitors or ischemic time might modify any clinical benefits observed with aspiration thrombectomy before primary percutaneous coronary intervention (PCI) in patients with ST-segment-elevation myocardial infarction.",
+            "Electronic databases were searched for trials that randomized ST-segment-elevation myocardial infarction patients to aspiration thrombectomy before PCI versus conventional PCI. Summary estimates were constructed using a DerSimonian-Laird model. Seventeen trials with 20\u2009960 patients were available for analysis. When compared with conventional PCI, aspiration thrombectomy was not associated with a significant reduction in the risk of mortality 2.8% versus 3.2% (risk ratio [RR], 0.89; 95% confidence interval [CI], 0.76-1.04; P=0.13), reinfarction 1.3% versus 1.4% (RR, 0.93; 95% CI, 0.73-1.17; P=0.52), the combined outcome of mortality or reinfarction 4.1% versus 4.6% (RR, 0.90; 95% CI, 0.79-1.02; P=0.11), or stent thrombosis 0.9% versus 1.2% (RR, 0.82; 95% CI, 0.62-1.08; P=0.15). Aspiration thrombectomy was associated with a nonsignificant increase in the risk of stroke 0.6% versus 0.4% (RR, 1.45; 95% CI, 0.96-2.21; P=0.08). Meta-regression analysis did not identify a difference for the log RR of mortality, reinfarction, and the combined outcome of mortality or reinfarction with intravenous glycoprotein IIb/IIIa inhibitors (P=0.17, 0.70, and 0.50, respectively) or with ischemic time (P=0.29, 0.66, and 0.58, respectively)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS AND RESULTS"
+        ],
+        "MESHES": [
+            "Humans",
+            "Mortality",
+            "Myocardial Infarction",
+            "Percutaneous Coronary Intervention",
+            "Platelet Glycoprotein GPIIb-IIIa Complex",
+            "Randomized Controlled Trials as Topic",
+            "Recurrence",
+            "Regression Analysis",
+            "Stroke",
+            "Stroke Volume",
+            "Thrombectomy"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Aspiration thrombectomy before primary PCI is not associated with any benefit on clinical end points and might increase the risk of stroke. Concomitant administration of intravenous glycoprotein IIb/IIIa inhibitors and ischemic time did not seem to influence any potential benefits observed with aspiration thrombectomy."
+    },
+    "17559449": {
+        "QUESTION": "Are sugars-free medicines more erosive than sugars-containing medicines?",
+        "CONTEXTS": [
+            "The reduced use of sugars-containing (SC) liquid medicines has increased the use of other dose forms, potentially resulting in more widespread dental effects, including tooth wear. The aim of this study was to assess the erosive potential of 97 paediatric medicines in vitro.",
+            "The study took the form of in vitro measurement of endogenous pH and titratable acidity (mmol). Endogenous pH was measured using a pH meter, followed by titration to pH 7.0 with 0.1-M NaOH.",
+            "Overall, 55 (57%) formulations had an endogenous pH of<5.5. The mean (+/- SD) endogenous pH and titratable acidity for 41 SC formulations were 5.26 +/- 1.30 and 0.139 +/- 0.133 mmol, respectively; for 56 sugars-free (SF) formulations, these figures were 5.73 +/- 1.53 and 0.413 +/- 1.50 mmol (P>0.05). Compared with their SC bioequivalents, eight SF medicines showed no significant differences for pH or titratable acidity, while 15 higher-strength medicines showed lower pH (P = 0.035) and greater titratable acidity (P = 0.016) than their lower-strength equivalents. Chewable and dispersible tablets (P<0.001), gastrointestinal medicines (P = 0.002) and antibiotics (P = 0.007) were significant predictors of higher pH. In contrast, effervescent tablets (P<0.001), and nutrition and blood preparations (P = 0.021) were significant predictors of higher titratable acidity."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Child",
+            "Child, Preschool",
+            "Drug-Related Side Effects and Adverse Reactions",
+            "Humans",
+            "Hydrogen-Ion Concentration",
+            "Metabolic Clearance Rate",
+            "Mouth",
+            "Pharmaceutical Preparations",
+            "Pharmaceutical Vehicles",
+            "Sucrose",
+            "Sweetening Agents",
+            "Titrimetry",
+            "Tooth Erosion"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Paediatric SF medicines were not more erosive than SC medicines in vitro; a more significant predictor of their erosive potential was dose form."
+    },
+    "26133538": {
+        "QUESTION": "Does oral \u03b1-galactosidase relieve irritable bowel symptoms?",
+        "CONTEXTS": [
+            "Abdominal bloating is reported by a majority of irritable bowel syndrome (IBS) patients. Excess colonic fermentation may cause gaseous symptoms. Several foodstuffs contain oligosaccharides with an \u03b1-galactosidic linkage that is resistant to mammalian hydrolases. Assisted hydrolysis by exogenous \u03b1-galactosidase enzyme (AG) could offer a way of controlling IBS symptoms by reducing colonic fermentation and gas production. The aim of this study was to assess the effect of AG on symptom severity and quality of life in IBS patients with abdominal bloating or flatulence.",
+            "A total of 125 subjects with IBS received AG or placebo at meals for 12 weeks. IBS-Symptom Severity Score (IBS-SSS) and quality of life (QoL) were assessed at baseline, during the treatment and at 4-week follow-up.",
+            "AG showed a trend toward a more prominent decrease in IBS-SSS. The responder rate at week 16 was higher for the AG group. No difference was detected in QoL between AG and placebo groups. A total of 25 patients (18 in AG group and 7 in placebo group, p = 0.016) withdrew from the study. Abdominal pain and diarrhea were more often reported as reason for withdrawal in AG group."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Abdominal Pain",
+            "Administration, Oral",
+            "Adult",
+            "Diarrhea",
+            "Female",
+            "Finland",
+            "Flatulence",
+            "Gastrointestinal Agents",
+            "Humans",
+            "Irritable Bowel Syndrome",
+            "Male",
+            "Middle Aged",
+            "Quality of Life",
+            "Severity of Illness Index",
+            "Treatment Outcome",
+            "alpha-Galactosidase"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "We found no evidence to support the use of AG routinely in IBS patients. Improvement of clinical response at 4-week follow-up may suggest a long-term effect of unknown mechanism, but could also be attributed to non-responder drop out. Gastrointestinal (GI) side effects may be a coincidence in this study, but irritation of GI tract by AG administration cannot be excluded."
+    },
+    "20304513": {
+        "QUESTION": "Is (18)F-FDG a surrogate tracer to measure tumor hypoxia?",
+        "CONTEXTS": [
+            "Fluorodeoxyglucose (FDG) has been reported as a surrogate tracer to measure tumor hypoxia with positron emission tomography (PET). The hypothesis is that there is an increased uptake of FDG under hypoxic conditions secondary to enhanced glycolysis, compensating the hypoxia-induced loss of cellular energy production. Several studies have already addressed this issue, some with conflicting results. This study aimed to compare the tracers (14)C-EF3 and (18)F-FDG to detect hypoxia in mouse tumor models.",
+            "C3H, tumor-bearing mice (FSAII and SCCVII tumors) were injected iv with (14)C-EF3, and 1h later with (18)F-FDG. Using a specifically designed immobilization device with fiducial markers, PET (Mosaic\u00ae, Philips) images were acquired 1h after the FDG injection. After imaging, the device containing mouse was frozen, transversally sliced and imaged with autoradiography (AR) (FLA-5100, Fujifilm) to obtain high resolution images of the (18)F-FDG distribution within the tumor area. After a 48-h delay allowing for (18)F decay a second AR was performed to image (14)C-EF3 distribution. AR images were aligned to reconstruct the full 3D tumor volume, and were compared with the PET images. Image segmentation with threshold-based methods was applied on both AR and PET images to derive various tracer activity volumes. The matching index DSI (dice similarity index) was then computed. The comparison was performed under normoxic (ambient air",
+            "n=4, SCCVII, n=5) and under hypoxic conditions (10% O(2) breathing",
+            "n=4).",
+            "On AR, under both ambient air and hypoxic conditions, there was a decreasing similarity between (14)C-EF3 and FDG with higher activity sub-volumes. Under normoxic conditions, when comparing the 10% of tumor voxels with the highest (18)F-FDG or (14)C-EF3 activity, a DSI of 0.24 and 0.20 was found for FSAII and SCCVII, respectively. Under hypoxic conditions, a DSI of 0.36 was observed for SCCVII tumors. When comparing the (14)C-EF3 distribution in AR with the corresponding (18)F-FDG-PET images, the DSI reached values of 0.26, 0.22 and 0.21 for FSAII and SCCVII under normoxia and SCCVII under hypoxia, respectively."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "MATERIALS AND METHODS",
+            ", FSAII",
+            ", SCCVII",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Animals",
+            "Carbon Radioisotopes",
+            "Disease Models, Animal",
+            "Fiducial Markers",
+            "Fluorodeoxyglucose F18",
+            "Hypoxia",
+            "Male",
+            "Mice",
+            "Neoplasms",
+            "Nitroimidazoles",
+            "Radionuclide Imaging"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "This study showed that FDG is not a good surrogate tracer for tumor hypoxia under either ambient or hypoxic conditions. Only specific hypoxia tracers should be used to measure tumor hypoxia."
+    },
+    "25592625": {
+        "QUESTION": "Is cardiovascular evaluation necessary prior to and during beta-blocker therapy for infantile hemangiomas?",
+        "CONTEXTS": [
+            "Although consensus guidelines for pretreatment evaluation and monitoring of propranolol therapy in patients with infantile hemangiomas (IH) have been formulated, little is known about the cardiovascular side effects.",
+            "We sought to analyze cardiovascular evaluations in patients with IH at baseline and during treatment with an oral beta-blocker.",
+            "Data from 109 patients with IH were retrospectively analyzed. Patient and family history, pretreatment electrocardiogram (ECG), heart rate, and blood pressure were evaluated before initiation of beta-blocker therapy. Blood pressure and standardized questionnaires addressing side effects were evaluated during treatment.",
+            "Questionnaire analyses (n = 83) identified 3 cases with a family history of cardiovascular disease in first-degree relatives. ECG findings were normal in each case and no serious complication of therapy occurred. ECG abnormalities were found in 6.5% of patients but there were no contraindications to beta-blocker therapy and no major complications. Hypotension in 9 patients did not require therapy adjustment. In all, 88 parents (81%) reported side effects during beta-blocker treatment.",
+            "The relatively small patient cohort is a limitation."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS",
+            "LIMITATIONS"
+        ],
+        "MESHES": [
+            "Adrenergic beta-Antagonists",
+            "Cardiovascular Diseases",
+            "Child, Preschool",
+            "Cohort Studies",
+            "Drug Monitoring",
+            "Electrocardiography",
+            "Female",
+            "Hemangioma",
+            "Humans",
+            "Infant",
+            "Infant, Newborn",
+            "Male",
+            "Propranolol",
+            "Retrospective Studies",
+            "Skin Neoplasms"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Pretreatment ECG is of limited value for patients with an unremarkable cardiovascular history and a normal heart rate and blood pressure. Hypotension may occur during treatment."
+    },
+    "25034219": {
+        "QUESTION": "Does maternal obesity have an influence on feeding behavior of obese children?",
+        "CONTEXTS": [
+            "Obese children and adolescents referred to the pediatric endocrinology department were enrolled consecutively. Height and weight of all children and their mothers were measured. Maternal feeding practices were measured using an adapted version of the Child Feeding Questionnaire (CFQ). Answers were compared between obese (Body Mass Index [BMI] \u2265 30 kg/m2) and non-obese mothers.",
+            "A total of 491 obese subjects (292 girls, mean age 12.0 \u00b1 2.8 years) and their mothers participated in this study. A direct correlation between children's BMI and their mothers' BMI was found (P<0.001) both in girls (r = 0.372) and boys (r = 0.337). While 64.4% of mothers were found obese in the study, only half of them consider themselves as obese. No difference were found in the scores of the subscales \"perceived responsibility\", \"restriction\", \"concern for child's weight\" and \"monitoring\" between obese and non-obese mothers. Child's BMI-SDS positively correlated with mothers' personal weight perception, concern for child's weight and restriction after adjustment for child's age (P<0.001, P = 0.012 and P = 0.002, respectively)."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Body Mass Index",
+            "Child",
+            "Cross-Sectional Studies",
+            "Feeding Behavior",
+            "Female",
+            "Humans",
+            "Male",
+            "Mother-Child Relations",
+            "Mothers",
+            "Obesity",
+            "Pediatric Obesity",
+            "Prevalence",
+            "Surveys and Questionnaires"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Mothers' BMI highly correlate with children's BMI-z-scores. The degree of child's obesity increases mothers' concern and food restriction behavior. While mothers of obese children have a high prevalence of obesity, maternal obesity was found to have no significant influence on feeding behavior of obese school children."
+    },
+    "23240452": {
+        "QUESTION": "Can we predict urinary stone composition based on an analysis of microelement concentration in the hair and urine?",
+        "CONTEXTS": [
+            "In recent years the role of trace elements in lithogenesis has received steadily increasing attention.",
+            "This study was aimed to attempt to find the correlations between the chemical content of the stones and the concentration of chosen elements in the urine and hair of stone formers.",
+            "The proposal for the study was approved by the local ethics committee. Specimens were taken from 219 consecutive stone-formers. The content of the stone was evaluated using atomic absorption spectrometry, spectrophotometry, and colorimetric methods. An analysis of 29 elements in hair and 21 elements in urine was performed using inductively coupled plasma-atomic emission spectrometry.",
+            "Only a few correlations between the composition of stones and the distribution of elements in urine and in hair were found. All were considered incidental."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVES",
+            "MATERIAL AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Hair",
+            "Humans",
+            "Middle Aged",
+            "Spectrophotometry",
+            "Trace Elements",
+            "Urinary Calculi",
+            "Urine"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "The data obtained did not allow for the creation of a proper and practical algorithm to predict stone chemical composition based on hair and urine analysis."
+    },
+    "16414216": {
+        "QUESTION": "Are endometrial polyps from pre-menopausal women similar to post-menopausal women?",
+        "CONTEXTS": [
+            "Do endometrial polyps from pre- and post-menopausal women have similar immunohistochemical expression of oestrogen and progesterone receptors (ER, PR) and markers of cellular proliferation/apoptosis (Ki67 and Bcl-2).",
+            "Prospective cohort study. Non-parametric statistical analysis was used.",
+            "Polyps recruited from women attending an out-patient hysteroscopy clinic in a UK district general hospital.",
+            "Fourteen pre-menopausal and 16 post-menopausal women who presented with abnormal bleeding with endometrial polyps.",
+            "Immunohistochemical staining was performed on endometrial polyps.",
+            "Significant differences or correlations between hormone receptor expression (oestrogen and progesterone) and cell growth indices (Ki67 and Bcl-2).",
+            "Endometrial polyps from pre- and post-menopausal women had significant differences in their expression of hormone receptors and Ki67. However, polyps from both groups of women had similarly increased levels of Bcl-2, an inhibitor of apoptosis."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PATIENTS",
+            "INTERVENTIONS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Cohort Studies",
+            "Endometrial Neoplasms",
+            "Female",
+            "Humans",
+            "Immunohistochemistry",
+            "Middle Aged",
+            "Polyps",
+            "Postmenopause",
+            "Premenopause",
+            "Prospective Studies",
+            "Receptors, Estrogen",
+            "Receptors, Progesterone"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Pre- and post-menopausal polyps exhibit differing hormone receptor and proliferation markers, presumably a result of their hormonal milieu. However, both groups appear to have lost the usual control mechanisms for apoptotic regulation, this appears to be responsible for their growth."
+    },
+    "24684514": {
+        "QUESTION": "Should all patients be optimized to the same preoperative hemoglobin level to avoid transfusion in primary knee arthroplasty?",
+        "CONTEXTS": [
+            "Optimization of the preoperative hemoglobin (Hb) level is an effective way to reduce allogeneic transfusion in total knee arthroplasty (TKA) though the procedure is expensive, requires close monitoring and is often inconvenient for patients with reduced mobility. Our aim was to investigate the value of preoperative Hb levels to predict transfusion and thereby tailoring Hb optimization to patient characteristics.",
+            "All consecutive patients who undergone primary TKA in our center over 2\u00a0years, and received tranexamic acid intraoperatively, were reviewed. The adjusted association between preoperative Hb levels and transfusion was assessed by multivariate logistic regression, and the estimated probability of transfusion for individual patients was derived from the logistic model.",
+            "Out of the 784 patients who meet the inclusion criteria, risk of transfusion was associated with poorer performance status, as measured by the America Association of Anestesiology (ASA) score III/IV (OR: 3\u00b73, P\u00a0<\u00a00\u00b7001) and lower preoperative Hb level (OR 3\u00b78 for each g/dl below 13\u00a0g/dl; P\u00a0<\u00a00\u00b7001). According to the Hb level, the estimated probability of transfusion was 0\u00b703 (range: 0\u00b703-0\u00b764) for ASA I/II patients and 0\u00b710 (range: 0\u00b710-0\u00b784) for ASA III/IV."
+        ],
+        "LABELS": [
+            "BACKGROUND AND OBJECTIVE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Antifibrinolytic Agents",
+            "Arthroplasty, Replacement, Knee",
+            "Blood Transfusion",
+            "Female",
+            "Hemoglobins",
+            "Humans",
+            "Joint Diseases",
+            "Male",
+            "Middle Aged",
+            "Practice Guidelines as Topic",
+            "Preoperative Care",
+            "Retrospective Studies",
+            "Risk",
+            "Tranexamic Acid"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Not all the patients undergoing TKA who receive tranexamic acid need the same preoperative Hb optimization target. Two easily available factors, such as the ASA score and the Hb level, can help individualize the Hb optimization target."
+    },
+    "15141797": {
+        "QUESTION": "Can we rely on arterial line sampling in performing activated plasma thromboplastin time after cardiac surgery?",
+        "CONTEXTS": [
+            "Arterial catheters are routinely used to sample blood for clotting studies in most cardiothoracic intensive care units. The clotting profile in surgical bleeding after cardiac surgery influences further management. Aspiration and discard of a certain amount of blood from the line, prior to sampling, are assumed to clear heparin contamination. We have investigated this assumption through analysis of the clotting profile by simultaneous arterial line and peripheral venous samples.",
+            "The morning following cardiac surgery, simultaneous arterial line and peripheral venous blood samples were taken for activated plasma thromboplastin time (APTT) ratio and international normalized ratio (INR) in 49 randomly selected patients. Also, a thromboelastogram analysis (TEG) (n = 7) was made. A survey of 22 UK cardiothoracic intensive care units was carried out to determine the practice for the withdrawal of blood for clotting studies.",
+            "The median arterial APTT ratio value was 1.32 +/- 0.52 as compared to the median peripheral APTT ratio value which was 1.1 +/- 0.24 (P<0.001). INR values were statistically similar by both routes. Heparin contamination was confirmed by TEG which revealed that the R-value for arterial catheter blood samples without heparinase in the cup was higher (406.00 +/- 64.44 s) compared with the value for arterial samples with heparinase in the cup (318.28 +/- 47.26s, P<0.05). The survey of 22 UK cardiothoracic intensive care units showed that heparinized arterial lines were by far the commonest ports used for blood withdrawal for the measurement of APTT ratio results."
+        ],
+        "LABELS": [
+            "BACKGROUND AND OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Blood Coagulation Tests",
+            "Blood Specimen Collection",
+            "Cardiac Surgical Procedures",
+            "Catheterization, Peripheral",
+            "Catheters, Indwelling",
+            "Data Collection",
+            "Heparin",
+            "Humans",
+            "Intensive Care Units",
+            "International Normalized Ratio",
+            "Partial Thromboplastin Time",
+            "Thrombelastography",
+            "United Kingdom"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Samples withdrawn from heparinized arterial lines cannot be relied upon for APTT ratio results."
+    },
+    "23449952": {
+        "QUESTION": "Contrast-enhanced MR imaging of hand and finger joints in patients with early rheumatoid arthritis: do we really need a full dose of gadobenate dimeglumine for assessing synovial enhancement at 3 T?",
+        "CONTEXTS": [
+            "To investigate the diagnostic value of a half dose compared with a full dose of gadobenate dimeglumine in the assessment of synovitis or tenosynovitis in the wrist and finger joints in patients with early rheumatoid arthritis (RA) and a disease activity score greater than 3.2.",
+            "With institutional review board approval and informed consent, 57 patients with early RA underwent 3-T magnetic resonance (MR) imaging with two different doses of contrast media. The contrast enhancement was measured in inflamed synovial tissue at half dose (0.05 mmol per kilogram of body weight) and at full dose (0.1 mmol/kg) by using T1-weighted sequences with fat saturation. The differences and the correlation of signal intensities (SIs) at half- and full-dose sequences were compared by using the paired t test and Pearson correlations. Image quality, Rheumatoid Arthritis MRI Score (RAMRIS), and tenosynovitis score on half- and full-dose images were compared by two observers using the Wilcoxon test. Interrater agreement was assessed by using \u03ba statistics.",
+            "A significant difference in SI was found between half-dose and full-dose gadobenate dimeglumine-enhanced synovial tissue (mean: 914.35 \u00b1 251.1 vs 1022 \u00b1 244.5, P<.001). Because the SI showed high correlation between the ratio at half dose and full dose (r = 0.875), the formula, ratio of synovial enhancement to saline syringe at full dose = 0.337 + 1.070 \u00d7 ratio of synovial enhancement to saline syringe at half dose, can be used to convert the normalized value of half dose to full dose. However, no difference in RAMRIS (score 0 in 490 of 1026 joints; score 1 in 344; score 2 in 158; and score 3 in 34) or tenosynovitis scores in grading synovitis or tenosynovitis in image quality and in assessment of synovial enhancement was detected between half-dose and full-dose images (P = 1)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Arthritis, Rheumatoid",
+            "Contrast Media",
+            "Female",
+            "Finger Joint",
+            "Hand",
+            "Humans",
+            "Image Interpretation, Computer-Assisted",
+            "Linear Models",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Meglumine",
+            "Middle Aged",
+            "Organometallic Compounds",
+            "Prospective Studies",
+            "Synovitis",
+            "Tenosynovitis",
+            "Wrist Joint"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Postcontrast synovial SIs showed high correlation between half dose and full dose, and image quality was rated identically. Therefore, half-dose gadobenate dimeglumine at 3-T MR imaging may be sufficient for assessing synovitis or tenosynovitis in early RA."
+    },
+    "21979183": {
+        "QUESTION": "Does intra-abdominal desmoid disease affect patients with an ileal pouch differently than those with an ileorectal anastomosis?",
+        "CONTEXTS": [
+            "Nobody has analyzed the sequelae of desmoids according to the type of surgery that precipitated them.",
+            "This study aims to determine whether the clinical effects of abdominal desmoids would be worse in patients with restorative proctocolectomy than in patients with ileorectal anastomosis.",
+            "This is a retrospective, database study.",
+            "Included were patients with familial adenomatous polyposis who had undergone proctocolectomy with IPAA or colectomy and ileorectal anastomosis, and subsequently developed an intra-abdominal desmoid tumor.",
+            "The primary outcome measures were the clinical course of the desmoids; morbidity, and the requirement for stoma.",
+            "There were 86 patients: 49 had restorative proctocolectomy and 37 had ileorectal anastomosis. Patient demographics were similar. Average follow-up was 9.8 years (range, 2.7-23.8) and 16.3 years (range, 2.3 - 42.9). Treatment of the desmoids included surgery (64.4% vs 65.6%), medical therapy (69.4% vs 59.5%), chemotherapy (36.2% vs 30.0%), and radiotherapy (4.5% vs 10.0%), and was the same for each group. The overall complication rate of desmoids was similar, approaching 70%. The risk of individual complications was also similar (bleeding (2.0% vs 0.0%), fistula (10.2% vs 13.5%), bowel obstruction (32.7% vs 48.6%), pain (34.7% vs 21.6%), and death related to desmoid tumors (2.0% vs 10.8%)); 38.8% of the restorative proctocolectomy group and 51.4% the ileorectal group had surgery for desmoid tumor complications (P = .21), and 22.4% and 22.2% of patients ultimately had permanent stomas.",
+            "This study was limited by the relatively small numbers of patients."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "DESIGN",
+            "PATIENTS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS",
+            "LIMITATIONS"
+        ],
+        "MESHES": [
+            "Adenomatous Polyposis Coli",
+            "Adolescent",
+            "Adult",
+            "Anastomosis, Surgical",
+            "Child",
+            "Child, Preschool",
+            "Colonic Pouches",
+            "Female",
+            "Fibromatosis, Abdominal",
+            "Fibromatosis, Aggressive",
+            "Humans",
+            "Ileum",
+            "Laparoscopy",
+            "Male",
+            "Middle Aged",
+            "Proctocolectomy, Restorative",
+            "Rectum",
+            "Retrospective Studies",
+            "Young Adult"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "The morbidity associated with desmoid tumors has not been shown to differ, whether they arise after restorative proctocolectomy or ileorectal anastomosis."
+    },
+    "24235894": {
+        "QUESTION": "Is there a first night effect on sleep bruxism?",
+        "CONTEXTS": [
+            "Sleep bruxism (SB) is reported to vary in frequency over time. The aim of this study was to assess the first night effect on SB.",
+            "A retrospective polysomnographic (PSG) analysis was performed of data from a sample of SB patients (12 females, 4 males; age range: 17-39 years) recorded in a sleep laboratory over 2 consecutive nights. Sleep parameters and jaw muscle activity variables (i.e., rhythmic masticatory muscle activity [RMMA]) for SB were quantified and compared between the 2 nights. Subjects were classified into groups according to severity of RMMA frequency, such as low frequency (2-4 episodes/h and/or<25 bursts/h) and moderate-high frequency (\u2265 4 episodes/h and \u2265 25 bursts/h).",
+            "Overall, no first night effects were found for most sleep variables. However, total sleep time, sleep efficiency, and stage transitions showed significant time and group interactions (repeated measures ANOVAs, p \u2264 0.05). The RMMA episode index did not differ between the 2 nights, whereas the second night showed significantly higher burst index, bruxism time index, and mean burst duration (repeated measure ANOVAs, p \u2264 0.05). Five patients of 8 in the low frequency group were classified into the moderate-high frequency group on the second night, whereas only one patient in the moderate-high frequency group moved to the low frequency group."
+        ],
+        "LABELS": [
+            "STUDY OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Analysis of Variance",
+            "Electrocardiography",
+            "Electroencephalography",
+            "Electromyography",
+            "Female",
+            "Humans",
+            "Male",
+            "Masticatory Muscles",
+            "Muscle Contraction",
+            "Periodicity",
+            "Polysomnography",
+            "Retrospective Studies",
+            "Severity of Illness Index",
+            "Sleep",
+            "Sleep Bruxism",
+            "Sleep Stages",
+            "Surveys and Questionnaires",
+            "Young Adult"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "The results showed no overall first night effect on severity of RMMA frequency in young and healthy patients with SB. In clinical practice, one-night sleep recording may be sufficient for moderate-high frequency SB patients. However, low RMMA frequency in the first night could be confirmed by a second night based on the patient's medical and dental history."
+    },
+    "16216859": {
+        "QUESTION": "Does a well developed collateral circulation predispose to restenosis after percutaneous coronary intervention?",
+        "CONTEXTS": [
+            "To evaluate whether a well developed collateral circulation predisposes to restenosis after percutaneous coronary intervention (PCI).",
+            "Prospective observational study.",
+            "58 patients undergoing elective single vessel PCI in a tertiary referral interventional cardiac unit in the UK.",
+            "Collateral flow index (CFI) was calculated as (Pw-Pv)/(Pa-Pv), where Pa, Pw, and Pv are aortic, coronary wedge, and right atrial pressures during maximum hyperaemia. Collateral supply was considered poor (CFI<0.25) or good (CFI>or = 0.25).",
+            "In-stent restenosis six months after PCI, classified as neointimal volume>or = 25% stent volume on intravascular ultrasound (IVUS), or minimum lumen area<or = 50% stent area on IVUS, or minimum lumen diameter<or = 50% reference vessel diameter on quantitative coronary angiography.",
+            "Patients with good collaterals had more severe coronary stenoses at baseline (90 (11)% v 75 (16)%, p<0.001). Restenosis rates were similar in poor and good collateral groups (35% v 43%, p = 0.76 for diameter restenosis, 27% v 45%, p = 0.34 for area restenosis, and 23% v 24%, p = 0.84 for volumetric restenosis). CFI was not correlated with diameter, area, or volumetric restenosis (r2<0.1 for each). By multivariate analysis, stent diameter, stent length,>10% residual stenosis, and smoking history were predictive of restenosis."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "PATIENTS AND SETTING",
+            "METHODS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Angioplasty, Balloon, Coronary",
+            "Case-Control Studies",
+            "Collateral Circulation",
+            "Coronary Angiography",
+            "Coronary Restenosis",
+            "Coronary Stenosis",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Predictive Value of Tests",
+            "Prospective Studies",
+            "Risk Factors",
+            "Stents",
+            "Ultrasonography"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "A well developed collateral circulation does not predict an increased risk of restenosis after PCI."
+    },
+    "19712912": {
+        "QUESTION": "Has the 80-hour workweek improved surgical resident education in New England?",
+        "CONTEXTS": [
+            "To evaluate the effect of the 80-hour workweek restrictions on resident education within surgical programs in the New England area.",
+            "Web-based survey.",
+            "All Accreditation Council for Graduate Medical Education (ACGME) accredited surgical residency programs in New England (n = 20).",
+            "Program directors/coordinators in each surgical residency program in New England.",
+            "First, American Board of Surgery In-Training Examination (ABSITE) scores and the passing rate of the ABS certifying examination were recorded for the years 2001, 2002, 2005, and 2006. Second, the changes in the curriculum of surgical education were documented as perceived by program coordinators and directors.",
+            "In all, 85% (17/20) of surgical programs in New England responded to the survey. The programs began to implement the 80-hour workweek from 2002 to 2004. An equal distribution of community (n = 8) and university programs (n = 9) was sampled. Prior to the initiation of the 80-hour workweek, residency programs emphasized weekly didactic sessions given by attending physicians (88%), mock orals (88%), and conventional journal club (76%). After the 80-hour workweek was implemented, the education curriculum most often consisted of didactic sessions by attending (100%), mock orals (88%), and simulation laboratories (75%). No difference was observed in ABSITE scores and first-time pass rates of the ABS examination before or after the introduction of the 80-hour workweek (20% response). Only 25% of programs felt that surgical education was improved after the implementation of the 80-hour workweek, whereas 31% felt education was worse. Overall, 44% of respondents believed that there was no difference in surgical education."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PARTICIPANTS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Accreditation",
+            "Data Collection",
+            "General Surgery",
+            "Internet",
+            "Internship and Residency",
+            "New England",
+            "Professional Competence",
+            "Workload"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Despite the positive effects the 80-hour workweek has had on resident quality of life and patient care, it does not seem that either significant improvements or detrimental effects have occurred on surgical education within residency programs in New England."
+    },
+    "16253970": {
+        "QUESTION": "Is controlled ovarian stimulation in intrauterine insemination an acceptable therapy in couples with unexplained non-conception in the perspective of multiple pregnancies?",
+        "CONTEXTS": [
+            "Controlled ovarian stimulation (COS) with intrauterine insemination (IUI) is a common treatment in couples with unexplained non-conception. Induction of multifollicular growth is considered to improve pregnancy outcome, but it contains an increased risk of multiple pregnancies and ovarian hyperstimulation syndrome. In this study the impact of the number of follicles (>14 mm) on the ongoing pregnancy rate (PR) and multiple PR was evaluated in the first four treatment cycles.",
+            "A retrospective cohort study was performed in all couples with unexplained non-conception undergoing COS-IUI in the Academic Hospital of Maastricht. The main outcome measure was ongoing PR. Secondary outcomes were ongoing multiple PR, number of follicles of>or=14 mm, and order of treatment cycle.",
+            "Three hundred couples were included. No significant difference was found in ongoing PR between women with one, two, three or four follicles respectively (P=0.54), but in women with two or more follicles 12/73 pregnancies were multiples. Ongoing PR was highest in the first treatment cycle and declined significantly with increasing cycle order (P=0.006), while multiple PR did not change."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Cohort Studies",
+            "Female",
+            "Humans",
+            "Insemination, Artificial",
+            "Netherlands",
+            "Ovulation Induction",
+            "Patient Satisfaction",
+            "Pregnancy",
+            "Pregnancy Outcome",
+            "Pregnancy, Multiple",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "In COS-IUI for unexplained non-conception, induction of more than one follicle did not improve the ongoing PR, but increased the risk of multiple pregnancies. Multiple PR remained high in the first four cycles with multifollicular stimulation. Therefore, in order to reduce the number of multiple pregnancies, in all IUI cycles for unexplained non-conception monofollicular growth should be aimed at."
+    },
+    "15588538": {
+        "QUESTION": "Chronic functional somatic symptoms: a single syndrome?",
+        "CONTEXTS": [
+            "Reliable longitudinal data of patients with functional somatic symptoms in general practice are lacking.",
+            "To identify distinctive features in patients with chronic functional somatic symptoms, and to determine whether these symptoms support the hypothesis of the existence of specific somatic syndromes.",
+            "Observational study, with a comparison control group.",
+            "Four primary care practices affiliated with the University of Nijmegen in the Netherlands.",
+            "One hundred and eighty-two patients diagnosed between 1998 and 2002 as having chronic functional somatic symptoms and 182 controls matched by age, sex, socioeconomic status, and practice were included. Data on comorbidity, referrals, diagnostic tests, and hospital admissions over a period of 10 years prior to the diagnosis were collected. Medication use and number of visits to the general practitioner (GP) were extracted from the moment computerised registration was started.",
+            "In the 10 years before the diagnosis of chronic functional somatic symptoms, significantly more patients than controls presented functional somatic symptoms in at least two body systems, and used more somatic and psychotropic drugs. They visited the GP twice as much, statistically had significantly more psychiatric morbidity, and were referred more often to mental health workers and somatic specialists. The number of patients undergoing diagnostic tests was higher for patients with chronic functional somatic symptoms than for controls, but hospital admissions rates were equal."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "AIMS",
+            "DESIGN OF STUDY",
+            "SETTING",
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Case-Control Studies",
+            "Child",
+            "Chronic Disease",
+            "Female",
+            "Hospitalization",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Netherlands",
+            "Patient Acceptance of Health Care",
+            "Referral and Consultation",
+            "Somatoform Disorders",
+            "Syndrome"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Patients with chronic functional somatic symptoms have a great diversity of functional somatic symptoms. They use more somatic and psychotropic drugs than controls in the years before diagnosis. Moreover, they show high rates of referrals and psychiatric morbidity. The diversity of symptoms of patients with chronic functional somatic symptoms supports the concept that symptoms do not cluster in well defined distinct syndromes. Therefore, patients with chronic functional somatic symptoms should preferably not be classified into medical subspecialty syndromes."
+    },
+    "17279467": {
+        "QUESTION": "Can bisphosphonate treatment be stopped in a growing child with skeletal fragility?",
+        "CONTEXTS": [
+            "Cyclical pamidronate therapy in a 2-year-old child with skeletal fragility resulted in remodelling of vertebral fractures and improvement in bone mineral density (BMD) at distal radial and spinal sites. The BMD at both sites decreased precipitously within 24 months of stopping treatment, raising the question as to whether bisphosphonates can be stopped in a growing child with skeletal fragility.",
+            "At age 23 months, a male toddler sustained a low trauma fracture of his right femur. Skeletal radiographs revealed generalised osteopenia with multiple vertebral body fractures. He was diagnosed with type IV osteogenesis imperfecta; however, no mutations were found in COL1A1 or COL1A2 genes.",
+            "This case report presents bone densitometry data before, during and after bisphosphonate treatment. Axial QCT was main outcome from 2 years of age; DXA and pQCT were taken after age 5.",
+            "QCT confirmed that he had low spinal trabecular volumetric BMD (Z-score -2.4). After 4 years of treatment his vertebral fractures had been remodelled and all bone densitometry values (QCT, DXA and pQCT) were within normal range and therefore treatment was discontinued. Shortly after this he suffered stress fractures of his left mid tibia and at the sclerotic metaphyseal line corresponding to his first APD treatment. He had marked reduction in spinal trabecular and distal radial vBMD; change in BMAD was less marked."
+        ],
+        "LABELS": [
+            "UNLABELLED",
+            "INTRODUCTION",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Accidental Falls",
+            "Bone Density",
+            "Bone Density Conservation Agents",
+            "Child, Preschool",
+            "Diphosphonates",
+            "Femoral Fractures",
+            "Fractures, Bone",
+            "Fractures, Spontaneous",
+            "Humans",
+            "Male",
+            "Spinal Fractures",
+            "Withholding Treatment"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "The patient has been restarted on IV APD therapy. This case has led us to consider whether bisphosphonate therapy can be discontinued in a child with fragility fractures before his/her linear growth has ceased?"
+    },
+    "24946973": {
+        "QUESTION": "Is oncoplastic surgery a contraindication for accelerated partial breast radiation using the interstitial multicatheter brachytherapy method?",
+        "CONTEXTS": [
+            "To evaluate accelerated partial breast irradiation (APBI) in patients after oncoplastic surgery for early breast cancer.",
+            "A retrospective analysis of 136 breasts of 134 patients, who received breast-conserving oncoplastic surgery for low-risk breast cancer between 2002 and 2010 in the Universities of Vienna and Luebeck followed by adjuvant APBI applying total doses of pulse dose rate of 50.4\u00a0Gy or high-dose rate (HDR) of 32\u00a0Gy over 4\u00a0days. Target volume definition was performed by the use of surgical-free margin data, related to intraoperatively fixed clip positions, pre- and postoperative imaging, and palpation.",
+            "At the time of data acquisition, 131 of 134 patients were alive. The median follow-up time was 39\u00a0months (range, 4-106 months). After high-dose rate treatment, 3 of 89 patients showed systemic progress after a mean follow-up of 47\u00a0months (range, 19-75 months) and 2 patients had a different quadrant in-breast tumor after 27 and 35\u00a0months. One patient died 7\u00a0months after treatment of unknown causes. After pulse dose rate treatment, 1 of 45 patients had a local recurrence after 42\u00a0months and 1 patient died because of another cause after 13\u00a0months. We observed mild fibrosis in 27 breasts, telangiectasia in 6, hyperpigmentation in 14 cases, and keloid formation in\u00a01."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS AND MATERIALS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Brachytherapy",
+            "Breast",
+            "Breast Neoplasms",
+            "Carcinoma, Ductal, Breast",
+            "Carcinoma, Intraductal, Noninfiltrating",
+            "Carcinoma, Lobular",
+            "Catheters",
+            "Feasibility Studies",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Kaplan-Meier Estimate",
+            "Mastectomy, Segmental",
+            "Middle Aged",
+            "Neoplasm Recurrence, Local",
+            "Radiotherapy Dosage",
+            "Radiotherapy Planning, Computer-Assisted",
+            "Radiotherapy, Adjuvant",
+            "Retrospective Studies",
+            "Treatment Outcome"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "These preliminary results suggest the feasibility of multicatheter APBI after oncoplastic breast-conserving surgery in selected low-risk breast cancer patients; however, special attention to target volume definition is needed. Further prospective investigations with long follow-up are needed to define the real value of the procedure."
+    },
+    "17105833": {
+        "QUESTION": "Empiric treatment of uncomplicated urinary tract infection with fluoroquinolones in older women in Israel: another lost treatment option?",
+        "CONTEXTS": [
+            "Current guidelines for the treatment of uncomplicated urinary tract infection (UTI) in women recommend empiric therapy with antibiotics for which local resistance rates do not exceed 10-20%. We hypothesized that resistance rates of Escherichia coli to fluoroquinolones may have surpassed this level in older women in the Israeli community setting.",
+            "To identify age groups of women in which fluoroquinolones may no longer be appropriate for empiric treatment of UTI.",
+            "Resistance rates for ofloxacin were calculated for all cases of uncomplicated UTI diagnosed during the first 5 months of 2005 in a managed care organization (MCO) in Israel, in community-dwelling women aged 41-75 years. The women were without risk factors for fluoroquinolone resistance. Uncomplicated UTI was diagnosed with a urine culture positive for E. coli. The data set was stratified for age, using 5 year intervals, and stratum-specific resistance rates (% and 95% CI) were calculated. These data were analyzed to identify age groups in which resistance rates have surpassed 10%.",
+            "The data from 1291 urine cultures were included. The crude resistance rate to ofloxacin was 8.7% (95% CI 7.4 to 10.2). Resistance was lowest among the youngest (aged 41-50 y) women (3.2%; 95% CI 1.11 to 5.18), approached 10% in women aged 51-55 years (7.1%; 95% CI 3.4 to 10.9), and reached 19.86% (95% CI 13.2 to 26.5) among the oldest women (aged 56-75 y)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Age Factors",
+            "Aged",
+            "Drug Resistance, Bacterial",
+            "Empirical Research",
+            "Escherichia coli",
+            "Escherichia coli Infections",
+            "Female",
+            "Fluoroquinolones",
+            "Humans",
+            "Israel",
+            "Middle Aged",
+            "Practice Guidelines as Topic",
+            "Urinary Tract Infections"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Physicians who opt to treat UTI in postmenopausal women empirically should consider prescribing drugs other than fluoroquinolones. Concomitant longitudinal surveillance of both antibiotic utilization patterns and uropathogen resistance rates should become routine practice in this managed-care organization."
+    },
+    "11296674": {
+        "QUESTION": "Prostatic syndrome and pleural effusion: are they different diseases?",
+        "CONTEXTS": [
+            "To report an uncommon association of prostate and lung cancer.",
+            "The characteristics of both tumors, their association with tumors in other sites and the time of presentation are analyzed.",
+            "Both tumors were in the advanced stages. Metastatic carcinoma of the prostate was discarded due to the form of presentation."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adenocarcinoma",
+            "Aged",
+            "Humans",
+            "Lung Neoplasms",
+            "Male",
+            "Neoplasms, Multiple Primary",
+            "Pleural Effusion, Malignant",
+            "Prostatic Neoplasms"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Although the association of prostate and lung cancer is uncommon, the possibility of synchronous tumors should be considered in patients with urinary and pulmonary symptoms suggestive of neoplasm. It is important to determine if the lesion is a metastasis, since the prognosis depends on the second tumor."
+    },
+    "16361634": {
+        "QUESTION": "Women with synchronous primary cancers of the endometrium and ovary: do they have Lynch syndrome?",
+        "CONTEXTS": [
+            "Lynch syndrome (hereditary nonpolyposis colorectal cancer; HNPCC) is an autosomal-dominant cancer predisposition syndrome that increases risk for multiple cancers, including colon, endometrial, and ovarian cancer. Revised Bethesda Criteria recommend that patients with two HNPCC-associated cancers undergo molecular evaluation to determine whether they have a mismatch repair (MMR) defect associated with HNPCC. The purpose of our study was to determine the likelihood of MMR defects (MSH2, MSH6, MLH1) in women with synchronous endometrial and ovarian cancer.",
+            "Between 1989 and 2004, 102 women with synchronous endometrial and ovarian cancers were identified; 59 patients had tumor blocks available for analysis. Patients were divided into risk groups based on family history: high (met Amsterdam criteria), medium (personal history or first-degree relative with an HNPCC-associated cancer), and low (all others). Protein expression for MSH2, MSH6, and MLH1 was evaluated by immunohistochemistry. Microsatellite instability and MLH1 promoter methylation analyses were performed on a subset of cases.",
+            "Median age was 50 years. Two patients met Amsterdam criteria for HNPCC. Five additional patients, all medium-risk, had molecular findings consistent with a germline mutation of either MSH2 or MLH1. None of the low-risk patients had molecular results consistent with a germline mutation."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Base Pair Mismatch",
+            "Cohort Studies",
+            "Colorectal Neoplasms, Hereditary Nonpolyposis",
+            "DNA Methylation",
+            "DNA Repair",
+            "Endometrial Neoplasms",
+            "Female",
+            "Gene Expression Profiling",
+            "Humans",
+            "Immunohistochemistry",
+            "Microsatellite Repeats",
+            "Middle Aged",
+            "Neoplasms, Multiple Primary",
+            "Ovarian Neoplasms",
+            "Pedigree",
+            "Risk Factors"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Overall, 7% of women in our cohort met either clinical or molecular criteria for Lynch syndrome. All of these women had a prior history or a first-degree relative with an HNPCC-associated cancer. Limiting genetic evaluation to women with synchronous endometrial and ovarian cancer who have a family history suggestive of HNPCC may appropriately identify women with Lynch syndrome."
+    },
+    "25735444": {
+        "QUESTION": "Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?",
+        "CONTEXTS": [
+            "A multicentre, retrospective study was conducted of patients with rectal cancer threatening or affecting the prostatic plane, but not the bladder, judged by magnetic resonance imaging (MRI). The use of preoperative chemoradiotherapy and the type of urologic resection were correlated with the status of the pathological circumferential resection margin (CRM) and local recurrence.",
+            "A consecutive series of 126 men with rectal cancer threatening (44) or affecting (82) the prostatic plane on preoperative staging and operated with local curative intent between 1998 and 2010 was analysed. In patients who did not have chemoradiotherapy but had a preoperative threatened anterior margin the CRM-positive rate was 25.0%. In patients who did not have preoperative chemoradiotherapy but did have an affected margin, the CRM-positive rate was 41.7%. When preoperative radiotherapy was given, the respective CRM infiltration rates were 7.1 and 20.7%. In patients having preoperative chemoradiotherapy followed by prostatic resection the rate of CRM positivity was 2.4%. Partial prostatectomy after preoperative chemoradiotherapy resulted in a free anterior CRM in all cases, but intra-operative urethral damage occurred in 36.4% of patients who underwent partial prostatectomy, resulting in a postoperative urinary fistula in 18.2% of patients."
+        ],
+        "LABELS": [
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Chemoradiotherapy, Adjuvant",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Neoadjuvant Therapy",
+            "Neoplasm Invasiveness",
+            "Neoplasm Recurrence, Local",
+            "Neoplasm, Residual",
+            "Prostate",
+            "Prostatectomy",
+            "Radiotherapy, Adjuvant",
+            "Rectal Neoplasms",
+            "Retrospective Studies",
+            "Urethra",
+            "Urinary Fistula"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Preoperative chemoradiation is mandatory in male patients with a threatened or affected anterior circumferential margin on preoperative MRI. In patients with preoperative prostatic infiltration, prostatic resection is necessary. In this group of patients partial prostatectomy seems to be oncologically safe."
+    }
+}
