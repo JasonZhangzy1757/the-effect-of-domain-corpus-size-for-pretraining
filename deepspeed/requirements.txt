@@ -1,0 +1,5 @@
+deepspeed
+transformers[deepspeed]
+firebase
+pytz
+loguru
