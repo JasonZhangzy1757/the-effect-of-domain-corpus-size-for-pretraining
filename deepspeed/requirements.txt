@@ -1,6 +1,6 @@
 deepspeed
 transformers[deepspeed]
-dataset
+datasets
 firebase
 pytz
 loguru
