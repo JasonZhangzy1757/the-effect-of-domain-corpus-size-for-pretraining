@@ -1,0 +1,1 @@
+{"train_file": "", "validation_file": "", "mask_prob": 0.15, "epoch": 10, "batch_size": 32, "checkpoint_every": 1000, "learning_rate": 1e-05, "weight_decay": 0.001, "gradient_accumulation_steps": 1, "lr_scheduler_type": "linear", "num_warmup_steps": 1000, "seed": 42}
