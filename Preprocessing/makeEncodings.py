@@ -12,10 +12,13 @@ from tokenizers.processors import TemplateProcessing
 from transformers import BertTokenizer
 
 vm_tok_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Preprocessing/Tokenization/wp-vocab-30500-vocab.txt'
-vm_data = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/'
+vm_data = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/Text/'
+working_data = 'combined_4Gb.txt'
+out_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/Encodings/'
 
-files = [f for f in os.listdir(vm_data) if os.path.isfile(os.path.join(vm_data, f))]
 
+#files = [f for f in os.listdir(vm_data) if os.path.isfile(os.path.join(vm_data, f))]
+files = [os.path.join(vm_data, working_data)]
 
 def load_tokenizer_from_file(vocab_path: str) -> BertWordPieceTokenizer:
     tokenizer = BertWordPieceTokenizer(vocab_path, strip_accents=True, lowercase=True)
@@ -90,6 +93,6 @@ for i, file in enumerate(files):
     print(f'Masked token encodings completed, {round(masked_percent * 100,2)}% tokens are masked...')
     print(f'Serializing tensors...')
     
-    torch.save(encodings, f'./Encodings/encodings_{i}_{total}.pt') 
+    torch.save(encodings, f'{out_path}encodings_{i}_{total}.pt') 
     del data, batch, encodings
     
