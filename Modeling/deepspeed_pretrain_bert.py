@@ -582,7 +582,7 @@ def train(
     num_iterations: int = 10000,
     checkpoint_every: int = 1000,
     log_every: int = 10,
-    local_rank: int = -1,
+    local_rank: int = 0,
 ) -> pathlib.Path:
     """Trains a [Bert style](https://arxiv.org/pdf/1810.04805.pdf)
     (transformer encoder only) model for MLM Task
@@ -756,6 +756,7 @@ def train(
                                           model_parameters=model.parameters(), 
                                           config=ds_config)
     logger.info("DeepSpeed engine created")
+    
     ################################
     #### Load Model checkpoint #####
     ################################
