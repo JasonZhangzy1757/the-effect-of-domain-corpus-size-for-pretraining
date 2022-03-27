@@ -1,0 +1,1752 @@
+{
+    "24866606": {
+        "QUESTION": "Do emergency ultrasound fellowship programs impact emergency medicine residents' ultrasound education?",
+        "CONTEXTS": [
+            "Recent years have seen a rapid proliferation of emergency ultrasound (EUS) programs in the United States. To date, there is no evidence supporting that EUS fellowships enhance residents' ultrasound (US) educational experiences. The purpose of this study was to determine the impact of EUS fellowships on emergency medicine (EM) residents' US education.",
+            "We conducted a cross-sectional study at 9 academic medical centers. A questionnaire on US education and bedside US use was pilot tested and given to EM residents. The primary outcomes included the number of US examinations performed, scope of bedside US applications, barriers to residents' US education, and US use in the emergency department. The secondary outcomes were factors that would impact residents' US education. The outcomes were compared between residency programs with and without EUS fellowships.",
+            "A total of 244 EM residents participated in this study. Thirty percent (95% confidence interval, 24%-35%) reported they had performed more than 150 scans. Residents in programs with EUS fellowships reported performing more scans than those in programs without fellowships (P = .04). Significant differences were noted in most applications of bedside US between residency programs with and without fellowships (P<.05). There were also significant differences in the barriers to US education between residency programs with and without fellowships (P<.05)."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Attitude of Health Personnel",
+            "Clinical Competence",
+            "Educational Measurement",
+            "Emergency Medicine",
+            "Fellowships and Scholarships",
+            "Internship and Residency",
+            "Radiology",
+            "Ultrasonography",
+            "United States"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Emergency US fellowship programs had a positive impact on residents' US educational experiences. Emergency medicine residents performed more scans overall and also used bedside US for more advanced applications in programs with EUS fellowships."
+    },
+    "19322056": {
+        "QUESTION": "Does the enteral feeding advancement affect short-term outcomes in very low birth weight infants?",
+        "CONTEXTS": [
+            "Controversy exists regarding the optimal enteral feeding regimen of very low birth weight infants (VLBW). Rapid advancement of enteral feeding has been associated with an increased rate of necrotizing enterocolitis. In contrast, delaying enteral feeding may have unfavorable effects on nutrition, growth, and neurodevelopment. The aim is to compare the short-term outcomes of VLBW infants in tertiary care centers according to their enteral feeding advancement.",
+            "We prospectively studied the influence of center-specific enteral feeding advancement in 1430 VLBW infants recruited from 13 tertiary neonatal intensive care units in Germany on short-term outcome parameters. The centers were post hoc stratified to \"rapid advancement to full enteral feeds\" (median duration of advancement to full enteral feeds<or =12.5 days; 6 centers), that is, rapid advancement (RA), or \"slow advancement to full enteral feeds\" (median duration of advancement to full enteral feeds>12.5 days; 7 centers), that is, slow advancement (SA).",
+            "VLBW infants born in centers with SA (n = 713) had a significantly higher rate of sepsis compared with VLBW infants born in centers with RA (n = 717), which was particularly evident for late-onset sepsis (14.0% vs 20.4%; P = 0.002). Furthermore, more central venous lines (48.6% vs 31.1%, P<0.001) and antibiotics (92.4% vs 77.7%, P<0.001) were used in centers with SA."
+        ],
+        "LABELS": [
+            "BACKGROUND AND OBJECTIVES",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Anti-Bacterial Agents",
+            "Enteral Nutrition",
+            "Female",
+            "Humans",
+            "Infant, Newborn",
+            "Infant, Premature",
+            "Infant, Very Low Birth Weight",
+            "Intensive Care Units, Neonatal",
+            "Pregnancy",
+            "Prospective Studies",
+            "Sepsis",
+            "Time Factors",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Center differences in enteral feeding advancement occur and may have a significant impact on short-term outcomes such as nosocomial sepsis. Large, multicenter, prospective trials are required to further elucidate the optimal feeding strategy for VLBW infants."
+    },
+    "24964725": {
+        "QUESTION": "Recovery Outcome Measures: Is There a Place for Culture, Attitudes, and Faith?",
+        "CONTEXTS": [
+            "Utilization of the Recovery Knowledge Inventory (RKI) and Recovery Attitudes Questionnaire (RAQ) in southeastern Australia raised questions about the RAQ, including links between attitudes, faith, and culture in supporting the recovery journey. These questions are particularly important when considered in the context of people with mental illness who live in secular multicultural societies."
+        ],
+        "LABELS": [
+            "PURPOSE"
+        ],
+        "MESHES": [
+            "Australia",
+            "Cultural Competency",
+            "Health Knowledge, Attitudes, Practice",
+            "Humans",
+            "Mental Disorders",
+            "Outcome Assessment (Health Care)",
+            "Parish Nursing",
+            "Psychiatric Nursing",
+            "Surveys and Questionnaires"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "This paper discusses the cultural appropriateness of the RAQ in Australian settings, and identifies the need to develop rigorous, inclusive recovery outcome measures."
+    },
+    "9854965": {
+        "QUESTION": "Dementia and aphasia in motor neuron disease: an underrecognised association?",
+        "CONTEXTS": [
+            "To determine the prevalence and nature of global cognitive dysfunction and language deficits in an unselected population based cohort of patients with motor neuron disease (MND).",
+            "A battery of neuropsychological and language tests was administered to patients presenting consecutively over a 3 year period to a regional neurology service with a new diagnosis of sporadic motor neuron disease.",
+            "The 18 patients could be divided on the basis of their performance into three groups: Three patients were demented and had impaired language function (group 1); two non-demented patients had an aphasic syndrome characterised by word finding difficulties and anomia (group 2). Major cognitive deficits were therefore found in five of the 18 patients (28%). The remaining 13 performed normally on the test battery apart from decreased verbal fluency (group 3)."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Aphasia",
+            "Dementia",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Motor Neuron Disease",
+            "Neuropsychological Tests",
+            "Severity of Illness Index"
+        ],
+        "YEAR": "1998",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The prevalence of cognitive impairment in MND in this population based study of an unselected cohort was higher than has been previously reported. Language deficits, especially anomia, may be relatively frequent in the MND population. Aphasia in MND may be masked by dysarthria and missed if not specifically examined."
+    },
+    "24901580": {
+        "QUESTION": "Is scintigraphy a guideline method in determining amputation levels in diabetic foot?",
+        "CONTEXTS": [
+            "In this study, we aimed to evaluate the potential use of a 3-phase bone scintigraphy method to determine the level of amputation on treatment cost, morbidity and mortality, reamputation rates, and the duration of hospitalization in diabetic foot.",
+            "Thirty patients who were admitted to our clinic between September 2008 and July 2009, with diabetic foot were included. All patients were evaluated according to age, gender, diabetes duration, 3-phase bone scintigraphy, Doppler ultrasound, amputation/reamputation levels, and hospitalization periods. Patients underwent 3-phase bone scintigraphy using technetium-99m methylene diphosphonate, and the most distal site of the region displaying perfusion during the perfusion and early blood flow phase was marked as the amputation level. Amputation level was determined by 3-phase bone scintigraphy, Doppler ultrasound, and inspection of the infection-free clear region during surgery.",
+            "The amputation levels of the patients were as follows: finger in six (20%), ray amputation in five (16.6%), transmetatarsal in one (3.3%), Lisfranc in two (6.6%), Chopart in seven (23.3%), Syme in one (3.3%), below-the-knee in six (20%), above the knee in one (3.3%), knee disarticulation in one (3.3%), and two patients underwent amputation at other centers. After primary amputation, reamputation was performed on seven patients, and one patient was treated with debridement for wound site problems. No mortality was encountered during study."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Amputation",
+            "Cohort Studies",
+            "Decision Making",
+            "Diabetic Foot",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Imaging, Three-Dimensional",
+            "Male",
+            "Middle Aged",
+            "Practice Guidelines as Topic",
+            "Preoperative Care",
+            "Prospective Studies",
+            "Radionuclide Imaging",
+            "Risk Assessment",
+            "Sensitivity and Specificity",
+            "Severity of Illness Index",
+            "Technetium Tc 99m Sestamibi",
+            "Treatment Outcome",
+            "Wound Healing"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "We conclude that 3-phase bone scintigraphy prior to surgery could be a useful method to determine the amputation level in a diabetic foot. We conclude that further, comparative, more comprehensive, long-term, and controlled studies are required."
+    },
+    "9003088": {
+        "QUESTION": "Immunohistochemical assessment of steroid hormone receptors in tissues of the anal canal. Implications for anal incontinence?",
+        "CONTEXTS": [
+            "A prerequisite for a hormonal influence on anal continence in women is the presence of hormone receptors in the tissues of the anal canal. Using immunohistochemical techniques, we demonstrated and localized estrogen and progesterone receptors (ER, PR) in tissue sections of the anal canal.",
+            "Thirty-five specimens of the anorectal region from 21 patients (14 women, seven men) were examined histologically for smooth muscle (present in specimens from ten females and in seven males), striated muscle (present in three females and five males), and perimuscular connective tissue (present in 12 females and seven males). Immunostaining for ER and PR was then performed by incubating with primary anti-ER and anti-PR antibody and visualization of specific antibody binding by the ABC technique with DAB as chromogen.",
+            "Positive staining for ER and PR was seen exclusively over cell nuclei. Estrogen receptors were found in the smooth muscle cells of the internal sphincter of all females (10/10) and in four of the seven males. Staining for ER was detected in the perimuscular connective tissue of all females (12/12) and in four of the seven males. No specific staining for ER or PR was found in the nuclei of striated muscle cells of the external sphincter in males or females (n = 8). In females, about 50% of the ER-positive tissues were also found to be positive for PR. Amongst the male patients, only one exhibited staining for PR, and this was confined to the smooth muscle."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Anal Canal",
+            "Connective Tissue",
+            "Fecal Incontinence",
+            "Female",
+            "Humans",
+            "Immunohistochemistry",
+            "Male",
+            "Muscle, Skeletal",
+            "Muscle, Smooth",
+            "Receptors, Estrogen",
+            "Receptors, Progesterone"
+        ],
+        "YEAR": "1996",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Expression of ER is a constitutional feature of the connective tissue and smooth muscle cells of the anal continence organ. Estrogen receptors and PR are not detectable in the striated muscle fibers of the external anal sphincter in either sex. The presence of ER in the stroma and smooth muscles of the anal canal suggests that these tissues are targets for estrogen. This constitutes a theoretical basis for the beneficial effects of estrogen and progestin replacement on anal continence in postmenopausal women."
+    },
+    "17453263": {
+        "QUESTION": "Are physician estimates of asthma severity less accurate in black than in white patients?",
+        "CONTEXTS": [
+            "Racial differences in asthma care are not fully explained by socioeconomic status, care access, and insurance status. Appropriate care requires accurate physician estimates of severity. It is unknown if accuracy of physician estimates differs between black and white patients, and how this relates to asthma care disparities.",
+            "We hypothesized that: 1) physician underestimation of asthma severity is more frequent among black patients; 2) among black patients, physician underestimation of severity is associated with poorer quality asthma care.",
+            "We conducted a cross-sectional survey among adult patients with asthma cared for in 15 managed care organizations in the United States. We collected physicians' estimates of their patients' asthma severity. Physicians' estimates of patients' asthma as being less severe than patient-reported symptoms were classified as underestimates of severity.",
+            "Frequency of underestimation, asthma care, and communication.",
+            "Three thousand four hundred and ninety-four patients participated (13% were black). Blacks were significantly more likely than white patients to have their asthma severity underestimated (OR = 1.39, 95% CI 1.08-1.79). Among black patients, underestimation was associated with less use of daily inhaled corticosteroids (13% vs 20%, p<.05), less physician instruction on management of asthma flare-ups (33% vs 41%, p<.0001), and lower ratings of asthma care (p = .01) and physician communication (p = .04)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "DESIGN, SETTING AND PATIENTS",
+            "MEASUREMENTS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "African Americans",
+            "Asthma",
+            "Clinical Competence",
+            "Cohort Studies",
+            "Cross-Sectional Studies",
+            "European Continental Ancestry Group",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Odds Ratio",
+            "Physician-Patient Relations",
+            "Quality of Health Care",
+            "Severity of Illness Index"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Biased estimates of asthma severity may contribute to racially disparate asthma care. Interventions to improve physicians' assessments of asthma severity and patient-physician communication may minimize racial disparities in asthma care."
+    },
+    "23735520": {
+        "QUESTION": "Can mental imagery functional magnetic resonance imaging predict recovery in patients with disorders of consciousness?",
+        "CONTEXTS": [
+            "To determine the potential prognostic value of using functional magnetic resonance imaging (fMRI) to identify patients with disorders of consciousness, who show potential for recovery.",
+            "Observational study.",
+            "Unit for acute rehabilitation care.",
+            "Patients (N=22) in a vegetative state (VS; n=10) and minimally conscious state (MCS; n=12) during the first 200 days after the initial incident.",
+            "Not applicable.",
+            "Further course on the Coma Recovery Scale-Revised.",
+            "Participants performed a mental imagery fMRI paradigm. They were asked to alternately imagine playing tennis and navigating through their home. In 14 of the 22 examined patients (VS, n=5; MCS, n=9), a significant activation of the regions of interest (ROIs) of the mental imagery paradigm could be found. All 5 patients with activation of a significant blood oxygen level dependent signal, who were in a VS at the time of the fMRI examination, reached at least an MCS at the end of the observation period. In contrast, 5 participants in a VS who failed to show activation in ROIs, did not (sensitivity 100%, specificity 100%). Six of 9 patients in an MCS with activation in ROIs emerged from an MCS. Of 3 patients in an MCS who did not show activation, 2 patients stayed in an MCS and 1 patient emerged from the MCS (sensitivity 85%, specificity 40%)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PARTICIPANTS",
+            "INTERVENTIONS",
+            "MAIN OUTCOME MEASURE",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Consciousness",
+            "Female",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Persistent Vegetative State",
+            "Prognosis",
+            "Recovery of Function",
+            "Rehabilitation Centers",
+            "Young Adult"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The fMRI paradigm mental imagery displays a high concordance with the further clinical course of patients in a VS. All 5 patients in a VS who showed significant activation of ROIs had a favorable further course until the end of the observation period. We therefore propose the term \"functional minimally conscious state\" for these patients. They may benefit from rehabilitation treatment. In cases where no significant activation was seen, the method has no prognostic value. Prediction of the clinical course of patients in an MCS by fMRI was considerably less accurate than in patients in a VS."
+    },
+    "25255719": {
+        "QUESTION": "Hearing loss: an unknown complication of pre-eclampsia?",
+        "CONTEXTS": [
+            "This prospective case-control study consisted of 33 patients with pre-eclampsia and 32 normotensive pregnant patients as controls. All of the subjects underwent otoscopic examinations - pure tone audiometry (0.25-16\u2009kHz) and transient evoked otoacoustic emission (1-4\u2009kHz) tests - during their third trimester of pregnancy.",
+            "The mean ages of the patients with pre-eclampsia and the control subjects were 29.6\u2009\u00b1\u20095.7 and 28.6\u2009\u00b1\u20095.3 years, respectively. The baseline demographic characteristics, including age, gravidity, parity number, and gestational week, were similar between the two patient groups. Hearing thresholds in the right ear at 1, 4, 8, and 10\u2009kHz and in the left ear at 8 and 10\u2009kHz were significantly higher in the patients with pre-eclampsia compared to the control subjects. The degree of systolic blood pressure measured at the time of diagnosis had a deteriorating effect on hearing at 8, 10, and 12\u2009kHz in the right ear and at 10\u2009kHz in the left ear."
+        ],
+        "LABELS": [
+            "MATERIAL AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Auditory Threshold",
+            "Blood Pressure",
+            "Case-Control Studies",
+            "Cochlea",
+            "Female",
+            "Hearing Loss, Sensorineural",
+            "Humans",
+            "Pre-Eclampsia",
+            "Pregnancy",
+            "Prospective Studies",
+            "Risk Factors",
+            "Systole",
+            "Young Adult"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Pre-eclampsia is a potential risk factor for cochlear damage and sensorineural hearing loss. Further studies that include routine audiological examinations are needed in these patients."
+    },
+    "21900017": {
+        "QUESTION": "Does lung ischemia and reperfusion have an impact on coronary flow?",
+        "CONTEXTS": [
+            "Ischemia-reperfusion (IR) injury remains a major cause of early morbidity and mortality after lung transplantation with poorly documented extrapulmonary repercussions. To determine the hemodynamic effect due to lung IR injury, we performed a quantitative coronary blood-flow analysis in a swine model of in situ lung ischemia and reperfusion.",
+            "In 14 healthy pigs, blood flow was measured in the ascending aorta, left anterior descending (LAD), circumflex (Cx), right coronary artery (RCA), right common carotid artery (RCCA), and left internal mammary artery (LIMA), along with left-and right-ventricular pressures (LVP and RVP), aortic pressure (AoP), and pulmonary artery pressure (PAP). Cardiac Troponin (cTn), interleukin 6 and 10 (IL-6 and IL-10), and tumor necrosis factor A (TNF-A) were measured in coronary sinus blood samples. The experimental (IR) group (n=10) underwent 60 min of lung ischemia followed by 60 min of reperfusion by clamping and releasing the left pulmonary hilum. Simultaneous measurements of all parameters were made at baseline and during IR. The control group (n=4) had similar measurements without lung IR.",
+            "In the IR group, total coronary flow (TCF=LAD+Cx+RCA blood-flow) decreased precipitously and significantly from baseline (113\u00b141 ml min\"1) during IR (p<0.05), with the lowest value observed at 60 min of reperfusion (-37.1%, p<0.003). Baseline cTn (0.08\u00b10.02 ng ml(-1)) increased during IR and peaked at 45 min of reperfusion (+138%, p<0.001). Baseline IL-6 (9.2\u00b12.17 pg ml(-1)) increased during IR and peaked at 60 min of reperfusion (+228%, p<0.0001). Significant LVP drop at 5 min of ischemia (p<0.05) was followed by a slow return to baseline at 45 min of ischemia. A second LVP drop occurred at reperfusion (p<0.05) and persisted. Conversely, RVP increased throughout ischemia (p<0.05) and returned toward baseline during reperfusion. Coronary blood flow and hemodynamic profile remained unchanged in the control group. IL-10 and TNF-A remained below the measurable range for both the groups."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Animals",
+            "Coronary Circulation",
+            "Cytokines",
+            "Disease Models, Animal",
+            "Hemodynamics",
+            "Inflammation Mediators",
+            "Lung",
+            "Male",
+            "Reperfusion Injury",
+            "Sus scrofa"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "In situ lung IR has a marked negative impact on coronary blood flow, hemodynamics, and inflammatory profile. In addition, to the best of our knowledge, this is the first study where coronary blood flow is directly measured during lung IR, revealing the associated increased cardiac risk."
+    },
+    "21368683": {
+        "QUESTION": "Are patients with serious mental illness more likely to be admitted to nursing homes with more deficiencies in care?",
+        "CONTEXTS": [
+            "Patients diagnosed with serious mental illness (SMI) who qualify for nursing home placement tend to require high levels of both psychiatric and nursing care. However, it is unknown whether they are equally likely to be admitted to nursing homes with adequate quality of care compared with other patients.",
+            "We analyzed a national cohort of more than 1.3 million new nursing home admissions in 2007 using the minimum data set. The total and healthcare-related deficiency citations for each facility were obtained from the Online Survey, Certification, and Reporting file. Bivariate and multivariate regression analyses determined the association of schizophrenia or bipolar disorder with admissions to facilities with higher deficiencies.",
+            "Compared with other patients, patients with schizophrenia (n=23,767) tended to enter nursing homes with more total (13.3 vs. 11.2, P<0.001) and healthcare-related deficiencies (8.6 vs. 7.2, P<0.001); and patients with bipolar disorder (n=19,741) were more likely to enter facilities with more problematic care too (12.5 vs. 11.2, P<0.001 for total deficiencies; and 8.2 vs. 7.2, P<0.001 for healthcare-related deficiencies). After sequentially controlling for the within-county choice of facilities, patient characteristics, and facility covariates, the association of SMI with admitting to higher-deficiency nursing homes persisted."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Bipolar Disorder",
+            "Cohort Studies",
+            "Confidence Intervals",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Nursing Homes",
+            "Odds Ratio",
+            "Patient Admission",
+            "Patients",
+            "Quality of Health Care",
+            "Regression Analysis",
+            "Schizophrenia",
+            "Severity of Illness Index",
+            "United States"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Patients diagnosed with schizophrenia or bipolar disorder (ie, SMI) were more likely than other patients to be admitted to nursing homes with higher deficiency citations for both overall quality and clinical care quality. Further research is necessary to understand the reasons behind the disparity in quality of nursing home care associated with SMI."
+    },
+    "12947068": {
+        "QUESTION": "Do older men benefit from curative therapy of localized prostate cancer?",
+        "CONTEXTS": [
+            "Prior decision-analytic models are based on outdated or suboptimal efficacy, patient preference, and comorbidity data. We estimated life expectancy (LE) and quality-adjusted life expectancy (QALE) associated with available treatments for localized prostate cancer in men aged>/= 65 years, adjusting for Gleason score, patient preferences, and comorbidity.",
+            "We evaluated three treatments, using a decision-analytic Markov model: radical prostatectomy (RP), external beam radiotherapy (EBRT), and watchful waiting (WW). Rates of treatment complications and pretreatment incontinence and impotence were derived from published studies. We estimated treatment efficacy using three data sources: cancer registry cohort data, pooled case series, and modern radiotherapy studies. Utilities were obtained from 141 prostate cancer patients and from published studies.",
+            "For men with well-differentiated tumors and few comorbidities, potentially curative therapy (RP or EBRT) prolonged LE up to age 75 years but did not improve QALE at any age. For moderately differentiated cancers, potentially curative therapy resulted in LE and QALE gains up to age 75 years. For poorly differentiated disease, potentially curative therapy resulted in LE and QALE gains up to age 80 years. Benefits of potentially curative therapy were restricted to men with no worse than mild comorbidity. When cohort and pooled case series data were used, RP was preferred over EBRT in all groups but was comparable to modern radiotherapy."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Comorbidity",
+            "Decision Support Techniques",
+            "Humans",
+            "Life Expectancy",
+            "Male",
+            "Markov Chains",
+            "Postoperative Complications",
+            "Prostatectomy",
+            "Prostatic Neoplasms",
+            "Quality of Life",
+            "Radiotherapy",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2003",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Potentially curative therapy results in significantly improved LE and QALE for older men with few comorbidities and moderately or poorly differentiated localized prostate cancer. Age should not be a barrier to treatment in this group."
+    },
+    "27884344": {
+        "QUESTION": "Do resident's leadership skills relate to ratings of technical skill?",
+        "CONTEXTS": [
+            "This study sought to compare general surgery research residents' survey information regarding self-efficacy ratings to their observed performance during a simulated small bowel repair. Their observed performance ratings were based on their leadership skills in directing their assistant.",
+            "Participants were given 15\u00a0min to perform a bowel repair using bovine intestines with standardized injuries. Operative assistants were assigned to help assist with the repair. Before the procedure, participants were asked to rate their expected skills decay, task difficulty, and confidence in addressing the small bowel injury. Interactions were coded to identify the number of instructions given by the participants to the assistant during the repair. Statistical analyses assessed the relationship between the number of directional instructions and participants' perceptions self-efficacy measures. Directional instructions were defined as any dialog by the participant who guided the assistant to perform an action.",
+            "Thirty-six residents (58.3% female) participated in the study. Participants who rated lower levels of decay in their intraoperative decision-making and small bowel repair skills were noted to use their assistant more by giving more instructions. Similarly, a higher number of instructions correlated with lower perceived difficulty in selecting the correct suture, suture pattern, and completing the entire surgical task."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Animals",
+            "Cattle",
+            "Clinical Competence",
+            "Clinical Decision-Making",
+            "Female",
+            "General Surgery",
+            "Humans",
+            "Internship and Residency",
+            "Interprofessional Relations",
+            "Intestines",
+            "Leadership",
+            "Male",
+            "Midwestern United States",
+            "Self Efficacy"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "General surgery research residents' intraoperative leadership skills showed significant correlations to their perceptions of skill decay and task difficulty during a bowel repair. Evaluating resident's directional instructions may provide an additional individualized intraoperative assessment metric. Further evaluation relating to operative performance outcomes is warranted."
+    },
+    "9191526": {
+        "QUESTION": "Multidisciplinary breast cancer clinics. Do they work?",
+        "CONTEXTS": [
+            "In an attempt to improve the care they provide for their patients with breast cancer, the authors' institution developed a multidisciplinary breast cancer clinic (MDBCC) to offer \"one-stop shopping\" consultation and support for newly diagnosed breast cancer patients.",
+            "One hundred sixty-two patients, the control group for this study, were evaluated at Henry Ford Hospital during the year prior to the opening of the MDBCC. These patients, who were referred in the traditional sequential consultation manner, were compared with the first 177 patients seen during the first year of the clinic's operation. Retrospective chart reviews were conducted to assess treatment timeliness, and anonymous questionnaires were used to assess patient satisfaction.",
+            "The authors found that the MDBCC increased patient satisfaction by encouraging involvement of patients' families and friends and by helping patients make treatment decisions (P<0.001). The time between diagnosis and the initiation of treatment was also significantly decreased (42.2 days vs. 29.6 days; P<0.0008)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Breast Neoplasms",
+            "Cancer Care Facilities",
+            "Female",
+            "Humans",
+            "Patient Participation",
+            "Patient Satisfaction",
+            "Retrospective Studies"
+        ],
+        "YEAR": "1997",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Although planning and operating a multidisciplinary clinic is not a new venture, to the best of the authors' knowledge, they have provided the first report demonstrating the benefits described above."
+    },
+    "12913347": {
+        "QUESTION": "Do microbiological factors account for poor pregnancy outcome among unmarried pregnant women in Poland?",
+        "CONTEXTS": [
+            "Being unmarried is a well-known risk factor for poor pregnancy outcome such as preterm delivery and intrauterine growth restriction. The aim of this prospective study was to assess the prevalence and risk of bacterial vaginosis (BV) and selected bacteria isolated from the lower genital tract and to determine the socioeconomic and microbiological characteristics that might be responsible for poor pregnancy outcome observed among unmarried pregnant women.",
+            "The study population comprised 196 pregnant women attending 10 randomly selected outpatient maternity units in the Lodz region, central Poland. Cervicovaginal samples were obtained between 8 and 16 weeks of gestation. Based on Spiegel's criteria, gram-stained vaginal smears were examined for BV and the BV-associated flora was sought by culture. To evaluate the risk factors, relative risk ratios were calculated using EPI INFO software.",
+            "Among 196 pregnant women, 40 (20.4%) were unmarried. BV was diagnosed among 55 (28.1%) women studied. In the univariate analysis, unmarried pregnant women were characterized by younger age, primary educational level, poor economic situation and excessive smoking during pregnancy, as compared to married women. The unmarried status was a borderline risk factor for BV (OR = 1.83, 95% CI 0.94-4.9) after adjustment for age, smoking and education. An analysis of the microbiological culture from the lower genital tract revealed that unmarried pregnant women had a higher risk for several types of pathological microflora, as compared to married women. However, this finding was significant only for Mycoplasma hominis. The independent risk factors of M. hominis were the young age of the subject and a low concentration of Lactobacillus spp."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Female",
+            "Humans",
+            "Lactobacillus",
+            "Mycoplasma Infections",
+            "Mycoplasma hominis",
+            "Poland",
+            "Pregnancy",
+            "Pregnancy Complications, Infectious",
+            "Pregnancy Outcome",
+            "Prevalence",
+            "Prospective Studies",
+            "Random Allocation",
+            "Risk Factors",
+            "Single Person",
+            "Vaginosis, Bacterial"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The observed socioeconomic, demographic and microbiological differences between unmarried and married women could be responsible for the poor pregnancy outcome among unmarried pregnant women in Poland. Unmarried pregnant women should be covered by comprehensive medical care even before pregnancy. Further studies taking into account the role of psychological stress, patterns of sexual behavior and substance abuse during pregnancy could help identify the factors responsible for adverse pregnancy outcome among unmarried pregnant women."
+    },
+    "26383908": {
+        "QUESTION": "Does concept mapping enhance learning outcome of nursing students?",
+        "CONTEXTS": [
+            "This quasi-experimental study was conducted using a crossover design among two groups of total 64 nursing students. Participants were asked to create concept maps (group A) or were evaluated with the traditional method of quiz (group B) for eight weeks and then take a cumulative test (no. 1). Consequently, subjects used the alternate method for another eight weeks and then take the second cumulative test (no. 2).",
+            "The results of this study showed that the mean scores for cumulative tests (both no. 1 and no. 2) was higher in the group that engaged in map construction compared to the group that only take the quizzes. In addition, there was a gradual increase in the mean scores of developed map during the eight sessions of intervention."
+        ],
+        "LABELS": [
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Concept Formation",
+            "Humans",
+            "Learning",
+            "Students, Nursing"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "In conclusion, concept mapping has a positive effect on students' academic achievement. These findings could provide valuable evidence for establishing concept mapping as a continuous teaching strategy for nursing students."
+    },
+    "15954832": {
+        "QUESTION": "Is minilaparoscopic inguinal hernia repair feasible?",
+        "CONTEXTS": [
+            "Laparoscopy has rapidly emerged as the preferred surgical approach to a number of different diseases because it allows for a correct diagnosis and proper treatment. It seems to be moving toward the use of mini-instruments (5 mm or less in diameter). The aim of this paper is to illustrate retrospectively the results of an initial experience of minilaparoscopic transabdominal preperitoneal (miniTAPP) repair of groin hernia defects performed at two institutions.",
+            "Between February 2000 and December 2003, a total of 303 patients (mean age, 45 years) underwent a miniTAPP procedure: 213 patients (70.2%) were operated on bilaterally and 90 (28.7%) for a unilateral defect, with a total of 516 hernia defects repaired. The primary endpoint was the feasibility rate for miniTAPP. The secondary endpoint was the incidence of mini-TAPP-related complications.",
+            "No conversions to laparoscopy or an anterior open approach were required. There were no major complications, while minor complications ranged as high as 0.3%."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Digestive System Surgical Procedures",
+            "Female",
+            "Hernia, Inguinal",
+            "Humans",
+            "Laparoscopy",
+            "Male",
+            "Middle Aged",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "While limited by its retrospective design, the present study indicates that the minilaparoscopic approach to groin hernia repair is safe and effective, making miniTAPP a challenging alternative to laparoscopy in the approach to groin hernia repair."
+    },
+    "17551944": {
+        "QUESTION": "Doppler examination of uteroplacental circulation in early pregnancy: can it predict adverse outcome?",
+        "CONTEXTS": [
+            "To determine whether spectral Doppler measurements obtained from bilateral uterine, arcuate, radial, and spiral arteries in early gestation correlate with adverse pregnancy outcome.",
+            "One hundred five pregnant women underwent transvaginal Doppler sonographic examination of uteroplacental circulation at 6-12 weeks' gestation. Resistance index (RI) and pulsatility index (PI) of bilateral uterine, arcuate, radial, and spiral arteries were measured. Diameters of gestational sac (GS) and yolk sac, crown-rump length (CRL), GS-CRL difference, and GS/CRL ratio were also recorded. Correlation was made with pregnancy outcome.",
+            "Sixteen women developed adverse pregnancy outcome. In these women, right uterine artery PI and RI were significantly higher than in women with normal obstetrical outcome. Spiral artery PI and RI values were also higher, but the difference was not statistically significant. GS-CRL difference, GS/CRL ratio, and yolk sac diameters were significantly lower in this group."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Female",
+            "Humans",
+            "Placenta",
+            "Placental Circulation",
+            "Predictive Value of Tests",
+            "Pregnancy",
+            "Pregnancy Complications",
+            "Pregnancy Outcome",
+            "Pregnancy Trimester, First",
+            "Ultrasonography, Doppler",
+            "Ultrasonography, Interventional",
+            "Uterus"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Transvaginal Doppler examination can detect hemodynamic changes in uteroplacental circulation associated with subsequent adverse pregnancy outcome."
+    },
+    "25432938": {
+        "QUESTION": "Did Chile's traffic law reform push police enforcement?",
+        "CONTEXTS": [
+            "The objective of the current study is to determine to what extent the reduction of Chile's traffic fatalities and injuries during 2000-2012 was related to the police traffic enforcement increment registered after the introduction of its 2005 traffic law reform.",
+            "A unique dataset with assembled information from public institutions and analyses based on ordinary least square and robust random effects models was carried out. Dependent variables were traffic fatality and severe injury rates per population and vehicle fleet. Independent variables were: (1) presence of new national traffic law; (2) police officers per population; (3) number of traffic tickets per police officer; and (4) interaction effect of number of traffic tickets per police officer with traffic law reform. Oil prices, alcohol consumption, proportion of male population 15-24 years old, unemployment, road infrastructure investment, years' effects and regions' effects represented control variables.",
+            "Empirical estimates from instrumental variables suggest that the enactment of the traffic law reform in interaction with number of traffic tickets per police officer is significantly associated with a decrease of 8% in traffic fatalities and 7% in severe injuries. Piecewise regression model results for the 2007-2012 period suggest that police traffic enforcement reduced traffic fatalities by 59% and severe injuries by 37%."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Accidents, Traffic",
+            "Automobile Driving",
+            "Chile",
+            "Humans",
+            "Law Enforcement",
+            "Models, Statistical",
+            "Police",
+            "Risk Factors"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Findings suggest that traffic law reforms in order to have an effect on both traffic fatality and injury rates reduction require changes in police enforcement practices. Last, this case also illustrates how the diffusion of successful road safety practices globally promoted by WHO and World Bank can be an important influence for enhancing national road safety practices."
+    },
+    "25443385": {
+        "QUESTION": "Are virtual planning and guided surgery for head and neck reconstruction economically viable?",
+        "CONTEXTS": [
+            "Virtual planning and guided surgery with or without prebent or milled plates are becoming more and more common for mandibular reconstruction with fibular free flaps (FFFs). Although this excellent surgical option is being used more widely, the question of the additional cost of planning and cutting-guide production has to be discussed. In capped payment systems such additional costs have to be offset by other savings if there are no special provisions for extra funding. Our study was designed to determine whether using virtual planning and guided surgery resulted in time saved during surgery and whether this time gain resulted in self-funding of such planning through the time saved.",
+            "All consecutive cases of FFF surgery were evaluated during a 2-year period. Institutional data were used to determine the price of 1 minute of operative time. The time for fibula molding, plate adaptation, and insetting was recorded.",
+            "During the defined period, we performed 20 mandibular reconstructions using FFFs, 9 with virtual planning and guided surgery and 11 freehand cases. One minute of operative time was calculated to cost US $47.50. Multiplying this number by the time saved, we found that the additional cost of virtual planning was reduced from US $5,098 to US $1,231.50 with a prebent plate and from US $6,980 to US $3,113.50 for a milled plate."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Angiography",
+            "Bone Plates",
+            "Bone Transplantation",
+            "Carcinoma, Squamous Cell",
+            "Computer Simulation",
+            "Cost Savings",
+            "Diagnosis-Related Groups",
+            "Female",
+            "Fibula",
+            "Free Tissue Flaps",
+            "Health Care Costs",
+            "Hospital Costs",
+            "Humans",
+            "Imaging, Three-Dimensional",
+            "Male",
+            "Mandibular Neoplasms",
+            "Mandibular Reconstruction",
+            "Middle Aged",
+            "Models, Anatomic",
+            "Operative Time",
+            "Patient Care Planning",
+            "Prospective Studies",
+            "Surgery, Computer-Assisted",
+            "Switzerland",
+            "Tomography, X-Ray Computed",
+            "Transplant Donor Site",
+            "User-Computer Interface"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Even in capped health care systems, virtual planning and guided surgery including prebent or milled plates are financially viable."
+    },
+    "19852337": {
+        "QUESTION": "Does elective re-siting of intravenous cannulae decrease peripheral thrombophlebitis?",
+        "CONTEXTS": [
+            "Peripheral venous thrombophlebitis (PVT) is a common complication of intravenous cannulation, occurring in about 30% of patients. We evaluated the effect of elective re-siting of intravenous cannulae every 48 hours on the incidence and severity of PVT in patients receiving intravenous fluids/drugs.",
+            "We randomized 42 patients who were admitted for major abdominal surgery to either the control or study group (n = 21 in either group). Informed consent was obtained from all of them. Cannulae in the control group were removed only if the site became painful, the cannula got dislodged or there were signs and symptoms suggestive of PVT, namely pain, erythema, swelling, excessive warmth or a palpable venous cord. Cannulae in the study group were changed and re-sited electively every 48 hours. All the patients were examined every 24 hours for signs and symptoms of PVT at the current and previous sites of infusion.",
+            "The incidence of PVT was 100% (21/21) in the control group and only 9.5% (2/21) in the study group (p<0.0001). The severity of PVT was also less in the study group compared with that in the control group. Day-wise correlation of the incidence of PVT showed that 82.6% of the episodes of PVT occurred on day 3."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Catheterization, Peripheral",
+            "Elective Surgical Procedures",
+            "Female",
+            "Humans",
+            "Infusions, Intravenous",
+            "Male",
+            "Middle Aged",
+            "Prospective Studies",
+            "Thrombophlebitis"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Elective re-siting of intravenous cannulae every 48 hours results in a significant reduction in the incidence and severity of PVT. We recommend that this should be adopted as standard practice in managing all patients who require prolonged intravenous therapy."
+    },
+    "12612531": {
+        "QUESTION": "Fragility of the esophageal mucosa: a pathognomonic endoscopic sign of primary eosinophilic esophagitis?",
+        "CONTEXTS": [
+            "Primary eosinophilic esophagitis, a chronic inflammatory disorder of the esophagus, evokes recurrent dysphagia. Endoscopy is often unremarkable, and no consensus exists regarding management of resultant dysphagia. The response of a series of patients with primary eosinophilic esophagitis to dilation is reported together with a description of a possibly pathognomonic sign: fragile esophageal mucosa, for which the term \"cr\u00eape-paper\" mucosa is introduced.",
+            "Five men underwent endoscopy because of dysphagia confirmed (clinically, endoscopically, and histologically) to be caused by primary eosinophilic esophagitis and were treated by bouginage.",
+            "All patients had extremely fragile, inelastic, and delicate mucosa, which tore easily even with minor trauma. After the procedure, patients remained asymptomatic for 3 to 24 months."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "OBSERVATIONS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Deglutition Disorders",
+            "Dilatation",
+            "Eosinophilia",
+            "Esophagitis",
+            "Esophagoscopy",
+            "Esophagus",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Mucous Membrane"
+        ],
+        "YEAR": "2003",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Primary eosinophilic esophagitis is characterized by fragile esophageal mucosa that readily tears in response to minor trauma during otherwise uneventful diagnostic endoscopy. This \"cr\u00eape-paper\" sign may alert endoscopists to the presence of the disease when other mucosal alterations are lacking. Dilation is effective for patients with symptoms with minimal morbidity, despite development of disquieting lesions in response to the procedure."
+    },
+    "18005142": {
+        "QUESTION": "Does early migraine treatment shorten time to headache peak and reduce its severity?",
+        "CONTEXTS": [
+            "To explore whether early treatment would shorten the duration of headache from headache onset to its peak and reduce headache severity at peak.",
+            "Prior clinical studies almost exclusively focused on headache relief after dosing. No data are available on whether early intervention affects the duration from headache onset to peak and headache severity at peak.",
+            "Adult migraineurs were enrolled in this observational study from multi-site headache clinics. Patients recorded their migraine experiences via an electronic diary over 1 month. Patients reported the time and pain severity at onset, dosing, and peak. We used a linear mixed model to evaluate the impact of the timing of treatment and to adjust for covariates and correlation of observations within subjects.",
+            "A total of 182 patients reported 970 migraine episodes, 620 of which were treated before headaches progressed to peak. Mean time from headache onset to peak varied from 1.9 hours to 8.9 hours for patients treated within 15 minutes of onset and those who waited for 4 or more hours, respectively. However, early intervention was not associated with reduced headache severity at peak. In multivariate analysis, early treatment, use of triptans, and mild migraine headache in the past 3 months were significantly associated with shorter time from onset to headache peak. A separate model indicated that the timing of medication was not associated with the duration between dosing and headache peak, but use of triptans shortened the time from dosing to headache peak."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Dose-Response Relationship, Drug",
+            "Drug Administration Schedule",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Migraine Disorders",
+            "Multivariate Analysis",
+            "Severity of Illness Index",
+            "Time Factors",
+            "Treatment Outcome",
+            "Tryptamines"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Early treatment and use of triptans may lead to shorter duration from migraine headache onset to its peak but did not alleviate headache severity at peak. This could result in decreased migraine burden by reducing total migraine headache duration."
+    },
+    "21881325": {
+        "QUESTION": "Do preoperative statins reduce atrial fibrillation after coronary artery bypass grafting?",
+        "CONTEXTS": [
+            "Recent studies have demonstrated that statins have pleiotropic effects, including anti-inflammatory effects and atrial fibrillation (AF) preventive effects. The objective of this study was to assess the efficacy of preoperative statin therapy in preventing AF after coronary artery bypass grafting (CABG).",
+            "221 patients underwent CABG in our hospital from 2004 to 2007. 14 patients with preoperative AF and 4 patients with concomitant valve surgery were excluded from this study. Patients were divided into two groups to examine the influence of statins: those with preoperative statin therapy (Statin group, n = 77) and those without it (Non-statin group, n = 126). In addition, patients were divided into two groups to determine the independent predictors for postoperative AF: those with postoperative AF (AF group, n = 54) and those without it (Non-AF group, n = 149). Patient data were collected and analyzed retrospectively.",
+            "The overall incidence of postoperative AF was 26%. Postoperative AF was significantly lower in the Statin group compared with the Non-statin group (16% versus 33%, p = 0.005). Multivariate analysis demonstrated that independent predictors of AF development after CABG were preoperative statin therapy (odds ratio [OR]0.327, 95% confidence interval [CI] 0.107 to 0.998, p = 0.05) and age (OR 1.058, 95% CI 1.004 to 1.116, p = 0.035)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Analysis of Variance",
+            "Atrial Fibrillation",
+            "Chi-Square Distribution",
+            "Coronary Artery Bypass",
+            "Drug Administration Schedule",
+            "Female",
+            "Humans",
+            "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+            "Japan",
+            "Male",
+            "Middle Aged",
+            "Odds Ratio",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Risk Factors",
+            "Time Factors",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Our study indicated that preoperative statin therapy seems to reduce AF development after CABG."
+    },
+    "25155638": {
+        "QUESTION": "Can routine offering of influenza vaccination in office-based settings reduce racial and ethnic disparities in adult influenza vaccination?",
+        "CONTEXTS": [
+            "Influenza vaccination remains below the federally targeted levels outlined in Healthy People 2020. Compared to non-Hispanic whites, racial and ethnic minorities are less likely to be vaccinated for influenza, despite being at increased risk for influenza-related complications and death. Also, vaccinated minorities are more likely to receive influenza vaccinations in office-based settings and less likely to use non-medical vaccination locations compared to non-Hispanic white vaccine users.",
+            "To assess the number of \"missed opportunities\" for influenza vaccination in office-based settings by race and ethnicity and the magnitude of potential vaccine uptake and reductions in racial and ethnic disparities in influenza vaccination if these \"missed opportunities\" were eliminated.",
+            "National cross-sectional Internet survey administered between March 4 and March 14, 2010 in the United States.",
+            "Non-Hispanic black, Hispanic and non-Hispanic white adults living in the United States (N\u2009=\u20093,418).",
+            "We collected data on influenza vaccination, frequency and timing of healthcare visits, and self-reported compliance with a potential provider recommendation for vaccination during the 2009-2010 influenza season. \"Missed opportunities\" for seasonal influenza vaccination in office-based settings were defined as the number of unvaccinated respondents who reported at least one healthcare visit in the Fall and Winter of 2009-2010 and indicated their willingness to get vaccinated if a healthcare provider strongly recommended it. \"Potential vaccine uptake\" was defined as the sum of actual vaccine uptake and \"missed opportunities.\"",
+            "The frequency of \"missed opportunities\" for influenza vaccination in office-based settings was significantly higher among racial and ethnic minorities than non-Hispanic whites. Eliminating these \"missed opportunities\" could have cut racial and ethnic disparities in influenza vaccination by roughly one half."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "DESIGN",
+            "PARTICIPANTS",
+            "MAIN MEASURES",
+            "KEY RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "African Americans",
+            "Aged",
+            "Cross-Sectional Studies",
+            "European Continental Ancestry Group",
+            "Female",
+            "Healthcare Disparities",
+            "Hispanic Americans",
+            "Humans",
+            "Influenza Vaccines",
+            "Influenza, Human",
+            "Male",
+            "Middle Aged",
+            "Office Visits",
+            "Seasons",
+            "United States",
+            "Vaccination",
+            "Young Adult"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Improved office-based practices regarding influenza vaccination could significantly impact Healthy People 2020 goals by increasing influenza vaccine uptake and reducing corresponding racial and ethnic disparities."
+    },
+    "24019262": {
+        "QUESTION": "Does high blood pressure reduce the risk of chronic low back pain?",
+        "CONTEXTS": [
+            "Epidemiological studies have suggested inverse relationships between blood pressure and prevalence of conditions such as migraine and headache. It is not yet clear whether similar relationships can be established for back pain in particular in prospective studies.",
+            "Associations between blood pressure and chronic low back pain were explored in the cross-sectional HUNT 2 survey of a Norwegian county in 1995-1997, including 39,872 individuals who never used antihypertensive medication. A prospective study, comprising 17,209 initially back pain-free individuals and 5740 individuals reporting low back pain, was established by re-examinations in the HUNT 3 survey in 2006-2008. Associations were assessed by logistic regression with respect to systolic, diastolic and pulse pressure, with adjustment for education, work status, physical activity, smoking, body mass and lipid levels.",
+            "In the cross-sectional study, all three blood pressure measures showed inverse relationships with prevalence of low back pain in both sexes. In the prospective study of disease-free women, baseline pulse pressure and systolic pressure were inversely associated with risk of low back pain [odds ratio (OR) 0.93 per 10\u2009mm\u2009Hg increase in pulse pressure, 95% confidence interval (CI) 0.89-0.98, p\u2009=\u20090.007; OR 0.95 per 10\u2009mm Hg increase in systolic pressure, 95% CI 0.92-0.99, p\u2009=\u20090.005]. Results among men were equivocal. No associations were indicated with the occurrence of pain in individuals with low back pain at baseline."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Angiotensin Amide",
+            "Body Mass Index",
+            "Cross-Sectional Studies",
+            "Female",
+            "Genetic Testing",
+            "Humans",
+            "Logistic Models",
+            "Low Back Pain",
+            "Male",
+            "Middle Aged",
+            "Prevalence",
+            "Risk Factors"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Results for low back pain are consistent with the theory of hypertension-associated hypalgesia, predicting diminished pain sensitivity with increasing blood pressure, possibly with modified reactions in people suffering from long-lasting pain."
+    },
+    "11149643": {
+        "QUESTION": "Is semi-closed endarterectomy of the superficial femoral artery combined with a short venous bypass in case of insufficient venous material an acceptable alternative for limb-threatening ischemia?",
+        "CONTEXTS": [
+            "The aim of this study was to analyse the results of infragenual arterial revascularisation using semiclosed endarterectomy of the superficial femoral artery combined with a short venous bypass in patients with critical leg ischemia and insufficient venous material for a straightforward femorocrural reconstruction.",
+            "From December 1990 through December 1998 thirty patients were studied (22 males and 8 females; mean age 65 years, range 31-92 years). The mean follow-up was 26 months (range 1-96 months). Cumulative primary patency and limb salvage rates were calculated according to life-table analysis.",
+            "The cumulative primary patency was 60.3% at 1 year and 48.4% at 3 years. The limb salvage rate was 68.6% at 1 and at 3 years."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Blood Vessel Prosthesis Implantation",
+            "Endarterectomy",
+            "Female",
+            "Femoral Artery",
+            "Humans",
+            "Ischemia",
+            "Leg",
+            "Life Tables",
+            "Male",
+            "Middle Aged",
+            "Vascular Patency"
+        ],
+        "YEAR": "2000",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "In patients with limb-threatening ischemia and lack of venous material for a straightforward venous femorocrural bypass, semi-closed endarterectomy of the superficial femoral artery combined with a short popliteo-crural bypass provides a good alternative."
+    },
+    "26999038": {
+        "QUESTION": "Could chest wall rigidity be a factor in rapid death from illicit fentanyl abuse?",
+        "CONTEXTS": [
+            "There has been a significant spike in fentanyl-related deaths from illicit fentanyl supplied via the heroin trade. Past fentanyl access was primarily oral or dermal via prescription fentanyl patch diversion. One factor potentially driving this increase in fatalities is the change in route of administration. Rapid intravenous (IV) fentanyl can produce chest wall rigidity. We evaluated post-mortem fentanyl and norfentanyl concentrations in a recent surge of lethal fentanyl intoxications.",
+            "Fentanyl related deaths from the Franklin County coroner's office from January to September 2015 were identified. Presumptive positive fentanyl results were confirmed by quantitative analysis using liquid chromatography tandem mass spectrometry (LC/MS/MS) and were able to quantify fentanyl, norfentanyl, alfentanyl, and sufentanyl.",
+            "48 fentanyl deaths were identified. Mean fentanyl concentrations were 12.5\u2009ng/ml, (range 0.5\u2009ng/ml to\u2009>40\u2009ng/ml). Mean norfentanyl concentrations were 1.9\u2009ng/ml (range none detected to 8.3\u2009ng/ml). No appreciable concentrations of norfentanyl could be detected in 20 of 48 cases (42%) and were less than 1\u2009ng/ml in 25 cases (52%). Elevated fentanyl concentrations did not correlate with rises in norfentanyl levels. In several cases fentanyl concentrations were strikingly high (22\u2009ng/ml and 20\u2009ng/ml) with no norfentanyl detected.",
+            "The lack of any measurable norfentanyl in half of our cases suggests a very rapid death, consistent with acute chest rigidity. An alternate explanation could be a dose-related rapid onset of respiratory arrest. Deaths occurred with low levels of fentanyl in the therapeutic range (1-2\u2009ng/ml) in apparent non-na\u00efve opiate abusers. Acute chest wall rigidity is a well-recognized complication in the medical community but unknown within the drug abuse community. The average abuser of illicit opioids may be unaware of the increasing fentanyl content of their illicit opioid purchase."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS",
+            "DISCUSSION"
+        ],
+        "MESHES": [
+            "Administration, Cutaneous",
+            "Administration, Oral",
+            "Adult",
+            "Analgesics, Opioid",
+            "Autopsy",
+            "Cause of Death",
+            "Drug Overdose",
+            "Female",
+            "Fentanyl",
+            "Forensic Toxicology",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Narcotics",
+            "Tandem Mass Spectrometry",
+            "Thoracic Wall",
+            "Young Adult"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "In summary we believe sudden onset chest wall rigidity may be a significant and previously unreported factor leading to an increased mortality, from illicit IV fentanyl use. Fentanyl and norfentanyl ratios and concentrations suggest a more rapid onset of death given the finding of fentanyl without norfentanyl in many of the fatalities. Chest wall rigidity may help explain the cause of death in these instances, in contrast to the typical opioid-related overdose deaths. Intravenous heroin users should be educated regarding this potentially fatal complication given the increasingly common substitution and combination with heroin of fentanyl."
+    },
+    "23598835": {
+        "QUESTION": "Is severe pain immediately after spinal augmentation a predictor of long-term outcomes?",
+        "CONTEXTS": [
+            "Severe, immediate postprocedural pain and the need for analgesics after vertebroplasty can be a discouraging experience for patients and caregivers. The goal of this study was to investigate whether the presence of severe pain immediately after vertebroplasty predicts short- and long-term pain relief.",
+            "A chart review was performed to categorize patients regarding pain severity and analgesic usage immediately after vertebroplasty (<4 h). \"Severe\" pain was defined as at least 8 of 10 with the 10-point VAS. Outcomes were pain severity and pain medication score and usage at 1 month and 1 year after vertebroplasty. Outcomes and clinical characteristics were compared between groups by using the Wilcoxon signed-rank test and the Fisher exact test.",
+            "Of the 429 vertebroplasty procedures identified, 69 (16%) were associated with severe pain, and 133 (31%) were associated with analgesic administration immediately after the procedure. The group experiencing severe pain had higher preprocedure median VAS rest pain scores (5 [IQR, 2-7]) and activitypain scores (10 [IQR, 8-10]) compared with patients who did not experience severe pain (3 [IQR, 1-6]; P = .0208, and 8 [IQR, 7-10]; P = .0263, respectively). At 1 month postprocedure, VAS rest and activity pain scores were similar between the severe pain group and the nonsevere pain group (P = .16 and P = .25, respectively) and between the group receiving pain medication and the group not receiving pain medication (P = .25 and P = .67, respectively). This similarity continued for 1 year after the procedure. Analgesic usage was similar among all groups at 1 year postprocedure."
+        ],
+        "LABELS": [
+            "BACKGROUND AND PURPOSE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Causality",
+            "Chronic Pain",
+            "Comorbidity",
+            "Female",
+            "Humans",
+            "Male",
+            "Minnesota",
+            "Pain Measurement",
+            "Pain, Postoperative",
+            "Prevalence",
+            "Prognosis",
+            "Retrospective Studies",
+            "Risk Factors",
+            "Spinal Fractures",
+            "Treatment Outcome",
+            "Vertebroplasty"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Patients with severe pain immediately after vertebroplasty have similar long-term outcomes compared with patients without severe pain."
+    },
+    "27288618": {
+        "QUESTION": "Is inhaled prophylactic heparin useful for prevention and Management of Pneumonia in ventilated ICU patients?",
+        "CONTEXTS": [
+            "To determine whether prophylactic inhaled heparin is effective for the prevention and treatment of pneumonia patients receiving mechanical ventilation (MV) in the intensive care unit.",
+            "A phase 2, double blind randomized controlled trial stratified for study center and patient type (non-operative, post-operative) was conducted in three university-affiliated intensive care units. Patients aged \u226518years and requiring invasive MV for more than 48hours were randomized to usual care, nebulization of unfractionated sodium heparin (5000 units in 2mL) or placebo nebulization with 0.9% sodium chloride (2mL) four times daily with the main outcome measures of the development of ventilator associated pneumonia (VAP), ventilator associated complication (VAC) and sequential organ failure assessment scores in patients with pneumonia on admission or who developed VAP.",
+            "Australian and New Zealand Clinical Trials Registry ACTRN12612000038897.",
+            "Two hundred and fourteen patients were enrolled (72 usual care, 71 inhaled sodium heparin, 71 inhaled sodium chloride). There were no differences between treatment groups in terms of the development of VAP, using either Klompas criteria (6-7%, P=1.00) or clinical diagnosis (24-26%, P=0.85). There was no difference in the clinical consistency (P=0.70), number (P=0.28) or the total volume of secretions per day (P=.54). The presence of blood in secretions was significantly less in the usual care group (P=0.005)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "TRIAL REGISTRATION",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Administration, Inhalation",
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Australia",
+            "Double-Blind Method",
+            "Female",
+            "Fibrinolytic Agents",
+            "Heparin",
+            "Humans",
+            "Intensive Care Units",
+            "Male",
+            "Middle Aged",
+            "Nebulizers and Vaporizers",
+            "New Zealand",
+            "Pneumonia, Ventilator-Associated",
+            "Respiration, Artificial",
+            "Young Adult"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Nebulized heparin cannot be recommended for prophylaxis against VAP or to hasten recovery from pneumonia in patients receiving MV."
+    },
+    "27991408": {
+        "QUESTION": "Do dermatomyositis and polymyositis affect similar thigh muscles?",
+        "CONTEXTS": [
+            "Dermatomyositis (DM) and polymyositis (PM) commonly cause weakness of the thigh muscles. However, it is debated whether DM and PM affect similar thigh muscles. Muscle oedema on fat-suppressed MRI sequences is thought to represent active inflammation. In this study, we aimed to assess which thigh muscle groups are preferentially inflamed in DM and PM, respectively, using short-tau inversion-recovery MRI sequences.",
+            "We analysed 71 patients from 2 Rheumatology centres, 31 with DM and 40 with PM diagnosed according to the Bohan and Peter criteria. MRI oedema (1=present, 0=absent) was assessed bilaterally on fat-suppressed sequences in 17 pelvic floor and thigh muscles. An MRI oedema score (range 0-17) was calculated by adding the separate scores bilaterally and dividing them by two. Inter-rater variability was assessed by intraclass correlation coefficient. Fisher's exact test was used to compare binomial data.",
+            "Age and gender ratio were similar in patients with DM and PM. Disease duration (months, mean\u00b1SD) was shorter (20\u00b131) in DM than in PM (53\u00b169) (p=0.02). The intraclass correlation coefficient between the radiologists involved was 0.78. Muscle oedema was more common in DM than in PM except in the posterior thigh muscles. In particular, 68% of patients with DM had involvement of at least one anterior thigh muscle versus 38% of patients with PM (p=0.02)."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Dermatomyositis",
+            "Female",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Muscle, Skeletal",
+            "Polymyositis",
+            "Thigh"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Compared with PM, DM affects more thigh muscles, except those of the posterior compartment, which are equally involved in both disorders. These findings may be useful to target physiotherapy at the more frequently affected muscles."
+    },
+    "21593045": {
+        "QUESTION": "Do women with ovaries of polycystic morphology without any other features of PCOS benefit from short-term metformin co-treatment during IVF?",
+        "CONTEXTS": [
+            "Women with ovaries of polycystic morphology (PCO), without any other features of polycystic ovary syndrome (PCOS), respond similarly to women with PCOS when stimulated with exogenous gonadotrophins, and both groups share various endocrinological disturbances underlying their pathology. In women with PCOS, metformin co-treatment during IVF has been shown to increase pregnancy rates and reduce the risk of ovarian hyperstimulation syndrome (OHSS). The aim of this study was to investigate whether metformin co-treatment before and during IVF can also increase the live birth rate (LBR) and lower severe OHSS rates for women with PCO, but no other manifestations of PCOS.",
+            "This study was a double-blind, multi-centre, randomized, placebo-controlled trial. The study population included 134 women with ovulatory PCO (and no evidence of clinical or biochemical hyperandrogenism) undergoing IVF treatment at three tertiary referral IVF units. The primary outcome was LBR.",
+            "In total, 134 women were randomized, 69 to metformin and 65 to placebo. There were no statistically significant differences between the two groups in baseline characteristics. With regard to IVF outcome, no significant improvements were found in the metformin group when compared with the placebo group. In particular, there was no difference between the groups in rates of live birth [metformin n = 27 (39.1%), placebo n = 30 (46.2), (95% confidence interval 0.38, 1.49, odds ratio = 0.75)], clinical pregnancy [metformin n = 29 (42.0%), placebo n = 33 (50.8%)]or severe OHSS [metformin n = 6 (8.7%), placebo n = 5 (7.7%)]."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Double-Blind Method",
+            "Female",
+            "Fertilization in Vitro",
+            "Humans",
+            "Live Birth",
+            "Metformin",
+            "Ovarian Hyperstimulation Syndrome",
+            "Placebos",
+            "Polycystic Ovary Syndrome",
+            "Pregnancy"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "There appears to be no benefit in metformin co-treatment before and during IVF in women with PCO without any other features of PCOS. Clinical Trials.gov: NCT01046032."
+    },
+    "26237424": {
+        "QUESTION": "Does patient-prosthesis mismatch after aortic valve replacement affect survival and quality of life in elderly patients?",
+        "CONTEXTS": [
+            "To evaluate the impact of patient-prosthesis mismatch (PPM) on survival, functional status, and quality of life (QoL) after aortic valve replacement (AVR) with small prosthesis size in elderly patients.",
+            "Between January 2005 and December 2013, 152 patients with pure aortic stenosis, aged at least 75 years, underwent AVR, with a 19 or 21\u200amm prosthetic heart valve. PPM was defined as an indexed effective orifice area less than 0.85\u200acm/m. Median age was 82 years (range 75-93 years). Mean follow-up was 56 months (range 1-82 months) and was 98% complete. Late survival rate, New York Heart Association functional class, and QoL (RAND SF-36) were assessed.",
+            "Overall, PPM was found in 78 patients (53.8%). Among them, 42 patients (29%) had an indexed effective orifice area less than 0.75\u200acm/m and 17 less than 0.65\u200acm/m (11.7%). Overall survival at 5 years was 78\u200a\u00b1\u200a4.5% and was not influenced by PPM (P\u200a=\u200aNS). The mean New York Heart Association class for long-term survivors with PPM improved from 3.0 to 1.7 (P\u200a<\u200a0.001). QoL (physical functioning 45.18\u200a\u00b1\u200a11.35, energy/fatigue 49.36\u200a\u00b1\u200a8.64, emotional well being 58.84\u200a\u00b1\u200a15.44, social functioning 61.29\u200a\u00b1\u200a6.15) was similar to that of no-PPM patients (P\u200a=\u200aNS)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Aortic Valve",
+            "Aortic Valve Stenosis",
+            "Female",
+            "Follow-Up Studies",
+            "Heart Valve Prosthesis",
+            "Heart Valve Prosthesis Implantation",
+            "Humans",
+            "Italy",
+            "Male",
+            "Quality of Life",
+            "Ventricular Remodeling"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "PPM after AVR does not affect survival, functional status, and QoL in patients aged at least 75 years. Surgical procedures, often time-consuming, contemplated to prevent PPM, may therefore be not justified in this patient subgroup."
+    },
+    "22768311": {
+        "QUESTION": "Is human cytomegalovirus infection associated with hypertension?",
+        "CONTEXTS": [
+            "Recent studies have implicated the human cytomegalovirus (HCMV) as a possible pathogen for causing hypertension. We aimed to study the association between HCMV infection and hypertension in the United States National Health and Nutrition Examination Survey (NHANES).",
+            "We analyzed data on 2979 men and 3324 women in the NHANES 1999-2002. We included participants aged 16-49 years who had valid data on HCMV infection and hypertension.",
+            "Of the participants, 54.7% had serologic evidence of HCMV infection and 17.5% had hypertension. There were ethnic differences in the prevalence of HCMV infection (P<0.001) and hypertension (P<0.001). The prevalence of both increased with age (P<0.001). Before adjustment, HCMV seropositivity was significantly associated with hypertension in women (OR=1.63, 95% CI=1.25-2.13, P=0.001) but not in men. After adjustment for race/ethnicity, the association between HCMV seropositivity and hypertension in women remained significant (OR=1.55, 95% CI=1.20-2.02, P=0.002). Further adjustment for body mass index, diabetes status and hypercholesterolemia attenuated the association (OR=1.44, 95% CI=1.10-1.90, P=0.010). However, after adjusting for age, the association was no longer significant (OR=1.24, 95% CI=0.91-1.67, P=0.162)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Age Factors",
+            "Cytomegalovirus",
+            "Cytomegalovirus Infections",
+            "Data Collection",
+            "Female",
+            "Humans",
+            "Hypertension",
+            "Male",
+            "Middle Aged",
+            "Prevalence",
+            "Risk Factors",
+            "Sex Characteristics",
+            "United States"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "no",
+        "LONG_ANSWER": "In this nationally representative population-based survey, HCMV seropositivity is associated with hypertension in women in the NHANES population. This association is largely explained by the association of hypertension with age and the increase in past exposure to HCMV with age."
+    },
+    "25501465": {
+        "QUESTION": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?",
+        "CONTEXTS": [
+            "There is heterogeneity in how pediatric voiding cystourethrography (VCUG) is performed. Some institutions, including our own, obtain a radiographic scout image prior to contrast agent instillation.",
+            "To demonstrate that the radiographic scout image does not augment VCUG interpretation or contribute management-changing information but nonetheless carries a non-negligible effective dose.",
+            "We evaluated 181 children who underwent VCUG in 2012, with an age breakdown of less than 1\u00a0year (56 children), 1-5 years (66 children), 6-10 years (43 children) and 11-18 years (16 children), with a mean age of 4.0\u00a0years. We investigated patient demographics, clinical indication for the examination, scout image findings and estimated effective radiation dose, as well as overall exam findings and impression.",
+            "No clinically significant or management-changing findings were present on scout images, and no radiopaque urinary tract calculi or concerning incidental finding was identified. Scout image estimated effective radiation dose averaged 0.09\u00a0mSv in children younger than 1\u00a0y, 0.09\u00a0mSv in children age 1-5, 0.13\u00a0mSv in children age 6-10 and 0.18\u00a0mSv in children age 11-18. Total fluoroscopy time per examination averaged 36.7\u00a0s (range 34.8-39.6\u00a0s for all age group averages). Evaluation of known or suspected vesicoureteral reflux (VUR) and urinary tract infection (UTI) were the most common clinical indications, stated in 40.9% and 37.0% of exams, respectively."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Academic Medical Centers",
+            "Adolescent",
+            "Child",
+            "Child, Preschool",
+            "Female",
+            "Fluoroscopy",
+            "Hospitals, Pediatric",
+            "Humans",
+            "Infant",
+            "Male",
+            "Retrospective Studies",
+            "Vesico-Ureteral Reflux"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Although the estimated effective dose is low for VCUG radiographic scout images, this step did not augment VCUG interpretation or contribute management-changing information. This step should be omitted or substituted to further reduce dose in pediatric VCUG."
+    },
+    "22972546": {
+        "QUESTION": "Do approved doctors and medical referees in the UK agree when assessing a seafarer's fitness?",
+        "CONTEXTS": [
+            "The seafaring industry remains a hazardous occupation that requires sophisticated systems of risk and fitness assessment. This study aims to investigate the extent of agreement between Approved Doctors (ADs) and Medical Referees (MRs) when they assess a seafarer's fitness.",
+            "Between 2003 and 2009 a total of 232,878 seafarer medical examinations were carried out by ADs, of which 465 were considered by the MRs because the seafarer appealed against the AD's decision. The extent of agreement between ADs and MRs was studied.",
+            "Two hundred and sixty-eight (58%) cases seen by the ADs were classed as category 4 \"permanently unfit\"; the referees only placed 85 (18%) of them in this category. On the other hand, 252 (54%) cases seen by the MRs were classed as category 2 \"fit with restrictions\", while the ADs had only placed 111 (24%) in this category. The overall agreement between the assessors (AD vs. MR) was poor (Kappa K = 0.18).",
+            "For cardiovascular diseases and for mental ill-health, access to additional information by the MR was the commonest reason for changing the fitness category, but for all other conditions factors such as the experience and knowledge of the MRs or their different interpretation of the standards were the most frequent reasons for a change to fitness category or to restrictions."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "MATERIAL AND METHODS",
+            "RESULTS",
+            "DISCUSSION"
+        ],
+        "MESHES": [
+            "Adult",
+            "Cardiovascular Diseases",
+            "Evidence-Based Practice",
+            "Humans",
+            "Male",
+            "Mental Disorders",
+            "Middle Aged",
+            "Naval Medicine",
+            "Occupational Medicine",
+            "Physical Examination",
+            "Physical Fitness",
+            "Practice Patterns, Physicians'",
+            "Referral and Consultation",
+            "Reproducibility of Results",
+            "Risk Assessment",
+            "Ships",
+            "United Kingdom",
+            "Young Adult"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "This study found that there was poor agreement between the AD's decision and the subsequent MR's decision regarding the fitness of those seafarers who decided to appeal against the AD's initial assessment. The reasons for this are considered."
+    },
+    "19198736": {
+        "QUESTION": "Is being small for gestational age a risk factor for retinopathy of prematurity?",
+        "CONTEXTS": [
+            "To analyze prevalence and risk factors for retinopathy of prematurity (ROP) among preterm infants born small for gestational age (SGA) and appropriate for gestational age (AGA).",
+            "A prospective cohort study included preterm infants with birth weight (BW)<or = 1,500 grams and gestational age (GA)<or = 32 weeks, divided into two groups: AGA or SGA. Prevalences and risk factors for ROP were determined in both groups. Logistic regression was used for the significant variables after univariate analysis.",
+            "A total of 345 patients were examined: 199 included in the AGA group and 146 in the SGA. Mean BW and GA in the whole cohort (345 patients) were 1,128.12 grams (+/-239.9) and 29.7 weeks (+/-1.9), respectively. The prevalence of any stage ROP and severe ROP (needing treatment) was 29.6 and 7.0%, respectively. ROP in any evolutive stage developed in 66 AGA (33.2%) and in 36 SGA (24.7%) (p = 0.111). Severe ROP occurred in 15 AGA (7.5%) and in nine SGA (6.2%) (p = 0.779). After adjusted logistic regression, weight gain from birth to sixth week of life and need for blood transfusions were found to be significant risk factors for ROP in both groups."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Brazil",
+            "Epidemiologic Methods",
+            "Gestational Age",
+            "Humans",
+            "Infant, Newborn",
+            "Infant, Premature",
+            "Infant, Small for Gestational Age",
+            "Infant, Very Low Birth Weight",
+            "Retinopathy of Prematurity",
+            "Risk Factors"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "This study has shown that being SGA was not a significant risk factor for any stage ROP or for severe ROP in this cohort and, also, that the risk factors for ROP were similar among SGA and AGA very-low-birth-weight preterm babies."
+    },
+    "11340218": {
+        "QUESTION": "Does pretreatment with statins improve clinical outcome after stroke?",
+        "CONTEXTS": [
+            "In primary and secondary prevention trials, statins have been shown to reduce the risk of stroke. In addition to lipid lowering, statins have a number of antiatherothrombotic and neuroprotective properties. In a preliminary observational study, we explored whether clinical outcome is improved in patients who are on treatment with statins when stroke occurs.",
+            "We conducted a population-based case-referent study of 25- to 74-year-old stroke patients with, for each case of a patient who was on statin treatment at the onset of stroke (n=125), 2 referent patients who were not treated with statins but were matched for age, gender, year of onset, and stroke subtype (n=250).",
+            "The unadjusted odds ratio for early discharge to home (versus late discharge or death) was 1.41 (95% CI 0.91 to 2.17) when patients on statin treatment were compared with referent stroke patients not on statins. Prognostic factors were, in general, more unfavorable among patients on statins. When this was adjusted for in a logistic regression model, the use of statins was a moderately strong but statistically nonsignificant predictor of discharge to home (multiple-adjusted odds ratio 1.42, 95% CI 0.90 to 2.22)."
+        ],
+        "LABELS": [
+            "BACKGROUND AND PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acute Disease",
+            "Adult",
+            "Age Distribution",
+            "Aged",
+            "Case-Control Studies",
+            "Cerebral Hemorrhage",
+            "Comorbidity",
+            "Diabetes Mellitus",
+            "Female",
+            "Humans",
+            "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+            "Logistic Models",
+            "Male",
+            "Middle Aged",
+            "Myocardial Infarction",
+            "Odds Ratio",
+            "Pilot Projects",
+            "Prognosis",
+            "Retrospective Studies",
+            "Secondary Prevention",
+            "Sex Distribution",
+            "Simvastatin",
+            "Stroke",
+            "Sweden",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2001",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "no",
+        "LONG_ANSWER": "The statistical power of this case-referent study was such that only large beneficial effects of statins in acute stroke could be confirmed. However, the observed trend, together with experimental observations, is interesting enough to warrant a more detailed analysis of the relationship between statins and stroke outcome."
+    },
+    "14612308": {
+        "QUESTION": "Can PRISM predict length of PICU stay?",
+        "CONTEXTS": [
+            "PRISM is claimed to score disease severity which has attributed an impact on length of PICU stay (LOS).",
+            "To determine the impact of PRISM on LOS, and evaluate an Artificial Neural Network's (ANN) performance to estimate LOS from PRISM item patterns.",
+            "Retrospectively we performed correlation and regression analyses on routinely scored PRISM data of all consecutive admissions to our level-III PICU from 1994 to 1999 (n>2000) with individual LOS. In addition, an ANN was trained on the chronologically first 75% of those data (inputs, PRISM items + age + sex; output, LOS). The ANN's performance was tested on the remaining most recent 25% of the data sets.",
+            "The Spearman and Pearson coefficients of correlation between PRISM and LOS were 0.2 (p<0.001) and 0.08 (p = 0.0003), the latter being slightly higher when LOS was logarithmically transformed. Pearson's coefficient of correlation between ANN derived LOS estimate and actual LOS was 0.21 (p<0.001) (LOS logarithmically transformed: 0.34; p<0.001) in the independent validation sample."
+        ],
+        "LABELS": [
+            "UNLABELLED",
+            "PRIMARY OBJECTIVE",
+            "RESEARCH DESIGN AND METHODS",
+            "MAIN RESULTS"
+        ],
+        "MESHES": [
+            "Cohort Studies",
+            "Health Services Research",
+            "Humans",
+            "Intensive Care Units, Pediatric",
+            "Length of Stay",
+            "Netherlands",
+            "Neural Networks (Computer)",
+            "Patient Readmission",
+            "Probability",
+            "Retrospective Studies",
+            "Severity of Illness Index"
+        ],
+        "YEAR": "2003",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "The ANN with its intrinsic ability to detect non-linear correlation, and to relate specific item patterns to LOS, outperformed linear statistics but was still disappointing in estimating individual LOS. It might be speculated that therapeutic intervention modulates the natural course of the disease thus counteracting both disease severity as initially scored by PRISM, and LOS. This being true, the inverse of the correlation between PRISM (or PRISM based LOS estimate) and LOS might be a candidate indicator of quality of care."
+    },
+    "10732884": {
+        "QUESTION": "Does coronary angiography before emergency aortic surgery affect in-hospital mortality?",
+        "CONTEXTS": [
+            "To study the relationship between coronary angiography and in-hospital mortality in patients undergoing emergency surgery of the aorta without a history of coronary revascularization or coronary angiography before the onset of symptoms.",
+            "In the setting of acute ascending aortic dissection warranting emergency aortic repair, coronary angiography has been considered to be desirable, if not essential. The benefits of defining coronary anatomy have to be weighed against the risks of additional delay before surgical intervention.",
+            "Retrospective analysis of patient charts and the Cardiovascular Information Registry (CVIR) at the Cleveland Clinic Foundation.",
+            "We studied 122 patients who underwent emergency surgery of the aorta between January 1982 and December 1997. Overall, in-hospital mortality was 18.0%, and there was no significant difference between those who had coronary angiography on the day of surgery compared with those who had not (No: 16%, n = 81 vs. Yes: 22%, n = 41, p = 0.46). Multivariate analysis revealed that a history of myocardial infarction (MI) was the only predictor of in-hospital mortality (relative risk: 4.98 95% confidence interval: 1.48-16.75, p = 0.009); however, coronary angiography had no impact on in-hospital mortality in patients with a history of MI. Furthermore, coronary angiography did not significantly affect the incidence of coronary artery bypass grafting (CABG) during aortic surgery (17% vs. 25%, Yes vs. No). Operative reports revealed that 74% of all CABG procedures were performed because of coronary dissection, and not coronary artery disease."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acute Disease",
+            "Adult",
+            "Aged",
+            "Aneurysm, Dissecting",
+            "Aortic Aneurysm, Thoracic",
+            "Combined Modality Therapy",
+            "Coronary Aneurysm",
+            "Coronary Angiography",
+            "Coronary Artery Bypass",
+            "Emergencies",
+            "Female",
+            "Hospital Mortality",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Postoperative Complications",
+            "Retrospective Studies",
+            "Survival Analysis"
+        ],
+        "YEAR": "2000",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "These data indicate that determination of coronary anatomy may not impact on survival in patients undergoing emergency surgery of the aorta and support the concept that once diagnosed, patients should proceed as quickly as possible to surgery."
+    },
+    "26044262": {
+        "QUESTION": "Are income-related differences in active travel associated with physical environmental characteristics?",
+        "CONTEXTS": [
+            "Rates of active travel vary by socio-economic position, with higher rates generally observed among less affluent populations. Aspects of both social and built environments have been shown to affect active travel, but little research has explored the influence of physical environmental characteristics, and less has examined whether physical environment affects socio-economic inequality in active travel. This study explored income-related differences in active travel in relation to multiple physical environmental characteristics including air pollution, climate and levels of green space, in urban areas across England. We hypothesised that any gradient in the relationship between income and active travel would be least pronounced in the least physically environmentally-deprived areas where higher income populations may be more likely to choose active transport as a means of travel.",
+            "Adults aged 16+ living in urban areas (n\u2009=\u200920,146) were selected from the 2002 and 2003 waves of the UK National Travel Survey. The mode of all short non-recreational trips undertaken by the sample was identified (n\u2009=\u2009205,673). Three-level binary logistic regression models were used to explore how associations between the trip being active (by bike/walking) and three income groups, varied by level of multiple physical environmental deprivation.",
+            "Likelihood of making an active trip among the lowest income group appeared unaffected by physical environmental deprivation; 15.4% of their non-recreational trips were active in both the least and most environmentally-deprived areas. The income-related gradient in making active trips remained steep in the least environmentally-deprived areas because those in the highest income groups were markedly less likely to choose active travel when physical environment was 'good', compared to those on the lowest incomes (OR\u2009=\u20090.44, 95% CI\u2009=\u20090.22 to 0.89)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Air Pollution",
+            "Climate",
+            "England",
+            "Environment",
+            "Female",
+            "Humans",
+            "Income",
+            "Male",
+            "Middle Aged",
+            "Motor Activity",
+            "Poverty",
+            "Socioeconomic Factors",
+            "Surveys and Questionnaires",
+            "Travel",
+            "Urban Population",
+            "Young Adult"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "The socio-economic gradient in active travel seems independent of physical environmental characteristics. Whilst more affluent populations enjoy advantages on some health outcomes, they will still benefit from increasing their levels of physical activity through active travel. Benefits of active travel to the whole community would include reduced vehicle emissions, reduced carbon consumption, the preservation or enhancement of infrastructure and the presentation of a 'normalised' behaviour."
+    },
+    "19444061": {
+        "QUESTION": "Does ossification of the posterior longitudinal ligament affect the neurological outcome after traumatic cervical cord injury?",
+        "CONTEXTS": [
+            "Retrospective outcome measurement study.",
+            "The purpose of this study is to assess whether ossification of the posterior longitudinal ligament (OPLL) affects neurologic outcomes in patients with acute cervical spinal cord injury (SCI).",
+            "There have so far been few reports examining the relationship between OPLL and SCI and there is controversy regarding the deteriorating effects of OPLL-induced canal stenosis on neurologic outcomes.",
+            "To obtain a relatively uniform background, patients nonsurgically treated for an acute C3-C4 level SCI without any fractures or dislocations of the spinal column were selected, resulting in 129 patients. There were 110 men and 19 women (mean age was 61.1 years), having various neurologic conditions on admission (American Spinal Injury Association [ASIA] impairment scale A, 43; B, 16; C, 58; D, 12). The follow-up period was the duration of their hospital stay and ranged from 50 to 603 days (mean, 233 days). The presence of OPLL, the cause of injury, the degree of canal stenosis (both static and dynamic), and the neurologic outcomes in motor function, including improvement rate, were assessed.",
+            "Of the 129 patients investigated in this study, OPLL was identified at the site of the injury in 13 patients (10.1%). In this OPLL+ group, the static and dynamic canal diameters at C3 and C4 were significantly smaller than those of the remaining 116 patients (OPLL- group). However, no significant difference was observed between the 2 groups in terms of ASIA motor score both at the time of administration and discharge, and the mean improvement rate in ASIA motor score was 55.5 +/- 9.0% in OPLL+ group, while it was 43.1 +/- 2.8% in the OPLL-group. Furthermore, no significant correlation was observed between the static/dynamic canal diameters and neurologic outcome in all 129 patients."
+        ],
+        "LABELS": [
+            "STUDY DESIGN",
+            "OBJECTIVES",
+            "SUMMARY OF BACKGROUND DATA",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Cervical Vertebrae",
+            "Female",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Ossification of Posterior Longitudinal Ligament",
+            "Range of Motion, Articular",
+            "Retrospective Studies",
+            "Spinal Cord Injuries",
+            "Tomography, X-Ray Computed"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "No evidence was found for OPLL to have any effect on the initial neurologic status or recovery in motor function after traumatic cervical cord injury, suggesting that the neurologic outcome is not significantly dependent on canal space."
+    },
+    "17462393": {
+        "QUESTION": "Does normothermic normokalemic simultaneous antegrade/retrograde perfusion improve myocardial oxygenation and energy metabolism for hypertrophied hearts?",
+        "CONTEXTS": [
+            "Beating-heart valve surgery appears to be a promising technique for protection of hypertrophied hearts. Normothermic normokalemic simultaneous antegrade/retrograde perfusion (NNSP) may improve myocardial perfusion. However, its effects on myocardial oxygenation and energy metabolism remain unclear. The present study was to determine whether NNSP improved myocardial oxygenation and energy metabolism of hypertrophied hearts relative to normothermic normokalemic antegrade perfusion (NNAP).",
+            "Twelve hypertrophied pig hearts underwent a protocol consisting of three 20-minute perfusion episodes (10 minutes NNAP and 10 minutes NNSP in a random order) with each conducted at a different blood flow in the left anterior descending coronary artery (LAD [100%, 50%, and 20% of its initial control]). Myocardial oxygenation was assessed using near-infrared spectroscopic imaging. Myocardial energy metabolism was monitored using localized phosphorus-31 magnetic resonance spectroscopy.",
+            "With 100% LAD flow, both NNAP and NNSP maintained myocardial oxygenation, adenosine triphosphate, phosphocreatine, and inorganic phosphate at normal levels. When LAD flow was reduced to 50% of its control level, NNSP resulted in a small but significant decrease in myocardial oxygenation and phosphocreatine, whereas those measurements did not change significantly during NNAP. With LAD flow further reduced to 20% of its control level, both NNAP and NNSP caused a substantial decrease in myocardial oxygenation, adenosine triphosphate, and phosphocreatine with an increase in inorganic phosphate. However, the changes were significantly greater during NNSP than during NNAP."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Animals",
+            "Disease Models, Animal",
+            "Energy Metabolism",
+            "Hypertrophy, Left Ventricular",
+            "Myocardium",
+            "Oxygen",
+            "Perfusion",
+            "Swine"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Normothermic normokalemic simultaneous antegrade/retrograde perfusion did not improve, but slightly impaired myocardial oxygenation and energy metabolism of beating hypertrophied hearts relative to NNAP. Therefore, NNSP for protection of beating hypertrophied hearts during valve surgery should be used with extra caution."
+    },
+    "9602458": {
+        "QUESTION": "Does the Child Health Computing System adequately identify children with cerebral palsy?",
+        "CONTEXTS": [
+            "This paper assesses the usefulness of the Child Health Computing System as a source of information about children with cerebral palsy.",
+            "A comparative survey of information held on the Child Health Computing System (CHCS) and the Northern Ireland Cerebral Palsy Register (NICPR) in one Health and Social Services Board in Northern Ireland was carried out. The sample comprised children with cerebral palsy aged 5-9 years.",
+            "Of the 135 cases recorded on the NICPR, 47 per cent were not found on the CHCS; the majority of these children had no computer record of any medical diagnosis. Of the 82 cases recorded on the CHCS, 10 (12 per cent) were not found on the NICPR; five of these cases (6 per cent) were found on follow-up not to have CP."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Cerebral Palsy",
+            "Child",
+            "Child Welfare",
+            "Child, Preschool",
+            "Data Collection",
+            "Databases, Factual",
+            "False Positive Reactions",
+            "Health Status Indicators",
+            "Humans",
+            "Northern Ireland",
+            "Prevalence",
+            "Registries"
+        ],
+        "YEAR": "1998",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Unless improvements are made in case ascertainment, case validation and recording activities, the evidence suggests that the CHCS will not be able to provide the same quality of information for needs assessment and surveillance of very low birthweight infants in relation to cerebral palsy as is provided by a specialist case register."
+    },
+    "18403944": {
+        "QUESTION": "Gluten tolerance in adult patients with celiac disease 20 years after diagnosis?",
+        "CONTEXTS": [
+            "Celiac disease (CD) is believed to be a permanent intolerance to gluten. A number of patients, however, discontinue the gluten-free diet (GFD) without developing symptoms or signs. The aim of our study was to investigate whether CD patients are capable of developing tolerance to gluten.",
+            "All 77 adult patients from our hospital known to have biopsy-proven CD for more than 10 years were invited to participate. We investigated symptoms, gluten consumption, antibodies for CD and other autoimmunity, human leukocyte antigen (HLA)-typing, bone mineral density, and performed small bowel biopsies. Tolerance was defined as no immunological or histological signs of CD while consuming gluten.",
+            "Sixty-six patients accepted participation, but after review of the diagnostic biopsies 53 were found to have true CD. Twenty-three percent of patients had a gluten-containing diet, 15% admitted gluten transgression and 62% followed the GFD. Patients on a GFD had significantly more osteoporosis. Normal small bowel mucosa was found in four of eight on gluten-containing diet and in four of four with gluten transgression. Two patients were considered to have developed tolerance to gluten. One of them was HLA-DQ2/DQ8 negative."
+        ],
+        "LABELS": [
+            "BACKGROUND AND OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Autoantibodies",
+            "Bone Density",
+            "Celiac Disease",
+            "Female",
+            "Follow-Up Studies",
+            "Glutens",
+            "HLA-DQ Antigens",
+            "Histocompatibility Testing",
+            "Humans",
+            "Immune Tolerance",
+            "Intestinal Mucosa",
+            "Intestine, Small",
+            "Male",
+            "Middle Aged",
+            "Patient Compliance",
+            "Severity of Illness Index"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Development of tolerance to gluten seems possible in some patients with CD. Further follow-up will show whether this tolerance is permanent or only a long-term return to latency. This feature may be associated with genetic characteristics, especially with HLA genotypes that differ from DQ2 or DQ8. More insight into the mechanisms of the development of gluten tolerance may help to distinguish those CD patients that might not require life-long GFD."
+    },
+    "19145527": {
+        "QUESTION": "Do emergency medical services professionals think they should participate in disease prevention?",
+        "CONTEXTS": [
+            "The primary objective of the study was to determine emergency medical services (EMS) professionals' opinions regarding participation in disease and injury prevention programs. A secondary objective was to determine the proportion of EMS professionals who had participated in disease prevention programs.",
+            "As part of the National Registry of Emergency Medical Technicians' biennial reregistration process, EMS professionals reregistering in 2006 were asked to complete an optional survey regarding their opinions on and participation in disease and injury prevention. Demographic characteristics were also collected. Data were analyzed using descriptive statistics and 99% confidence intervals (CIs). The chi-square test was used to compare differences by responder demographics (alpha = 0.01). A 10% difference between groups was determined to be clinically significant.",
+            "The survey was completed by 27,233 EMS professionals. Of these responders, 82.7% (99% CI: 82.1-83.3) felt that EMS professionals should participate in disease prevention, with those working 20 to 29 hours per week being the least likely to think they should participate (67.4%, p<0.001). About a third, 33.8% (99% CI: 33.1-34.6), of the respondents reported having provided prevention services, with those having a graduate degree (43.5%, p<0.001), those working in EMS for more than 21 years (44%, p<0.001), those working for the military (57%, p<0.001), those working 60 to 69 hours per week (41%, p<0.001), and those responding to zero emergency calls in a typical week (43%, p<0.001) being the most likely to report having provided prevention services. About half, 51.1% (99% CI: 50.4-51.9), of the respondents agreed that prevention services should be provided during emergency calls, and 7.7% (99% CI: 7.3-8.1) of the respondents reported providing prevention services during emergency calls. No demographic differences existed. Those who had participated in prevention programs were more likely to respond that EMS professionals should participate in prevention (92% vs. 82%, p<0.001). Further, those who had provided prevention services during emergency calls were more likely to think EMS professionals should provide prevention services during emergency calls (81% vs. 51%, p<0.001)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Accidents, Home",
+            "Accidents, Occupational",
+            "Attitude of Health Personnel",
+            "Data Collection",
+            "Emergency Medical Technicians",
+            "Health Promotion",
+            "Humans",
+            "Wounds and Injuries"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "The majority of EMS professionals thought that they should participate in disease and injury prevention programs. The respondents were mixed as to whether prevention services should be provided while on emergency calls, but those with experience providing these services were more likely to agree with providing them during emergency calls."
+    },
+    "21080127": {
+        "QUESTION": "Can implant retention be recommended for treatment of infected TKA?",
+        "CONTEXTS": [
+            "Retention treatment is reportedly associated with lower infection control rates than two-stage revision. However, the studies on which this presumption are based depend on comparisons of historical rather than concurrent controls.QUESTIONS/",
+            "We (1) asked whether the infection control rates, number of additional procedures, length of hospital stay, and treatment duration differed between implant retention and two-stage revision treatment; and (2) identified risk factors that can contribute to failure of infection control.",
+            "We reviewed the records of 60 patients treated for 64 infected TKA from 2002 to 2007. Twenty-eight patients (32 knees) underwent d\u00e9bridement with retention of component, and 32 patients (32 knees) were treated with component removal and two-stage revision surgery. We determined patients' demographics, type of infection, causative organisms, and outcome of treatment. Mean followup was 36 months (range, 12-84 months).",
+            "Infection control rate was 31% in retention and 59% in the removal group after initial surgical treatment, and 81% and 91% at latest followup, respectively. Treatment duration was shorter in the retention group and there was no difference in number of additional surgeries and length of hospital stay. Type of treatment (retention versus removal) was the only factor associated with infection control; subgroup analysis in the retention group showed Staphylococcus aureus infection and polyethylene nonexchange as contributing factors for failure of infection control."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "PURPOSES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Arthroplasty, Replacement, Knee",
+            "Boston",
+            "Chi-Square Distribution",
+            "Debridement",
+            "Device Removal",
+            "Female",
+            "Humans",
+            "Infection Control",
+            "Kaplan-Meier Estimate",
+            "Knee Prosthesis",
+            "Length of Stay",
+            "Logistic Models",
+            "Male",
+            "Middle Aged",
+            "Odds Ratio",
+            "Patient Selection",
+            "Polyethylene",
+            "Prosthesis Design",
+            "Prosthesis-Related Infections",
+            "Reoperation",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Risk Factors",
+            "Time Factors",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Although initial infection control rate was substantially lower in the retention group than the removal group, final results were comparable at latest followup. We believe retention treatment can be selectively considered for non-S. aureus infection, and when applied in selected patients, polyethylene exchange should be performed."
+    },
+    "25987398": {
+        "QUESTION": "The influence of atmospheric pressure on aortic aneurysm rupture--is the diameter of the aneurysm important?",
+        "CONTEXTS": [
+            "The rate of aortic aneurysm rupture correlates with the aneurysm's diameter, and a higher rate of rupture is observed in patients with larger aneurysms. According to the literature, contradictory results concerning the relationship between atmospheric pressure and aneurysm size have been reported.AIM: In this paper, we assessed the influence of changes in atmospheric pressure on abdominal aneurysm ruptures in relationship to the aneurysm's size.",
+            "The records of 223 patients with ruptured abdominal aneurysms were evaluated. All of the patients had been admitted to the department in the period 1997-2007 from the Silesia region. The atmospheric pressures on the day of the rupture and on the days both before the rupture and between the rupture events were compared. The size of the aneurysm was also considered in the analysis.",
+            "There were no statistically significant differences in pressure between the days of rupture and the remainder of the days within an analysed period. The highest frequency of the admission of patients with a ruptured aortic aneurysm was observed during periods of winter and spring, when the highest mean values of atmospheric pressure were observed; however, this observation was not statistically confirmed. A statistically non-significant trend towards the higher rupture of large aneurysms (>7 cm) was observed in the cases where the pressure increased between the day before the rupture and the day of the rupture. This trend was particularly pronounced in patients suffering from hypertension (p = 0.1)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Aortic Aneurysm, Abdominal",
+            "Aortic Rupture",
+            "Atmospheric Pressure",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Poland",
+            "Retrospective Studies",
+            "Seasons"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "no",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "The results of this study do not support the hypothesis that there is a direct link between atmospheric pressure values and abdominal aortic aneurysm ruptures."
+    },
+    "17562682": {
+        "QUESTION": "Is Panton-Valentine leucocidin associated with the pathogenesis of Staphylococcus aureus bacteraemia in the UK?",
+        "CONTEXTS": [
+            "The morbidity and mortality associated with Panton-Valentine leucocidin (PVL)-positive Staphylococcus aureus suggest that this toxin is a key marker of disease severity. Nevertheless, the importance of PVL in the pathogenesis of primary bacteraemia caused by S. aureus is uncertain. We have determined the prevalence of PVL-encoding genes among isolates of S. aureus from bacteraemic patients.",
+            "Consecutive bacteraemia isolates of S. aureus (n=244) from patients hospitalized in 25 centres in the UK and Ireland during 2005 were screened for PVL and mecA genes. PVL-positive isolates were characterized by toxin gene profiling, PFGE, spa-typing and MIC determinations for a range of antimicrobials.",
+            "Four out of 244 isolates (1.6%) were PVL-positive and susceptible to oxacillin [methicillin-susceptible S. aureus (MSSA)]. Eighty-eight out of 244 (36%) were oxacillin-resistant (methicillin-resistant S. aureus), but none was PVL-positive. The four patients (two males: 30 and 33 years; two females: 62 and 80 years) had infection foci of: skin and soft tissue, unknown, indwelling line, and surgical site, and were located at one centre in Wales, one in England and two in Ireland. One of four PVL-positive isolates was resistant to penicillin and fusidic acid, the remainder were susceptible to all antibiotics tested. Genotypic analyses showed that the four isolates represented three distinct strains; the two isolates from Ireland were related."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Anti-Bacterial Agents",
+            "Bacteremia",
+            "Bacterial Proteins",
+            "Bacterial Toxins",
+            "Child",
+            "Child, Preschool",
+            "Exotoxins",
+            "Female",
+            "Fusidic Acid",
+            "Humans",
+            "Infant",
+            "Ireland",
+            "Leukocidins",
+            "Male",
+            "Methicillin Resistance",
+            "Microbial Sensitivity Tests",
+            "Middle Aged",
+            "Oxacillin",
+            "Penicillin Resistance",
+            "Penicillin-Binding Proteins",
+            "Staphylococcal Infections",
+            "Staphylococcus aureus",
+            "United Kingdom"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "no",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "We found that 1.6% of S. aureus (all MSSA) from bacteraemic patients were PVL-positive. This low incidence suggests that PVL-positive S. aureus are of no particular significance as causative agents of S. aureus bacteraemia."
+    },
+    "1571683": {
+        "QUESTION": "Storage of vaccines in the community: weak link in the cold chain?",
+        "CONTEXTS": [
+            "To assess quality of storage of vaccines in the community.",
+            "Questionnaire survey of general practices and child health clinics, and monitoring of storage temperatures of selected refrigerators.",
+            "Central Manchester and Bradford health districts.",
+            "45 general practices and five child health clinics, of which 40 (80%) responded. Eight practices were selected for refrigeration monitoring.",
+            "Adherence to Department of Health guidelines for vaccine storage, temperature range to which vaccines were exposed over two weeks.",
+            "Of the 40 respondents, only 16 were aware of the appropriate storage conditions for the vaccines; eight had minimum and maximum thermometers but only one of these was monitored daily. In six of the eight practices selected for monitoring of refrigeration temperatures the vaccines were exposed to either subzero temperatures (three fridges) or temperatures up to 16 degrees C (three). Two of these were specialised drug storage refrigerators with an incorporated thermostat and external temperature gauges."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "SUBJECTS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Child",
+            "Child Health Services",
+            "Drug Storage",
+            "Family Practice",
+            "Humans",
+            "Refrigeration",
+            "Time Factors",
+            "Vaccines"
+        ],
+        "YEAR": "1992",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Vaccines were exposed to temperatures that may reduce their potency. Safe storage of vaccines in the clinics cannot be ensured without adhering to the recommended guidelines. Provision of adequate equipment and training for staff in maintaining the \"cold chain\" and the use and care of equipment are important components of a successful immunisation programme."
+    }
+}

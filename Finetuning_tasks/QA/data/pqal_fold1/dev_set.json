@@ -1,0 +1,1711 @@
+{
+    "18251357": {
+        "QUESTION": "Does histologic chorioamnionitis correspond to clinical chorioamnionitis?",
+        "CONTEXTS": [
+            "To evaluate the degree to which histologic chorioamnionitis, a frequent finding in placentas submitted for histopathologic evaluation, correlates with clinical indicators of infection in the mother.",
+            "A retrospective review was performed on 52 cases with a histologic diagnosis of acute chorioamnionitis from 2,051 deliveries at University Hospital, Newark, from January 2003 to July 2003. Third-trimester placentas without histologic chorioamnionitis (n = 52) served as controls. Cases and controls were selected sequentially. Maternal medical records were reviewed for indicators of maternal infection.",
+            "Histologic chorioamnionitis was significantly associated with the usage of antibiotics (p = 0.0095) and a higher mean white blood cell count (p = 0.018). The presence of 1 or more clinical indicators was significantly associated with the presence of histologic chorioamnionitis (p = 0.019)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "STUDY DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Anti-Bacterial Agents",
+            "Case-Control Studies",
+            "Chorioamnionitis",
+            "Diagnosis, Differential",
+            "Female",
+            "Gestational Age",
+            "Humans",
+            "Infant, Newborn",
+            "Lymphocyte Count",
+            "Placenta",
+            "Pregnancy",
+            "Pregnancy Complications, Infectious",
+            "Pregnancy Trimester, Third",
+            "Puerperal Infection",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Histologic chorioamnionitis is a reliable indicator of infection whether or not it is clinically apparent."
+    },
+    "17606778": {
+        "QUESTION": "Can vitamin C prevent complex regional pain syndrome in patients with wrist fractures?",
+        "CONTEXTS": [
+            "Complex regional pain syndrome type I is treated symptomatically. A protective effect of vitamin C (ascorbic acid) has been reported previously. A dose-response study was designed to evaluate its effect in patients with wrist fractures.",
+            "In a double-blind, prospective, multicenter trial, 416 patients with 427 wrist fractures were randomly allocated to treatment with placebo or treatment with 200, 500, or 1500 mg of vitamin C daily for fifty days. The effect of gender, age, fracture type, and cast-related complaints on the occurrence of complex regional pain syndrome was analyzed.",
+            "Three hundred and seventeen patients with 328 fractures were randomized to receive vitamin C, and ninety-nine patients with ninety-nine fractures were randomized to receive a placebo. The prevalence of complex regional pain syndrome was 2.4% (eight of 328) in the vitamin C group and 10.1% (ten of ninety-nine) in the placebo group (p=0.002); all of the affected patients were elderly women. Analysis of the different doses of vitamin C showed that the prevalence of complex regional pain syndrome was 4.2% (four of ninety-six) in the 200-mg group (relative risk, 0.41; 95% confidence interval, 0.13 to 1.27), 1.8% (two of 114) in the 500-mg group (relative risk, 0.17; 95% confidence interval, 0.04 to 0.77), and 1.7% (two of 118) in the 1500-mg group (relative risk, 0.17; 95% confidence interval, 0.04 to 0.75). Early cast-related complaints predicted the development of complex regional pain syndrome (relative risk, 5.35; 95% confidence interval, 2.13 to 13.42)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Analysis of Variance",
+            "Antioxidants",
+            "Ascorbic Acid",
+            "Chi-Square Distribution",
+            "Dose-Response Relationship, Drug",
+            "Double-Blind Method",
+            "Female",
+            "Fractures, Bone",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Reflex Sympathetic Dystrophy",
+            "Treatment Outcome",
+            "Wrist Injuries"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Vitamin C reduces the prevalence of complex regional pain syndrome after wrist fractures. A daily dose of 500 mg for fifty days is recommended."
+    },
+    "19504993": {
+        "QUESTION": "It's Fournier's gangrene still dangerous?",
+        "CONTEXTS": [
+            "Fournier's gangrene is known to have an impact in the morbidity and despite antibiotics and aggressive debridement, the mortality rate remains high.",
+            "To assess the morbidity and mortality in the treatment of Fournier's gangrene in our experience.",
+            "The medical records of 14 patients with Fournier's gangrene who presented at the University Hospital Center \"Mother Teresa\" from January 1997 to December 2006 were reviewed retrospectively to analyze the outcome and identify the risk factor and prognostic indicators of mortality.",
+            "Of the 14 patients, 5 died and 9 survived. Mean age was 54 years (range from 41-61): it was 53 years in the group of survivors and 62 years in deceased group. There was a significant difference in leukocyte count between patients who survived (range 4900-17000/mm) and those died (range 20.300-31000/mm3). Mean hospital stay was about 19 days (range 2-57 days)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Female",
+            "Fournier Gangrene",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Survival Rate"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The interval from the onset of clinical symptoms to the initial surgical intervention seems to be the most important prognostic factor with a significant impact on outcome. Despite extensive therapeutic efforts, Fournier's gangrene remains a surgical emergency and early recognition with prompt radical debridement is the mainstays of management."
+    },
+    "19931500": {
+        "QUESTION": "Can the condition of the cell microenvironment of mediastinal lymph nodes help predict the risk of metastases in non-small cell lung cancer?",
+        "CONTEXTS": [
+            "The aim of this study was to analyze the properties of the immune cell microenvironment of regional lymph nodes (LNs) positive for lung cancer.",
+            "Twenty-four patients operated on for stages T1 and T2 of the NSCLC, were enrolled in the study. Peripheral blood and LN tissue were obtained from different lymph node sites and levels. As a control, LN tissue was taken from patients diagnosed with emphysema or pneumothorax. The cells from randomly chosen LN were tested by multi-color flow cytometry. Separate portions of LN were snap-frozen and examined for the presence of cytokeratin positive cells (CK). Propensity for apoptosis, level of TCR zeta chain expression of T cells and the number and maturation status of dendritic cells were confronted with the presence of CK-positive cells.",
+            "The presence of metastases correlated with the downregulation of TCR zeta, especially CD8(+) T cells. The most striking feature was the reduction in the number of myeloid CD11c(+) dendritic cells in the LN of patients with LN metastases. This could be a reflection of the immunodeficient state observed in lung cancer patients. Even in the absence of metastases in the regional LN, the same type of changes in the LN microenvironment were observed in those LN located nearer the primary tumor."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Carcinoma, Non-Small-Cell Lung",
+            "Cell Separation",
+            "Dendritic Cells",
+            "Female",
+            "Flow Cytometry",
+            "Humans",
+            "Lung Neoplasms",
+            "Lymph Nodes",
+            "Lymphatic Metastasis",
+            "Male",
+            "Mediastinum",
+            "Middle Aged",
+            "Neoplasm Staging",
+            "T-Lymphocyte Subsets",
+            "T-Lymphocytes"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The preliminary results of this study suggest that this approach may be helpful as an independent tumor staging factor. It is also worth noting that part of the staging process could also be based on features describing the immune cells in the peripheral blood."
+    },
+    "23222920": {
+        "QUESTION": "Pancreas retransplantation:  a second chance for diabetic patients?",
+        "CONTEXTS": [
+            "If pancreas transplantation is a validated alternative for type 1 diabetic patients with end-stage renal disease, the management of patients who have lost their primary graft is poorly defined. This study aims at evaluating pancreas retransplantation outcome.",
+            "Between 1976 and 2008, 569 pancreas transplantations were performed in Lyon and Geneva, including 37 second transplantations. Second graft survival was compared with primary graft survival of the same patients and the whole population. Predictive factors of second graft survival were sought. Patient survival and impact on kidney graft function and survival were evaluated.",
+            "Second pancreas survival of the 17 patients transplanted from 1995 was close to primary graft survival of the whole population (71% vs. 79% at 1 year and 59% vs. 69% at 5 years; P=0.5075) and significantly better than their first pancreas survival (71% vs. 29% at 1 year and 59% vs. 7% at 5 years; P=0.0008) regardless of the cause of first pancreas loss. The same results were observed with all 37 retransplantations. Survival of second simultaneous pancreas and kidney transplantations was better than survival of second pancreas after kidney. Patient survival was excellent (89% at 5 years). Pancreas retransplantation had no impact on kidney graft function and survival (100% at 5 years)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Diabetes Mellitus, Type 1",
+            "Female",
+            "France",
+            "Graft Rejection",
+            "Graft Survival",
+            "Humans",
+            "Kaplan-Meier Estimate",
+            "Kidney Failure, Chronic",
+            "Kidney Transplantation",
+            "Male",
+            "Middle Aged",
+            "Pancreas Transplantation",
+            "Postoperative Complications",
+            "Reoperation",
+            "Retrospective Studies",
+            "Switzerland",
+            "Time Factors",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Pancreas retransplantation is a safe procedure with acceptable graft survival that should be proposed to diabetic patients who have lost their primary graft."
+    },
+    "19327500": {
+        "QUESTION": "Gender difference in survival of resected non-small cell lung cancer: histology-related phenomenon?",
+        "CONTEXTS": [
+            "It remains controversial whether there is a gender difference in survival of patients with resected non-small cell lung cancer.",
+            "We retrospectively analyzed 2770 patients (1689 men and 1081 women) with non-small cell lung cancer who underwent pulmonary resection between 1995 and 2005 at the National Cancer Center Hospital, Tokyo. A gender difference in survival was studied in all patients, in those divided according to histology or pathologic stage, and in propensity-matched gender pairs.",
+            "There were no differences in background, such as preoperative pulmonary function, operation procedures, or operative mortality. The proportions of adenocarcinoma and pathologic stage I in women were greater than those in men (93.6% vs 61.7% and 71.4% vs 58.6%, respectively) (P<.001). Overall 5-year survival of women was better than that of men (81% vs 70%, P<.001). In adenocarcinoma, the overall 5-year survival for women was better than that for men in pathologic stage I (95% vs 87%, P<.001) and in pathologic stage II or higher (58% vs 51%, P = .017). In non-adenocarcinoma, there was no significant gender difference in survival in pathologic stage I (P = .313) or pathologic stage II or higher (P = .770). The variables such as age, smoking status, histology, and pathologic stage were used for propensity score matching, and survival analysis of propensity score-matched gender pairs did not show a significant difference (P = .69)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Carcinoma, Non-Small-Cell Lung",
+            "Female",
+            "Humans",
+            "Lung Neoplasms",
+            "Male",
+            "Middle Aged",
+            "Pneumonectomy",
+            "Retrospective Studies",
+            "Sex Factors",
+            "Survival Analysis"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Women had better survival than men; however, there was no survival advantage in propensity-matched gender pairs. A gender difference in survival was observed only in the adenocarcinoma subset, suggesting pathobiology in adenocarcinoma in women might be different from that of men."
+    },
+    "9792366": {
+        "QUESTION": "Is HIV/STD control in Jamaica making a difference?",
+        "CONTEXTS": [
+            "To assess the impact of the comprehensive HIV/STD Control Program established in Jamaica since the late 1980s on the HIV/AIDS epidemic.",
+            "AIDS case reports, HIV testing of blood donors, antenatal clinic attenders (ANC), food service workers, sexually transmitted disease (STD) clinic attenders, female prostitutes, homosexuals and other groups were used to monitor the HIV/AIDS epidemic. Primary and secondary syphilis and cases of congenital syphilis were also monitored. National knowledge, attitude and practice (KAP) surveys were conducted in 1988, 1989, 1992, 1994 and 1996.",
+            "The annual AIDS incidence rate in Jamaica increased only marginally in the past three years from 18.5 per 100000 population to 21.4 in 1997. HIV prevalence in the general population groups tested has been about 1% or less. Among those at high risk, HIV prevalence rates have risen to 6.3% (95% confidence interval 5.0-8.0) in STD clinic attenders, around 10% and 21% in female prostitutes in Kingston and Montego Bay respectively and approximately 30% among homosexuals. Syphilis rates and congenital syphilis cases have declined. The proportion of men aged 15-49 years reporting sex with a non-regular partner declined from 35% in 1994 to 26% in 1996 (P<0.001). Women ever having used condoms increased from 51% in 1988 to 62.5% in 1992 and 73% in 1994 and 1996 (P<0.001), while condom use with a non-regular partner increased from 37% in 1992 to 73% in 1996 (P= 0.006). Condom use among men was high over the period: around 81% had ever used condoms and 77% used them with non-regular partners. Gay men, inner-city adults and adolescents aged 12-14 years all reported increases in condom use while condom sales and distribution increased from around 2 million in 1985 to 10 million in 1995."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Child",
+            "Condoms",
+            "Confidence Intervals",
+            "Female",
+            "HIV Infections",
+            "HIV Seroprevalence",
+            "Health Knowledge, Attitudes, Practice",
+            "Humans",
+            "Incidence",
+            "Jamaica",
+            "Male",
+            "Middle Aged",
+            "Sexually Transmitted Diseases"
+        ],
+        "YEAR": "1998",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "HIV/STD control measures appear to have slowed the HIV/AIDS epidemic in Jamaica, however a significant minority of persons continue to have unprotected sex in high risk situations."
+    },
+    "14976655": {
+        "QUESTION": "Delayed peripheral facial palsy in the stapes surgery: can it be prevented?",
+        "CONTEXTS": [
+            "The aim of this study was to evaluate poststapedectomy-delayed facial palsy etiopathogenesis, risk factors, evolution, and prevention.",
+            "Seven hundred six stapedectomies performed in 580 patients were reviewed. In all patients who developed delayed facial palsy, the dates of onset and subside of facial palsy, the anatomic and pathologic predisposing factors, and a possible history for recurrent labial herpetic lesions were considered. The House-Brackmann (H-B) grading system was used to evaluate the facial function. Virus-specific immunoglobulin (Ig) G and IgM antibodies against herpes simplex virus type 1 (HSV-1) were determined by enzyme-linked immunosorbent assay (ELISA) 3 weeks after the onset of the paralysis. The results were compared with a control group without a history of recurrent herpes labialis.",
+            "Poststapedectomy facial palsy developed in 7 out of 706 procedures. All 7 patients referred a history of recurrent labial herpetic lesions. One patient showed a facial palsy H-B grade II, 2 a grade III, and 3 a grade IV. After acyclovir therapy, 6 subjects recovered completely, whereas 1 maintained an H-B grade II. An increased IgG antibody titer was found in 6 of the patients with delayed facial palsy and in 1 out of 7 controls. Mean IgG titer was 1:14,050 in the subjects with delayed facial palsy and 1:2,300 in controls (P<.001)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acyclovir",
+            "Adult",
+            "Antibodies, Viral",
+            "Antiviral Agents",
+            "Audiometry, Pure-Tone",
+            "Enzyme-Linked Immunosorbent Assay",
+            "Facial Paralysis",
+            "Female",
+            "Herpes Labialis",
+            "Herpesvirus 1, Human",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Postoperative Complications",
+            "Recurrence",
+            "Retrospective Studies",
+            "Risk Factors",
+            "Stapes Surgery",
+            "Virus Latency"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Poststapedectomy-delayed facial palsy is likely caused by a reactivation of HSV-1, latent within the geniculate ganglion. The activation of the latent virus is more frequent in patients with a history of herpes labialis and can be prevented by an adequate acyclovir therapy."
+    },
+    "11799314": {
+        "QUESTION": "Is external palliative radiotherapy for gallbladder carcinoma effective?",
+        "CONTEXTS": [
+            "Gallbladder carcinoma is characterized by delayed diagnosis, ineffective treatment and poor prognosis. Surgical resection has been thought to be the treatment of choice, while the role of radiotherapy as adjuvant or palliative treatment has not been fully clarified in the literature.",
+            "We present the case of a 45-year-old female, with unresectable gallbladder carcinoma, grade IV, histologically diagnosed during laparotomy. The patient was treated with palliative intent with percutaneous transhepatic biliary drainage. Furthermore, she received external radiotherapy by (60)Co, using a three-field technique (anterior-posterior and right lateral). The total dose was 3,000 cGy in 10 fractions, with 300 cGy per fraction, 5 days weekly.",
+            "The patient showed clinico-laboratory improvement and was discharged with a permanent percutaneous transhepatic endoprosthesis. During follow-up (10 and 12 months postirradiation), abdominal CTs showed no local extension of the tumor, while the patient had a good performance status. So far, 1 year after the diagnosis of gallbladder cancer she is still alive."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "PATIENT AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Cobalt Radioisotopes",
+            "Female",
+            "Follow-Up Studies",
+            "Gallbladder Neoplasms",
+            "Humans",
+            "Middle Aged",
+            "Neoplasm Staging",
+            "Palliative Care",
+            "Radioisotope Teletherapy",
+            "Radiotherapy Planning, Computer-Assisted",
+            "Tomography, X-Ray Computed"
+        ],
+        "YEAR": "2001",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "External radiotherapy seems to be a safe and effective method of palliative management of gallbladder carcinoma. However, further studies are necessary to determine the role of radiotherapy in palliative or adjuvant treatment of gallbladder carcinoma."
+    },
+    "17276801": {
+        "QUESTION": "Can elevated troponin I levels predict complicated clinical course and inhospital mortality in patients with acute pulmonary embolism?",
+        "CONTEXTS": [
+            "The purpose of this study was to evaluate the value of elevated cardiac troponin I (cTnI) for prediction of complicated clinical course and in-hospital mortality in patients with confirmed acute pulmonary embolism (PE).",
+            "This study was a retrospective chart review of patients diagnosed as having PE, in whom cTnI testing was obtained at emergency department (ED) presentation between January 2002 and April 2006. Clinical characteristics; echocardiographic right ventricular dysfunction; inhospital mortality; and adverse clinical events including need for inotropic support, mechanical ventilation, and thrombolysis were compared in patients with elevated cTnI levels vs patients with normal cTnI levels. One hundred sixteen patients with PE were identified, and 77 of them (66%) were included in the study. Thirty-three patients (42%) had elevated cTnI levels. Elevated cTnI levels were associated with inhospital mortality (P = .02), complicated clinical course (P<.001), and right ventricular dysfunction (P<.001). In patients with elevated cTnI levels, inhospital mortality (odds ratio [OR], 3.31; 95% confidence interval [CI], 1.82-9.29), hypotension (OR, 7.37; 95% CI, 2.31-23.28), thrombolysis (OR, 5.71; 95% CI, 1.63-19.92), need for mechanical ventilation (OR, 5.00; 95% CI, 1.42-17.57), and need for inotropic support (OR, 3.02; 95% CI, 1.03-8.85) were more prevalent. The patients with elevated cTnI levels had more serious vital parameters (systolic blood pressure, pulse, and oxygen saturation) at ED presentation."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS AND RESULTS"
+        ],
+        "MESHES": [
+            "Acute Disease",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Emergency Service, Hospital",
+            "Female",
+            "Hospital Mortality",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Predictive Value of Tests",
+            "Pulmonary Embolism",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Treatment Outcome",
+            "Troponin I"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Our results indicate that elevated cTnI levels are associated with higher risk for inhospital mortality and complicated clinical course. Troponin I may play an important role for the risk assessment of patients with PE. The idea that an elevation in cTnI levels is a valuable parameter for the risk stratification of patients with PE needs to be examined in larger prospective studies."
+    },
+    "23348330": {
+        "QUESTION": "Nasal fractures:  is closed reduction satisfying?",
+        "CONTEXTS": [
+            "This study aims to evaluate the efficacy of closed reduction and the effects of timing and fracture types on patient satisfaction.",
+            "Only patients with isolated nasal fractures were included in the study. Patients with additional maxillofacial fractures and patients whose application time to our clinic was more than 10 days after the trauma were excluded. Patients were classified into 5 types according to their fracture. All patients underwent closed reduction and external fixation under local anesthesia. Patients were asked about their satisfaction in a survey at 28th day and sixth month after the surgery. Patients were divided into groups according to fracture type and intervention time, and the results of the survey were evaluated.",
+            "Of the 43 patients included in the study, 38 were male, 5 were female, and the average age was 24.9. The average intervention time of the patients was 5.44 days. Twenty-eight (65%) of 43 patients were satisfied with the result, whereas 15 (35%) patients were not happy with their operation. In a comparison of patient satisfaction rates according to fracture type, the mild fracture group had a higher satisfaction rate compared to the severe fracture group."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Female",
+            "Fracture Fixation",
+            "Humans",
+            "Male",
+            "Nose",
+            "Patient Satisfaction",
+            "Skull Fractures",
+            "Treatment Outcome",
+            "Young Adult"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Closed reduction is an easy and sufficient treatment for nasal fractures, especially for mild nasal fractures. Early intervention raises the patient satisfaction rate."
+    },
+    "18607272": {
+        "QUESTION": "Body perception: do parents, their children, and their children's physicians perceive body image differently?",
+        "CONTEXTS": [
+            "To compare children's, parents' and physicians' perceptions of children's body size.",
+            "We administered a structured questionnaire of body size perception using a descriptive Likert scale keyed to body image figures to children ages 12 to 18 years. The same scale was given to parents of children ages 5 to 18 years. The sample consisted of 91 children and their parents being seen in the Pediatric Gastroenterology Clinic for concerns unrelated to overweight. Weight and height of the children were measured, and body mass index (BMI) was calculated. The children's BMI percentiles were categorized as underweight (<15th), normal (15th-85th), overweight (85th-95th), and obese (95th and above). The attending physician independently completed the body image and description scale and indicated the figure that most accurately represented the patient without reference to BMI standards. Accuracy of the patients', parents', and doctors' estimates were statistically compared.",
+            "The sample population consisted of 6.4% underweight, 70.5% normal weight, 7.7% overweight, and 15.4% obese. Forty-four percent of parents underestimated children's body size using word descriptions and 47% underestimated using figures. Forty percent of the children underestimated their own body size using descriptions and 43% underestimated using figures. The physicians in this study had a higher percentage of correct estimates; however, they underestimated 33% of the patients using both word descriptions and figures. Some obese children were not recognized, and several average children were perceived as underweight."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Awareness",
+            "Body Image",
+            "Body Mass Index",
+            "Child",
+            "Child, Preschool",
+            "Female",
+            "Health Knowledge, Attitudes, Practice",
+            "Health Surveys",
+            "Humans",
+            "Male",
+            "Obesity",
+            "Overweight",
+            "Parents",
+            "Perception",
+            "Physicians",
+            "Psychology, Child",
+            "Social Perception",
+            "Surveys and Questionnaires",
+            "Thinness"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Many children underestimated their degree of overweight. Their parents and even their attending physicians shared this misperception. This study demonstrates the need to further educate physicians to recognize obesity and overweight so that they can counsel children and their families."
+    },
+    "25446909": {
+        "QUESTION": "Oral mucocele/ranula: Another human immunodeficiency virus-related salivary gland disease?",
+        "CONTEXTS": [
+            "To describe clinical characteristics of oral mucoceles/ranulas, with a focus on human immunodeficiency virus (HIV)-related salivary gland diseases.",
+            "A descriptive and clinical study, with review of patient data.",
+            "We reviewed 113 referred cases of oral mucocele. The following anatomical sites were identified: lip, tongue, and floor of the mouth (simple ranulas), as well as plunging ranulas. The age and gender data of the patients with oral mucoceles were recorded. The HIV status of the patients and other information were reviewed.",
+            "There were 30 (26.5%) males and 83 (73.5%) females. Most patients were below 30 years of age, with the peak frequency in the first and second decade. Ranula (simple and plunging) represented 84.1% of the mucocele locations. Mucocele on the lips represented 10.6%. Seventy-two (63.7%) patients were HIV positive; and 97.2% of them had ranulas. Thirty-eight (33.6%) patients presented with plunging ranulas; and 92.1% of them were HIV positive, compared with two patients presenting with plunging ranulas in the HIV-negative group. These results strongly suggest that an HIV-positive patient is statistically (P<0.001) more at risk of presenting with not only a simple, but also a plunging ranula type."
+        ],
+        "LABELS": [
+            "HYPOTHESIS",
+            "STUDY DESIGN",
+            "MATERIAL AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Child",
+            "Child, Preschool",
+            "Diagnosis, Differential",
+            "Female",
+            "Follow-Up Studies",
+            "HIV",
+            "HIV Infections",
+            "Humans",
+            "Infant",
+            "Infant, Newborn",
+            "Male",
+            "Middle Aged",
+            "Mouth Diseases",
+            "Mucocele",
+            "Prevalence",
+            "Ranula",
+            "Salivary Gland Diseases",
+            "South Africa",
+            "Young Adult"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "This study presents a different clinical picture of oral mucoceles/ranulas, as observed in HIV-positive patients. Additionally, it suggests a possible clinical link between the two pathologies. The authors strongly support the suggestion that oral mucocele/ranula is an HIV-related salivary gland disease."
+    },
+    "14745753": {
+        "QUESTION": "Is half-dose contrast-enhanced three-dimensional MR angiography sufficient for the abdominal aorta and pelvis?",
+        "CONTEXTS": [
+            "To evaluate the usefulness of half-dose contrast-enhanced magnetic resonance (MR) angiography for depicting the abdominal aorta and its major branches.",
+            "A total of 72 consecutive patients were randomly assigned to one of four groups that underwent MR angiography after receiving different concentrations (original or diluted to 50%) and total amounts (single or half-dose) of gadolinium chelate injected at different rates (1 or 0.5 mL/second). The signal-to-noise ratio (SNR) and contrast-to-noise ratio (CNR) of the abdominal aorta and of the common and external iliac arteries were calculated, and two blinded readers rated the respective image qualities.",
+            "The SNR and CNR of the abdominal aorta and the common iliac artery in the 0.5 mL/second groups were statistically significantly lower than those in the 1 mL/second groups. The differences in overall image quality across the four groups were not statistically significant."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Analysis of Variance",
+            "Aorta, Abdominal",
+            "Contrast Media",
+            "Dose-Response Relationship, Drug",
+            "Female",
+            "Gadolinium DTPA",
+            "Humans",
+            "Imaging, Three-Dimensional",
+            "Injections, Intravenous",
+            "Magnetic Resonance Angiography",
+            "Middle Aged",
+            "Pelvis",
+            "Phantoms, Imaging",
+            "Statistics, Nonparametric"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Half-dose MR angiography using diluted contrast medium injected at a rate of 1 mL/second depicted the abdominal aorta and its branches as clearly as using a full single dose."
+    },
+    "15125825": {
+        "QUESTION": "Starting insulin in type 2 diabetes: continue oral hypoglycemic agents?",
+        "CONTEXTS": [
+            "To evaluate the effects of insulin 30/70 twice daily or bedtime isophane (NPH) insulin plus continued sulfonylurea and metformin in patients with type 2 diabetes in primary care.",
+            "Open-label, randomized trial.",
+            "Persons younger than 76 years with type 2 diabetes whose disease had not been controlled with oral hypoglycemic agents alone. A total of 64 insulin-naive patients treated with maximal feasible dosages of sulfonylurea and metformin (baseline glycosylated hemoglobin [HbA1c]=8.5%) were randomly assigned to insulin monotherapy (IM group; n=31) or insulin in addition to unchanged oral hypoglycemic medication (IC group; n=33) for 12 months. Insulin doses were adjusted to obtain fasting glucose<7.0 mmol/L and postprandial glucose<10.0 mmol/L.",
+            "Outcome measures included HbA1c, treatment failure, weight, hypoglycemic events and symptoms, satisfaction with treatment, general well-being, and fear of injecting insulin and testing.",
+            "HbA1c improved from 8.3% to 7.6% in the IC group, and from 8.8% to 7.6% in the IM group (P=NS). The IC group had 24% treatment failures, compared with 2% in the IM group (P=.09). Patients in the IC group had less weight gain than those in the IM group (1.3 vs 4.2 kg; P=.01), and they reported fewer hypoglycemic events (2.7 vs 4.3; P=.02). Increased satisfaction with treatment was equal in the 2 groups, and general well-being improved by 3.0 points more in the IC group (P=.05). Fear of self-injecting and self-testing did not differ."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "STUDY DESIGN",
+            "POPULATION",
+            "OUTCOMES MEASURED",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Analysis of Variance",
+            "Diabetes Mellitus, Type 2",
+            "Drug Therapy, Combination",
+            "Female",
+            "Glycated Hemoglobin A",
+            "Humans",
+            "Hypoglycemic Agents",
+            "Insulin",
+            "Insulin, Isophane",
+            "Male",
+            "Metformin",
+            "Middle Aged",
+            "Sulfonylurea Compounds"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Bedtime NPH insulin added to maximal therapy with sulfonylurea and metformin is an effective, simple, well-tolerated approach for patients with uncontrolled type 2 diabetes."
+    },
+    "17062225": {
+        "QUESTION": "Thoracic and thoracoabdominal aneurysm repair: is reimplantation of spinal cord arteries a waste of time?",
+        "CONTEXTS": [
+            "The impact of different strategies for management of intercostal and lumbar arteries during repair of thoracic and thoracoabdominal aortic aneurysms (TAA/A) on the prevention of paraplegia remains poorly understood.",
+            "One hundred consecutive patients with intraoperative monitoring of motor evoked potentials (MEP) and somatosensory evoked potentials (SSEP) during TAA/A repair involving serial segmental artery sacrifice (October 2002 to December 2004) were reviewed.",
+            "Operative mortality was 6%. The median intensive care unit stay was 2.5 days (IQ range: 1-4 days), and the median hospital stay 10.0 days (IQ range: 8-17 days). Potentials remained unchanged during the course of serial segmental artery sacrifice, or could be returned to baseline levels by anesthetic and blood pressure manipulation, in 99 of 100 cases. An average of 8.0 +/- 2.6 segmental artery pairs were sacrificed overall, with an average of 4.5 +/- 2.1 segmental pairs sacrificed between T7 and L1, where the artery of Adamkiewicz is presumed to arise. Postoperative paraplegia occurred in 2 patients. In 1, immediate paraplegia was precipitated by an intraoperative dissection, resulting in 6 hours of lower body ischemia. A second ambulatory patient had severe paraparesis albeit normal cerebral function after resuscitation from a respiratory arrest."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Aortic Aneurysm, Abdominal",
+            "Aortic Aneurysm, Thoracic",
+            "Arteries",
+            "Blood Vessel Prosthesis Implantation",
+            "Evoked Potentials, Motor",
+            "Evoked Potentials, Somatosensory",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Monitoring, Intraoperative",
+            "Paraplegia",
+            "Replantation",
+            "Retrospective Studies",
+            "Spinal Cord"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "With monitoring of MEP and SSEP, sacrifice--without reimplantation--of as many as 15 intercostal and lumbar arteries during TAA/A repair is safe, resulting in acceptably low rates of immediate and delayed paraplegia. This experience suggests that routine surgical implantation of segmental vessels is not indicated, and that, with evolving understanding of spinal cord perfusion, endovascular repair of the entire thoracic aorta should ultimately be possible without spinal cord injury."
+    },
+    "16432652": {
+        "QUESTION": "Transgastric endoscopic splenectomy: is it possible?",
+        "CONTEXTS": [
+            "We have previously reported the feasibility of diagnostic and therapeutic peritoneoscopy including liver biopsy, gastrojejunostomy, and tubal ligation by an oral transgastric approach. We present results of per-oral transgastric splenectomy in a porcine model. The goal of this study was to determine the technical feasibility of per-oral transgastric splenectomy using a flexible endoscope.",
+            "We performed acute experiments on 50-kg pigs. All animals were fed liquids for 3 days prior to procedure. The procedures were performed under general anesthesia with endotracheal intubation. The flexible endoscope was passed per orally into the stomach and puncture of the gastric wall was performed with a needle knife. The puncture was extended to create a 1.5-cm incision using a pull-type sphincterotome, and a double-channel endoscope was advanced into the peritoneal cavity. The peritoneal cavity was insufflated with air through the endoscope. The spleen was visualized. The splenic vessels were ligated with endoscopic loops and clips, and then mesentery was dissected using electrocautery.",
+            "Endoscopic splenectomy was performed on six pigs. There were no complications during gastric incision and entrance into the peritoneal cavity. Visualization of the spleen and other intraperitoneal organs was very good. Ligation of the splenic vessels and mobilization of the spleen were achieved using commercially available devices and endoscopic accessories."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Animals",
+            "Endoscopy",
+            "Models, Animal",
+            "Spleen",
+            "Splenectomy",
+            "Stomach",
+            "Swine"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Transgastric endoscopic splenectomy in a porcine model appears technically feasible. Additional long-term survival experiments are planned."
+    },
+    "23506394": {
+        "QUESTION": "Malnutrition, a new inducer for arterial calcification in hemodialysis patients?",
+        "CONTEXTS": [
+            "Arterial calcification is a significant cardiovascular risk factor in hemodialysis patients. A series of factors are involved in the process of arterial calcification; however, the relationship between malnutrition and arterial calcification is still unclear.",
+            "68 hemodialysis patients were enrolled in this study. Nutrition status was evaluated using modified quantitative subjective global assessment (MQSGA). Related serum biochemical parameters were measured. And the radial artery samples were collected during the arteriovenous fistula surgeries. Hematoxylin/eosin stain was used to observe the arterial structures while Alizarin red stain to observe calcified depositions and classify calcified degree. The expressions of bone morphogenetic protein 2 (BMP2) and matrix Gla protein (MGP) were detected by immunohistochemistry and western blot methods.",
+            "66.18% hemodialysis patients were malnutrition. In hemodialysis patients, the calcified depositions were mainly located in the medial layer of the radial arteries and the expressions of BMP2 and MGP were both increased in the calcified areas. The levels of serum albumin were negatively associated with calcification score and the expressions of BMP2 and MGP. While MQSGA score, serum phosphorus and calcium\u2009\u00d7\u2009phosphorus product showed positive relationships with calcification score and the expressions of BMP2 and MGP."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Arteries",
+            "Blotting, Western",
+            "Bone Morphogenetic Protein 2",
+            "Calcinosis",
+            "Calcium",
+            "Calcium-Binding Proteins",
+            "Extracellular Matrix Proteins",
+            "Humans",
+            "Immunohistochemistry",
+            "Malnutrition",
+            "Phosphorus",
+            "Renal Dialysis",
+            "Serum Albumin"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Malnutrition is prevalent in hemodialysis patients and is associated with arterial calcification and the expressions of BMP2 and MGP in calcified radial arteries. Malnutrition may be a new inducer candidate for arterial calcification in hemodialysis patients."
+    },
+    "2503176": {
+        "QUESTION": "Inhibin: a new circulating marker of hydatidiform mole?",
+        "CONTEXTS": [
+            "To define the concentrations of inhibin in serum and tissue of patients with hydatidiform mole and assess their value as a clinical marker of the condition.",
+            "Prospective study of new patients with hydatidiform mole, comparison of paired observations, and case-control analysis.",
+            "A university hospital, two large public hospitals, and a private women's clinic in Japan.",
+            "Seven consecutive referred patients seen over four months with newly diagnosed complete hydatidiform mole, including one in whom the mole was accompanied by viable twin fetuses (case excluded from statistical analysis because of unique clinical features). All patients followed up for six months after evacuation of molar tissue.",
+            "Correlation of serum inhibin concentrations with trophoblastic disease.",
+            "Serum concentrations of inhibin, human chorionic gonadotrophin, and follicle stimulating hormone were compared before and seven to 10 days after evacuation of the mole. Before evacuation the serum inhibin concentrations (median 8.3 U/ml; 95% confidence interval 2.4 to 34.5) were significantly greater than in 21 normal women at the same stage of pregnancy (2.8 U/ml; 2.1 to 3.6), and inhibin in molar tissue was also present in high concentrations (578 U/ml cytosol; 158 to 1162). Seven to 10 days after evacuation inhibin concentrations in serum samples from the same patients declined significantly to values (0.4 U/ml; 0.1 to 1.4) similar to those seen in the follicular phase of normal menstrual cycles. None of the four patients whose serum inhibin concentrations were 0.4 U/ml or less after evacuation developed persistent trophoblastic disease. Though serum human chorionic gonadotrophin concentrations declined after evacuation (6.6 x 10(3) IU/l; 0.8 x 10(3) to 32.6 x 10(3], they remained far higher than in non-pregnant women. Serum follicle stimulating hormone concentrations remained suppressed."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PATIENTS",
+            "END POINT",
+            "MEASUREMENTS AND MAIN RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Biomarkers, Tumor",
+            "Chorionic Gonadotropin",
+            "Female",
+            "Humans",
+            "Hydatidiform Mole",
+            "Inhibins",
+            "Middle Aged",
+            "Pregnancy",
+            "Radioimmunoassay",
+            "Uterine Neoplasms"
+        ],
+        "YEAR": "1989",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "In this small study serum inhibin concentrations higher than those found in the early follicular phase one to two weeks after evacuation of a hydatidiform mole seemed to be specific for persistent trophoblastic disease. Further data are needed to confirm these promising results."
+    },
+    "26818046": {
+        "QUESTION": "Could Adult European Pharmacoresistant Epilepsy Patients Be Treated With Higher Doses of Zonisamide?",
+        "CONTEXTS": [
+            "To examine the clinical effect (efficacy and tolerability) of high doses of zonisamide (ZNS) (>500 mg/d) in adult patients with pharmacoresistant epilepsy.",
+            "Between 2006 and 2013, all epileptic outpatients treated with high doses of ZNS were selected. Safety and efficacy were assessed based on patient and caregiver reports. Serum levels of ZNS and other concomitant antiepileptic drugs were evaluated if available.",
+            "Nine patients (5 female): 8 focal/1 generalized pharmacoresistant epilepsy. Mean age: 34 years. Most frequent seizure type: complex partial seizures; other seizure types: generalized tonic-clonic, tonic, myoclonia. Zonisamide in polytherapy in all (100%), administered in tritherapy in 3 (33%) of 9 patients; mean dose: 633 (600-700) mg/d; efficacy (>50% seizure reduction) was observed in 5 (55%) of 9 patients. Five of 9 patients are still taking high doses of ZNS (more than 1 year). Adverse events were observed in 3 (37%) of 8 patients. Good tolerance to high doses of other antiepileptic drugs had been observed in 6 (66%) of 9 patients. Plasma levels of ZNS were only available in 2 patients; both were in the therapeutic range (34.95, 30.91) (10-40 mg/L)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Anticonvulsants",
+            "Dose-Response Relationship, Drug",
+            "Drug Resistant Epilepsy",
+            "Europe",
+            "Female",
+            "Humans",
+            "Isoxazoles",
+            "Male",
+            "Middle Aged",
+            "Retrospective Studies",
+            "Treatment Outcome",
+            "Young Adult"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "High doses of ZNS are effective and safe in pharmacoresistant epileptic patients. Therapeutic drug monitoring of ZNS may be considered at therapeutic failure."
+    },
+    "23264436": {
+        "QUESTION": "Follow-up of patients with new cardiovascular implantable electronic devices: are experts' recommendations implemented in routine clinical practice?",
+        "CONTEXTS": [
+            "A 2008 expert consensus statement outlined the minimum frequency of follow-up of patients with cardiovascular implantable electronic devices (CIEDs).",
+            "We studied 38 055 Medicare beneficiaries who received a new CIED between January 1, 2005, and June 30, 2009. The main outcome measure was variation of follow-up by patient factors and year of device implantation. We determined the number of patients who were eligible for and attended an in-person CIED follow-up visit within 2 to 12 weeks, 0 to 16 weeks, and 1 year after implantation. Among eligible patients, 42.4% had an initial in-person visit within 2 to 12 weeks. This visit was significantly more common among white patients than black patients and patients of other races (43.0% versus 36.8% versus 40.5%; P<0.001). Follow-up within 2 to 12 weeks improved from 40.3% in 2005 to 55.1% in 2009 (P<0.001 for trend). The rate of follow-up within 0 to 16 weeks was 65.1% and improved considerably from 2005 to 2009 (62.3%-79.6%; P<0.001 for trend). Within 1 year, 78.0% of the overall population had at least 1 in-person CIED follow-up visit."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS AND RESULTS"
+        ],
+        "MESHES": [
+            "African Americans",
+            "Aftercare",
+            "Aged",
+            "Aged, 80 and over",
+            "Cardiac Resynchronization Therapy",
+            "Cardiac Resynchronization Therapy Devices",
+            "Chi-Square Distribution",
+            "Continuity of Patient Care",
+            "Defibrillators, Implantable",
+            "Electric Countershock",
+            "Equipment Design",
+            "European Continental Ancestry Group",
+            "Female",
+            "Follow-Up Studies",
+            "Guideline Adherence",
+            "Humans",
+            "Male",
+            "Medicare",
+            "Practice Guidelines as Topic",
+            "Practice Patterns, Physicians'",
+            "Time Factors",
+            "Treatment Outcome",
+            "United States"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Although most Medicare beneficiaries who received a new CIED between 2005 and 2009 did not have an initial in-person CIED follow-up visit within 2 to 12 weeks after device implantation, the rate of initial follow-up improved appreciably over time. This CIED follow-up visit was significantly more common in white patients than in patients of other races."
+    },
+    "17244100": {
+        "QUESTION": "Can patient coaching reduce racial/ethnic disparities in cancer pain control?",
+        "CONTEXTS": [
+            "Minority patients with cancer experience worse control of their pain than do their white counterparts. This disparity may, in part, reflect more miscommunication between minority patients and their physicians. Therefore, we examined whether patient coaching could reduce disparities in pain control in a secondary analysis of a randomized controlled trial.",
+            "Sixty-seven English-speaking adult cancer outpatients, including 15 minorities, with moderate pain over the prior 2 weeks were randomly assigned to the experimental (N = 34) or control group (N = 33). Experimental patients received a 20-minute individualized education and coaching session to increase knowledge of pain self-management, to redress personal misconceptions about pain treatment, and to rehearse an individually scripted patient-physician dialog about pain control. The control group received standardized information on controlling pain. Data on average pain (0-10 scale) were collected at enrollment and 2-week follow-up.",
+            "At enrollment, minority patients had significantly more pain than their white counterparts (6.0 vs 5.0, P = 0.05). At follow-up, minorities in the control group continued to have more pain (6.4 vs 4.7, P = 0.01), whereas in the experimental group, disparities were eliminated (4.0 vs 4.3, P = 0.71). The effect of the intervention on reducing disparities was significant (P = 0.04)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Communication",
+            "Communication Barriers",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Minority Groups",
+            "Neoplasms",
+            "Pain",
+            "Pain Management",
+            "Patient Education as Topic",
+            "Physician-Patient Relations",
+            "Randomized Controlled Trials as Topic"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Patient coaching offers promise as a means of reducing racial/ethnic disparities in pain control. Larger studies are needed to validate these findings and to explore possible mechanisms."
+    },
+    "19156007": {
+        "QUESTION": "Can clinicians use the PHQ-9 to assess depression in people with vision loss?",
+        "CONTEXTS": [
+            "To investigate whether the Patient Health Questionnaire-9 (PHQ-9) possesses the essential psychometric characteristics to measure depressive symptoms in people with visual impairment.",
+            "The PHQ-9 scale was completed by 103 participants with low vision. These data were then assessed for fit to the Rasch model.",
+            "The participants' mean +/- standard deviation (SD) age was 74.7 +/- 12.2 years. Almost one half of them (n = 46; 44.7%) were considered to have severe vision impairment (presenting visual acuity<6/60 in the better eye). Disordered thresholds were evident initially. Collapsing the two middle categories produced ordered thresholds and fit to the Rasch model (chi = 10.1; degrees of freedom = 9; p = 0.34). The mean (SD) items and persons Fit Residual values were -0.31 (1.12) and -0.25 (0.78), respectively, where optimal fit of data to the Rasch model would have a mean = 0 and SD = 1. Unidimensionality was demonstrated confirming the construct validity of the PHQ-9 and there was no evidence of differential item functioning on a number of factors including visual disability. The person separation reliability value was 0.80 indicating that the PHQ-9 has satisfactory precision. There was a degree of mistargeting as expected in this largely non-clinically depressed sample."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Activities of Daily Living",
+            "Aged",
+            "Blindness",
+            "Depression",
+            "Female",
+            "Humans",
+            "Male",
+            "Psychometrics",
+            "Severity of Illness Index",
+            "Surveys and Questionnaires",
+            "Visual Acuity"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Our findings demonstrate that the PHQ-9, when scaled with Rasch analysis, forms a linear interval measurement of depressive symptoms suitable for use in a vision impaired population."
+    },
+    "19409117": {
+        "QUESTION": "Can infundibular height predict the clearance of lower pole calyceal stone after extracorporeal shockwave lithotripsy?",
+        "CONTEXTS": [
+            "To evaluate the efficacy of extracorporeal shock wave lithotripsy (SWL) on lower calyceal calculi in relation to the renal anatomical factors and determine which of these factors can be used to select patients who will benefit from SWL.",
+            "We analyzed retrospectively 78 patients with single radiopaque lower calyceal stones treated with SWL. The patients were evaluated 3 months after lithotripsy with a simple abdominal X-ray and a kidney ultrasound scan. The success of the treatment, removal of all fragments, was correlated with renal anatomical factors measured in the pre-treatment intravenous urography: infundibulopelvic angle, lower infundibulum width, lower infundibulum length, ratio length/width, infundibulum height, and number of minor calyces in the lower calyceal group.",
+            "Three months after SWL treatment, 39 patients were stone-free (NR group) and 39 had residual fragments (R group). Both groups presented no differences in relation to infundibulopelvic angle, width and length of the lower calyceal infundibulum, length/width ratio of the lower infundibulum or number of lower calyces. Height of the infundibulum, described as the distance between the line passing through the lowest part of the calyx containing the calculus and the highest point of the lower lip of renal pelvis, was the only parameter in which significant differences (p = 0.002) were found between the NR and R groups."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Female",
+            "Humans",
+            "Kidney Calculi",
+            "Kidney Calices",
+            "Lithotripsy",
+            "Logistic Models",
+            "Male",
+            "Middle Aged",
+            "ROC Curve",
+            "Retrospective Studies",
+            "Treatment Outcome"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Lower Infundibular height could be a good measurement tool for deciding which patients with lower calyceal lithiasis would benefit from SWL treatment. Height of less than 22 mm suggests a good outcome from lithotripsy."
+    },
+    "20073599": {
+        "QUESTION": "Do liquid-based preparations of urinary cytology perform differently than classically prepared cases?",
+        "CONTEXTS": [
+            "The cytomorphology of liquid-based preparations in urine cytology is different than classic slide preparations.",
+            "To compare the performance of liquid-based preparation specimens to classically prepared urine specimens with a malignant diagnosis in the College of American Pathologists Interlaboratory Comparison Program in Nongynecologic Cytology.",
+            "Participant responses between 2000 and 2007 for urine specimens with a reference diagnosis of high-grade urothelial carcinoma/carcinoma in situ/dysplasia (HGUCA), squamous cell carcinoma, or adenocarcinoma were evaluated. ThinPrep and SurePath challenges were compared with classic preparations (smears, cytospins) for discordant responses.",
+            "There were 18 288 pathologist, 11 957 cytotechnologist, and 8086 \"laboratory\" responses available. Classic preparations comprised 90% (n = 34 551) of urine challenges; 9% (n = 3295) were ThinPrep and 1% (n = 485) were SurePath. Concordance to the general category of \"positive-malignant\" was seen in 92% of classic preparations, 96.5% of ThinPrep, and 94.6% of SurePath challenges (P<.001). These results were statistically different for the exact reference interpretation of HGUCA (P<.001) but not for adenocarcinoma (P = .22). Cytotechnologists demonstrate statistically better performance for the general category of \"positive-malignant\" compared with pathologists for all urinary slide types and for the exact reference interpretation of HGUCA (94% versus 91.1%; P<.001) but not adenocarcinoma (96.3% versus 95.8%; P = .77) or squamous cell carcinoma (93.6% versus 87.7%; P = .07)."
+        ],
+        "LABELS": [
+            "CONTEXT",
+            "OBJECTIVES",
+            "DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adenocarcinoma",
+            "Carcinoma in Situ",
+            "Carcinoma, Squamous Cell",
+            "Cytological Techniques",
+            "Diagnosis, Differential",
+            "Humans",
+            "Pathology, Clinical",
+            "Societies, Medical",
+            "United States",
+            "Urinary Bladder Neoplasms",
+            "Urine"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Liquid-based preparations performed significantly better in urinary cytology challenges when evaluating malignant categories in the College of American Pathologists interlaboratory comparison program. The liquid-based preparation challenges also performed better for the exact reference interpretation of HGUCA, but no difference was observed for adenocarcinoma challenges. Cytotechnologists perform better than pathologists for all slide types, as well as those demonstrating HGUCA. These results suggest that liquid-based preparations facilitate a more accurate diagnosis than conventional preparations."
+    },
+    "15223725": {
+        "QUESTION": "Does blood pressure change in treated hypertensive patients depending on whether it is measured by a physician or a nurse?",
+        "CONTEXTS": [
+            "To determine whether there are differences between blood pressure (BP) measured by the nurse (NBP), BP measured by the physician (PBP) and self-measured BP in treated hypertensive patients and, if found, to evaluate their clinical importance.",
+            "An observational study is carried out with hypertensive patients recruited from two village-based community health centres in Catalonia (Spain) serving an area with a total population of 2800 inhabitants. All patients treated for hypertension visiting the health centre on a specific day of the week and during the same timetable between October 2000 and May 2001 were included.",
+            "The difference between physician-systolic BP and nurse-systolic BP was 5.16 mmHg (95% CI 2.62-7.7; p<0.001). The difference between physician-systolic BP and self-measured systolic BP was 4.67 mmHg (95% CI 0.89-8.44; p=0.016). The differences between nurse-systolic BP and self-measured systolic BP were not significant (0.49 mmHg; 95% CI 3.71-2.71; p=0.758). With regards to diastolic BP, no significant differences were found between the different ways of measurement. NBP gave the following values: sensitivity (Sn) of 92% and specificity (Sp) of 60%; positive predictive value (PPV) of 65.7% and negative predictive value (NPV) of 90% with a positive coefficient of probability (CP+) of 2.3 and a negative coefficient of probability (CP-) of 0.133. PBP gave the following results: Sn=72%; Sp=66.7%; PPV=64.3%; NPV=74.1%; CP+=2.16 and CP- = 0.420."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Antihypertensive Agents",
+            "Blood Pressure Determination",
+            "Female",
+            "Humans",
+            "Hypertension",
+            "Male",
+            "Middle Aged",
+            "Nurse's Role",
+            "Physician's Role",
+            "Self Care",
+            "Spain"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Systolic BP measured by the nurse in treated hypertensive patients is significantly lower than the readings obtained by the physician, and are almost identical to ambulatory BP monitoring. Blood pressure determination by the nurse is desirable not only for diagnosis but also to evaluate the level of control of blood pressure during the follow-up of treated hypertensive patients."
+    },
+    "23831910": {
+        "QUESTION": "Double balloon enteroscopy: is it efficacious and safe in a community setting?",
+        "CONTEXTS": [
+            "From March 2007 to January 2011, 88 DBE procedures were performed on 66 patients. Indications included evaluation anemia/gastrointestinal bleed, small bowel IBD and dilation of strictures. Video-capsule endoscopy (VCE) was used prior to DBE in 43 of the 66 patients prior to DBE evaluation.",
+            "The mean age was 62 years. Thirty-two patients were female, 15 were African-American; 44 antegrade and 44 retrograde DBEs were performed. The mean time per antegrade DBE was 107.4\u00b130.0 minutes with a distance of 318.4\u00b1152.9 cm reached past the pylorus. The mean time per lower DBE was 100.7\u00b127.3 minutes with 168.9\u00b1109.1 cm meters past the ileocecal valve reached. Endoscopic therapy in the form of electrocautery to ablate bleeding sources was performed in 20 patients (30.3%), biopsy in 17 patients (25.8%) and dilation of Crohn's-related small bowel strictures in 4 (6.1%). 43 VCEs with pathology noted were performed prior to DBE, with findings endoscopically confirmed in 32 cases (74.4%). In 3 cases the DBE showed findings not noted on VCE."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Community Health Centers",
+            "Double-Balloon Enteroscopy",
+            "Female",
+            "Humans",
+            "Intestinal Diseases",
+            "Male",
+            "Middle Aged"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "DBE appears to be equally safe and effective when performed in the community setting as compared to a tertiary referral center with a comparable yield, efficacy, and complication rate."
+    },
+    "11713724": {
+        "QUESTION": "Cancer of the buccal mucosa: are margins and T-stage accurate predictors of local control?",
+        "CONTEXTS": [
+            "Cancer of the buccal mucosa is an uncommon and aggressive neoplasm of the oral cavity. Less than 2% of patients treated for cancer of the oral cavity at Roswell Park Cancer Institute (RPCI) from 1971 to 1997 had primary buccal cancers. Because the majority of these patients did not undergo any adjuvant treatment, this group provided us with the opportunity to assess the relationship between margin status and local recurrence for both small (T1-T2) and large (T3-T4) tumors treated with surgery alone.",
+            "The RPCI tumor registry database reported 104 patients who were treated for buccal carcinoma. A retrospective chart review identified 27 patients who met our criteria for a buccal mucosal primary tumor (epicenter of the mass in the buccal mucosa). There were 13 men and 14 women, ranging in age from 34 to 94 years (mean, 75). Data were collected regarding patient demographics, presenting symptoms, stage, treatment received, and outcome.",
+            "All patients underwent surgical resection of their primary lesion; 21 (75%) had T1 or T2 tumors. The rate of local recurrence was 56% for the group as a whole. Patients with close or positive margins had a 66% local failure rate as compared with 52% when surgical margins were negative (greater than or equal to 5 mm from the resection margin after tissue fixation; P = ns). Among those in whom negative margins were achieved, patients with T1-T2 disease had a 40% local failure rate with surgical resection alone."
+        ],
+        "LABELS": [
+            "UNLABELLED",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Biopsy, Needle",
+            "Carcinoma, Squamous Cell",
+            "Cheek",
+            "Disease-Free Survival",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Mouth Mucosa",
+            "Mouth Neoplasms",
+            "Neoplasm Staging",
+            "Predictive Value of Tests",
+            "Probability",
+            "Prognosis",
+            "Registries",
+            "Retrospective Studies",
+            "Sensitivity and Specificity",
+            "Survival Rate"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Local excision of T1 and T2 buccal mucosa cancers with pathologically negative margins had a high rate of local recurrence in our series. Low T-stage and negative margins are not adequate predictors of local control. Even early buccal tumors may benefit from adjuvant therapy to enhance local control."
+    },
+    "18619710": {
+        "QUESTION": "Patient comprehension of emergency department care and instructions: are patients aware of when they do not understand?",
+        "CONTEXTS": [
+            "To be able to adhere to discharge instructions after a visit to the emergency department (ED), patients should understand both the care that they received and their discharge instructions. The objective of this study is to assess, at discharge, patients' comprehension of their ED care and instructions and their awareness of deficiencies in their comprehension.",
+            "We conducted structured interviews of 140 adult English-speaking patients or their primary caregivers after ED discharge in 2 health systems. Participants rated their subjective understanding of 4 domains: (1) diagnosis and cause; (2) ED care; (3) post-ED care, and (4) return instructions. We assessed patient comprehension as the degree of agreement (concordance) between patients' recall of each of these domains and information obtained from chart review. Two authors scored each case independently and discussed discrepancies before providing a final concordance rating (no concordance, minimal concordance, partial concordance, near concordance, complete concordance).",
+            "Seventy-eight percent of patients demonstrated deficient comprehension (less than complete concordance) in at least 1 domain; 51% of patients, in 2 or more domains. Greater than a third of these deficiencies (34%) involved patients' understanding of post-ED care, whereas only 15% were for diagnosis and cause. The majority of patients with comprehension deficits failed to perceive them. Patients perceived difficulty with comprehension only 20% of the time when they demonstrated deficient comprehension."
+        ],
+        "LABELS": [
+            "STUDY OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Comprehension",
+            "Emergency Medical Services",
+            "Female",
+            "Humans",
+            "Interviews as Topic",
+            "Male",
+            "Mental Recall",
+            "Michigan",
+            "Middle Aged",
+            "Patient Compliance",
+            "Patient Education as Topic",
+            "Patients"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Many patients do not understand their ED care or their discharge instructions. Moreover, most patients appear to be unaware of their lack of understanding and report inappropriate confidence in their comprehension and recall."
+    },
+    "23252468": {
+        "QUESTION": "Do episodic migraineurs selectively attend to headache-related visual stimuli?",
+        "CONTEXTS": [
+            "To assess pain-related attentional biases among individuals with episodic migraine.",
+            "Prior studies have examined whether chronic pain patients selectively attend to pain-related stimuli in the environment, but these studies have produced largely mixed findings and focused primarily on patients with chronic musculoskeletal pain. Limited research has implicated attentional biases among chronic headache patients, but no studies have been conducted among episodic migraineurs, who comprise the overwhelming majority of the migraine population.",
+            "This was a case-control, experimental study. Three hundred and eight participants (mean age\u2009=\u200919.2 years [standard deviation\u2009=\u20093.3]; 69.5% female; 36.4% minority), consisting of 84 episodic migraineurs, diagnosed in accordance with International Classification of Headache Disorders (2(nd) edition) criteria using a structured diagnostic interview, and 224 non-migraine controls completed a computerized dot probe task to assess attentional bias toward headache-related pictorial stimuli. The task consisted of 192 trials and utilized 2 emotional-neutral stimulus pairing conditions (headache-neutral and happy-neutral).",
+            "No within-group differences for reaction time latencies to headache vs happy conditions were found among those with episodic migraine or among the non-migraine controls. Migraine status was unrelated to attentional bias indices for both headache (F [1,306]\u2009=\u20090.56, P\u2009=\u2009.45) and happy facial stimuli (F [1,306]\u2009=\u20090.37, P\u2009=\u2009.54), indicating a lack of between-group differences. Lack of within- and between-group differences was confirmed with repeated measures analysis of variance."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Attention",
+            "Bias",
+            "Case-Control Studies",
+            "Disability Evaluation",
+            "Emotions",
+            "Female",
+            "Headache",
+            "Humans",
+            "Male",
+            "Migraine Disorders",
+            "Photic Stimulation",
+            "Reaction Time",
+            "Surveys and Questionnaires",
+            "Young Adult"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "In light of the large sample size and prior pilot testing of presented images, results suggest that episodic migraineurs do not differentially attend to headache-related facial stimuli. Given modest evidence of attentional biases among chronic headache samples, these findings suggest potential differences in attentional processing between chronic and episodic headache subforms."
+    },
+    "9645785": {
+        "QUESTION": "Is a mandatory general surgery rotation necessary in the surgical clerkship?",
+        "CONTEXTS": [
+            "Changes in the spectrum of general surgery and the delivery of surgical care have placed the requirement for a mandatory general surgery rotation in the surgical clerkship in question.",
+            "We tested the hypothesis that equal mastery of surgical clerkship objectives can be obtained in a clerkship with and without general surgery. Students chose any two surgical rotations and were assessed by written examination, objective structured clinical examination (OSCE), ward evaluations, self-assessment objectives questionnaire, and satisfaction survey.",
+            "Data for 54 students showed no differences in scores between groups on any parameter. No specific concerns related to the absence of general surgery were identified."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Attitude",
+            "Clinical Clerkship",
+            "Educational Measurement",
+            "General Surgery",
+            "Humans",
+            "Medicine",
+            "Specialization",
+            "Students, Medical"
+        ],
+        "YEAR": "1998",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Effective undergraduate surgical education can be offered in many specialty settings. Removal of the requirement for general surgery in clerkship may lead to a more effective use of all educational opportunities. A careful analysis of local programs and facilities is necessary before suggesting this change to other institutions."
+    },
+    "28027677": {
+        "QUESTION": "Do prerecorded lecture VODcasts affect lecture attendance of first-yearpre-clinical Graduate Entry to Medicine students?",
+        "CONTEXTS": [
+            "There is increasing concern amongst educators that the provision of recorded lectures may reduce student attendance of live lectures. We therefore sought to determine if the provision of prerecorded lecture video podcasts (VODcasts) to first-year Graduate Entry to Medicine (GEM) students, affected attendance at 21 Physiology lectures within three separate pre-clinical modules.",
+            "Data on lecture attendance, utilization of VODcasts, and whether VODcasts should replace live lectures were drawn from three surveys conducted in academic years 2014-2015 and 2015-2016 on all first-year GEM students in two first-year pre-clinical modules where prerecorded Physiology VODcasts were available for viewing or downloading prior to scheduled live lectures.",
+            "A total of 191/214 (89%) students responded to the three surveys, with 84.3% of students attending all 21 lectures in the study. Only 4% of students missed more than one lecture in each of the three lecture series, with 79% indicating that VODcasts should not replace lectures."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Education, Medical, Undergraduate",
+            "Female",
+            "Humans",
+            "Internet",
+            "Male",
+            "Surveys and Questionnaires",
+            "Teaching",
+            "Videotape Recording",
+            "Young Adult"
+        ],
+        "YEAR": "2017",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Therefore, we conclude that the attendance of pre-clinical GEM students at live lectures is not significantly impacted upon by the provision of lecture VODcasts, with most students viewing them as useful revision tools rather than as a replacement for live lectures."
+    },
+    "12238307": {
+        "QUESTION": "Vaccine protection in the elderly: are Austrian seniors adequately protected by vaccinations?",
+        "CONTEXTS": [
+            "The aim of the study was to evaluate, if elderly persons are sufficiently protected against infectious diseases by vaccination.",
+            "300 elderly (>60 years) and 300 young (<35 years) persons from five Austrian cities were recruited according to the criteria of a field study. Antibody concentrations against tetanus, diphtheria, tickborne encephalitis and influenza were assessed by ELISA or by haemagglutination inhibition test. Disease and vaccination histories were recorded.",
+            "The results of the study demonstrate that protection against infectious diseases was frequently insufficient in the elderly. This was partly due to the fact that old persons were not vaccinated according to recommended strategies. However, low antibody concentration and a short duration of protective humoral immunity were also observed in many elderly persons in spite of regular vaccination. This was not only the case in frail, but also in healthy elderlies."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "PROBANDS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Antibodies",
+            "Austria",
+            "Communicable Diseases",
+            "Enzyme-Linked Immunosorbent Assay",
+            "Female",
+            "Frail Elderly",
+            "Geriatric Assessment",
+            "Health Services Needs and Demand",
+            "Hemagglutination Inhibition Tests",
+            "Humans",
+            "Immune Tolerance",
+            "Immunization Schedule",
+            "Male",
+            "Middle Aged",
+            "Vaccination"
+        ],
+        "YEAR": "2002",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "The data demonstrate that vaccination has a relatively weak and short-lasting effect in old age. The results of the study should stimulate discussions about strategies how vaccinations can be made more effective in old age. Improved campaigns, shortened vaccination intervals as well as the design of novel vaccines tailored to fulfill the specific demands of the aging immune system are imaginable."
+    },
+    "24851767": {
+        "QUESTION": "Undescended testes: does age at orchiopexy affect survival of the testis?",
+        "CONTEXTS": [
+            "The optimal age at which to perform orchiopexy for cryptorchidism has long been debated. The aim of this study was to determine if age at orchiopexy affected testicular atrophy.",
+            "A retrospective review of patients undergoing orchiopexy from 2000 to 2010 was conducted. An individual testis, rather than patient, was used as the dependent variable. A total of 349 testicles from 1126 charts (ICD-9=752.51) were identified. Primary study outcome was testicular survival without atrophy.",
+            "Mean follow up for the study was 25 months. There was postoperative atrophy in 27 testes (7.7%). Intraabdominal testicle was independently associated with increased postsurgical atrophy (p<0.0001). The odds of postsurgical atrophy were 15.66 times higher for an abdominal vs. inguinal location (95% CI: 5.5-44.6). Testicular atrophy was highest for orchiopexy at ages 13-24 months (n=16 of 133, 12%) vs. those less than 13 months (n=3 of 64, 5%), and those greater than 24 months (n=8 of 152, 5%) (p=0.0024). After adjusting for location, age was not statistically significant with postsurgical atrophy (p=0.055)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Age Factors",
+            "Atrophy",
+            "Child, Preschool",
+            "Cryptorchidism",
+            "Follow-Up Studies",
+            "Humans",
+            "Infant",
+            "Male",
+            "Orchiopexy",
+            "Postoperative Complications",
+            "Retrospective Studies",
+            "Risk Factors"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "From this study we conclude that there is no increase in testicular atrophy in patients less than 13 months."
+    },
+    "19575307": {
+        "QUESTION": "Does glomerular hyperfiltration in pregnancy damage the kidney in women with more parities?",
+        "CONTEXTS": [
+            "We aimed to investigate the glomerular hyperfiltration due to pregnancy in women with more parities.",
+            "Five hundred women aged 52.57 +/- 8.08 years, without a history of hypertension, diabetes mellitus or complicated pregnancy were involved in the study. They were divided into three groups. Group 1: women with no or one parity (n = 76); group 2: women with two or three parities (n = 333); group 3: women with four or more parities (n = 91). Laboratory parameters and demographical data were compared between the three groups.",
+            "Mean age, serum urea and serum creatinine were similar between three groups. Patients in group 3 had significantly higher GFR values compared to groups 1 and 2 (109.44 +/- 30.99, 110.76 +/- 30.22 and 121.92 +/- 34.73 mL/min/1.73 m(2) for groups 1, 2 and 3, respectively; P = 0.008 for group 1 vs group 3; P = 0.002 for group 2 vs group 3)."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Analysis of Variance",
+            "Body Mass Index",
+            "Cohort Studies",
+            "Confidence Intervals",
+            "Creatinine",
+            "Female",
+            "Glomerular Filtration Rate",
+            "Humans",
+            "Kidney Diseases",
+            "Kidney Function Tests",
+            "Middle Aged",
+            "Parity",
+            "Pregnancy",
+            "Pregnancy Complications",
+            "Risk Factors",
+            "Sensitivity and Specificity",
+            "Urea",
+            "Uric Acid",
+            "Urinalysis"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "In our study, we suggest that glomerular hyperfiltration due to pregnancy does not have adverse effects on kidney in women with more parities. Pregnancy may have possible protective mechanisms for kidney against adverse effects of glomerular hyperfiltration."
+    },
+    "24939676": {
+        "QUESTION": "Does ultrasound-scored synovitis depend on the pharmacokinetics of subcutaneous anti-TNF agents in patients with rheumatoid arthritis?",
+        "CONTEXTS": [
+            "The aim of this study was to investigate the influence of the pharmacokinetics of s.c. anti-TNF agents on the grade of US-detected synovitis in RA patients.",
+            "Fifty RA patients were prospectively recruited from the Biologic Therapy Unit of our hospital. Inclusion criteria were being in treatment with s.c. anti-TNF agents and having had neither changes in therapy nor local corticosteroid injections in the previous 3 months. Patients underwent clinical, laboratory [28-joint DAS (DAS28) and Simplified Disease Activity Index (SDAI)]and US assessment at two time points, i.e. at peak plasma drug concentration and at trough plasma drug concentration. US assessments were performed blindly to the anti-TNF agent, the administration time and the clinical and laboratory data. Twenty-eight joints were investigated for the presence and grade (0-3) of B-mode synovitis and synovial power Doppler signal. Global indices for B-mode synovitis (BSI) and Doppler synovitis (DSI) were calculated for 12 joints and for wrist-hand-ankle-foot joints. B-mode US remission was defined as a BSI<1 and Doppler US remission as a DSI<1.",
+            "There were no significant differences between the clinical, laboratory and B-mode and Doppler US parameters at peak time and trough time (P = 0.132-0.986). There were no significant differences between the proportion of patients with active disease and those in remission according to DAS28, SDAI, B-mode US and Doppler US at peak time and trough time assessments (P = 0.070-1)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Antirheumatic Agents",
+            "Arthritis, Rheumatoid",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Prognosis",
+            "Prospective Studies",
+            "Severity of Illness Index",
+            "Synovitis",
+            "Tumor Necrosis Factor-alpha",
+            "Ultrasonography, Doppler",
+            "Young Adult"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Our results suggested that s.c. anti-TNF pharmacokinetics do not significantly influence US-scored synovitis in RA patients."
+    },
+    "26717802": {
+        "QUESTION": "After CLASS--Is a voluntary public insurance program a realistic way to meet the long-term support and service needs of adults with disabilities?",
+        "CONTEXTS": [
+            "The CLASS Act, which was part of the Affordable Care Act of 2010, established a voluntary personal assistance services (PAS) insurance program. However, concerns about enrollment and adverse selection led to repeal of the CLASS Act in\u00a02013.",
+            "To estimate the number of middle-aged adults interested in purchasing PAS insurance, the sociodemographic, socioeconomic and disability attributes of this population, and the maximum monthly premium they would be willing to pay for such coverage.",
+            "A total of 13,384 adults aged 40-65 answered questions about their interest in PAS insurance in the 2011 Sample Adult National Health Interview Survey. We applied survey weights for the U.S. population and conducted logistic regression analyses to identify personal factors associated with interest in paying for the CLASS program.",
+            "An estimated 25.8 million adults aged 40-65 (26.7%) said they would be interested in paying for a public insurance program to cover PAS benefits. However, interest in PAS insurance varied by age, race, ethnicity, region, income, disability status, and family experience with ADL assistance. Only 1.6 million adults aged 40-65 (1.8%) said they would be willing to pay $100 per month or more for coverage."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Activities of Daily Living",
+            "Adult",
+            "Aged",
+            "Attitude to Health",
+            "Disabled Persons",
+            "Female",
+            "Health Care Reform",
+            "Health Services Needs and Demand",
+            "Home Health Aides",
+            "Humans",
+            "Insurance Coverage",
+            "Insurance, Health",
+            "Logistic Models",
+            "Long-Term Care",
+            "Male",
+            "Middle Aged",
+            "Patient Protection and Affordable Care Act",
+            "Voluntary Programs"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "While more than a quarter of the middle-aged adult population said they were interested in PAS insurance, actual participation would be highly dependent on premium rates. The current lack of publicly subsidized insurance for long-term care and personal assistance services remains a serious gap in the disability service system."
+    },
+    "25981682": {
+        "QUESTION": "Preparing patients at high risk of falls for discharge home after rehabilitation: Do we meet the guidelines?",
+        "CONTEXTS": [
+            "Medical records of 121 people who received inpatient rehabilitation were retrospectively screened; records of 50 people discharged home and at high falls risk (fall in last 12 months, fall preceding/during admission) were audited. Data extracted included falls risk identification during rehabilitation and in discharge documentation; falls risk factors assessed; and fall prevention strategies implemented.",
+            "Discharge documentation correctly identified falls risk for just nine of the 50 people. Patients at high falls risk had a median of 8.0 (interquartile range 6-10) of 17 risk factors. There was limited evidence of assessment for osteoporosis (n\u2009=\u20098), footwear (n\u2009=\u20094) and visual assessment in the previous 2 years (n\u2009=\u20091). Patients received a median of 6.5 (interquartile range 5-9) out of 16 possible strategies. Common strategies were mobility (n\u2009=\u200948), strength (n\u2009=\u200944) and Personal Activity of Daily Living training (n\u2009=\u200943). For 12 risk factors, if the factor was present, there was evidence of a strategy in more than 80% of records."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Accidental Falls",
+            "Aged",
+            "Aged, 80 and over",
+            "Australia",
+            "Female",
+            "Guideline Adherence",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Patient Discharge",
+            "Patient Handoff",
+            "Practice Guidelines as Topic",
+            "Rehabilitation",
+            "Retrospective Studies",
+            "Risk Assessment"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "There was little evidence that people at high risk of falls received systematic falls risk assessment during rehabilitation. When a risk was identified, generally a strategy was implemented. However, failure to assess some risk factors might have limited fall prevention strategies offered. Failure to adequately address risks during hospitalization could contribute to falls post-discharge. Geriatr Gerontol Int 2016; 16: 570-576."
+    },
+    "16155169": {
+        "QUESTION": "Percutaneous ethanol injection for benign cystic thyroid nodules: is aspiration of ethanol-mixed fluid advantageous?",
+        "CONTEXTS": [
+            "We evaluated the differences between percutaneous ethanol injection with and without aspiration of ethanol-mixed fluid for treatment of benign cystic thyroid nodules.",
+            "We examined 60 patients with benign cystic thyroid nodules confirmed by fine-needle aspiration biopsy and divided them into 2 groups according to nonaspiration (group A, n = 30) or aspiration (group B, n = 30) of ethanol-mixed fluid after intracystic ethanol injection. We evaluated in both groups the complete disappearance of the cystic portion of the thyroid nodule on follow-up ultrasonography (first follow-up ultrasonography; mean, 4.6 months in group A; mean, 4.4 months in group B) (chi-square test), side effects or complications during and after the procedure (chi-square test), and the total procedure time (Student t test).",
+            "Most patients showed complete disappearance of the cystic portion of the thyroid nodule (group A, n = 29; group B, n = 28), and they revealed no recurrence on follow-up ultrasonography. There was no statistical difference in the success rates between group A and group B (P>.05). Pain, the most common side effect, and other mild side effects or complications occurred in small numbers of patients in each group, but there was no significant difference in side effects or complications between the 2 groups (P>.05), except for intracystic hemorrhage (P<.05) and the complaint of all group B patients due to a double puncture (P<.001). The total procedure time was nearly double in group B than in group A because of the additional procedures, such as complete evacuation of the ethanol-mixed fluid and the 10-minute compression."
+        ],
+        "LABELS": [
+            "BACKGROUND AND PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Cysts",
+            "Ethanol",
+            "Female",
+            "Humans",
+            "Injections, Intralesional",
+            "Male",
+            "Middle Aged",
+            "Sclerotherapy",
+            "Suction",
+            "Thyroid Nodule",
+            "Treatment Outcome",
+            "Ultrasonography"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Percutaneous ethanol injection without aspiration of ethanol-mixed fluid seems to be the preferable method of treatment of benign cystic thyroid nodules from the perspective of both the physician and the patient."
+    },
+    "14655021": {
+        "QUESTION": "Juvenile ankylosing spondylitis--is it the same disease as adult ankylosing spondylitis?",
+        "CONTEXTS": [
+            "Juvenile and adult forms of ankylosing spondylitis (AS) have been shown to have different clinical presentation and outcome in Caucasians. We did this retrospective analysis to see if similar differences exist in the Indian population.",
+            "Case records of 210 Indian patients diagnosed with AS according to modified New York criteria were reviewed. Data were collected regarding age of onset, clinical features, drug treatment, and outcome at last follow-up. Patients with onset before 17 years of age were classified as having juvenile AS (JAS) and the rest with adult AS (AAS).",
+            "There were 150 patients with AAS and 60 with JAS. The latter had higher male preponderance, more frequent onset with peripheral arthritis, and greater involvement of hip and knee joints. Valvular dysfunction was seen only in patients with JAS."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Age Factors",
+            "Child",
+            "Female",
+            "Humans",
+            "India",
+            "Male",
+            "Outcome Assessment (Health Care)",
+            "Retrospective Studies",
+            "Spondylitis, Ankylosing"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "In this group of subjects, juvenile AS had onset more often with oligoarthritis and enthesitis than with spinal disease. Hip and knee joint involvement was more common in JAS than AAS."
+    },
+    "15280782": {
+        "QUESTION": "Is unsafe sexual behaviour increasing among HIV-infected individuals?",
+        "CONTEXTS": [
+            "The number of new diagnoses of HIV infection is rising in the northwestern hemisphere and it is becoming increasingly important to understand the mechanisms behind this trend.",
+            "To evaluate whether reported unsafe sexual behaviour among HIV- infected individuals is changing over time.",
+            "Participants in the Swiss HIV Cohort Study were asked about their sexual practices every 6 months for 3 years during regular follow-up of the cohort beginning on 1 April 2000.",
+            ": Logistic regression models were fit using generalized estimating equations assuming a constant correlation between responses from the same individual.",
+            "At least one sexual behaviour questionnaire was obtained for 6545 HIV-infected individuals and the median number of questionnaires completed per individual was five. There was no evidence of an increase in reported unsafe sex over time in this population [odds ratio (OR), 1.0; 95% confidence interval (CI), 0.96-1.05]. Females (OR, 1.38; 95% CI, 1.19-1.60), 15-30 year olds (OR, 1.26; 95% CI, 1.09-1.47), those with HIV-positive partners (OR, 12.58; 95% CI, 10.84-14.07) and those with occasional partners (OR, 3.25; 95% CI, 2.87-3.67) were more likely to report unsafe sex. There was no evidence of a response bias over time, but individuals were less willing to leave questions about their sexual behaviour unanswered or ambiguous (OR, 0.93; 95% CI, 0.90-0.97)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "DESIGN",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Age Factors",
+            "Female",
+            "HIV Infections",
+            "HIV Seropositivity",
+            "Humans",
+            "Longitudinal Studies",
+            "Male",
+            "Risk Factors",
+            "Risk-Taking",
+            "Sex Factors",
+            "Sexual Behavior",
+            "Sexual Partners",
+            "Substance-Related Disorders"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "There was no evidence of a trend in unsafe sex behaviour over time. However, several subgroups were identified as being more likely to report unsafe sex and should be targeted for specific interventions."
+    },
+    "20337874": {
+        "QUESTION": "Delayed diagnosis of anorectal malformations: are current guidelines sufficient?",
+        "CONTEXTS": [
+            "Infants referred to our institution with a final diagnosis of ARM were retrospectively reviewed between 2001 and 2009. The first cohort consisted of patients that were referred between November 2001 and November 2006 with the diagnosis of an ARM that had been delayed for more than 48 h. The second cohort was those referred between December 2006 and May 2009 with whom the diagnosis of ARM had not been made within 24 h of birth.",
+            "Nineteen infants were referred with delayed diagnosis of an ARM over the 7.5 years of the study. Of 44 patients referred to our institution between December 2006 and May 2009, diagnosis of an ARM was delayed more than 24 h in 14 (32%). There was no difference in gender, birth weight, prematurity, type of malformation or presence of associated anomalies between those with timely and delayed diagnosis of their ARM. A significantly greater proportion of those with a delayed diagnosis presented with obstructive symptoms (86% vs. 27%, P<0.001), including abdominal distension (57%) and delayed passage of meconium or stool (29%). Despite undergoing neonatal examination, the diagnosis of ARM was missed in 12 patients overall."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Cohort Studies",
+            "Delayed Diagnosis",
+            "Digestive System Abnormalities",
+            "Female",
+            "Guidelines as Topic",
+            "Humans",
+            "Infant, Newborn",
+            "Male",
+            "New South Wales",
+            "Rectal Fistula",
+            "Rectum",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Delayed diagnosis of an ARM appears to be common, occurring in approximately 32% of patients referred to our institution over the last 2.5 years. Current guidelines appear insufficient to ensure prompt diagnosis of ARM."
+    },
+    "12095973": {
+        "QUESTION": "Chemoradiation instead of surgery to treat mid and low rectal tumors: is it safe?",
+        "CONTEXTS": [
+            "The main treatment for rectal carcinoma is surgery. Preoperative chemoradiation (CRT) is advocated to reduce local recurrence and improve resection of mid and low tethered rectal tumors.",
+            "Fifty-two patients with mid or low rectal tumors underwent CRT (external beam radiation plus 5-fluorouracil plus folinic acid). Patients who had low rectal tumors with complete response (CR) were not submitted to surgical treatment. All other patients were submitted to surgery, independently of the response. Mean follow-up was 32.1 months.",
+            "Five-year overall survival was 60.5%. Clinical evaluation after CRT showed CR in 10 cases (19.2%), all low tumors; incomplete response (>50%) in 21 (40.4%); and no response (<50%) in 19 (36.6%). Among the 10 cases with CR, 8 presented with local recurrence within 3.7 to 8.8 months. Two patients were not submitted to surgery and are still alive without cancer after 37 and 58 months. Thirty-nine patients had radical surgery. Seven had local recurrences after CRT plus surgery (17.9%). Overall survival was negatively affected by lymph node metastases (P =.017) and perineural invasion (P =.026)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adenocarcinoma",
+            "Adult",
+            "Aged",
+            "Antimetabolites, Antineoplastic",
+            "Combined Modality Therapy",
+            "Female",
+            "Fluorouracil",
+            "Humans",
+            "Leucovorin",
+            "Male",
+            "Middle Aged",
+            "Neoplasm Recurrence, Local",
+            "Radiotherapy Dosage",
+            "Rectal Neoplasms",
+            "Survival Rate"
+        ],
+        "YEAR": "2002",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Exclusive CRT approach is not safe to treat patients with low infiltrative rectal carcinoma."
+    },
+    "23414523": {
+        "QUESTION": "Does binge drinking during early pregnancy increase the risk of psychomotor deficits?",
+        "CONTEXTS": [
+            "The potential effects of binge drinking during pregnancy on child motor function have only been assessed in a few, small studies. We aimed to examine the effects of binge alcohol consumption during early pregnancy, including number of binge episodes and timing of binge drinking, on child motor function at age 5.",
+            "We performed a prospective follow-up study of 678 women and their children sampled from the Danish National Birth Cohort based on maternal alcohol consumption during pregnancy. At 5 years of age, the children were tested with the Movement Assessment Battery for Children. Parental education, maternal IQ, prenatal maternal smoking, the child's age at testing, sex of child, and tester were considered core confounders, while the full model also controlled for prenatal maternal average alcohol intake, maternal age and prepregnancy body mass index, parity, home environment, postnatal parental smoking, health status, participation in organized sport, and indicators for hearing and vision impairment.",
+            "There were no systematic or significant differences in motor function between children of mothers reporting isolated episodes of binge drinking and children of mothers with no binge episodes. No association was observed with respect to the number of binge episodes (maximum of 12) and timing of binge drinking."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Alcohol Drinking",
+            "Binge Drinking",
+            "Child, Preschool",
+            "Denmark",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Male",
+            "Pregnancy",
+            "Pregnancy Trimester, First",
+            "Prenatal Exposure Delayed Effects",
+            "Prospective Studies",
+            "Psychomotor Disorders",
+            "Risk Factors"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "In this study, we found no systematic association between isolated episodes of binge drinking during early pregnancy and child motor function at age 5."
+    },
+    "9140335": {
+        "QUESTION": "Does fluoridation reduce the use of dental services among adults?",
+        "CONTEXTS": [
+            "The authors determine whether prevention influences the use of health services. Fluoridation's effect on restorative dental demand among 972 Washington state employees and spouses, aged 20 to 34 years, in two fluoridated communities and a nonfluoridated community was examined.",
+            "At baseline, adults were interviewed by telephone, and oral assessments were conducted to measure personal characteristics, lifetime exposure to fluoridated water, oral disease, and the quality of restorations. Adults were followed for 2 years to measure dental demand from dental claims. Each adult's baseline and claims data were linked with provider and practice variables collected from the dentist who provided treatment.",
+            "Relative to adults with no lifetime exposure to fluoridated water, adults drinking fluoridated water for half or more of their lives had less disease at baseline and a lower but nonsignificant probability of receiving a restoration in the follow-up period. In the 2-year follow-up period, however, more than half of the restorations were performed to replace fillings of satisfactory or ideal quality at baseline. When only teeth with decay and unsatisfactory fillings at baseline were considered, adults with high fluoridation exposure had a lower probability of receiving a restoration than adults with no exposure. Market effects also were detected in demand equations; relative to adults in the nonfluoridated community, adults residing in the fluoridated community with a large dentist supply received a greater number of restorations, suggesting potential supplier-induced demand from less disease and fewer patients."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Dental Health Surveys",
+            "Dental Restoration, Permanent",
+            "Female",
+            "Fluoridation",
+            "Health Services Needs and Demand",
+            "Humans",
+            "Insurance Claim Reporting",
+            "Insurance, Dental",
+            "Male",
+            "Marketing of Health Services",
+            "Multivariate Analysis",
+            "Washington"
+        ],
+        "YEAR": "1997",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Among adults aged 20 to 34 years with private dental insurance, fluoridation reduces oral disease but may or may not reduce use of restorative services, depending on dentists' clinical decisions."
+    },
+    "10605400": {
+        "QUESTION": "Is the international normalised ratio (INR) reliable?",
+        "CONTEXTS": [
+            "As part of an MRC funded study into primary care oral anticoagulation management, INR measurements obtained in general practice were validated against values on the same samples obtained in hospital laboratories. A prospective comparative trial was undertaken between three hospital laboratories and nine general practices. All patients attending general practice based anticoagulant clinics had parallel INR estimations performed in general practice and in a hospital laboratory.",
+            "405 tests were performed. Comparison between results obtained in the practices and those in the reference hospital laboratory (gold standard), which used the same method of testing for INR, showed a correlation coefficient of 0.96. Correlation coefficients comparing the results with the various standard laboratory techniques ranged from 0.86 to 0.92. It was estimated that up to 53% of tests would have resulted in clinically significant differences (change in warfarin dose) depending upon the site and method of testing. The practice derived results showed a positive bias ranging from 0.28 to 1.55, depending upon the site and method of testing."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Anticoagulants",
+            "Family Practice",
+            "Humans",
+            "International Normalized Ratio",
+            "Laboratories, Hospital",
+            "Monitoring, Physiologic",
+            "Point-of-Care Systems",
+            "Prospective Studies",
+            "Reproducibility of Results",
+            "Warfarin"
+        ],
+        "YEAR": "1999",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "No technical problems associated with INR testing within primary care were uncovered. Discrepant INR results are as problematic in hospital settings as they are in primary care. These data highlight the failings of the INR to standardise when different techniques and reagents are used, an issue which needs to be resolved. For primary care to become more involved in therapeutic oral anticoagulation monitoring, close links are needed between hospital laboratories and practices, particularly with regard to training and quality assurance."
+    },
+    "10340286": {
+        "QUESTION": "Is there a role for leukocyte and CRP measurements in the diagnosis of acute appendicitis in the elderly?",
+        "CONTEXTS": [
+            "The diagnosis of acute appendicitis is still difficult and the results are unsatisfactory in three particular patient groups: in children, in fertile-age women and in elderly patients. As our population ages, the challenge for expedient diagnosis and intervention in older age groups will become more and more significant. The present study aimed at clarifying the role of leukocyte count and C-reactive protein (CRP) measurements in the diagnosis of acute appendicitis in the elderly. In particular, are there patients with acute appendicitis but unelevated leukocyte count and CRP?",
+            "Eighty-three consecutive elderly patients underwent appendectomy for suspected acute appendicitis. The mean leukocyte count and CRP value were calculated in patients with an uninflamed appendix (group A) and in those with acute appendicitis (group B). The percentages of patients with: (1) both values unelevated; (2) only leukocyte count elevated; (3) only CRP value elevated; (4) both values elevated were calculated within the groups A and B.",
+            "There was no statistically significant difference in leukocyte counts or CRP values between patients with an uninflamed appendix (group A) and those with acute appendicitis (group B). When the patients were divided into the four subgroups, the most conspicuous finding was that group B (acute appendicitis, n = 73) contained no patients with both values unelevated."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acute Disease",
+            "Aged",
+            "Appendectomy",
+            "Appendicitis",
+            "C-Reactive Protein",
+            "Case-Control Studies",
+            "Female",
+            "Humans",
+            "Leukocyte Count",
+            "Male"
+        ],
+        "YEAR": "1999",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Although elevated leukocyte count and CRP value cannot effectively establish the diagnosis of acute appendicitis in the elderly, unelevated values exclude it. Accordingly, appendectomy is not recommended to be performed in an elderly patient with unelevated leukocyte count and CRP value, although clinical symptoms and signs indicate acute appendicitis."
+    },
+    "25480629": {
+        "QUESTION": "Residual fundus or neofundus after laparoscopic sleeve gastrectomy: is fundectomy safe and effective as revision surgery?",
+        "CONTEXTS": [
+            "Up to 30 % of patients who have undergone laparoscopic sleeve gastrectomy require revision surgery for inadequate weight loss, weight regain, and/or the development of severe upper gastrointestinal symptoms. The aim of this retrospective study was to evaluate the safety and efficacy of laparoscopic fundectomy (LF) in cases of a residual fundus/neofundus development regarding GERD symptoms.",
+            "The study group comprised 19 patients (17 female; mean BMI 35.4 kg/m(2)) divided into 2 groups. Group A (n = 10) patients with severe GERD and evidence of residual fundus/neofundus, Hiatal hernia with good results in terms of weight loss. Group B (n = 9) patients with severe GERD, a residual fundus/neofundus, inadequate weight loss or weight regain. Fundectomy was indicated when a residual fundus/neofundus was associated with severe GERD symptoms. The presence of a residual fundus/neofundus was assessed by a barium swallow and/or multislice computed tomography.",
+            "No mortality or intra-operative complications occurred. Five postoperative complications occurred: 2 cases of bleeding, 1 mid-gastric stenosis and 2 leaks (10.5 %). All patients experienced improvements in their GERD symptoms and stopped PPI treatment. Group B exhibited an additional %EWL of 53.4 % at 24 months."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Female",
+            "Gastrectomy",
+            "Gastric Fundus",
+            "Gastroesophageal Reflux",
+            "Humans",
+            "Laparoscopy",
+            "Male",
+            "Postoperative Complications",
+            "Reoperation",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "LF and cruroplasty is feasible and has good results in terms of GERD symptoms control and additional weight loss. The high rate of postoperative complications observed in this series remains a matter of concern. A re-sleeve procedure might be considered as an alternative to RYGB/DS conversion restricted to selected patients."
+    },
+    "23386371": {
+        "QUESTION": "CPAP therapy in patients with idiopathic pulmonary fibrosis and obstructive sleep apnea: does it offer a better quality of life and sleep?",
+        "CONTEXTS": [
+            "The recent literature shows an increased incidence of obstructive sleep apnea (OSA) in patients with idiopathic pulmonary fibrosis (IPF). On the other hand, there are no published studies related to continuous positive airway pressure (CPAP) treatment in this patient group. Our aim was to assess the effect of CPAP on sleep and overall life quality parameters in IPF patients with OSA and to recognize and overcome possible difficulties in CPAP initiation and acceptance by these patients.",
+            "Twelve patients (ten males and two females, age 67.1\u2009\u00b1\u20097.2\u00a0years) with newly diagnosed IPF and moderate to severe OSA, confirmed by overnight attended polysomnography, were included. Therapy with CPAP was initiated after a formal in-lab CPAP titration study. The patients completed the Epworth Sleepiness Scale (ESS), the Pittsburgh Sleep Quality Index (PSQI), the Functional Outcomes in Sleep Questionnaire (FOSQ), the Fatigue Severity Scale (FSS), the SF-36 quality of life questionnaire, and the Beck Depression Inventory (BDI) at CPAP initiation and after 1, 3, and 6\u00a0months of effective CPAP therapy.",
+            "A statistically significant improvement was observed in the FOSQ at 1, 3, and 6\u00a0months after CPAP initiation (baseline 12.9\u2009\u00b1\u20092.9 vs. 14.7\u2009\u00b1\u20092.6 vs. 15.8\u2009\u00b1\u20092.1 vs. 16.9\u2009\u00b1\u20091.9, respectively, p\u2009=\u20090.02). Improvement, although not statistically significant, was noted in ESS score (9.2\u2009\u00b1\u20095.6 vs. 7.6\u2009\u00b1\u20094.9 vs. 7.5\u2009\u00b1\u20095.3 vs. 7.7\u2009\u00b1\u20095.2, p\u2009=\u20090.84), PSQI (10.7\u2009\u00b1\u20094.4 vs. 10.1\u2009\u00b1\u20094.3 vs. 9.4\u2009\u00b1\u20094.7 vs. 8.6\u2009\u00b1\u20095.2, p\u2009=\u20090.66), FSS (39.5\u2009\u00b1\u200910.2 vs. 34.8\u2009\u00b1\u20098.5 vs. 33.6\u2009\u00b1\u200910.7 vs. 33.4\u2009\u00b1\u200910.9, p\u2009=\u20090.44), SF-36 (63.2\u2009\u00b1\u200913.9 vs. 68.9\u2009\u00b1\u200913.5 vs. 72.1\u2009\u00b1\u200912.9 vs. 74.4\u2009\u00b1\u200911.3, p\u2009=\u20090.27), and BDI (12.9\u2009\u00b1\u20095.5 vs. 10.7\u2009\u00b1\u20094.3 vs. 9.4\u2009\u00b1\u20094.8 vs. 9.6\u2009\u00b1\u20094.5, p\u2009=\u20090.40). Two patients had difficulty complying with CPAP for a variety of reasons (nocturnal cough, claustrophobia, insomnia) and stopped CPAP use after the first month, despite intense follow-up by the CPAP clinic staff. Heated humidification was added for all patients in order to improve the common complaint of disabling nocturnal cough."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Activities of Daily Living",
+            "Aged",
+            "Continuous Positive Airway Pressure",
+            "Disorders of Excessive Somnolence",
+            "Female",
+            "Greece",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Polysomnography",
+            "Pulmonary Fibrosis",
+            "Quality of Life",
+            "Sleep Apnea, Obstructive",
+            "Surveys and Questionnaires",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Effective CPAP treatment in IPF patients with OSA results in a significant improvement in daily living activities based on the FOSQ, namely an OSA-specific follow-up instrument. Improvement was also noted in other questionnaires assessing quality of life, though not to a statistically significant degree, probably because of the multifactorial influences of IPF on physical and mental health. The probability of poor CPAP compliance was high and could only be eliminated with intense follow-up by the CPAP clinic staff."
+    },
+    "23360491": {
+        "QUESTION": "Is the processing of affective prosody influenced by spatial attention?",
+        "CONTEXTS": [
+            "The present study asked whether the processing of affective prosody is modulated by spatial attention. Pseudo-words with a neutral, happy, threatening, and fearful prosody were presented at two spatial positions. Participants attended to one position in order to detect infrequent targets. Emotional prosody was task irrelevant. The electro-encephalogram (EEG) was recorded to assess processing differences as a function of spatial attention and emotional valence.",
+            "Event-related potentials (ERPs) differed as a function of emotional prosody both when attended and when unattended. While emotional prosody effects interacted with effects of spatial attention at early processing levels (<200 ms), these effects were additive at later processing stages (>200 ms)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acoustic Stimulation",
+            "Adult",
+            "Affect",
+            "Analysis of Variance",
+            "Attention",
+            "Brain Mapping",
+            "Electroencephalography",
+            "Evoked Potentials",
+            "Female",
+            "Humans",
+            "Male",
+            "Reaction Time",
+            "Speech Perception",
+            "Time Factors",
+            "Vocabulary",
+            "Young Adult"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Emotional prosody, therefore, seems to be partially processed outside the focus of spatial attention. Whereas at early sensory processing stages spatial attention modulates the degree of emotional voice processing as a function of emotional valence, emotional prosody is processed outside of the focus of spatial attention at later processing stages."
+    }
+}
