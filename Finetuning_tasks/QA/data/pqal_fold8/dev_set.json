@@ -1,0 +1,1823 @@
+{
+    "17715311": {
+        "QUESTION": "Is fetal anatomic assessment on follow-up antepartum sonograms clinically useful?",
+        "CONTEXTS": [
+            "The purpose of this study was to evaluate the clinical usefulness of a fetal anatomic survey on follow-up antepartum sonograms.",
+            "A retrospective follow-up study was conducted at a low-risk maternity clinic from July 1, 2005, to June 30, 2006. Eligible women had at least 1 prior sonographic examination beyond 18 weeks' gestation with a complete and normal fetal anatomic assessment and at least 1 follow-up sonogram. Full fetal anatomic surveys were performed on all follow-up sonograms regardless of the indication. Neonatal charts were reviewed for those patients whose follow-up sonograms revealed unanticipated fetal anomalies. Neonatal intervention was defined as surgical or medical therapy or arranged subspecialty follow-up specifically for the suspected fetal anomaly.",
+            "Of a total of 4269 sonographic examinations performed, 437 (10.2%) were follow-up studies. Of these, 101 (23.1%) were excluded because the initial sonogram revealed a suspected fetal anomaly, and 42 (9.8%) were excluded for other reasons. Of the remaining 294 women, 21 (7.1%) had an unanticipated fetal anomaly, most often renal pyelectasis. Compared with follow-up sonography for other reasons, repeated sonography for fetal growth evaluation yielded a higher incidence of unexpected fetal anomalies: 15 (12.3%) of 122 versus 6 (3.5%) of 172 (P = .01). When compared with the neonates in the nongrowth indications group, those neonates whose mothers had sonographic examinations for fetal growth had a higher rate of neonatal interventions: 6 (40.0%) of 15 versus 0 (0%) of 6 (P = .04)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Chi-Square Distribution",
+            "Congenital Abnormalities",
+            "Female",
+            "Fetal Diseases",
+            "Follow-Up Studies",
+            "Gestational Age",
+            "Humans",
+            "Postpartum Period",
+            "Pregnancy",
+            "Retrospective Studies",
+            "Statistics, Nonparametric",
+            "Ultrasonography, Prenatal"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A fetal anatomic survey on follow-up sonograms may identify unanticipated fetal anomalies, especially when the indication is for fetal growth."
+    },
+    "15369037": {
+        "QUESTION": "Do people who were passive smokers during childhood have increased risk of long-term work disability?",
+        "CONTEXTS": [
+            "Regular inhalation of tobacco smoke, whether it be voluntary or not, may have profound negative effects on the body. Also intervertebral discs may be affected. The objective of the present study was to test the hypothesis that nurses' aides who were exposed to environmental tobacco smoke (ETS) at home during childhood have an increased risk of long-term sick leave.",
+            "The sample comprised 5563 Norwegian nurses' aides, not on sick leave when they completed a mailed questionnaire in 1999. Of these, 4744 (85.3%) completed a second questionnaire 15 months later. The outcome measure was the incidence proportion of long-term sick leave during the 12 months prior to the follow-up.",
+            "Respondents who reported at baseline that they had been exposed to ETS at home during childhood had increased risk of sick leave exceeding 14 days attributed to neck pain (odds ratio (OR) = 1.34; 95% confidence interval (CI): 1.04-1.73), high back pain (OR=1.49; CI: 1.07-2.06), low back pain (OR=1.21; CI: 0.97-1.50), and any illness (OR=1.23; CI: 1.07-1.42), after adjustments for demographic and familial characteristics, former smoking, current smoking, physical leisure-time activities, work factors, prior neck injury, and affective symptoms. They also had increased risk of sick leave exceeding 8 weeks (OR=1.29; CI: 1.08-1.55)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Affective Symptoms",
+            "Age Factors",
+            "Aged",
+            "Confidence Intervals",
+            "Exercise",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Leisure Activities",
+            "Low Back Pain",
+            "Male",
+            "Middle Aged",
+            "Neck Injuries",
+            "Neck Pain",
+            "Norway",
+            "Nurses' Aides",
+            "Odds Ratio",
+            "Prospective Studies",
+            "Risk Factors",
+            "Sick Leave",
+            "Surveys and Questionnaires",
+            "Time Factors",
+            "Tobacco Smoke Pollution"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The study supports the hypothesis that nurses' aides who were exposed to ETS at home during childhood have an increased risk of long-term sickness absence."
+    },
+    "24785562": {
+        "QUESTION": "Is dexamethasone an effective alternative to oral prednisone in the treatment of pediatric asthma exacerbations?",
+        "CONTEXTS": [
+            "A short course of systemic corticosteroids is an important therapy in the treatment of pediatric asthma exacerbations. Although a 5-day course of oral prednisone or prednisolone has become the most commonly used regimen, dexamethasone has also been used for a shorter duration (1-2 days) with potential for improvement in compliance and palatability. We reviewed the literature to determine if there is sufficient evidence that dexamethasone can be used as an effective alternative in the treatment of pediatric asthma exacerbations in the inpatient setting.",
+            "A Medline search was conducted on the use of dexamethasone in the treatment of asthma exacerbations in children. The studies selected were clinical trials comparing the efficacy of dexamethasone with prednisone. Meta-analysis was performed examining physician revisitation rates and symptomatic return to baseline.",
+            "Six completed pediatric clinical trials met the inclusion criteria. All of the pediatric trials found that prednisone is not superior to dexamethasone in treating mild to moderate asthma exacerbations. Meta-analysis demonstrated homogeneity between the dexamethasone and prednisone groups when examining symptomatic return to baseline and unplanned physician revisits after the initial emergency department encounter. Some studies found potential additional benefits of dexamethasone, including improved compliance and less vomiting."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Administration, Oral",
+            "Anti-Inflammatory Agents",
+            "Asthma",
+            "Child",
+            "Dexamethasone",
+            "Disease Progression",
+            "Glucocorticoids",
+            "Humans",
+            "Prednisone",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The current literature suggests that dexamethasone can be used as an effective alternative to prednisone in the treatment of mild to moderate acute asthma exacerbations in children, with the added benefits of improved compliance, palatability, and cost. However, more research is needed to examine the role of dexamethasone in hospitalized children."
+    },
+    "24947183": {
+        "QUESTION": "Does delaying surgery in immature adolescent idiopathic scoliosis patients with progressive curve, lead to addition of fusion levels?",
+        "CONTEXTS": [
+            "To analyze the changes in the curve extent, pattern and the fusion level in adolescent idiopathic scoliosis (AIS) patients who undergo delayed surgery instead of early surgery.",
+            "Thirty-five immature AIS patients whose radiographs demonstrated an initial primary curve of more than 40\u00b0 with a subsequent increase of 10\u00b0 before attaining skeletal maturity with brace were enrolled. The initial and the final radiographs taken before surgery were compared to assess the changes in curve extent, pattern and the fusion levels as recommended by King's, Lenke's and Suk's guidelines.",
+            "The average age of 35 AIS patients was 12.7 \u00b1 1.6 years. The time interval between initial and final radiography was 39.3 \u00b1 20.2 months and the degree of progress of the primary curve was 13 \u00b1 9.7\u00b0. Fusion levels changed in 33 (94.2%), 33 (94.2%) and 32 (91.4%) patients according to King's, Lenke's and Suk's guidelines, respectively. Curve pattern was changed in 2 (5.7%), 12 (34.3%) and 10 (28.6) patients by King's, Lenke's and Suk's guidelines. The mean number of levels requiring fusion increased from 9.4 \u00b1 2.1 at initial visit to 11.1 \u00b1 1.8 at the final follow-up using King's guidelines, 9.7 \u00b1 2.2-11.6 \u00b1 2.0 as per Lenke's guidelines and 9.1 \u00b1 2.0-11.5 \u00b1 2.3 when fusion was planned using Suk's guidelines (p<0.001 in all guidelines)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Braces",
+            "Child",
+            "Disease Progression",
+            "Female",
+            "Humans",
+            "Male",
+            "Scoliosis",
+            "Spinal Fusion",
+            "Time-to-Treatment",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Delay of surgery in immature AIS patients whose Cobb's angle exceed 40\u00b0 initially and showing subsequent progression of the curve, of more than 10\u00b0 can lead to alterations in the curve pattern and the need for increase in fusion levels."
+    },
+    "15670262": {
+        "QUESTION": "Is gastric electrical stimulation superior to standard pharmacologic therapy in improving GI symptoms, healthcare resources, and long-term health care benefits?",
+        "CONTEXTS": [
+            "Severe upper gastrointestinal (GI) motor disorders, including gastroparesis (GP), can consume significant health care resources. Many patients are refractory to traditional drug therapy.",
+            "To compare symptoms, healthcare resource utilization and costs in two groups of patients with the symptoms of GP: those treated via gastric electrical stimulation (GES) and those treated with traditional pharmacological agents in an intensive outpatient program (MED).",
+            "A long-term comparison of patients with devices (n = 9) vs intensive medical therapy (n = 9).",
+            "A total of 18 eligible patients with the symptoms of GP reported for 1-year baseline and long-term treatment for 3 years.",
+            "Patients with the symptoms of GP were treated by a GES or intensive medical therapy (MED).",
+            "GP Symptoms, healthcare resource utilization using investigator-derived independent outcome measure score (IDIOMS) and total hospital (inpatient and outpatient) billing costs.",
+            "Gastrointestinal symptoms were significantly different from baseline (F = 3.03, P<0.017) with GP patients treated via GES showing more sustained improvement over 36 months than those treated via MED. Healthcare resource usage, measured via the IDIOMS, significantly improved at 12, 24 and 36 month follow-up for GES patients (F = 10.49, P<0.001), compared with patients receiving medical therapy, who demonstrated further deterioration. GP patients treated via GES also proved superior to medical therapy at 24 and 36 months with regard to decreased costs (F = 4.85, P<0.001). Within group comparisons indicated significantly reduced hospital days for both patient groups; however, no statistical differences were noted between groups in terms of hospital days. Three of nine patients in the MED group died primarily from i.v. access related problems; none of the GES patients died."
+        ],
+        "LABELS": [
+            "CONTEXT",
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING AND PATIENTS",
+            "INTERVENTIONS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Cost-Benefit Analysis",
+            "Electric Stimulation Therapy",
+            "Female",
+            "Gastrointestinal Diseases",
+            "Gastroparesis",
+            "Health Resources",
+            "Humans",
+            "Long-Term Care",
+            "Male",
+            "Nausea",
+            "Prospective Studies",
+            "Quality of Life",
+            "Treatment Outcome",
+            "Vomiting"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "We conclude that GES is more effective in improving long-term GI symptoms and costs, and decreasing use of healthcare resources than intensive medical therapy, in this sample of patients with the symptoms of GP followed for 3 years. Certain patients with GP form a high-risk group in terms of costs, quality of life, morbidity and mortality."
+    },
+    "24614851": {
+        "QUESTION": "Prognostic factors for cervical spondylotic amyotrophy: are signs of spinal cord involvement associated with the neurological prognosis?",
+        "CONTEXTS": [
+            "The purpose of this study was to clarify the prognostic factors for cervical spondylotic amyotrophy (CSA).",
+            "The authors retrospectively reviewed the medical records of 47 consecutive patients with CSA in whom the presence/absence of the pyramidal tract sign was noted. We analyzed whether the age, sex, presence of diabetes mellitus, medication (vitamin B12), type of the most atrophic and impaired muscle, the muscle strength at the presentation, the presence of the pyramidal tract sign, magnetic resonance imaging (MRI) findings, including the presence and number of T2 high signal intensity areas (T2 HIA) in the spinal cord and the conversion to surgery were associated with the recovery of muscle strength in the patients. In addition, we also investigated whether the duration of symptoms before surgery and the type of surgery were associated with the recovery of muscle strength in patients who required conversion to surgical treatment.",
+            "The presence of T2 HIA on MRI (P=0.002), the number of T2 HIA on MRI (P=0.002) and conversion to surgery (P=0.015) were found to be significantly associated with a poorer recovery at the observational final follow-up. Further, the presence of the pyramidal tract sign (P=0.043) was significantly associated with a poor recovery at the final follow-up after surgery."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Diabetes Mellitus",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Muscle Strength",
+            "Muscle, Skeletal",
+            "Nervous System Diseases",
+            "Pyramidal Tracts",
+            "Retrospective Studies",
+            "Spinal Cord Injuries",
+            "Spondylosis",
+            "Statistics, Nonparametric"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The presence of a high signal intensity change on T2-weighted MRI and the pyramidal tract sign can be used as prognostic factors for patients with CSA."
+    },
+    "23096188": {
+        "QUESTION": "Juvenile osteochondritis dissecans: is it a growth disturbance of the secondary physis of the epiphysis?",
+        "CONTEXTS": [
+            "The primary physis is responsible for longitudinal bone growth. Similarly, epiphysial growth relies on endochondral ossification from the circumferential secondary physeal [corrected]. injury can result in disruption of normal ossification. The cause of juvenile osteochondritis dissecans (OCD) remains elusive. We hypothesized that juvenile OCD results from an insult affecting endochondral ossification from the secondary physis. The purpose of our study was to evaluate the MRI appearance of the distal femoral epiphysis-particularly the secondary physis-of children with juvenile OCD and to compare these findings with the MRI findings of unaffected children.",
+            "Knee MRI examinations of 30 children (age range, 8 years 8 months to 13 years 4 months) with OCD and 30 matched control patients were evaluated for skeletal maturity; location of the OCD lesion, if present; secondary physeal [corrected] continuity; overlying chondroepiphysial integrity, contour, and width; signal intensity of subchondral bone; and secondary physeal [corrected]conspicuity. Variables were compared using chi-square tests.",
+            "All children were skeletally immature. Condylar lesions were medial in 24 knees and lateral in six knees. All were in the middle one third, posterior one third, or middle and posterior thirds in the sagittal plane. The majority of lesions spanned the intercondylar and middle one third of the femoral condyle in the coronal plane (73%). There was a significant difference between secondary physeal [corrected] disruption in juvenile OCD condyles compared with unaffected condyles (p<0.001) and control condyles (p<0.001). Compared with unaffected and control condyles, the OCD group showed chondroepiphysial widening (p<0.001) and subchondral bone edema (p<0.001) on MRI. Neither chondroepiphysial integrity nor chondroepiphysial contour was significantly different between groups (p = 0.21, p = 0.31, respectively)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Case-Control Studies",
+            "Chi-Square Distribution",
+            "Child",
+            "Epiphyses",
+            "Female",
+            "Humans",
+            "Knee Joint",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Osteochondritis Dissecans"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "MRI of children with OCD consistently showed secondary physis disruption, overlying chondroepiphysial widening, and subchondral bone edema. We suggest that disruption of normal endochondral ossification may be associated with juvenile OCD."
+    },
+    "22970993": {
+        "QUESTION": "Does sex affect the outcome of laparoscopic cholecystectomy?",
+        "CONTEXTS": [
+            "The aim of our study was to determine the effect of sex on the outcome of laparoscopic cholecystectomy in terms of operative time, conversion to open cholecystectomy, postoperative complications and mean hospital stay.",
+            "In this retrospective observational study, we analyzed the medical records of 2061 patients who underwent laparoscopic cholecystectomy in the surgical department of Khyber Teaching Hospital (Peshawar, Pakistan) between March 2008 and January 2010. \u03c7(2)  test and t-test were respectively used to analyze categorical and numerical variables. P\u2009\u2264\u20090.05 was considered significant.",
+            "The study included 1772 female and 289 male patients. The mean age for male patients was 44.07\u2009\u00b1\u200911.91 years compared to 41.29\u2009\u00b1\u200912.18 years for female patients (P\u2009=\u20090.706). Laparoscopic cholecystectomy was successfully completed in 1996 patients. The conversion rate was higher in men (P\u2009<\u20090.001), and the mean operating time was longer in men (P\u2009<\u20090.001). Bile duct injuries occurred more frequently in men (P\u2009<\u20090.001). Gallbladder perforation and gallstone spillage also occurred more commonly in men (P\u2009=\u20090.001); similarly severe inflammation was reported more in male patients (P\u2009=\u20090001). There were no statistically significant differences in mean hospital stay, wound infection and port-site herniation between men and women. Multivariate regression analysis showed that the male sex is an independent risk factor for conversion to open cholecystectomy (odds ratio\u2009=\u20092.65, 95% confidence interval: 1.03-6.94, P\u2009=\u20090.041) and biliary injuries (odds ratio\u2009=\u20090.95, 95% confidence interval: 0.91-0.99, P-value\u2009=\u20090.036)."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Cholecystectomy, Laparoscopic",
+            "Clinical Competence",
+            "Female",
+            "Gallbladder Diseases",
+            "Humans",
+            "Length of Stay",
+            "Male",
+            "Middle Aged",
+            "Pakistan",
+            "Patient Selection",
+            "Retrospective Studies",
+            "Risk Factors",
+            "Sex Factors",
+            "Time Factors",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Laparoscopic cholecystectomy is often challenging in men on account of more adhesions and inflammation. This leads to higher conversion rates and more postoperative complications. Optimized planning and a more experienced operating surgeon may help overcome these problems."
+    },
+    "20674150": {
+        "QUESTION": "Validation of the 2009 TNM version in a large multi-institutional cohort of patients treated for renal cell carcinoma: are further improvements needed?",
+        "CONTEXTS": [
+            "A new edition of the TNM was recently released that includes modifications for the staging system of kidney cancers. Specifically, T2 cancers were subclassified into T2a and T2b (<or =10 cm vs>10 cm), tumors with renal vein involvement or perinephric fat involvement were classified as T3a cancers, and those with adrenal involvement were classified as T4 cancers.",
+            "Our aim was to validate the recently released edition of the TNM staging system for primary tumor classification in kidney cancer.",
+            "Our multicenter retrospective study consisted of 5339 patients treated in 16 academic Italian centers.",
+            "Patients underwent either radical or partial nephrectomy.",
+            "Univariable and multivariable Cox regression models addressed cancer-specific survival (CSS) after surgery.",
+            "In the study, 1897 patients (35.5%) were classified as pT1a, 1453 (27%) as pT1b, 437 (8%) as pT2a, 153 (3%) as pT2b, 1059 (20%) as pT3a, 117 (2%) as pT3b, 26 (0.5%) as pT3c, and 197 (4%) as pT4. At a median follow-up of 42 mo, 786 (15%) had died of disease. In univariable analysis, patients with pT2b and pT3a tumors had similar CSS, as did patients with pT3c and pT4 tumors. Moreover, both pT3a and pT3b stages included patients with heterogeneous outcomes. In multivariable analysis, the novel classification of the primary tumor was a powerful independent predictor of CSS (p for trend<0.0001). However, the substratification of pT1 tumors did not retain an independent predictive role. The major limitations of the study are retrospective design, lack of central pathologic review, and the small number of patients included in some substages."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "DESIGN, SETTING, AND PARTICIPANTS",
+            "INTERVENTION",
+            "MEASUREMENTS",
+            "RESULTS AND LIMITATIONS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Carcinoma, Renal Cell",
+            "Cohort Studies",
+            "Female",
+            "Humans",
+            "Kidney Neoplasms",
+            "Male",
+            "Middle Aged",
+            "Neoplasm Staging",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The recently released seventh edition of the primary tumor staging system for kidney tumors is a powerful predictor of CSS. However, some of the substages identified by the classification have overlapping prognoses, and other substages include patients with heterogeneous outcomes. The few modifications included in this edition may have not resolved the most critical issues in the previous version."
+    },
+    "21550158": {
+        "QUESTION": "Can autologous platelet-rich plasma gel enhance healing after surgical extraction of mandibular third molars?",
+        "CONTEXTS": [
+            "This investigation assesses the effect of platelet-rich plasma (PRP) gel on postoperative pain, swelling, and trismus as well as healing and bone regeneration potential on mandibular third molar extraction sockets.",
+            "A prospective randomized comparative clinical study was undertaken over a 2-year period. Patients requiring surgical extraction of a single impacted third molar and who fell within the inclusion criteria and indicated willingness to return for recall visits were recruited. The predictor variable was application of PRP gel to the socket of the third molar in the test group, whereas the control group had no PRP. The outcome variables were pain, swelling, and maximum mouth opening, which were measured using a 10-point visual analog scale, tape, and millimeter caliper, respectively. Socket healing was assessed radiographically by allocating scores for lamina dura, overall density, and trabecular pattern. Quantitative data were presented as mean. Mann-Whitney test was used to compare means between groups for continuous variables, whereas Fischer exact test was used for categorical variables. Statistical significance was inferred at P<.05.",
+            "Sixty patients aged 19 to 35 years (mean: 24.7 \u00b1 3.6 years) were divided into both test and control groups of 30 patients each. The mean postoperative pain score (visual analog scale) was lower for the PRP group at all time points and this was statistically significant (P<.05). Although the figures for swelling and interincisal mouth opening were lower in the test group, this difference was not statistically significant. Similarly, the scores for lamina dura, trabecular pattern, and bone density were better among patients in the PRP group. This difference was also not statistically significant."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Bone Regeneration",
+            "Chi-Square Distribution",
+            "Female",
+            "Gels",
+            "Humans",
+            "Male",
+            "Mandible",
+            "Molar, Third",
+            "Pain Measurement",
+            "Pain, Postoperative",
+            "Platelet-Rich Plasma",
+            "Prospective Studies",
+            "Radiography",
+            "Range of Motion, Articular",
+            "Single-Blind Method",
+            "Statistics, Nonparametric",
+            "Tooth Extraction",
+            "Tooth Socket",
+            "Tooth, Impacted",
+            "Wound Healing",
+            "Young Adult"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The PRP group recorded reduced pain, swelling, and trismus as well as enhanced and faster bone healing compared with those in the control. Hence the study showed that topical application of PRP gel has a beneficial effect in enhancing socket healing after third molar surgery."
+    },
+    "15539888": {
+        "QUESTION": "Is the atopy patch test with house dust mites specific for atopic dermatitis?",
+        "CONTEXTS": [
+            "The atopy patch test (APT), namely the patch test with aeroallergens, is regarded as specific for patients with atopic dermatitis (AD), but small numbers of positive APT were reported in the past also in atopic subjects without dermatitis and in healthy persons.",
+            "The aim of this study was to evaluate the response to the APT with house dust mites (HDM) in subjects nonaffected by AD and to compare the outcomes observed in these cases with those pointed out in AD patients, evaluating also the differences between two allergen extracts manufactured at different purifications and concentrations.",
+            "Forty-seven atopic subjects without eczema (AWE), 33 nonatopic (NA) subjects and 77 adult AD patients were patch tested with an extract of purified bodies of HDM at 20% and with another extract of whole bodies of HDM at 30%, the latter corresponding to 300 microg/g of Der p 1. The reproducibility of APT was also tested in 8 AD patients, in 37 AWE subjects and in 19 NA subjects.",
+            "Positive responses with extract at 20% were observed in 29 (37.7%) AD, in 5 (10.6%) AWE and in 4 (12.1%) NA subjects. The APT with HDM at 30% was positive in 32 (41.6%) AD, 9 (19.1%) AWE and 4 (12.1%) NA persons. The rates of positivity and the intensity scores of responses were significantly different between AD and non-AD subjects (p<0.01). The reproducibility of the APT in the three groups was satisfactory."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Allergens",
+            "Animals",
+            "Case-Control Studies",
+            "Dermatitis, Atopic",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Mites",
+            "Patch Tests",
+            "Reference Values",
+            "Risk Assessment",
+            "Sensitivity and Specificity",
+            "Severity of Illness Index"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "These observations lead to conclude that the APT with HDM is positive also in non-AD subjects but it is probably more specific for AD."
+    },
+    "18388848": {
+        "QUESTION": "Does having a regular primary care clinician improve quality of preventive care for young children?",
+        "CONTEXTS": [
+            "This study examines whether having a regular clinician for preventive care is associated with quality of care for young children, as measured by interpersonal quality ratings and content of anticipatory guidance.",
+            "The National Survey of Early Childhood Health (NSECH), a nationally representative parent survey of health care quality for 2068 young US children fielded by the National Center for Health Statistics (NCHS).",
+            "Bivariate and multivariate analyses evaluate associations between having a regular clinician for well child care and interpersonal quality, the content of anticipatory guidance, and timely access to care.",
+            "In bivariate analysis, parents of children with a regular clinician for preventive care reported slightly higher interpersonal quality (69 vs. 65 on a 0-100 scale, P = 0.01). Content of anticipatory guidance received was slightly greater for children with a regular clinician (82 vs. 80 on a 0-100 scale, P = 0.03). In bivariate analysis, a regular clinician was associated with interpersonal quality only among African American and Hispanic children. In multivariate analyses, controlling for factors that could independently influence self-reports of experiences with care, interpersonal quality but not anticipatory guidance content was higher for children with a regular clinician."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DATA SOURCE",
+            "STUDY DESIGN",
+            "PRINCIPAL FINDINGS"
+        ],
+        "MESHES": [
+            "Child, Preschool",
+            "Continental Population Groups",
+            "Educational Status",
+            "Female",
+            "Health Services",
+            "Health Services Accessibility",
+            "Health Status",
+            "Humans",
+            "Infant",
+            "Insurance Coverage",
+            "Insurance, Health",
+            "Male",
+            "Primary Health Care",
+            "Primary Prevention",
+            "Quality of Health Care"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Having a regular primary care clinician is embraced in pediatrics, although team care among physicians is also widely practiced. For young children, having a regular clinician is associated with modest gains in interpersonal quality and no differences in content of anticipatory guidance. The benefit of having a regular clinician may primarily occur in interpersonal quality for subgroups of young children."
+    },
+    "25487603": {
+        "QUESTION": "Analysis of the epidemiological pattern of Shigellosis in Barcelona between 1988 and 2012: Is it an emerging sexually transmitted infection?",
+        "CONTEXTS": [
+            "The aim of this study was to describe the evolution and epidemiologic characteristics of shigellosis patients over a 25 year period in a large city.",
+            "Shigellosis is a notifiable disease in Spain since 1988. Cases are analyzed in Barcelona residents included in the registry between 1988-2012. A descriptive analysis by sex, age, mode of transmission and Shigella species is presented. Trend analysis and time series were performed.",
+            "Of the 559 cases analyzed, 60.15% were males. A sustained increase was observed in the trend since 2008 in males (p<0,05), especially at the expense of males who had no history of food poisoning or travel to endemic areas. The increasing tendency was greater in males from 21 to 60 years, both for S. flexneri (since 2009), and for S. sonnei (since 2004). In 2012 it was noted that in the men with S. flexneri, the 63% were men who have sex with men."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Disease Notification",
+            "Dysentery, Bacillary",
+            "Emigrants and Immigrants",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Morbidity",
+            "Registries",
+            "Risk Factors",
+            "Seasons",
+            "Sexual Behavior",
+            "Sexually Transmitted Diseases, Bacterial",
+            "Shigella",
+            "Spain",
+            "Species Specificity",
+            "Travel",
+            "Young Adult"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "An increased trend was detected in men who had no history of food poisoning or travel to endemic areas. This increase points to a change in the pattern of shigellosis, becoming predominantly male and its main mechanism probably by sexual transmission."
+    },
+    "19608436": {
+        "QUESTION": "Chemical shift MRI: is there any contribution to morphologic evaluation of solid breast masses?",
+        "CONTEXTS": [
+            "To investigate the contribution of chemical shift magnetic resonance imaging for assessment of the margins of solid breast masses by benefiting from India ink artifact.",
+            "Eighty-eight masses in 64 patients were evaluated in T1- and T2-weighted images, dynamic contrast and chemical shift studies according to Breast Imaging Reporting and Data System magnetic resonance lexicon. Subtraction images were automatically obtained by chemical shift imaging and dynamic studies. Each sequence was scored using a scale of 1 to 5 according to its ability to demonstrate margins separate from surrounding parenchyma. Breast parenchyma was evaluated as fatty and dense. The results were compared with the histopathologic results.",
+            "Twenty-eight (31.8%) of the lesions were localized in fatty breast, and the remaining 60 (68.2%) lesions were localized in dense breast. There were 34 (38.6%) benign and 54 (61.4%) malignant masses. In fatty breast, chemical shift subtraction and T1-weighted images were valuable both for the demonstration and differentiation of benign lesions (P<.05). None of the sequence was valuable for both the demonstration and differentiation of malignant lesions in fatty breasts (P>.05). In dense breasts, chemical shift subtraction and dynamic contrast subtraction images were valuable for both the demonstration and differentiation of benign and malignant lesions. Additional to these sequences, T2-weighted images was also valuable for benign lesions (P<.05)."
+        ],
+        "LABELS": [
+            "RATIONALE AND OBJECTIVES",
+            "METHODS AND MATERIALS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Algorithms",
+            "Breast Neoplasms",
+            "Female",
+            "Humans",
+            "Image Enhancement",
+            "Image Interpretation, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Middle Aged",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity",
+            "Subtraction Technique"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Chemical shift subtraction can contribute to routine dynamic contrast subtraction in morphologic analysis particularly for the evaluation of margins of benign lesions in fatty breasts. It can also help in morphologic analysis of masses in dense breast."
+    },
+    "14518645": {
+        "QUESTION": "Injury and poisoning mortality among young men--are there any common factors amenable to prevention?",
+        "CONTEXTS": [
+            "Deaths from injury and poisoning (suicide, accidents, undetermined deaths, and homicide) are the major cause of death among young men aged 15-39 years in England and Wales and have been increasing in recent years.AIM: To describe common characteristics among young men who die from injury and poisoning.",
+            "We employed a retrospective survey methodology to investigate factors associated with deaths by injury and poisoning among young men aged 15-39 years (n = 268) in Merseyside and Cheshire during 1995. Data were collected from Coroner's inquest notes and General Practitioner records.",
+            "The most common cause of death was poisoning by alcohol and drugs (29.1%, n = 78). A high proportion of cases were unemployed (39.4%, n = 106). Cases were also more likely to be single compared to the general population (74.2% vs 55.5%). Self-destructive behaviour was evident in 77% of deaths (n = 206)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "DESIGN",
+            "MAIN RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Cause of Death",
+            "Data Collection",
+            "England",
+            "Humans",
+            "Male",
+            "Poisoning",
+            "Retrospective Studies",
+            "Risk Factors",
+            "Self-Injurious Behavior",
+            "Substance-Related Disorders",
+            "Suicide",
+            "Wales",
+            "Wounds and Injuries"
+        ],
+        "YEAR": "2003",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Alcohol and drug use are important contributory factors to injury and poisoning deaths. More research is needed into the effects of unemployment and being single on the health of young men, and to investigate the motivations behind risk taking and self-destructive behaviour."
+    },
+    "15466981": {
+        "QUESTION": "Prostate-specific antigen and free prostate-specific antigen in the early detection of prostate cancer: do combination tests improve detection?",
+        "CONTEXTS": [
+            "The combined use of free and total prostate-specific antigen (PSA) in early detection of prostate cancer has been controversial. This article systematically evaluates the discriminating capacity of a large number of combination tests.",
+            "Free and total PSA were analyzed in stored serum samples taken prior to diagnosis in 429 cases and 1,640 controls from the Physicians' Health Study. We used a classification algorithm called logic regression to search for clinically useful tests combining total and percent free PSA and receiver operating characteristic analysis and compared these tests with those based on total and complexed PSA. Data were divided into training and test subsets. For robustness, we considered 35 test-train splits of the original data and computed receiver operating characteristic curves for each test data set.",
+            "The average area under the receiver operating characteristic curve across test data sets was 0.74 for total PSA and 0.76 for the combination tests. Combination tests with higher sensitivity and specificity than PSA>4.0 ng/mL were identified 29 out of 35 times. All these tests extended the PSA reflex range to below 4.0 ng/mL. Receiver operating characteristic curve analysis indicated that the overall diagnostic performance as expressed by the area under the curve did not differ significantly for the different tests."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Case-Control Studies",
+            "Diagnosis, Differential",
+            "Humans",
+            "Male",
+            "Mass Screening",
+            "Middle Aged",
+            "Prostate-Specific Antigen",
+            "Prostatic Neoplasms",
+            "Reference Values",
+            "Sensitivity and Specificity"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Tests combining total and percent free PSA show modest overall improvements over total PSA. However, utilization of percent free PSA below a PSA threshold of 4 ng/mL could translate into a practically important reduction in unnecessary biopsies without sacrificing cancers detected."
+    },
+    "28006766": {
+        "QUESTION": "Is Overexpression of Ki-67 a Prognostic Biomarker of Upper Tract Urinary Carcinoma?",
+        "CONTEXTS": [
+            "Upper tract urinary carcinoma (UTUC) is a relatively uncommon but aggressive disease. The Ki-67 antigen is a classic marker of cellular proliferation, but there is still controversy regarding the significance and importance of Ki-67 in tumor progression.",
+            "In this study, we first detected Ki-67 expression in UTUC patients by immunohistochemistry (IHC). Subsequently, we quantitatively combined the results with those from the published literature in a meta-analysis after searching several databases.",
+            "IHC results demonstrated that patients with muscle-invasive tumors (T2-T4) had higher Ki-67 expression than those with non-muscle-invasive tumors (Tis-T1), suggesting that high Ki-67 expression may be associated with the aggressive form of UTUC. Kaplan-Meier curves showed that patients with high Ki-67 expression had significantly poorer cancer-specific survival (CSS) and disease-free survival (DFS). Furthermore, multivariate analysis suggested that Ki-67 expression was an independent prognostic factor for CSS (hazard ratio, HR=3.196) and DFS (HR=3.517) in UTUC patients. Then, a meta-analysis of the published literature investigating Ki-67 expression and its effects on UTUC prognosis was conducted. After searching the PubMed, Medline, Embase, Cochrane Library and Scopus databases, 12 articles met the eligibility criteria for this analysis. The eligible studies included a total of 1740 patients with a mean number of 82 patients per study (range, 38-475). The combined results showed that increased Ki-67 levels were associated with poor survival and disease progression, with a pooled HR estimate of 2.081 and 2.791, respectively. In subgroup analysis, the pooled HR was statistically significant for cancer-specific survival (HR=2.276), metastasis-free survival (HR=3.008) and disease-free survival (HR=6.336)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Biomarkers, Tumor",
+            "Disease Progression",
+            "Disease-Free Survival",
+            "Female",
+            "Humans",
+            "Immunohistochemistry",
+            "Kaplan-Meier Estimate",
+            "Ki-67 Antigen",
+            "Male",
+            "Multivariate Analysis",
+            "Prognosis",
+            "Retrospective Studies",
+            "Urologic Neoplasms"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "In conclusion, high Ki-67 expression was associated with poor survival in patients with UTUC, as well as a high risk of disease progression, although these findings need to be interpreted with caution. Large-scale, adequately designed, prospective trials are needed to further confirm the value of Ki-67 in prognosis of UTUC patients."
+    },
+    "21669959": {
+        "QUESTION": "Secondhand smoke risk in infants discharged from an NICU: potential for significant health disparities?",
+        "CONTEXTS": [
+            "Secondhand smoke exposure (SHSe) threatens fragile infants discharged from a neonatal intensive care unit (NICU). Smoking practices were examined in families with a high respiratory risk infant (born at very low birth weight; ventilated>12 hr) in a Houston, Texas, NICU. Socioeconomic status, race, and mental health status were hypothesized to be related to SHSe and household smoking bans.",
+            "Data were collected as part of The Baby's Breath Project, a hospital-based SHSe intervention trial targeting parents with a high-risk infant in the NICU who reported a smoker in the household (N = 99). Measures of sociodemographics, smoking, home and car smoking bans, and depression were collected.",
+            "Overall, 26% of all families with a high-risk infant in the NICU reported a household smoker. Almost half of the families with a smoker reported an annual income of less than $25,000. 46.2% of families reported having a total smoking ban in place in both their homes and cars. Only 27.8% families earning less than $25,000 reported having a total smoking ban in place relative to almost 60% of families earning more (p<.01). African American and Caucasian families were less likely to have a smoking ban compared with Hispanics (p<.05). Mothers who reported no smoking ban were more depressed than those who had a household smoking ban (p<.02)."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "African Americans",
+            "Air Pollution, Indoor",
+            "Asian Continental Ancestry Group",
+            "Caregivers",
+            "Depression",
+            "Environmental Exposure",
+            "European Continental Ancestry Group",
+            "Family Characteristics",
+            "Female",
+            "Follow-Up Studies",
+            "Healthcare Disparities",
+            "Hispanic Americans",
+            "Humans",
+            "Infant",
+            "Infant, Newborn",
+            "Intensive Care Units, Neonatal",
+            "Male",
+            "Prevalence",
+            "Risk",
+            "Risk Reduction Behavior",
+            "Smoking",
+            "Socioeconomic Factors",
+            "Texas",
+            "Tobacco Smoke Pollution"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The most disadvantaged families were least likely to have protective health behaviors in place to reduce SHSe and, consequently, are most at-risk for tobacco exposure and subsequent tobacco-related health disparities. Innovative SHSe interventions for this vulnerable population are sorely needed."
+    },
+    "23356465": {
+        "QUESTION": "Uniformity of evidence-based treatments in practice?",
+        "CONTEXTS": [
+            "Various factors contribute to the effective implementation of evidence-based treatments (EBTs). In this study, cognitive processing therapy (CPT) was administered in a Veterans Affairs (VA) posttraumatic stress disorder (PTSD) specialty clinic in which training and supervision were provided following VA implementation guidelines. The aim was to (a) estimate the proportion of variability in outcome attributable to therapists and (b) identify characteristics of those therapists who produced better outcomes.",
+            "We used an archival database of veterans (n = 192) who completed 12 sessions of CPT by therapists (n = 25) who were trained by 2 nationally recognized trainers, 1 of whom also provided weekly group supervision. Multilevel modeling was used to estimate therapist effects, with therapists treated as a random factor. The supervisor was asked to retrospectively rate each therapist in terms of perceived effectiveness based on supervision interactions. Using single case study design, the supervisor was interviewed to determine what criteria she used to rate the therapists and emerging themes were coded.",
+            "When initial level of severity on the PTSD Checklist (PCL; McDonald&Calhoun, 2010; Weathers, Litz, Herman, Huska,&Keane, 1993) was taken into account, approximately 12% of the variability in the PCL at the end of treatment was due to therapists. The trainer, blind to the results, identified the following characteristics and actions of effective therapists: effectively addressing patient avoidance, language used in supervision, flexible interpersonal style, and ability to develop a strong therapeutic alliance."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Clinical Competence",
+            "Cognitive Therapy",
+            "Evidence-Based Practice",
+            "Female",
+            "Humans",
+            "Interviews as Topic",
+            "Male",
+            "Middle Aged",
+            "Severity of Illness Index",
+            "Stress Disorders, Post-Traumatic",
+            "Treatment Outcome",
+            "United States",
+            "United States Department of Veterans Affairs",
+            "Veterans",
+            "Wisconsin",
+            "Young Adult"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "This study adds to the growing body of literature documenting the importance of the individual therapist as an important factor in the change process."
+    },
+    "8245806": {
+        "QUESTION": "Does family practice at residency teaching sites reflect community practice?",
+        "CONTEXTS": [
+            "Family medicine has aspired to train residents and conduct research in settings that closely resemble community practice. The purpose of this study was to compare the patient characteristics of the ambulatory teaching centers of a consortium of seven community-based university-affiliated family practice residency programs in northeast Ohio with the National Ambulatory Medical Care Survey (NAMCS) results for family physicians (FPs) and general practitioners (GPs).",
+            "Ninety-eight faculty and resident physicians at the residency training site of the Northeastern Ohio Universities College of Medicine collected data on all ambulatory patient visits (N = 1498) for one randomly chosen week between July 1, 1991, and June 30, 1992. We compared these data with patient visits reported in the 1990 NAMCS for FPs and GPs.",
+            "The residency training sites saw slightly more children, women, blacks, and Medicare and Medicaid patients. The most common reason for an office visit in both populations was an undifferentiated symptom. Fifteen of the top 20 \"reason for visit\" codes were identical, as were 14 of the top 20 diagnoses. More preventive and therapeutic services were offered or performed at our residency training sites but fewer diagnostic services were performed. There were fewer consultations requested at our residency training sites but similar hospitalization rates for patients. The mean duration of visit differed by only 1 minute."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Ambulatory Care",
+            "Child",
+            "Child, Preschool",
+            "Family Practice",
+            "Female",
+            "Humans",
+            "Internship and Residency",
+            "Male",
+            "Middle Aged",
+            "Office Visits",
+            "Ohio",
+            "Patients",
+            "Reimbursement Mechanisms",
+            "Time Factors"
+        ],
+        "YEAR": "1993",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The residency training sites of the Northeastern Ohio Universities College of Medicine provide patient care opportunities similar to those found in a national survey of family and general practitioners."
+    },
+    "20401819": {
+        "QUESTION": "Is ultrasound equal to X-ray in pediatric fracture diagnosis?",
+        "CONTEXTS": [
+            "Ultrasound is currently not established for the diagnosis of fractures. The aim of this study was to compare ultrasound and X-ray beyond their use solely for the identification of fractures, i. e., for the detection of fracture type and dislocation for pediatric fracture diagnosis.",
+            "Limb bones of dead young pigs served as a model for pediatric bones. The fractured bones were examined with ultrasound, X-ray, and CT, which served as the gold standard.",
+            "162 of 248 bones were fractured. 130 fractures were identified using ultrasound, and 148 using X-ray. There were some advantages of X-ray over ultrasound in the detection of fracture type (80 correct results using X-ray, 66 correct results using ultrasound). Ultrasound, however, was superior to X-ray for dislocation identification (41 correct results using X-ray, 51 correct results using ultrasound). Both findings were not statistically significant after adjustment for multiple testing."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Age Factors",
+            "Animals",
+            "Bone and Bones",
+            "Child",
+            "Disease Models, Animal",
+            "Fractures, Bone",
+            "Fractures, Closed",
+            "Fractures, Comminuted",
+            "Growth Plate",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Imaging, Three-Dimensional",
+            "Intra-Articular Fractures",
+            "Salter-Harris Fractures",
+            "Sensitivity and Specificity",
+            "Swine",
+            "Tomography, Spiral Computed",
+            "Ultrasonography"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Ultrasound not only has comparable sensitivity to that of X-ray for the identification of limb fractures but is also equally effective for the diagnosis of fracture type and dislocation. Thus, ultrasound can be used as an adequate alternative method to X-ray for pediatric fracture diagnosis."
+    },
+    "9107172": {
+        "QUESTION": "Bridge experience with long-term implantable left ventricular assist devices. Are they an alternative to transplantation?",
+        "CONTEXTS": [
+            "If long-term use of left ventricular assist devices (LVADs) as bridges to transplantation is successful, the issue of permanent device implantation in lieu of transplantation could be addressed through the creation of appropriately designed trials. Our medium-term experience with both pneumatically and electrically powered ThermoCardiosystems LVADs is presented to outline the benefits and limitations of device support in lieu of transplantation.",
+            "Detailed records were kept prospectively for all patients undergoing LVAD insertion. Fifty-eight LVADs were inserted over 5 years, with a survival rate of 74%. Mean patient age was 50 years, and duration of support averaged 98 days. Although common, both preexisting infection and infection during LVAD support were not associated with increased mortality or decreased rate of successful transplantation. Thromboembolic complications were rare, occurring in only three patients (5%) despite the absence of anticoagulation. Ventricular arrhythmias were well tolerated in all patients except in cases of early perioperative right ventricular failure, with no deaths. Right ventricular failure occurred in one third of patients and was managed in a small percentage by right ventricular assist device (RVAD) support and/or inhaled nitric oxide therapy. There were no serious device malfunctions, but five graft-related hemorrhages resulted in two deaths. Finally, a variety of noncardiac surgical procedures were performed in LVAD recipients, with no major morbidity and mortality."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS AND RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Arrhythmias, Cardiac",
+            "Assisted Circulation",
+            "Cardiomyopathies",
+            "Combined Modality Therapy",
+            "Comorbidity",
+            "Cost-Benefit Analysis",
+            "Endocarditis",
+            "Equipment Design",
+            "Female",
+            "Follow-Up Studies",
+            "Heart Failure",
+            "Heart Transplantation",
+            "Heart-Assist Devices",
+            "Hemorrhage",
+            "Humans",
+            "Infection",
+            "Length of Stay",
+            "Male",
+            "Middle Aged",
+            "Nitric Oxide",
+            "Postoperative Complications",
+            "Prospective Studies",
+            "Prostheses and Implants",
+            "Survival Analysis",
+            "Thromboembolism"
+        ],
+        "YEAR": "1997",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Over all, our medium-term experience with implantable LVAD support is encouraging. Although additional areas of investigation exist, improvements in patients selection and management together with device alterations that have reduced the thromboembolic incidence and facilitated patient rehabilitation lead us to believe that a prospective, randomized trial is indicated to study the role that LVADs may have as an alternative to medical management."
+    },
+    "26518378": {
+        "QUESTION": "Are Reviewers' Scores Influenced by Citations to Their Own Work?",
+        "CONTEXTS": [
+            "Academic medical researchers are judged by how often their publications are cited in the literature. When serving as journal reviewers, they may be more favorably disposed to manuscripts that cite their work. We investigate whether manuscripts that contain a citation to the reviewer's work receive higher evaluations than those that do not and\u00a0whether peer reviewers encourage authors to cite that reviewer's work.",
+            "We analyzed all research manuscripts submitted in 2012 to Annals of Emergency Medicine to determine whether they contained citations to each reviewer's work. To determine whether citation affected reviewer scores, we obtained each reviewer's score of the manuscript's overall desirability (1=worst to 5=best) and used descriptive statistics and regression modeling to compare scores of cited and noncited reviewers. We also enumerated how often reviewers suggested that authors add citations to the reviewer's work or other work.",
+            "There were 395 manuscripts and 999 corresponding reviews with an manuscript desirability score. The 83 reviews by cited reviewers (8.3%) had a mean score of 2.8 (SD 1.4); the 916 reviews by noncited reviewers (91.7%), 2.5 (1.2; \u0394=0.3; 95% confidence interval [CI] 0 to 0.6). The mean score in the 117 reviews of the noncited reviewers of\u00a0the\u00a057\u00a0manuscripts that had both cited and noncited reviewers was 2.9 (SD 1.2) compared with 2.9 (SD 1.1) for the 68 reviews by cited reviewers (\u0394=0; 95% CI -0.3 to 0.4). In the final ordinal regression model, the unadjusted OR for\u00a0the manuscript desirability score was 1.6 (95% CI 1.0 to 2.7); when adjusting for the manuscripts' mean desirability score, it was 1.4 (95% CI 0.8 to\u00a02.2), demonstrating that manuscript quality was a confounder. Authors were asked to\u00a0add a citation to the reviewer's work in 28 reviews (3%) but to others' work in 98 (10%)."
+        ],
+        "LABELS": [
+            "STUDY OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Authorship",
+            "Biomedical Research",
+            "Emergency Medicine",
+            "Humans",
+            "Manuscripts, Medical as Topic",
+            "Peer Review, Research",
+            "Periodicals as Topic",
+            "Publishing"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "In a leading specialty journal, cited reviewers gave higher scores than noncited reviewers. However, this\u00a0was likely due to their being assigned higher-quality manuscripts and not because they were cited in the manuscript. Reviewer requests that their work be cited were rare."
+    },
+    "15477551": {
+        "QUESTION": "Chronic progressive cervical myelopathy with HTLV-I infection: Variant form of HAM/TSP?",
+        "CONTEXTS": [
+            "To investigate the role of human T-lymphotrophic virus type I (HTLV-I) infection in four patients who developed slowly progressive myelopathy with abnormal MRI lesions in the cervical cord levels.",
+            "Clinical and neuroradiologic examinations were performed, and the odds that an HTLV-I-infected individual of specified genotype, age, and provirus load had HTLV-I-associated myelopathy (HAM)/tropical spastic paraparesis (TSP) were calculated.",
+            "Anti-HTLV-I antibodies were positive in both the serum and the CSF in all of the patients. Biopsied sample from spinal cord lesions showed inflammatory changes in Patient 1. Patient 2 had a demyelinating type of sensorimotor polyneuropathy. Two of the three patients examined showed high risk of developing HAM/TSP in virologic and immunologic aspects."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Case-Control Studies",
+            "Chronic Disease",
+            "Contrast Media",
+            "Disease Progression",
+            "Female",
+            "Gadolinium DTPA",
+            "Genotype",
+            "Humans",
+            "Immunohistochemistry",
+            "Japan",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Neck",
+            "Paraparesis, Tropical Spastic",
+            "Polyneuropathies",
+            "Probability",
+            "Spinal Cord"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "These four cases may belong to a variant form of HAM/TSP, predominantly involving the cervical cord levels."
+    },
+    "25891436": {
+        "QUESTION": "Is serum total bilirubin useful to differentiate cardioembolic stroke from other stroke subtypes?",
+        "CONTEXTS": [
+            "Previous studies have reported that the total bilirubin (TB) level is associated with coronary artery disease, heart failure and atrial fibrillation. These heart diseases can produce cardiogenic cerebral embolism and cause cardioembolic stroke. However, whether the serum TB could be a biomarker to differentiate cardioembolic stroke from other stroke subtypes is unclear.",
+            "Our study consisted of 628 consecutive patients with ischaemic stroke. Various clinical and laboratory variables of the patients were analysed according to serum TB quartiles and stroke subtypes.",
+            "The higher TB quartile group was associated with atrial fibrillation, larger left atrium diameter, lower left ventricular fractional shortening and cardioembolic stroke (P<0.001, P = 0.001, P = 0.033, P<0.001, respectively). Furthermore, serum TB was a statistically significant independent predictor of cardioembolic stroke in a multivariable setting (Continuous, per unit increase OR = 1.091, 95%CI: 1.023-1.164, P = 0.008)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Atrial Fibrillation",
+            "Bilirubin",
+            "Biomarkers",
+            "Brain Ischemia",
+            "Diagnosis, Differential",
+            "Feasibility Studies",
+            "Female",
+            "Humans",
+            "Intracranial Embolism",
+            "Male",
+            "Middle Aged",
+            "Stroke"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Serum TB level was independently associated with cardioembolic stroke. The combination of clinical data and serum TB may be a feasible strategy to diagnose cardioembolic stroke in the acute phase."
+    },
+    "24237112": {
+        "QUESTION": "Do provider service networks result in lower expenditures compared with HMOs or primary care case management in Florida's Medicaid program?",
+        "CONTEXTS": [
+            "To determine the impact of Florida's Medicaid Demonstration 4 years post-implementation on per member per month (PMPM) Medicaid expenditures and whether receiving care through HMOs versus provider service networks (PSNs) in the Demonstration was associated with PMPM expenditures.DATA: Florida Medicaid claims from two fiscal years prior to implementation of the Demonstration (FY0405, FY0506) and the first four fiscal years after implementation (FY0607-FY0910) from two urban Demonstration counties and two urban non-Demonstration counties.",
+            "A difference-in-difference approach was used to compare changes in enrollee expenditures before and after implementation of the Demonstration overall and specifically for HMOs and PSNs.",
+            "Claims data were extracted for enrollees in the Demonstration and non-Demonstration counties and collapsed into monthly amounts (N = 26,819,987 person-months).",
+            "Among SSI enrollees, the Demonstration resulted in lower increases in PMPM expenditures over time ($40) compared with the non-Demonstration counties ($186), with Demonstration PSNs lowering PMPM expenditures by $7 more than HMOs. Savings were also seen among TANF enrollees but to a lesser extent."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "STUDY DESIGN",
+            "DATA EXTRACTION",
+            "PRINCIPAL FINDINGS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Case Management",
+            "Child",
+            "Child, Preschool",
+            "Female",
+            "Florida",
+            "Health Expenditures",
+            "Health Maintenance Organizations",
+            "Humans",
+            "Infant",
+            "Male",
+            "Medicaid",
+            "Middle Aged",
+            "Primary Health Care",
+            "United States",
+            "Young Adult"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The Medicaid Demonstration in Florida appears to result in lower PMPM expenditures. Demonstration PSNs generated slightly greater reductions in expenditures compared to Demonstration HMOs. PSNs appear to be a promising model for delivering care to Medicaid enrollees."
+    },
+    "11978239": {
+        "QUESTION": "Do primary care physicians underprescribe antibiotics for peptic ulcer disease?",
+        "CONTEXTS": [
+            "To determine how often primary care physicians prescribe eradication therapy for peptic ulcer disease (PUD) and nonulcer dyspepsia (NUD).",
+            "During a 2-year period (1998-2000) we analyzed data concerning patients with PUD or NUD seen by 80 Italian primary care physicians uniformly distributed throughout the country. We classified patients as having a definitive or a presumptive diagnosis on the basis of the completeness of the diagnostic workup and interpreted the prescription of antibiotics for dyspepsia as evidence of attempted eradication of Helicobacter pylori.",
+            "Consecutive ambulatory patients.",
+            "The frequency with which predefined groups of patients received eradication therapy.",
+            "Of 6866 patients, 690 (10%) received eradication therapy. Of 2162 patients with PUD, 596 (27.6%) received eradication therapy; of 4704 patients with NUD, however, only 94 (2%) received this treatment (P =.0001). A total of 341 (37.7%) of 904 PUD patients with a definitive diagnosis were given eradication therapy and 255 (20.3%) of 1258 PUD patients with a presumptive diagnosis were given therapy (P&lt.0001). In NUD patients, 7 of 743 (0.9%) with a definitive diagnosis received eradication therapy, while 87 (2.2%) of 3961 of those with a presumptive diagnosis were given the same therapy (P =.025)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "STUDY DESIGN",
+            "POPULATION",
+            "OUTCOMES MEASURED",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Anti-Bacterial Agents",
+            "Drug Utilization",
+            "Dyspepsia",
+            "Family Practice",
+            "Female",
+            "Health Services Misuse",
+            "Helicobacter Infections",
+            "Helicobacter pylori",
+            "Humans",
+            "Italy",
+            "Male",
+            "Middle Aged",
+            "Peptic Ulcer",
+            "Practice Patterns, Physicians'",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2002",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "While Italian primary care physicians appropriately target eradication therapy for H pylori infection in patients with peptic ulcer disease rather than nonulcer disease, the intervention was still underused in these patients. Improvements in this prescribing behavior are needed."
+    },
+    "28407529": {
+        "QUESTION": "Resection of colorectal liver metastases after second-line chemotherapy: is it worthwhile?",
+        "CONTEXTS": [
+            "Patient outcome after resection of colorectal liver metastases (CLM) following second-line preoperative chemotherapy (PCT) performed for insufficient response or toxicity of the first-line, is little known and has here been compared to the outcome following first-line.",
+            "From January 2005 to June 2013, 5624 and 791 consecutive patients of a prospective international cohort received 1 and 2 PCT lines before CLM resection (group 1 and 2, respectively). Survival and prognostic factors were analysed.",
+            "After a mean follow-up of 30.1 months, there was no difference in survival from CLM diagnosis (median, 3-, and 5-year overall survival [OS]: 58.6 months, 76% and 49% in group 2 versus 58.9 months, 71% and 49% in group 1, respectively, P\u00a0=\u00a00.32). After hepatectomy, disease-free survival (DFS) was however shorter in group 2: 17.2 months, 27% and 15% versus 19.4 months, 32% and 23%, respectively (P\u00a0=\u00a00.001). Among the initially unresectable patients of group 1 and 2, no statistical difference in OS or DFS was observed. Independent predictors of worse OS in group 2 were positive primary lymph nodes, extrahepatic disease, tumour progression on second line, R2 resection\u00a0and number of hepatectomies/year<50. Positive primary nodes, synchronous and bilateral metastases were predictors of shorter DFS. Initial unresectability did not impact OS or DFS in group 2."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Antibodies, Monoclonal",
+            "Antineoplastic Combined Chemotherapy Protocols",
+            "Camptothecin",
+            "Catheter Ablation",
+            "Cetuximab",
+            "Colonic Neoplasms",
+            "Disease Progression",
+            "Disease-Free Survival",
+            "Female",
+            "Hepatectomy",
+            "Humans",
+            "Liver Neoplasms",
+            "Lymphatic Metastasis",
+            "Male",
+            "Middle Aged",
+            "Postoperative Care",
+            "Preoperative Care",
+            "Prospective Studies",
+            "Rectal Neoplasms",
+            "Registries"
+        ],
+        "YEAR": "2017",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "no",
+        "LONG_ANSWER": "CLM resection following second-line PCT, after oncosurgically favourable selection, could bring similar OS compared to what observed after first-line. For initially unresectable patients, OS or DFS is comparable between first- and second-line PCT. Surgery should not be denied after the failure of first-line chemotherapy."
+    },
+    "21190419": {
+        "QUESTION": "Does nuchal translucency thickness in the first trimester predict GDM onset during pregnancy?",
+        "CONTEXTS": [
+            "This study was planned to evaluate whether increased nuchal translucency (NT) thickness in the first trimester of gestation can be related to onset of gestational diabetes mellitus (GDM) during pregnancy.",
+            "From January 2006 to August 2008, a group of 678 singleton pregnancies who had developed GDM has been selected as a study group among a total of 3966 pregnant women who had undergone first trimester screening for aneuploidies at 11-14 weeks of gestation. A group of 420 single pregnant women with physiological pregnancy were enrolled as control group. Both fetal structural and karyotype's anomalies were excluded in the two groups. NT was mesured by a Fetal Medicine Foundation certificated operator; GDM was diagnosed at 24-28 weeks of gestation following Carpenter and Coustan criteria. In the analyses of continuos variables, study and control group were compared by Student's t-test and Anova test.",
+            "There was no significative difference (p = 0.585) between NT values in the study (mean = 1.56) and control group (mean = 1.54)."
+        ],
+        "LABELS": [
+            "BACKGROUND AND AIMS",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Diabetes, Gestational",
+            "Early Diagnosis",
+            "Female",
+            "Glucose Tolerance Test",
+            "Hospitals, University",
+            "Humans",
+            "Nuchal Translucency Measurement",
+            "Predictive Value of Tests",
+            "Pregnancy",
+            "Pregnancy Trimester, First",
+            "Pregnancy Trimester, Second",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "NT thickness does not show a significative increase in those women who subsequently develop GDM. Therefore, NT assessment does not prove to be an useful ultrasound parameter for predicting GDM onset during pregnancy."
+    },
+    "15000338": {
+        "QUESTION": "Do family physicians know the costs of medical care?",
+        "CONTEXTS": [
+            "To determine the cost of 46 commonly used investigations and therapies and to assess British Columbia family doctors' awareness of these costs.",
+            "Mailed survey asking about costs of 23 investigations and 23 therapies relevant to family practice. A random sample of 600 doctors was asked to report their awareness of costs and to estimate costs of the 46 items.",
+            "British Columbia.",
+            "Six hundred family physicians.",
+            "Estimates within 25% of actual cost were considered correct. Associations between cost awareness and respondents'characteristics (eg, sex, practice location) were sought. Degree of error in estimates was also assessed.",
+            "Overall, 283 (47.2%) surveys were returned and 259 analyzed. Few respondents estimated costs within 25% of true cost, and estimates were highly variable. Physicians underestimated costs of expensive drugs and laboratory investigations and overestimated costs of inexpensive drugs. Cost awareness did not correlate with sex, practice location, College certification, faculty appointment, or years in practice."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PARTICIPANTS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Awareness",
+            "British Columbia",
+            "Clinical Laboratory Techniques",
+            "Diagnostic Imaging",
+            "Fees, Medical",
+            "Fees, Pharmaceutical",
+            "Female",
+            "Health Care Costs",
+            "Health Care Surveys",
+            "Humans",
+            "Male",
+            "Physicians, Family",
+            "Practice Patterns, Physicians'"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Family doctors in British Columbia have little awareness of the costs of medical care."
+    },
+    "17323047": {
+        "QUESTION": "Does invasive diagnosis of nosocomial pneumonia during off-hours delay treatment?",
+        "CONTEXTS": [
+            "We examined whether invasive lung-specimen collection-to-treatment times for intensive care unit patients with suspected ventilator-associated pneumonia (VAP) differ with to the work shift during which specimens were collected. We compared weekday day shifts and off-hours (from 6:30 p.m. to 8:29 a.m. the next day for night shifts, from Saturday 1:00 p.m. to Monday 8:29 a.m. for weekends, and from 8:30 a.m. to 8:29 a.m. the following morning for public holidays).",
+            "Single-center, observational study in the intensive care unit in an academic teaching hospital.",
+            "101 patients who developed 152 episodes of bacteriologically confirmed VAP.",
+            "Of the 152 VAP episodes 66 were diagnosed during off-hours. Neither more bronchoscopy complications nor more inappropriate initial antimicrobial treatments for patients were observed between day and off-hour shifts. Indeed, the overall time from brochoalveolar lavage to antibiotic administration was shorter for off-hours than day-shifts due to shorter specimen collection-to-antibiotic prescription times, but antibiotic prescription-to-administration times were the same."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN AND SETTING",
+            "PATIENTS AND PARTICIPANTS",
+            "MEASUREMENTS AND RESULTS"
+        ],
+        "MESHES": [
+            "Anti-Bacterial Agents",
+            "Bronchoalveolar Lavage Fluid",
+            "Bronchoscopy",
+            "Cross Infection",
+            "Humans",
+            "Intensive Care Units",
+            "Pneumonia, Ventilator-Associated",
+            "Time Factors"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "An invasive strategy based on bronchoscopy to diagnose VAP was not associated with a longer time to first appropriate antibiotic administration when clinical suspicion of VAP occurs during off-hours."
+    },
+    "18799291": {
+        "QUESTION": "Is the histidine triad nucleotide-binding protein 1 (HINT1) gene a candidate for schizophrenia?",
+        "CONTEXTS": [
+            ": The histidine triad nucleotide-binding protein 1, HINT1, hydrolyzes adenosine 5'-monophosphoramidate substrates such as AMP-morpholidate. The human HINT1 gene is located on chromosome 5q31.2, a region implicated in linkage studies of schizophrenia. HINT1 had been shown to have different expression in postmortem brains between schizophrenia patients and unaffected controls. It was also found to be associated with the dysregulation of postsynaptic dopamine transmission, thus suggesting a potential role in several neuropsychiatric diseases.",
+            ": In this work, we studied 8 SNPs around the HINT1 gene region using the Irish study of high density schizophrenia families (ISHDSF, 1350 subjects and 273 pedigrees) and the Irish case control study of schizophrenia (ICCSS, 655 affected subjects and 626 controls). The expression level of HINT1 was compared between the postmortem brain cDNAs from schizophrenic patients and unaffected controls provided by the Stanley Medical Research Institute.",
+            ": We found nominally significant differences in allele frequencies in several SNPs for both ISHDSF and ICCSS samples in sex-stratified analyses. However, the sex effect differed between the two samples. In expression studies, no significant difference in expression was observed between patients and controls. However, significant interactions amongst sex, diagnosis and rs3864283 genotypes were observed."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Case-Control Studies",
+            "Chromosome Mapping",
+            "European Continental Ancestry Group",
+            "Female",
+            "Gene Expression",
+            "Gene Frequency",
+            "Genetic Markers",
+            "Genetic Predisposition to Disease",
+            "Genotype",
+            "Humans",
+            "Ireland",
+            "Linkage Disequilibrium",
+            "Male",
+            "Middle Aged",
+            "Nerve Tissue Proteins",
+            "Polymorphism, Single Nucleotide",
+            "Schizophrenia"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "no",
+        "LONG_ANSWER": ": Data from both association and expression studies suggested that variants at HINT1 may be associated with schizophrenia and the associations may be sex-specific. However, the markers showing associations were in high LD to the SPEC2/PDZ-GEF2/ACSL6 locus reported previously in the same samples. This made it difficult to separate the association signals amongst these genes. Other independent studies may be necessary to distinguish these candidate genes."
+    },
+    "15631914": {
+        "QUESTION": "Is the clinically positive axilla in breast cancer really a contraindication to sentinel lymph node biopsy?",
+        "CONTEXTS": [
+            "Clinically positive axillary nodes are widely considered a contraindication to sentinel lymph node (SLN) biopsy in breast cancer, yet no data support this mandate. In fact, data from the era of axillary lymph node dissection (ALND) suggest that clinical examination of the axilla is falsely positive in as many as 30% of cases. Here we report the results of SLN biopsy in a selected group of breast cancer patients with palpable axillary nodes classified as either moderately or highly suspicious for metastasis.",
+            "Among 2,027 consecutive SLN biopsy procedures performed by two experienced surgeons, clinically suspicious axillary nodes were identified in 106, and categorized as group 1 (asymmetric enlargement of the ipsilateral axillary nodes moderately suspicious for metastasis, n = 62) and group 2 (clinically positive axillary nodes highly suspicious for metastasis, n = 44).",
+            "Clinical examination of the axilla was inaccurate in 41% of patients (43 of 106) overall, and was falsely positive in 53% of patients (33 of 62) with moderately suspicious nodes and 23% of patients (10 of 44) with highly suspicious nodes. False-positive results were less frequent with larger tumor size (p = 0.002) and higher histologic grade (p = 0.002), but were not associated with age, body mass index, or a previous surgical biopsy."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "STUDY DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Axilla",
+            "Breast Neoplasms",
+            "False Positive Reactions",
+            "Female",
+            "Humans",
+            "Lymph Nodes",
+            "Lymphatic Metastasis",
+            "Middle Aged",
+            "Predictive Value of Tests",
+            "Reproducibility of Results",
+            "Sentinel Lymph Node Biopsy"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Clinical axillary examination in breast cancer is subject to false-positive results, and is by itself insufficient justification for axillary lymph node dissection. If other means of preoperative assessment such as palpation- or image-guided fine needle aspiration are negative or indeterminate, then SLN biopsy deserves wider consideration as an alternative to routine axillary lymph node dissection in the clinically node-positive setting."
+    },
+    "21592383": {
+        "QUESTION": "Canada's Compassionate Care Benefit: is it an adequate public health response to addressing the issue of caregiver burden in end-of-life care?",
+        "CONTEXTS": [
+            "An increasingly significant public health issue in Canada, and elsewhere throughout the developed world, pertains to the provision of adequate palliative/end-of-life (P/EOL) care. Informal caregivers who take on the responsibility of providing P/EOL care often experience negative physical, mental, emotional, social and economic consequences. In this article, we specifically examine how Canada's Compassionate Care Benefit (CCB)--a contributory benefits social program aimed at informal P/EOL caregivers--operates as a public health response in sustaining informal caregivers providing P/EOL care, and whether or not it adequately addresses known aspects of caregiver burden that are addressed within the population health promotion (PHP) model.",
+            "As part of a national evaluation of Canada's Compassionate Care Benefit, 57 telephone interviews were conducted with Canadian informal P/EOL caregivers in 5 different provinces, pertaining to the strengths and weaknesses of the CCB and the general caregiving experience. Interview data was coded with Nvivo software and emerging themes were identified by the research team, with such findings published elsewhere. The purpose of the present analysis was identified after comparing the findings to the literature specific to caregiver burden and public health, after which data was analyzed using the PHP model as a guiding framework.",
+            "Informal caregivers spoke to several of the determinants of health outlined in the PHP model that are implicated in their burden experience: gender, income and social status, working conditions, health and social services, social support network, and personal health practises and coping strategies. They recognized the need for improving the CCB to better address these determinants."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Canada",
+            "Caregivers",
+            "Cost of Illness",
+            "Female",
+            "Humans",
+            "Interviews as Topic",
+            "Male",
+            "Middle Aged",
+            "Program Evaluation",
+            "Public Health",
+            "Terminal Care"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "This study, from the perspective of family caregivers, demonstrates that the CCB is not living up to its full potential in sustaining informal P/EOL caregivers. Effort is required to transform the CCB so that it may fulfill the potential it holds for serving as one public health response to caregiver burden that forms part of a healthy public policy that addresses the determinants of this burden."
+    },
+    "19459018": {
+        "QUESTION": "Very high serum CA 19-9 levels: a contraindication to pancreaticoduodenectomy?",
+        "CONTEXTS": [
+            "From 2000 to 2007, 344 patients underwent pancreatoduodenectomy for PA. Fifty-three patients (elevated group) had preoperatively elevated serum CA 19-9 levels (>400 IU/ml) after resolution of obstructive jaundice. Of these, 27 patients had high levels (400-899 IU/ml (HL)) and 26 patients had very high levels>or=900 IU/ml (VHL). Fifty patients with normal preoperative serum CA 19-9 levels (<37 IU/ml) comprised the control group.",
+            "Median survival of the control group (n = 50) versus elevated group (n = 53) was 22 versus 15 months (p = 0.02) and overall 3-year survival was 32% versus 14% (p = 0.03). There was no statistical difference in the median and 3-year overall survival between patients with HL and VHL. Patients in the elevated group who normalized their CA 19-9 levels after surgery (n = 11) had a survival equivalent to patients in the control group."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adenocarcinoma",
+            "Aged",
+            "Aged, 80 and over",
+            "Biomarkers, Tumor",
+            "CA-19-9 Antigen",
+            "Contraindications",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Pancreatic Neoplasms",
+            "Pancreaticoduodenectomy",
+            "Postoperative Period",
+            "Predictive Value of Tests",
+            "Preoperative Period",
+            "Prognosis",
+            "Survival Analysis",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Patients who normalized their CA19-9 levels postoperatively had equivalent survival to patients with normal preoperative CA 19-9 levels. Preoperative serum CA 19-9 level by itself should not preclude surgery in patients who have undergone careful preoperative staging."
+    },
+    "23088164": {
+        "QUESTION": "Does cognitive function predict frequency compressed speech recognition in listeners with normal hearing and normal cognition?",
+        "CONTEXTS": [
+            "The aim was to investigate the relationship between cognitive ability and frequency compressed speech recognition in listeners with normal hearing and normal cognition.",
+            "Speech-in-noise recognition was measured using Institute of Electrical and Electronic Engineers sentences presented over earphones at 65 dB SPL and a range of signal-to-noise ratios. There were three conditions: unprocessed, and at frequency compression ratios of 2:1 and 3:1 (cut-off frequency, 1.6 kHz). Working memory and cognitive ability were measured using the reading span test and the trail making test, respectively.",
+            "Participants were 15 young normally-hearing adults with normal cognition.",
+            "There was a statistically significant reduction in mean speech recognition from around 80% when unprocessed to 40% for 2:1 compression and 30% for 3:1 compression. There was a statistically significant relationship between speech recognition and cognition for the unprocessed condition but not for the frequency-compressed conditions."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "STUDY SAMPLE",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acoustic Stimulation",
+            "Adult",
+            "Analysis of Variance",
+            "Audiometry, Speech",
+            "Cognition",
+            "Female",
+            "Humans",
+            "Male",
+            "Memory",
+            "Noise",
+            "Perceptual Masking",
+            "Recognition (Psychology)",
+            "Signal Detection, Psychological",
+            "Speech Perception",
+            "Trail Making Test"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "The relationship between cognitive functioning and recognition of frequency compressed speech-in-noise was not statistically significant. The findings may have been different if the participants had been provided with training and/or time to 'acclimatize' to the frequency-compressed conditions."
+    },
+    "20488985": {
+        "QUESTION": "The English antibiotic awareness campaigns: did they change the public's knowledge of and attitudes to antibiotic use?",
+        "CONTEXTS": [
+            "To determine the effect of the 2008 English public antibiotic campaigns.",
+            "English and Scottish (acting as controls) adults aged>or = 15 years were questioned face to face about their attitudes to and use of antibiotics, in January 2008 (1888) before and in January 2009 (1830) after the antibiotic campaigns.",
+            "Among English respondents, there was a small increase in recollection of campaign posters (2009 23.7% versus 2008 19.2%; P = 0.03), but this increase was only 2.3% higher in England than in Scotland. We did not detect any improvement in either England or Scotland, or any differences between England and Scotland in the understanding of the lack of benefit of antibiotics for coughs and colds, and we found no improvement in antibiotic use. We detected a significant increase in respondents retaining leftover antibiotics. Over 20% reported discussing antibiotics with their general practitioner (GP) or nurse in the year to January 2009. The offer of a delayed antibiotic prescription was reported significantly more often by English respondents (19% versus 8% Scottish in 2009; P = 0.01), and English respondents were advised to use other remedies for coughs and colds significantly more often in the year to January 2009 (12.7% in 2009 versus 7.4% in 2008; P<0.001)."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Anti-Bacterial Agents",
+            "Bacterial Infections",
+            "Data Collection",
+            "England",
+            "Female",
+            "Health Knowledge, Attitudes, Practice",
+            "Health Services Research",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Scotland",
+            "Young Adult"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "There is little evidence that the 2008 public antibiotic campaigns were effective. The use and visibility of future campaign materials needs auditing. A carefully planned approach that targets the public in GP waiting rooms and through clinicians in consultations may be a more effective way of improving prudent antibiotic use."
+    },
+    "25274085": {
+        "QUESTION": "Can multiple SNP testing in BRCA2 and BRCA1 female carriers be used to improve risk prediction models in conjunction with clinical assessment?",
+        "CONTEXTS": [
+            "Several single nucleotide polymorphisms (SNPs) at different loci have been associated with breast cancer susceptibility, accounting for around 10% of the familial component. Recent studies have found direct associations between specific SNPs and breast cancer in BRCA1/2 mutation carriers. Our aim was to determine whether validated susceptibility SNP scores improve the predictive ability of risk models in comparison/conjunction to other clinical/demographic information.",
+            "Female BRCA1/2 carriers were identified from the Manchester genetic database, and included in the study regardless of breast cancer status or age. DNA was extracted from blood samples provided by these women and used for gene and SNP profiling. Estimates of survival were examined with Kaplan-Meier curves. Multivariable Cox proportional hazards models were fit in the separate BRCA datasets and in menopausal stages screening different combinations of clinical/demographic/genetic variables. Nonlinear random survival forests were also fit to identify relevant interactions. Models were compared using Harrell's concordance index (1 - c-index).",
+            "548 female BRCA1 mutation carriers and 523 BRCA2 carriers were identified from the database. Median Kaplan-Meier estimate of survival was 46.0 years (44.9-48.1) for BRCA1 carriers and 48.9 (47.3-50.4) for BRCA2. By fitting Cox models and random survival forests, including both a genetic SNP score and clinical/demographic variables, average 1 - c-index values were 0.221 (st.dev. 0.019) for BRCA1 carriers and 0.215 (st.dev. 0.018) for BRCA2 carriers."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "BRCA1 Protein",
+            "BRCA2 Protein",
+            "Breast Neoplasms",
+            "Female",
+            "Genetic Testing",
+            "Heterozygote",
+            "Humans",
+            "Middle Aged",
+            "Polymorphism, Single Nucleotide",
+            "Risk Assessment",
+            "Survival Analysis"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Random survival forests did not yield higher performance compared to Cox proportional hazards. We found improvement in prediction performance when coupling the genetic SNP score with clinical/demographic markers, which warrants further investigation."
+    },
+    "15687156": {
+        "QUESTION": "Can normal knee kinematics be restored with unicompartmental knee replacement?",
+        "CONTEXTS": [
+            "Unicompartmental replacement can be an alternative to tibial osteotomy in younger, active patients with unicompartmental knee disease. In unicompartmental replacement, the other compartments and knee ligaments are largely untouched. Therefore, it was hypothesized that the knee kinematics after unicompartmental replacement may also be unchanged. To test this hypothesis, knee kinematics and quadriceps tension were recorded before and after replacement with a unicompartmental design and then with a tricompartmental design.",
+            "Six human cadaver knees were tested before implantation, after implantation with a bicruciate-retaining unicompartmental knee prosthesis, and after implantation with a posterior cruciate-retaining tricompartmental knee prosthesis. The unicompartmental prosthesis was initially implanted, and it was then revised to a total condylar knee replacement. The knee kinematics were measured with use of an electromagnetic tracking device while the knee was put through dynamic simulated stair-climbing under peak flexion moments of approximately 40 N-m. Quadriceps tension was also measured for all three conditions.",
+            "No significant differences in tibial axial rotation were noted between the intact and unicompartmental conditions. However, tricompartmental replacement significantly affected tibial axial rotation (p = 0.001). Femoral rollback was not significantly affected by either unicompartmental or tricompartmental arthroplasty. Quadriceps tension was also similar among all three conditions."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Arthroplasty, Replacement, Knee",
+            "Biomechanical Phenomena",
+            "Cadaver",
+            "Compartment Syndromes",
+            "Female",
+            "Humans",
+            "Knee Joint",
+            "Knee Prosthesis",
+            "Leg",
+            "Male",
+            "Muscle, Skeletal",
+            "Prosthesis Design",
+            "Range of Motion, Articular"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "In this in vitro cadaver study, the tricompartmental replacement significantly changed knee kinematics while the unicompartmental replacement preserved normal knee kinematics."
+    },
+    "22813804": {
+        "QUESTION": "Does obesity impact the pattern and outcome of trauma in children?",
+        "CONTEXTS": [
+            "Childhood obesity is pandemic condition. The effect of obesity on trauma outcomes in children has been relatively understudied. We conducted this study to ascertain the effects of obesity on the hospital outcome of injured children.",
+            "A retrospective cohort study of patients aged 2 to 18 years admitted to the King Abdul Aziz Medical City between May 2001 and May 2009 was conducted. Patients were categorized as lean (body mass index<95th percentile) and obese (body mass index \u2265 95th percentile). Groups were compared regarding admission demographics, mechanism of injury, pattern of injury, length of stay, intensive care unit admission, ventilation duration, types of procedures performed, injury severity score, and mortality.",
+            "Nine hundred thirty-three patients were included, of those 55 (5.89%) children were obese. The obese children were older than nonobese (P = .001) and had a higher injury severity score (P = .001) and a lower pediatric trauma score (P = .00), heart rate (P = .0081), and respiratory rate (P = .000). There were no differences between groups with regard to sex, mechanism of injury, and surgical procedures. Obese children were more likely to have rib fractures (P = .02) and pelvic injuries (P = .033). There was no significant association between mortality and obesity (P = .42)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULT"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Child",
+            "Child, Preschool",
+            "Cohort Studies",
+            "Female",
+            "Hospitalization",
+            "Humans",
+            "Injury Severity Score",
+            "Male",
+            "Obesity",
+            "Prognosis",
+            "Proportional Hazards Models",
+            "Registries",
+            "Retrospective Studies",
+            "Saudi Arabia",
+            "Wounds and Injuries"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Obesity does not seem to impact the severity of injury, mortality rate, types of injury, and procedure outcomes in children. Obese patients are more likely to have rib and pelvic injuries."
+    },
+    "24630333": {
+        "QUESTION": "Comparing femoral version after intramedullary nailing performed by trauma-trained and non-trauma trained surgeons: is there a difference?",
+        "CONTEXTS": [
+            "As with some procedures, trauma fellowship training and greater surgeon experience may result in better outcomes following intramedullary nailing (IMN) of diaphyseal femur fractures. However, surgeons with such training and experience may not always be available to all patients. The purpose of this study is to determine whether trauma training affects the post-operative difference in femoral version (DFV) following IMN.",
+            "Between 2000 and 2009, 417 consecutive patients with diaphyseal femur fractures (AO/OTA 32A-C) were treated via IMN. Inclusion criteria for this study included complete baseline and demographic documentation as well as pre-operative films for fracture classification and post-operative CT scanogram (per institutional protocol) for version and length measurement of both the nailed and uninjured femurs. Exclusion criteria included bilateral injuries, multiple ipsilateral lower extremity fractures, previous injury, and previous deformity. Of the initial 417 subjects, 355 patients met our inclusion criteria. Other data included in our analysis were age, sex, injury mechanism, open vs. closed fracture, daytime vs. nighttime surgery, mechanism of injury, and AO and Winquist classifications. Post-operative femoral version of both lower extremities was measured on CT scanogram by an orthopaedic trauma fellowship trained surgeon. Standard univariate and multivariate analyses were performed to determine statistically significant risk factors for malrotation between the two cohorts.",
+            "Overall, 80.3% (288/355) of all fractures were fixed by trauma-trained surgeons. The mean post-operative DFV was 8.7\u00b0 in these patients, compared to 10.7\u00b0 in those treated by surgeons of other subspecialties. This difference was not statistically significant when accounting for other factors in a multivariate model (p>0.05). The same statistical trend was true when analyzing outcomes of only the more severe Winquist type III and IV fractures. Additionally, surgeon experience was not significantly predictive of post-operative version for either trauma or non-trauma surgeons (p>0.05 for both)."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Clinical Competence",
+            "Fellowships and Scholarships",
+            "Female",
+            "Femoral Fractures",
+            "Fracture Fixation, Intramedullary",
+            "Humans",
+            "Male",
+            "Orthopedics",
+            "Postoperative Complications",
+            "Range of Motion, Articular",
+            "Retrospective Studies",
+            "Specialties, Surgical",
+            "Surgeons",
+            "Tomography, X-Ray Computed",
+            "Traumatology",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Post-operative version or percentage of DFV>15\u00b0 did not significantly differ following IMN of diaphyseal femur fractures between surgeons with and without trauma fellowship training. However, prospective data that removes the inherent bias that the more complex cases are left for the traumatologists are required before a definitive comparison is made."
+    },
+    "9044116": {
+        "QUESTION": "Biliary atresia: should all patients undergo a portoenterostomy?",
+        "CONTEXTS": [
+            "The management of noncorrectable extra hepatic biliary atresia includes portoenterostomy, although the results of the surgery are variable. This study was done to develop criteria that could successfully predict the outcome of surgery based on preoperative data, including percutaneous liver biopsy, allowing a more selective approach to the care of these babies.",
+            "The charts and biopsy results of 31 patients who underwent a Kasai procedure for biliary atresia between 1984 and 1994 were reviewed. Values for preoperative albumin, bilirubin, age of patient at Kasai, and lowest postoperative bilirubin were recorded. Surgical success was defined as postoperative bilirubin that returned to normal. A pathologist blinded to the child's eventual outcome graded the pre-Kasai needle liver biopsy results according to duct proliferation, ductal plate lesion, bile in ducts, lobular inflammation, giant cells, syncitial giant cells, focal necrosis, bridging necrosis, hepatocyte ballooning, bile in zone 1, 2, and 3, cholangitis, and end-stage cirrhosis. Clinical outcome was then predicted.",
+            "Success after portoenterostomy could not reliably be predicted based on gender, age at Kasai, preoperative bilirubin or albumin levels. Histological criteria, however, predicted outcome in 27 of 31 patients (P<.01). Fifteen of 17 clinical successes were correctly predicted; as were 12 of 14 clinical failures (sensitivity, 86%; specificity, 88%). Individually, the presence of syncitial giant cells, lobular inflammation, focal necrosis, bridging necrosis, and cholangitis, were each associated with failure of the portoenterostomy (P<.05). Bile in zone 1 was associated with clinical success of the procedure (P<.05)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Biliary Atresia",
+            "Biopsy, Needle",
+            "Female",
+            "Humans",
+            "Infant",
+            "Inflammation",
+            "Liver",
+            "Male",
+            "Portoenterostomy, Hepatic",
+            "Predictive Value of Tests",
+            "Prognosis",
+            "Retrospective Studies",
+            "Treatment Outcome"
+        ],
+        "YEAR": "1997",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Based on the predictive information available in a liver biopsy, we conclude that those patients who will not benefit from a Kasai procedure can be identified preoperatively, and channeled immediately to transplantation."
+    },
+    "23228527": {
+        "QUESTION": "Does music influence stress in mechanically ventilated patients?",
+        "CONTEXTS": [
+            "Mechanically ventilated patients experience profound stress. Interventions are needed to ameliorate stress that does not cause adverse effects. The purpose of this study was to explore the influence of music on stress in a sample of patients over the duration of ventilatory support.RESEARCH METHODOLOGY/",
+            "Randomised controlled trial; randomised patients (56.8+16.9 years, 61% male, APACHE III 57.2+18.3) receiving ventilatory support to: (1) patient-directed music (PDM) where patients self-initiated music listening whenever desired from a preferred collection, (2) headphones only to block ICU noise, or (3) usual ICU care. Twenty-four hour urinary cortisol samples were collected from a sub-set of subjects with intact renal function and not receiving medications known to influence cortisol levels (n=65).",
+            "12 ICUs in the Midwestern United States.",
+            "Urinary free cortisol (UFC), an integrative biomarker of stress.",
+            "Controlling for illness severity, gender, and baseline UFC (29-45 mg/day), mixed models analysis revealed no significant differences among groups in UFC over the course of ventilatory support."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "DESIGN",
+            "SETTING",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Critical Illness",
+            "Female",
+            "Humans",
+            "Hydrocortisone",
+            "Male",
+            "Middle Aged",
+            "Music Therapy",
+            "Respiration, Artificial",
+            "Stress, Psychological"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "While music did not significantly reduce cortisol, less profound spikes in UFC levels were observed but that, given the limitations of the research, this observation could have occurred merely by chance."
+    },
+    "20130378": {
+        "QUESTION": "Is low birth weight a risk indicator for congenital cytomegalovirus infection?",
+        "CONTEXTS": [
+            "Congenital cytomegalovirus infection is currently the leading cause of congenital infection in 0.2-2.2% of live births worldwide leading to variable serious sequalae. The aim of the study was to determine if low birth weight is an indicator of CMV congenital infection evidenced by detecting CMV-DNA in umbilical cord blood at the time of delivery.",
+            "CMV-IgG and IgM antibodies and CMV-DNAemia were assessed in umbilical cord blood of two hundreds newborns, one hundred of whom had birth weight<or = 2700 gram and/or head circumference<or = 32 cm.",
+            "CMV-IgM was not detected, while CMV-IgG was positive in 80-90% of the two hundreds tested newborns. CMV-DNA was detected in four out of the 200 newborns. One of them was over the adopted weight limit (>2700 gram)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODOLOGY",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Antibodies, Viral",
+            "Body Weights and Measures",
+            "Cytomegalovirus",
+            "Cytomegalovirus Infections",
+            "DNA, Viral",
+            "Fetal Blood",
+            "Humans",
+            "Immunoglobulin G",
+            "Immunoglobulin M",
+            "Infant, Low Birth Weight",
+            "Infant, Newborn",
+            "Infant, Newborn, Diseases",
+            "Polymerase Chain Reaction",
+            "Risk Factors",
+            "Viremia"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "CMV-IgM and IgG antibodies assessment was not a potential discriminative test to identify congenitally infected newborns. In addition, low birth weight and small head circumference at birth failed to predict congenital CMV infection. CMV-DNA detection in umbilical cord blood at the time of delivery using real-time PCR of all newborns is recommended as decisive, rapid and non-invasive test."
+    },
+    "14992556": {
+        "QUESTION": "Artefacts in 24-h pharyngeal and oesophageal pH monitoring: is simplification of pH data analysis feasible?",
+        "CONTEXTS": [
+            "Ambulatory 24-h dual-channel pharyngeal and oesophageal pH monitoring is the standard test for measuring gastro-oesophageal and gastropharyngeal reflux. Artefacts caused by the intake of food may result in falsely positive gastropharyngeal reflux, which necessitates a manual review of 24-h pH data. The purpose of the study was to investigate the influence of meals and whether leaving out meals affected the reliability of the test.",
+            "Patients referred for otolaryngological complaints, suspected to have been caused by gastro-oesophageal reflux, underwent 24-h dual-channel pH monitoring. The raw unprocessed pH data were corrected by visual inspection of the 24-h tracings (corrected data), by leaving out meals or meals plus a 2-h postprandrial period.",
+            "The raw pH data were substantially influenced by artefacts of food intake and pseudoreflux. Data obtained by leaving out meals agreed best with manually corrected data. Many of the falsely positive reflux episodes could be removed, thereby inducing a 9%-18% chance of undetected reflux. When examining the fraction of time supine, manually corrected data and data leaving out meals were fully concordant and detected 79% of patients with gastropharyngeal reflux. However, leaving out meals plus a 2-h postprandrial period resulted in 21%-50% falsely negative tests."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Artifacts",
+            "Eating",
+            "Esophagus",
+            "Feasibility Studies",
+            "Female",
+            "Gastroesophageal Reflux",
+            "Humans",
+            "Hydrogen-Ion Concentration",
+            "Male",
+            "Middle Aged",
+            "Monitoring, Ambulatory",
+            "Pharynx",
+            "Postprandial Period",
+            "Prospective Studies",
+            "Reproducibility of Results",
+            "Statistics as Topic"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Leaving out the period of intake of meals and beverages from the raw pH data might be the second best test after the time-consuming visual correction with a small chance of undetected gastropharyngeal reflux. For scientific purposes and when in doubt, it remains necessary to review the computer-generated data manually to discover every gastropharyngeal reflux event."
+    },
+    "27146470": {
+        "QUESTION": "Are tuberculosis patients adherent to prescribed treatments in China?",
+        "CONTEXTS": [
+            "Tuberculosis (TB) patients face numerous difficulties adhering to the long-term, rigorous TB treatment regimen. Findings on TB patients' treatment adherence vary across existing literature and official reports. The present study attempted to determine the actual treatment adherence of new TB patients and to identify factors leading to non-adherence.",
+            "A prospective cohort of 481 newly confirmed TB patients from three counties in western China were enrolled during June to December 2012 and was followed until June 2013. Patients who missed at least one dose of drugs or one follow-up re-examination during the treatment course were deemed as non-adherent. Influencing factors were identified using a logistic regression model.",
+            "A total of 173 (36.0 %) patients experienced non-adherence and the loss to follow-up cases reached 136 (28.2 %). Only 13.9 % of patients took drugs under direct observation, and 60.5 % of patients were supervised by phone calls. Factor analyses suggested that patients who were observed by family members (OR:5.54, 95 % CI:2.87-10.69) and paying monthly service expenses above 450 RMB (OR:2.08, 95 % CI:1.35-3.19) were more likely to be non-adherent, while supervision by home visit (OR:0.06, 95 % CI:0.01-0.28) and phone calls (OR:0.27, 95 % CI:0.17-0.44) were protective factors."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Antitubercular Agents",
+            "China",
+            "Female",
+            "Humans",
+            "Lost to Follow-Up",
+            "Male",
+            "Medication Adherence",
+            "Middle Aged",
+            "Patients",
+            "Prospective Studies",
+            "Tuberculosis",
+            "Young Adult"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "no",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Despite recent efforts, a large proportion of newly confirmed TB patients could not adhere to standard TB treatment, and patients' lost to follow-up was still a serious problem. Poor treatment supervision and heavy financial burden might be the main causes for non-adherence. More needs to be done to enhance treatment supervision policies and financial supports to both health providers and TB patients."
+    },
+    "22427593": {
+        "QUESTION": "Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?",
+        "CONTEXTS": [
+            "The purpose of this study is to measure the accuracy and reliability of normally sighted, visually impaired, and blind pedestrians at making street crossing decisions using visual and/or auditory information.",
+            "Using a 5-point rating scale, safety ratings for vehicular gaps of different durations were measured along a two-lane street of one-way traffic without a traffic signal. Safety ratings were collected from 12 normally sighted, 10 visually impaired, and 10 blind subjects for eight different gap times under three sensory conditions: (1) visual plus auditory information, (2) visual information only, and (3) auditory information only. Accuracy and reliability in street crossing decision-making were calculated for each subject under each sensory condition.",
+            "We found that normally sighted and visually impaired pedestrians were accurate and reliable in their street crossing decision-making ability when using either vision plus hearing or vision only (P>0.05). Under the hearing only condition, all subjects were reliable (P>0.05) but inaccurate with their street crossing decisions (P<0.05). Compared to either the normally sighted (P = 0.018) or visually impaired subjects (P = 0.019), blind subjects were the least accurate with their street crossing decisions under the hearing only condition."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Automobiles",
+            "Blindness",
+            "Contrast Sensitivity",
+            "Humans",
+            "Middle Aged",
+            "Psychomotor Performance",
+            "Reproducibility of Results",
+            "Safety",
+            "Sensory Aids",
+            "Signal Detection, Psychological",
+            "Vision, Low",
+            "Visual Acuity",
+            "Visually Impaired Persons",
+            "Walking"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Our data suggested that visually impaired pedestrians can make accurate and reliable street crossing decisions like those of normally sighted pedestrians. When using auditory information only, all subjects significantly overestimated the vehicular gap time. Our finding that blind pedestrians performed significantly worse than either the normally sighted or visually impaired subjects under the hearing only condition suggested that they may benefit from training to improve their detection ability and/or interpretation of vehicular gap times."
+    },
+    "26505821": {
+        "QUESTION": "Are Biochemical Markers of Bone Turnover Representative of Bone Histomorphometry in 370 Postmenopausal Women?",
+        "CONTEXTS": [
+            "The levels of bone formation and resorption can be assessed at the tissue level by bone histomorphometry on transiliac bone biopsies. Systemic biochemical markers of bone turnover reflect the overall bone formation and resorption at the level of the entire skeleton but cannot discriminate the different skeletal compartments.",
+            "Our aim was to investigate the correlations between the serum biochemical markers of formation and resorption with histomorphometric parameters.",
+            "We performed post hoc analysis of a previous clinical study.",
+            "Patients were selected from the general population.",
+            "A total of 371 untreated postmenopausal osteoporotic women aged 50 to 84 years with a lumbar T-score \u2264 -2.5 SD or \u2264 -1 SD with at least one osteoporotic fracture.",
+            "Transiliac bone biopsies were obtained after a double tetracycline labeling, and blood samples were collected.",
+            "The static and dynamic parameters of formation and bone resorption were measured by histomorphometry. Serum biochemical markers of formation (bone alkaline phosphatase [ALP]; procollagen type I N-terminal propeptide [PINP]) and resorption (C-terminal crosslinking telopeptide of collagen type 1 [sCTX]) were assessed.",
+            "The mean values of biochemical markers were: bone ALP, 15.0 \u00b1 5.2 ng/mL; PINP, 56.2 \u00b1 21.9 \u03bcg/mL; and sCTX, 0.58 \u00b1 0.26 ng/mL. Bone ALP and PINP were significantly correlated with both the static and dynamic parameters of formation (0.21 \u2264 r' \u2264 0.36; 0.01 \u2265 P \u2265 .0001). sCTX was significantly correlated with all resorption parameters (0.18 \u2264 r' \u2264 0.24; 0.02 \u2265 P \u2265 .0001)."
+        ],
+        "LABELS": [
+            "CONTEXT",
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PATIENTS",
+            "INTERVENTIONS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Alkaline Phosphatase",
+            "Biomarkers",
+            "Bone Remodeling",
+            "Bone Resorption",
+            "Bone and Bones",
+            "Collagen Type II",
+            "Female",
+            "Humans",
+            "Ilium",
+            "Kidney Function Tests",
+            "Middle Aged",
+            "Osteogenesis",
+            "Osteoporosis",
+            "Osteoporotic Fractures",
+            "Peptide Fragments",
+            "Postmenopause",
+            "Procollagen"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Bone turnover markers were significantly but modestly associated with bone turnover parameters measured in iliac cancellous bone. The iliac crest bone may not represent perfectly the whole bone turnover."
+    },
+    "12920330": {
+        "QUESTION": "Do somatic complaints predict subsequent symptoms of depression?",
+        "CONTEXTS": [
+            "Evidence suggests substantial comorbidity between symptoms of somatization and depression in clinical as well as nonclinical populations. However, as most existing research has been retrospective or cross-sectional in design, very little is known about the specific nature of this relationship. In particular, it is unclear whether somatic complaints may heighten the risk for the subsequent development of depressive symptoms.",
+            "We report findings on the link between symptoms of somatization (assessed using the SCL-90-R) and depression 5 years later (assessed using the CES-D) in an initially healthy cohort of community adults, based on prospective data from the RENO Diet-Heart Study.",
+            "Gender-stratified multiple regression analyses revealed that baseline CES-D scores were the best predictors of subsequent depressive symptoms for men and women. Baseline scores on the SCL-90-R somatization subscale significantly predicted subsequent self-reported symptoms of depressed mood 5 years later, but only in women. However, somatic complaints were a somewhat less powerful predictor than income and age."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Comorbidity",
+            "Demography",
+            "Depression",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Primary Health Care",
+            "Prospective Studies",
+            "Somatoform Disorders"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Our findings suggest that somatic complaints may represent one, but not necessarily the most important, risk factor for the subsequent development of depressive symptoms in women in nonclinical populations. The results also highlight the importance of including social variables in studies on women's depression as well as conducting additional research to further examine predictors of depressive symptoms in men."
+    },
+    "17076590": {
+        "QUESTION": "Counter sampling combined with medical provider education: do they alter prescribing behavior?",
+        "CONTEXTS": [
+            "To observe if medical providers alter their prescribing patterns of three relatively expensive categories of medications provided as samples by manufacturers (focus medications) when they receive additional education from pharmacists concerning the appropriate use of lower cost alternatives (counter samples) that are made available to dispense.",
+            "Pretest, post-test with a control group.",
+            "Two rural, private care clinics in southeastern Idaho providing immediate care services.",
+            "Eight medical providers at a clinic where interventions were employed (active intervention group) and seven medical providers in a clinic where no interventions occurred (control group).",
+            "Medical providers in the active intervention group had: 1) education from pharmacists concerning the appropriate use of lower-cost alternatives compared with expensive focus medications 2) counter samples and patient sample handouts available to dispense to patients at their own discretion.",
+            "The percentage of the total yearly prescriptions for nonsteroidal anti-inflammatory drugs (NSAIDs), antihistamines, and acid-relief medications that consisted of focus-COX-2 NSAIDs, nonsedating antihistamines, and proton pump inhibitors (PPIs), respectively.",
+            "The prescribing behavior of medical providers in the active intervention and control groups were significantly different at baseline in all three categories of focus medications. This suggested that the results should focus on changes across the two years of the study within the intervention and control groups rather than across the two groups. Medical providers in the intervention group significantly decreased the use of COX-2 NSAID prescriptions relative to total NSAID prescriptions following active intervention (38.9% in year 1 versus 23.7% in year 2, P<0.05). Over the same two time periods, a nonstatistically significant decrease in COX-2 NSAID prescribing was seen at the control site (67.5% versus 62%, P>0.05). Education and counter sampling did not stop medical providers from significantly increasing the total yearly prescriptions for antihistamines and acid-relief medications that consisted of focus-nonsedating antihistamines (86.7% versus 93.1%, P<0.05) and PPIs (68.9% versus 86.2%, P<0.05). Statistically significant increases in the prescribing of focus-nonsedating antihistamines (77.9% versus 98.3%, P<0.05) and PPIs (77.5% versus 91.4%, P<0.05) were also observed in the control group."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PARTICIPANTS",
+            "INTERVENTIONS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Anti-Inflammatory Agents, Non-Steroidal",
+            "Cost Savings",
+            "Drug Costs",
+            "Drug Utilization",
+            "Education, Medical, Continuing",
+            "Histamine H1 Antagonists, Non-Sedating",
+            "Humans",
+            "Pharmaceutical Services",
+            "Practice Patterns, Physicians'",
+            "Proton Pump Inhibitors",
+            "Rural Health Services"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Education by pharmacists, combined with access to counter samples, may or may not have an effect on medical provider prescribing, depending on the category of medication targeted for cost control."
+    }
+}

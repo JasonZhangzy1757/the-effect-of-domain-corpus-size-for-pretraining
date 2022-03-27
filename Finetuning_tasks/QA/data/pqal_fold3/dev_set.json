@@ -1,0 +1,1816 @@
+{
+    "17919952": {
+        "QUESTION": "Are reports of mechanical dysfunction in chronic oro-facial pain related to somatisation?",
+        "CONTEXTS": [
+            "(i) To examine the association between self-reported mechanical factors and chronic oro-facial pain. (ii) To test the hypothesis that this relationship could be explained by: (a) reporting of psychological factors, (b) common association of self-reported mechanical factors with other unexplained syndromes.",
+            "A population based cross-sectional study of 4200 randomly selected adults registered with a General Medical Practice in North West, England. The study examined the association of chronic oro-facial pain with a variety of self-reported mechanical factors: teeth grinding, facial trauma, missing teeth and the feeling that the teeth did not fit together properly. Information was also collected on demographic factors, psychological factors and the reporting of other frequently unexplained syndromes.",
+            "An adjusted response rate of 72% was achieved. Only two mechanical factors: teeth grinding (odds ratio (OR) 2.0, 95% CI 1.3-3.0) and facial trauma (OR 2.0; 95% CI 1.3-2.9) were independently associated with chronic oro-facial pain after adjusting for psychological factors. However, these factors were also commonly associated with the reporting of other frequently unexplained syndromes: teeth grinding (odds ratio (OR) 1.8, 95% CI 1.5-2.2), facial trauma (OR 2.1; 95% CI 1.7-2.6)."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Bruxism",
+            "Chronic Disease",
+            "Cross-Sectional Studies",
+            "Facial Injuries",
+            "Facial Pain",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Mouth, Edentulous",
+            "Multivariate Analysis",
+            "Prevalence",
+            "Stress, Mechanical",
+            "Surveys and Questionnaires"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Self-reported mechanical factors associated with chronic oro-facial pain are confounded, in part, by psychological factors and are equally common across other frequently unexplained syndromes. They may represent another feature of somatisation. Therefore the use of extensive invasive therapy such as occlusal adjustments and surgery to change mechanical factors may not be justified in many cases."
+    },
+    "23999452": {
+        "QUESTION": "Does hypoglycaemia increase the risk of cardiovascular events?",
+        "CONTEXTS": [
+            "Hypoglycaemia caused by glucose-lowering therapy has been linked to cardiovascular (CV) events. The ORIGIN trial provides an opportunity to further assess this relationship.",
+            "A total of 12 537 participants with dysglycaemia and high CV-risk were randomized to basal insulin glargine titrated to a fasting glucose of \u2264 5.3 mmol/L (95 mg/dL) or standard glycaemic care. Non-severe hypoglycaemia was defined as symptoms confirmed by glucose \u2264 54 mg/dL and severe hypoglycaemia as a requirement for assistance or glucose \u2264 36 mg/dL. Outcomes were: (i) the composite of CV death, non-fatal myocardial infarction or stroke; (ii) mortality; (iii) CV mortality; and (iv) arrhythmic death. Hazards were estimated before and after adjustment for a hypoglycaemia propensity score. During a median of 6.2 years (IQR: 5.8-6.7), non-severe hypoglycaemic episodes occurred in 41.7 and 14.4% glargine and standard group participants, respectively, while severe episodes occurred in 5.7 and 1.8%, respectively. Non-severe hypoglycaemia was not associated with any outcome following adjustment. Conversely, severe hypoglycaemia was associated with a greater risk for the primary outcome (HR: 1.58; 95% CI: 1.24-2.02, P<0.001), mortality (HR: 1.74; 95% CI: 1.39-2.19, P<0.001), CV death (HR: 1.71; 95% CI: 1.27-2.30, P<0.001) and arrhythmic death (HR: 1.77; 95% CI: 1.17-2.67, P = 0.007). Similar findings were noted for severe nocturnal hypoglycaemia for the primary outcome and mortality. The severe hypoglycaemia hazard for all four outcomes was higher with standard care than with insulin glargine."
+        ],
+        "LABELS": [
+            "AIMS",
+            "METHODS AND RESULTS"
+        ],
+        "MESHES": [
+            "Arrhythmias, Cardiac",
+            "Diabetes Mellitus, Type 2",
+            "Diabetic Angiopathies",
+            "Female",
+            "Glycated Hemoglobin A",
+            "Humans",
+            "Hypoglycemia",
+            "Hypoglycemic Agents",
+            "Insulin Glargine",
+            "Insulin, Long-Acting",
+            "Male",
+            "Middle Aged",
+            "Myocardial Infarction",
+            "Prognosis",
+            "Risk Factors",
+            "Stroke"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Severe hypoglycaemia is associated with an increased risk for CV outcomes in people at high CV risk and dysglycaemia. Although allocation to insulin glargine vs. standard care was associated with an increased risk of severe and non-severe hypoglycaemia, the relative risk of CV outcomes with hypoglycaemia was lower with insulin glargine-based glucose-lowering therapy than with the standard glycaemic control. Trial Registration (ORIGIN ClinicalTrials.gov number NCT00069784)."
+    },
+    "17916877": {
+        "QUESTION": "Intravenous administration of metoclopramide by 2 min bolus vs 15 min infusion: does it affect the improvement of headache while reducing the side effects?",
+        "CONTEXTS": [
+            "To determine the therapeutic effect (alleviation of vascular type headache) and side effects of a slow intravenous metoclopramide infusion over 15 min compared with those effects of a bolus intravenous metoclopramide infusion over 2 min in the treatment of patients with recent onset vascular type headache.",
+            "All adults treated with metoclopramide for vascular type headache were eligible for entry into this clinical randomised double blinded trial. This study compared the effects of two different rates of intravenous infusion of metoclopramide over a period of 13 months at a university hospital emergency department. During the trial, side effects and headache scores were recorded at baseline (0 min), and then at 5, 15, 30 and 60 min. Repeated measures analysis of variance was used to compare the medication's efficacy and side effects.",
+            "A total of 120 patients presenting to the emergency department met the inclusion criteria. Of these, 62 patients (51.7%) were given 10 mg metoclopramide as a slow intravenous infusion over 15 min (SIG group) and 58 patients (48.3%) were given 10 mg metoclopramide intravenous bolus infusion over 2 min (BIG group). 17 of the 58 patients in the BIG group (29.3%) and 4 of the 62 patients (6.5%) in the SIG group had akathisia (p = 0.001). There were no significant differences between the BIG and SIG groups in terms of mean headache scores (p = 0.34) and no adverse reactions in the study period. Metoclopramide successfully relieved the headache symptom(s) of patients in both the BIG and SIG groups."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "MATERIAL AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Akathisia, Drug-Induced",
+            "Dopamine Antagonists",
+            "Double-Blind Method",
+            "Drug Administration Schedule",
+            "Emergency Service, Hospital",
+            "Female",
+            "Humans",
+            "Infusions, Intravenous",
+            "Male",
+            "Metoclopramide",
+            "Vascular Headaches"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Slowing the infusion rate of metoclopramide is an effective strategy for the improvement of headache and reducing the incidence of akathisia in patients with vascular type headache."
+    },
+    "26449554": {
+        "QUESTION": "Does either obesity or OSA severity influence the response of autotitrating CPAP machines in very obese subjects?",
+        "CONTEXTS": [
+            "The pressures delivered by autotitrating continuous positive airways pressure (CPAP) devices not only treat obstructive sleep apnoea (OSA) effectively but also give potentially interesting physiological information about the forces impinging on the pharynx. In earlier work from this unit, we used correlations between autoCPAP pressure and both OSA severity and obesity, to construct an algorithm to estimate the fixed CPAP pressure a patient required for subsequent clinical use. We wished to discover if these relationships could be reliably extended to a much more obese group.",
+            "We performed a prospective cohort study in an obese population. Measurements of obesity were made, OSA severity was recorded, and the 95th centile autoCPAP pressure was recorded during 1\u00a0week of autoCPAP. Spearman's rank correlation was performed between measurements of obesity and autoCPAP pressure, and between OSA severity and autoCPAP pressure.",
+            "Fifty-four obese individuals (median body mass index (BMI) 43.0\u00a0kg/m(2)), 52\u00a0% of whom had OSA (apnoea-hypopnoea index (AHI)\u2009\u2265\u200915), had a median 95th centile autoCPAP pressure of 11.8\u2009cmH2O. We found no significant correlation between autoCPAP pressure and neck circumference, waist circumference or BMI. There was a moderate correlation between autoCPAP pressure and OSA severity (AHI r\u2009=\u20090.34, p\u2009=\u20090.02; oxygen desaturation index (ODI) r\u2009=\u20090.48, p\u2009<\u20090.001)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Body Mass Index",
+            "Cohort Studies",
+            "Continuous Positive Airway Pressure",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Obesity, Morbid",
+            "Pharynx",
+            "Polysomnography",
+            "Prospective Studies",
+            "Sleep Apnea, Obstructive",
+            "Statistics as Topic",
+            "Therapy, Computer-Assisted",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "yes",
+        "LONG_ANSWER": "In this population, neither BMI nor neck circumference nor waist circumference is predictive of autoCPAP pressure. Therefore, the previously derived algorithm does not adequately predict the fixed CPAP pressure for subsequent clinical use in these obese individuals. In addition, some subjects without OSA generated high autoCPAP pressures, and thus, the correlation between OSA severity and autoCPAP pressure was only moderate."
+    },
+    "19406119": {
+        "QUESTION": "Does telmisartan prevent hepatic fibrosis in rats with alloxan-induced diabetes?",
+        "CONTEXTS": [
+            "This study evaluated the effect of telmisartan on the livers of diabetic rats and also aimed to determine the hepatic distribution and role of transforming growth factor beta (TGF-beta) in diabetes-related hepatic degeneration while taking into account the possible protective effects of telmisartan.",
+            "Fifteen adult male rats were used and divided into three groups: the non-diabetic healthy group, alloxan-induced diabetic control group, and the alloxan-induced diabetic telmisartan group. The non-diabetic healthy group and the diabetic control group were exposed to saline for 30 days, while the group treated with diabetic drugs was orally administered telmisartan for 30 days (10 mg/kg/day). At the end of the experiment, the rats were sacrificed and the livers were dissected and transferred into the fixation solution. The livers were then evaluated using stereological and histopathological methods.",
+            "Our study of the numerical density of hepatocytes shows a significant difference between the diabetic control group and diabetic rats treated with telmisartan. Immunohistochemical staining for TGF-beta in liver sections of the diabetic rats treated with telmisartan showed no immunoreactivity. The diabetic control group was determined to be strongly immunoreactive to TGF-beta."
+        ],
+        "LABELS": [
+            "AIMS",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Alloxan",
+            "Angiotensin II Type 1 Receptor Blockers",
+            "Animals",
+            "Benzimidazoles",
+            "Benzoates",
+            "Diabetes Mellitus, Experimental",
+            "Fibrosis",
+            "Immunohistochemistry",
+            "Liver",
+            "Male",
+            "Microscopy, Electron",
+            "Rats",
+            "Rats, Wistar",
+            "Transforming Growth Factor beta"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Results suggest that telmisartan may reduce type-I diabetes mellitus-induced hepatic injury by suppressing activated hepatic stellate cells through concomitant TGF-beta1 down-regulation."
+    },
+    "15962678": {
+        "QUESTION": "Does preloading with colloids prevent hemodynamic changes when neurosurgical patients are subsequently changed to the seated position?",
+        "CONTEXTS": [
+            "This prospective, randomized, double-blind study was designed to determine and compare the usefulness of preloading colloids (Haemaccel) 10 ml/Kg before positioning whether it can prevent hemodynamic changes during seated positioning or not.",
+            "The authors studied 20 patients by randomly dividing them into 2 groups. The control group was given crystalloid as maintenance and deposit replacement but the study group was given extra colloids 10 ml/Kg 30 minutes before starting general anesthesia. Both groups were monitored and given anesthesia, balanced technique. Systolic and diastolic blood pressures, heart rate, central venous pressure (CVP) at different time intervals in the sitting position for 30 minutes were recorded. Statistical analysis was done by Student t-test, Chi-square test and ANOVA (p-value<0. 05 considered significant).",
+            "The results showed that systolic blood pressure at 15, 20, 30 minutes and CVP at 15, 25, 30 minutes after positioning in the study group was maintained significantly compared to the control group and there were no significant changes in diastolic blood pressure and heart rate. There were no other complications during the sitting period."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "MATERIAL AND METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Blood Pressure",
+            "Double-Blind Method",
+            "Female",
+            "Fluid Therapy",
+            "Hemodynamics",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Neurosurgical Procedures",
+            "Plasma Substitutes",
+            "Polygeline",
+            "Posture",
+            "Preoperative Care",
+            "Prospective Studies"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "It is concluded that preloading colloid fluid prior to repositioning could prevent the decrease of systolic blood pressure and central venous pressure during sitting positioning without other complications."
+    },
+    "11555508": {
+        "QUESTION": "Do inhaled corticosteroids affect perception of dyspnea during bronchoconstriction in asthma?",
+        "CONTEXTS": [
+            "Some of the disagreements on the perception of dyspnea (PD) during bronchoconstriction in asthma patients could depend on the interrelationships among the following: (1) the influence of baseline airflow obstruction on the patient's ability to detect any further increase in airway resistance; (2) the effect of eosinophilic inflammation on the airway; (3) bronchial hyperresponsiveness (BHR); and (4) the effect of inhaled corticosteroids (ICSs).",
+            "We hypothesized that if the inflammation of the airway wall influences to some extent and in some way the PD in asthma patients, ICSs reverse the effect of airway inflammation on the PD.",
+            "We studied 100 asthma patients who were divided into the following four groups: patients with obstruction who were either ICS-naive (group I) or were treated with ICSs (group II); and nonobstructed patients who were either ICS-naive (group III) or were treated with ICSs (group IV). PD on the visual analog scale (VAS) was assessed during a methacholine-induced FEV(1) decrease and specifically was quantified as the VAS slope and score at an FEV(1) decrease of 5 to 20%. BHR was assessed in terms of the provocative concentration of methacholine causing a 20% fall in FEV(1) (PC(20)). Eosinophil counts in induced sputum samples also were performed. Regression analysis, univariate analysis of variance, and factor analysis were applied for statistical evaluation.",
+            "For a 5 to 20% fall in FEV(1) from the lowest point after saline solution induction, VAS score was lowest in group II, slightly higher in group I, slightly higher still in group IV, and the highest in group III. In the patients as a whole, BHR related to PD, but age, clinical score, duration of the disease, and presence of baseline airway obstruction did not. In patients with obstruction who were treated with ICSs, eosinophil counts related to PD negatively. Factor analysis yielded the following four factors that accounted for 70% of the variance in the data: ICS; eosinophil counts; FEV(1); and PC(20) loaded on separated factors with PD loading on the same factors as PC(20). The post hoc analysis carried out dividing the patients into ICS-treated and ICS-naive, showed that in the former group eosinophil counts and BHR proved to be factors negatively associated with PD, while in the latter group eosinophil counts were positively associated with PD."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Anthropometry",
+            "Asthma",
+            "Bronchial Provocation Tests",
+            "Bronchoconstriction",
+            "Dyspnea",
+            "Eosinophils",
+            "Factor Analysis, Statistical",
+            "Female",
+            "Glucocorticoids",
+            "Humans",
+            "Leukocyte Count",
+            "Linear Models",
+            "Male",
+            "Middle Aged",
+            "Vital Capacity"
+        ],
+        "YEAR": "2001",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "We have shown that eosinophilic inflammation of the airway wall may increase PD and that the association of eosinophil counts with ICSs may result in lessening the PD."
+    },
+    "15939071": {
+        "QUESTION": "High cumulative insulin exposure: a risk factor of atherosclerosis in type 1 diabetes?",
+        "CONTEXTS": [
+            "Since insulin therapy might have an atherogenic effect, we studied the relationship between cumulative insulin dose and atherosclerosis in type 1 diabetes. We have focused on patients with type 1 diabetes instead of type 2 diabetes to minimise the effect of insulin resistance as a potential confounder.",
+            "An observational study was performed in 215 subjects with type 1 diabetes treated with multiple insulin injection therapy. Atherosclerosis was assessed by measurement of carotid intima-media thickness (CIMT).",
+            "The cumulative dose of regular insulin showed a positive and significant relation with CIMT: increase of 21 microm in CIMT per S.D. of insulin use (95% CI: 8-35 adjusted for gender and age), which remained unchanged after adjustment for duration of diabetes, HbA1c, BMI, pulse pressure, physical activity and carotid lumen diameter. A similar relation was found for intermediate-acting insulin: 15.5 microm per S.D. (2-29), which was no longer present after further adjustment."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Arteriosclerosis",
+            "Carotid Arteries",
+            "Diabetes Mellitus, Type 1",
+            "Dose-Response Relationship, Drug",
+            "Female",
+            "Humans",
+            "Hypoglycemic Agents",
+            "Insulin",
+            "Male",
+            "Middle Aged",
+            "Multivariate Analysis",
+            "Risk Factors",
+            "Tunica Intima",
+            "Tunica Media",
+            "Ultrasonography"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "These findings provide evidence that a high cumulative dose of regular insulin is a risk factor for atherosclerosis."
+    },
+    "23972333": {
+        "QUESTION": "Has the prevalence of health care services use increased over the last decade (2001-2009) in elderly people?",
+        "CONTEXTS": [
+            "(1) To describe the prevalence of general practitioner visits and hospitalization according to sex and age groups; (2) to identify which factors are independently associated with a higher use of health care services among elderly Spanish; and (3) to study the time trends in the prevalence of use of health care services 2001-2009.",
+            "Observational study. We analyzed data from the Spanish National Health Surveys conducted in 2001 (n=21,058), 2003 (n=21,650), 2006 (n=29,478) and 2009 (n=22,188). We included responses from adults aged 65 years and older.",
+            "The main variables were the number of general practitioner visits in the last 4 weeks and hospitalization in the past year. We stratified the adjusted models by the main variables. We analyzed socio-demographic characteristics, health related variables, using multivariate logistic regression models.",
+            "The total number of subjects was 24,349 (15,041 woman, 9309 men). Women were significantly older than men (P<0.001). Women had higher prevalence of general practitioner visits than men in all surveys. Men had significantly higher prevalence of hospitalizations than women in the years 2001, 2006 and 2009. When we adjusted the hospitalization by possible confounders using logistic regressions, men had a higher probability of being hospitalized than women (OR 1.53, 1.39-1.69). The variables that were significantly associated with a higher use of health care services were lower educational level, worse self-rated health, chronic conditions, polypharmacy, and the level of disability. The number of general practitioner visits among women and men significantly increased from 2001 to 2009 (women: OR 1.43, 1.27-1.61; men: OR 1.71, 1.49-1.97)."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "STUDY DESIGN",
+            "OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Female",
+            "Health Care Surveys",
+            "Health Services",
+            "Health Status",
+            "Hospitalization",
+            "Humans",
+            "Logistic Models",
+            "Male",
+            "Odds Ratio",
+            "Office Visits",
+            "Patient Acceptance of Health Care",
+            "Polypharmacy",
+            "Prevalence",
+            "Self Report",
+            "Socioeconomic Factors",
+            "Spain"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The current study revealed an increase in health care services utilization from 2001 to 2009 in the older Spanish population."
+    },
+    "10783841": {
+        "QUESTION": "Is there a relationship between rheumatoid arthritis and periodontal disease?",
+        "CONTEXTS": [
+            "1,412 individuals attending the University of Queensland's School of Dentistry were assessed for the prevalence of periodontal disease and rheumatoid arthritis. Analysis of data obtained from a self-reported health questionnaire and dental records was carried out and included: number of individuals referred for advanced periodontal care (test group); number of individuals attending for routine dentistry; determination of rheumatoid arthritis, cardiovascular disease and diabetes mellitus through self-reporting and assessment of prescription medications; assessment of periodontal disease through assessment of existing oral radiographs.",
+            "In patients referred for periodontal treatment, the prevalence of self-reported rheumatoid arthritis was 3.95% which is significantly higher than that seen in patients not referred for periodontal treatment (0.66%) and also that reported in the general population (1%). Of those referred patients with rheumatoid arthritis, 62.5% had advanced forms of periodontal disease. These results were mirrored in the results of the self-reported prevalence of cardiovascular disease and diabetes mellitus which was consistent with the published higher prevalence in periodontal patients."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Alveolar Bone Loss",
+            "Arthritis, Rheumatoid",
+            "Cardiovascular Diseases",
+            "Dental Records",
+            "Diabetes Mellitus",
+            "Drug Prescriptions",
+            "Humans",
+            "Middle Aged",
+            "Periodontal Diseases",
+            "Periodontitis",
+            "Prevalence",
+            "Queensland",
+            "Radiography, Dental",
+            "Reproducibility of Results",
+            "Risk Factors",
+            "Surveys and Questionnaires"
+        ],
+        "YEAR": "2000",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Based on data derived from self-reported health conditions, and not withstanding the limitations of such a study, we conclude that there is good evidence to suggest that individuals with moderate to severe periodontal disease are at higher risk of suffering from rheumatoid arthritis and vice versa."
+    },
+    "8985020": {
+        "QUESTION": "Does induction chemotherapy have a role in the management of nasopharyngeal carcinoma?",
+        "CONTEXTS": [
+            "To assess the outcomes of patients with nasopharyngeal carcinoma (NPC) whose treatment was determined by computerized tomography (CT) and/or magnetic resonance imaging staging and to analyze the impact of induction chemotherapy and accelerated fractionated radiotherapy.",
+            "The analysis is based on 122 of 143 previously untreated patients with NPC treated with radiation therapy at The University of Texas M. D. Anderson Cancer Center between 1983 and 1992. Excluded were 4 patients treated with palliative intent, 4 children, 12 patients not staged with CT, and 1 patient who died of a cerebrovascular accident prior to completion of treatment. The stage distribution was as follows: AJCC Stage I-2, Stage II-7, Stage III-12, Stage IV-101; Tl-15, T2-33, T3-22, T4-52; N0-32, N1-10, N2-47, N3-32, Nx-1. Fifty-nine (48%) patients had squamous cell carcinoma; 63 (52%) had lymphoepitheliomas, undifferentiated NPC or poorly differentiated carcinoma, NOS (UNPC). Sixty-seven patients (65 with Stage IV disease) received induction chemotherapy. Fifty-eight patients (24 of whom had induction chemotherapy) were treated with the concomitant boost fractionation schedule. The median follow-up for surviving patients was 57 months.",
+            "The overall actuarial 2- and 5-year survival rates were 78 and 68%, respectively. Forty-nine patients (40%) had disease recurrence. Thirty-three (27%) had local regional failures; 19 at the primary site only, 8 in the neck and 6 in both. Local failure occurred in 31% of patients staged T4 compared to 13% of T1-T3 (p = 0.007). Sixteen patients failed at distant sites alone. Among Stage IV patients the 5-year actuarial rates for patients who did and did not receive induction chemotherapy were as follows: overall survival: 68 vs. 56% (p = 0.02), freedom from relapse: 64 vs. 37% (p = 0.01), and local control: 86 vs. 56% (p = 0.009). The actuarial 5-year distant failure rate in patients with UNPC who were treated with induction chemotherapy and controlled in the primary and neck was 13%. In patients who did not receive chemotherapy, the actuarial 5-year local control rates for patients treated with concomitant boost or conventional fractionation were 66 and 67%, respectively."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS AND MATERIALS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Antineoplastic Combined Chemotherapy Protocols",
+            "Combined Modality Therapy",
+            "Humans",
+            "Middle Aged",
+            "Multivariate Analysis",
+            "Nasopharyngeal Neoplasms",
+            "Neoplasm Staging",
+            "Radiotherapy Dosage",
+            "Survival Rate",
+            "Tomography, X-Ray Computed"
+        ],
+        "YEAR": "1996",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "While not providing conclusive evidence, this single institution experience suggests that neoadjuvant chemotherapy for Stage IV NPC patients improves both survival and disease control. Recurrence within the irradiated volume was the most prevalent mode of failure and future studies will evaluate regimens to enhance local regional control."
+    },
+    "20828836": {
+        "QUESTION": "Is discordance in TEOAE and AABR outcomes predictable in newborns?",
+        "CONTEXTS": [
+            "To determine the perinatal predictors of discordant screening outcomes based on a two-stage screening protocol with transient-evoked otoacoustic emissions (TEOAE) and automated auditory brainstem response (AABR).",
+            "A cross-sectional study of infants tested with TEOAE and AABR under a hospital-based universal newborn hearing screening program in Lagos, Nigeria. Maternal and infant factors associated with discordant TEOAE and AABR outcomes were determined with multivariable logistic regression analyses adjusting for potential confounding factors.",
+            "Of the 4718 infants enrolled under the program 1745 (36.9%) completed both TEOAE and AABR. Of this group, 1060 (60.7%) passed both TEOAE and AABR (\"true-negatives\"); 92 (5.3%) failed both TEOAE and AABR (\"true-positive\"); 571 (32.7%) failed TEOAE but passed AABR (\"false-positives\") while 22 (1.3%) passed TEOAE but failed AABR (\"false-negatives\"). Infants with false-positives were likely to be admitted into well-baby nursery (p=0.001), belong to mothers who attended antenatal care (p=0.010) or who delivered vaginally (p<0.001) compared to infants with true-negatives while infants with true-positives were also more likely to be delivered vaginally (p=0.002) or admitted into well-baby nursery (p=0.035) compared to infants with false-negatives. Infants with true-positives were significantly more likely to be delivered vaginally (p<0.001) and have severe hyperbilirubinemia (p=0.045) compared with infants with true-negatives. No association was observed between false-negatives and true-negatives. Antenatal care status, mode of delivery and nursery type were useful predictors of discordant outcomes among all infants undergoing screening (c-statistic=0.73)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Cross-Sectional Studies",
+            "Delivery, Obstetric",
+            "Evoked Potentials, Auditory, Brain Stem",
+            "False Negative Reactions",
+            "False Positive Reactions",
+            "Female",
+            "Hearing Loss",
+            "Humans",
+            "Hyperbilirubinemia, Neonatal",
+            "Infant, Newborn",
+            "Logistic Models",
+            "Male",
+            "Neonatal Screening",
+            "Nigeria",
+            "Nurseries, Hospital",
+            "Otoacoustic Emissions, Spontaneous",
+            "Prenatal Care",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Given the available screening technologies, discordant TEOAE and AABR may be inevitable for some categories of hearing loss among apparently healthy newborns whose mothers received prenatal care. The potential limitations of perinatal morbidities as basis of targeted screening for such cases therefore merit further consideration."
+    },
+    "16195477": {
+        "QUESTION": "Production of chemokines by perivascular adipose tissue: a role in the pathogenesis of atherosclerosis?",
+        "CONTEXTS": [
+            "Obesity is associated with an increased risk for cardiovascular disease. Although it is known that white adipose tissue (WAT) produces numerous proinflammatory and proatherogenic cytokines and chemokines, it is unclear whether adipose-derived chemotactic signals affect the chronic inflammation in atherosclerosis.",
+            "Histological examination showed that perivascular WAT (pWAT) is in close proximity to vascular walls, particularly at sites that have a tendency to develop atherosclerosis. In rodents, the amount of pWAT is markedly increased by a high-fat diet. At a functional level, supernatant from subcutaneous and pWAT strongly induced the chemotaxis of peripheral blood leukocytes. The migration of granulocytes and monocytes was mostly mediated by interleukin-8 and monocyte chemoattractant protein-1, respectively, whereas both chemokines contributed to the migration of activated T cells. Moreover, pWAT produces these chemokines, as shown by immunohistochemistry and by explant culture. The accumulation of macrophages and T cells at the interface between pWAT and the adventitia of human atherosclerotic aortas may reflect this prochemotactic activity of pWAT."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS AND RESULTS"
+        ],
+        "MESHES": [
+            "Adipose Tissue",
+            "Animals",
+            "Aorta",
+            "Atherosclerosis",
+            "Cells, Cultured",
+            "Chemokine CCL2",
+            "Chemotaxis, Leukocyte",
+            "Diet, Atherogenic",
+            "Dietary Fats",
+            "Granulocytes",
+            "Humans",
+            "Interleukin-8",
+            "Monocytes",
+            "Obesity",
+            "Rats",
+            "Rats, Wistar"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Human pWAT has chemotactic properties through the secretion of different chemokines, and we propose that pWAT might contribute to the progression of obesity-associated atherosclerosis."
+    },
+    "26867834": {
+        "QUESTION": "Is Alveolar Macrophage Phagocytic Dysfunction in Children With Protracted Bacterial Bronchitis a Forerunner to Bronchiectasis?",
+        "CONTEXTS": [
+            "Children with recurrent protracted bacterial bronchitis (PBB) and bronchiectasis share common features, and PBB is likely a forerunner to bronchiectasis. Both diseases are associated with neutrophilic inflammation and frequent isolation of potentially pathogenic microorganisms, including nontypeable Haemophilus influenzae (NTHi), from the lower airway. Defective alveolar macrophage phagocytosis of apoptotic bronchial epithelial cells (efferocytosis), as found in other chronic lung diseases, may also contribute to tissue damage and neutrophil persistence. Thus, in children with bronchiectasis or PBB and in control subjects, we quantified the phagocytosis of airway apoptotic cells and NTHi by alveolar macrophages and related the phagocytic capacity to clinical and airway inflammation.",
+            "Children with bronchiectasis (n = 55) or PBB (n = 13) and control subjects (n = 13) were recruited. Alveolar macrophage phagocytosis, efferocytosis, and expression of phagocytic scavenger receptors were assessed by flow cytometry. Bronchoalveolar lavage fluid interleukin (IL) 1\u03b2 was measured by enzyme-linked immunosorbent assay.",
+            "For children with PBB or bronchiectasis, macrophage phagocytic capacity was significantly lower than for control subjects (P = .003 and P<.001 for efferocytosis and P = .041 and P = .004 for phagocytosis of NTHi; PBB and bronchiectasis, respectively); median phagocytosis of NTHi for the groups was as follows: bronchiectasis, 13.7% (interquartile range [IQR], 11%-16%); PBB, 16% (IQR, 11%-16%); control subjects, 19.0% (IQR, 13%-21%); and median efferocytosis for the groups was as follows: bronchiectasis, 14.1% (IQR, 10%-16%); PBB, 16.2% (IQR, 14%-17%); control subjects, 18.1% (IQR, 16%-21%). Mannose receptor expression was significantly reduced in the bronchiectasis group (P = .019), and IL-1\u03b2 increased in both bronchiectasis and PBB groups vs control subjects."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Apoptosis",
+            "Bacterial Infections",
+            "Bronchiectasis",
+            "Bronchitis",
+            "Bronchoalveolar Lavage Fluid",
+            "Cell Line",
+            "Child, Preschool",
+            "Enzyme-Linked Immunosorbent Assay",
+            "Female",
+            "Humans",
+            "Infant",
+            "Macrophages, Alveolar",
+            "Male",
+            "Phagocytosis"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A reduced alveolar macrophage phagocytic host response to apoptotic cells or NTHi may contribute to neutrophilic inflammation and NTHi colonization in both PBB and bronchiectasis. Whether this mechanism also contributes to the progression of PBB to bronchiectasis remains unknown."
+    },
+    "17335331": {
+        "QUESTION": "Diagnostic characteristics of child bipolar I disorder: does the \"Treatment of Early Age Mania (team)\" sample generalize?",
+        "CONTEXTS": [
+            "To examine the representativeness of a randomized controlled trial (RCT) sample versus one obtained by consecutive new case ascertainment, for subjects with child bipolar I disorder.",
+            "Subjects (N = 247) were outpatients who participated in either the National Institute of Mental Health-funded Phenomenology and Course of Pediatric Bipolar Disorders study or the Treatment of Early Age Mania (TEAM) study. Both studies required that subjects have current DSM-IV bipolar I disorder (manic or mixed phase) and a Children's Global Assessment Scale (CGAS) score<or=60. All subjects had elation and/or grandiosity. Subjects in the Phenomenology study were obtained from 1995 to 1998 by consecutive new case ascertainment from designated pediatric and psychiatric facilities. Subjects in the TEAM RCT were recruited from media and community sources between March 2003 and March 2005. Assessment instruments included the Washington University in St. Louis Kiddie Schedule for Affective Disorders and Schizophrenia, given separately to parents about their children and to children about themselves, and the CGAS. Logistic regression was used for comparisons.",
+            "The TEAM and Phenomenology groups were similar in age (10.4 [SD = 2.3], 10.9 [SD = 2.3]years, respectively) and other demography. Both had long current episode duration (4.8 [SD = 2.4], 3.2 [SD = 2.3]years) and low lifetime use of any mood stabilizer (23.6%, 35.0%). Many mania symptoms and ultradian rapid cycling, psychosis, and suicidality were significantly more prevalent in the RCT sample."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Bipolar Disorder",
+            "Child",
+            "Female",
+            "Humans",
+            "Male",
+            "Matched-Pair Analysis",
+            "Reference Values",
+            "Reproducibility of Results",
+            "Severity of Illness Index"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Generalization of the RCT sample was supported, because only 7.8% of Phenomenology subjects did not fit the RCT criteria. Nevertheless, because the RCT subjects were more severely ill, it is unclear if treatment findings from the RCT will be applicable to children with less severe mania."
+    },
+    "10808977": {
+        "QUESTION": "Can tailored interventions increase mammography use among HMO women?",
+        "CONTEXTS": [
+            "Telephone counseling and tailored print communications have emerged as promising methods for promoting mammography screening. However, there has been little research testing, within the same randomized field trial, of the efficacy of these two methods compared to a high-quality usual care system for enhancing screening. This study addressed the question: Compared to usual care, is tailored telephone counseling more effective than tailored print materials for promoting mammography screening?",
+            "Three-year randomized field trial.",
+            "One thousand ninety-nine women aged 50 and older recruited from a health maintenance organization in North Carolina.",
+            "Women were randomized to 1 of 3 groups: (1) usual care, (2) tailored print communications, and (3) tailored telephone counseling.",
+            "Adherence to mammography screening based on self-reports obtained during 1995, 1996, and 1997.",
+            "Compared to usual care alone, telephone counseling promoted a significantly higher proportion of women having mammograms on schedule (71% vs 61%) than did tailored print (67% vs 61%) but only after the first year of intervention (during 1996). Furthermore, compared to usual care, telephone counseling was more effective than tailored print materials at promoting being on schedule with screening during 1996 and 1997 among women who were off-schedule during the previous year."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "DESIGN",
+            "PARTICIPANTS",
+            "INTERVENTION",
+            "MAIN OUTCOME",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Cost-Benefit Analysis",
+            "Female",
+            "Health Maintenance Organizations",
+            "Humans",
+            "Logistic Models",
+            "Mammography",
+            "Marketing of Health Services",
+            "Middle Aged",
+            "North Carolina",
+            "Odds Ratio",
+            "Pamphlets",
+            "Patient Acceptance of Health Care",
+            "Patient Satisfaction",
+            "Reminder Systems",
+            "Telephone"
+        ],
+        "YEAR": "2000",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The effects of the intervention were most pronounced after the first intervention. Compared to usual care, telephone counseling seemed particularly effective at promoting change among nonadherent women, the group for whom the intervention was developed. These results suggest that telephone counseling, rather than tailored print, might be the preferred first-line intervention for getting nonadherent women on schedule for mammography screening. Many questions would have to be answered about why the tailored print intervention was not more powerful. Nevertheless, it is clear that additional interventions will be needed to maintain women's adherence to mammography. Medical Subject Headings (MeSH): mammography screening, telephone counseling, tailored print communications, barriers."
+    },
+    "16498158": {
+        "QUESTION": "Is atropine needed with ketamine sedation?",
+        "CONTEXTS": [
+            "To compare atropine with placebo as an adjunct to ketamine sedation in children undergoing minor painful procedures. Outcome measures included hypersalivation, side effect profile, parental/patient satisfaction, and procedural success rate.",
+            "Children aged between 1 and 16 years of age requiring ketamine procedural sedation in a tertiary emergency department were randomised to receive 0.01 mg/kg of atropine or placebo. All received 4 mg/kg of intramuscular ketamine. Tolerance and sedation scores were recorded throughout the procedure. Side effects were recorded from the start of sedation until discharge. Parental and patient satisfaction scores were obtained at discharge and three to five days after the procedure, with the opportunity to report side effects encountered at home.",
+            "A total of 83 patients aged 13 months to 14.5 years (median age 3.4 years) were enrolled over a 16 month period. Hypersalivation occurred in 11.4% of patients given atropine compared with 30.8% given placebo (odds ratio (OR) 0.29, 95% confidence interval (CI) 0.09 to 0.91). A transient rash was observed in 22.7% of the atropine group compared with 5.1% of the placebo group (OR 5.44, 95% CI 1.11 to 26.6). Vomiting during recovery occurred in 9.1% of atropine patients compared with 25.6% of placebo patients (OR 0.29, 95% CI 0.09 to 1.02). There was a trend towards better tolerance in the placebo group. No patient experienced serious side effects."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adjuvants, Anesthesia",
+            "Adolescent",
+            "Anesthetics, Dissociative",
+            "Atropine",
+            "Child",
+            "Child, Preschool",
+            "Double-Blind Method",
+            "Drug Combinations",
+            "Female",
+            "Humans",
+            "Infant",
+            "Injections, Intramuscular",
+            "Ketamine",
+            "Male",
+            "Minor Surgical Procedures",
+            "Pain",
+            "Patient Satisfaction",
+            "Prospective Studies",
+            "Sialorrhea"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Ketamine sedation was successful and well tolerated in all cases. The use of atropine as an adjunct for intramuscular ketamine sedation in children significantly reduces hypersalivation and may lower the incidence of post-procedural vomiting. Atropine is associated with a higher incidence of a transient rash. No serious adverse events were noted."
+    },
+    "24958650": {
+        "QUESTION": "May mean platelet volume levels be a predictor in the diagnosis of pelvic inflammatory disease?",
+        "CONTEXTS": [
+            "Our aim in this study was to investigate whether mean platelet volume (MPV) value could be used as an early marker to predict pelvic inflammatory disease (PID).",
+            "Overall, 44 patients with PID and 44 healthy women were included in the study. The control group consisted of 44 women who applied to the clinic for a routine gynaecological check-up, without chronic disease or a history of medication use. Owing to the fact that it would affect thrombocyte function, women who have the following conditions were excluded from the study: women who were taking anticoagulant therapy, oral contraceptives, nonsteroid anti-inflammatory medications and who had chronic diseases. The leukocyte count, platelet count, neutrophil ratio and MPV values were collected from PID and the control group. C reactive protein values of patients with PID were also noted.",
+            "MPV values in patients with PID were lower than those in the control group. This reduction in MPV is statistically significant when the PID patient group is compared with the control group (p\u2009<\u20090.001). A negative correlation was discovered between platelet count and MPV values (p\u2009=\u20090.019, r\u2009=\u2009-\u20090.425). Receiver-operating curve analysis pointed out that MPV has greater area under curve value than neutrophil rate, leukocyte and platelet count (0.73, 0.64, 0.72 and 0.49 respectively)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Biomarkers",
+            "Blood Sedimentation",
+            "C-Reactive Protein",
+            "Case-Control Studies",
+            "Early Diagnosis",
+            "Female",
+            "Humans",
+            "Mean Platelet Volume",
+            "Pelvic Inflammatory Disease",
+            "Platelet Count",
+            "Predictive Value of Tests"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Since the MPV value was significantly decreased in patients with PID, it may serve as an additional and even more valuable marker than leukocyte count in the diagnosis of PID."
+    },
+    "9767546": {
+        "QUESTION": "Autoxidation products of both carbohydrates and lipids are increased in uremic plasma: is there oxidative stress in uremia?",
+        "CONTEXTS": [
+            "Advanced glycation end products (AGEs), formed by non-enzymatic glycation and oxidation (glycoxidation) reactions, have been implicated in the pathogenesis of several diseases, including normoglycemic uremia. AGE research in uremia has focused on the accumulation of carbohydrate-derived adducts generated by the Maillard reaction. Recent studies, however, have demonstrated that one AGE, the glycoxidation product carboxymethyllysine (CML), could be derived not only from carbohydrates but also from oxidation of polyunsaturated fatty acids in vitro, raising the possibility that both carbohydrate and lipid autoxidation might be increased in uremia.",
+            "To address this hypothesis, we applied gas chromatography-mass spectrometry and high performance liquid chromatography to measure protein adducts formed in uremic plasma by reactions between carbonyl compounds and protein amino groups: pentosidine derived from carbohydrate-derived carbonyls, malondialdehyde (MDA)-lysine derived from lipid-derived carbonyls, and CML originating possibly from both sources.",
+            "All three adducts were elevated in uremic plasma. Plasma CML levels were mainly (>95%) albumin bound. Their levels were not correlated with fructoselysine levels and were similar in diabetic and non-diabetic patients on hemodialysis, indicating that their increase was not driven by glucose. Pentosidine and MDA-lysine were also increased in plasma to the same extent in diabetic and non-diabetic hemodialysis patients. Statistical analysis indicated that plasma levels of CML correlated weakly (P<0.05) with those of pentosidine and MDA-lysine, but that pentosidine and MDA-lysine varied independently (P>0.5)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Arginine",
+            "Carbohydrates",
+            "Case-Control Studies",
+            "Glycation End Products, Advanced",
+            "Humans",
+            "Lipid Peroxidation",
+            "Lipids",
+            "Lysine",
+            "Malondialdehyde",
+            "Middle Aged",
+            "Oxidation-Reduction",
+            "Oxidative Stress",
+            "Uremia"
+        ],
+        "YEAR": "1998",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "These data suggest that the increased levels of AGEs in blood, and probably in tissues, reported in uremia implicate a broad derangement in non-enzymatic biochemistry involving alterations in autoxidation of both carbohydrates and lipids."
+    },
+    "18955431": {
+        "QUESTION": "Treadmill training post stroke: are there any secondary benefits?",
+        "CONTEXTS": [
+            "To explore the secondary benefits of treadmill training for people in the chronic stage of recovery from stroke.",
+            "Modified random assignment, matched-pair control group design with repeated measures.",
+            "Outpatient stroke centre.",
+            "Twenty individuals post first stroke who acknowledged walking slower than pre stroke. Participants matched by side of hemiparesis and motor impairment.",
+            "Twelve 20-minute sessions of walking on a treadmill or weekly phone call.",
+            "Depression (Beck Depression Index), mobility and social participation (Stroke Impact Scale 3.0 subscales) were assessed initially, at the end of 12 treatments (four weeks) and six weeks later.",
+            "No significant difference was found between groups for any dependent measure. The ANOVA to investigate main effects in each group found no significant findings in the control group; however in the treatment group significant improvements over time for depression (P = 0.005, P<0.001), mobility (P = 0.008) and social participation (P = 0.004) were demonstrated."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PARTICIPANTS",
+            "INTERVENTIONS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Analysis of Variance",
+            "Depression",
+            "Exercise Therapy",
+            "Exercise Tolerance",
+            "Female",
+            "Gait",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Paresis",
+            "Pilot Projects",
+            "Quality of Life",
+            "Recovery of Function",
+            "Severity of Illness Index",
+            "Social Behavior",
+            "Stroke",
+            "Stroke Rehabilitation",
+            "Surveys and Questionnaires",
+            "Treatment Outcome",
+            "Walking"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A task-specific intervention designed to improve gait speed may potentially provide secondary benefits by positively impacting depression, mobility and social participation for people post stroke."
+    },
+    "15222284": {
+        "QUESTION": "The effective orifice area/patient aortic annulus area ratio: a better way to compare different bioprostheses?",
+        "CONTEXTS": [
+            "The aim of this prospective, randomized study was to compare the hemodynamic performance of the Medtronic Mosaic and Edwards Perimount bioprostheses in the aortic position, and to evaluate prosthesis-specific differences in valve sizing and valve-size labeling.",
+            "Between August 2000 and September 2002, 139 patients underwent isolated aortic valve replacement (AVR) with the Mosaic (n = 67) or Perimount (n = 72) bioprosthesis. Intraoperatively, the internal aortic annulus diameter was measured by insertion of a gauge (Hegar dilator), while prosthesis size was determined by using the original sizers. Transthoracic echocardiography was performed to determine hemodynamic and dimensional data. As the aim of AVR is to achieve a maximal effective orifice area (EOA) within a given aortic annulus, the ratio of EOA to patient aortic annulus area was calculated, the latter being based on annulus diameter measured intraoperatively.",
+            "Operative mortality was 2.2% (Mosaic 3.0%; Perimount 1.4%; p = NS). Upsizing (using a prosthesis larger in labeled valve size than the patient's measured internal aortic annulus diameter) was possible in 28.4% of Mosaic patients and 8.3% of Perimount patients. The postoperative mean systolic pressure gradient ranged from 10.5 to 22.2 mmHg in the Mosaic group, and from 9.4 to 12.6 mmHg in the Perimount group; it was significantly lower for 21 and 23 Perimount valves than for 21 and 23 Mosaic valves. The EOA ranged from 0.78 to 2.37 cm2 in Mosaic patients, and from 0.95 to 2.12 cm2 in Perimount patients. When indexing EOA by calculating the ratio of EOA to patient aortic annulus area to adjust for variables such as patient anatomy and valve dimensions, there was no significant difference between the two bioprostheses."
+        ],
+        "LABELS": [
+            "BACKGROUND AND AIM OF THE STUDY",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Aortic Valve",
+            "Aortic Valve Insufficiency",
+            "Aortic Valve Stenosis",
+            "Bioprosthesis",
+            "Blood Pressure",
+            "Female",
+            "Heart Valve Prosthesis",
+            "Heart Valve Prosthesis Implantation",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Product Labeling",
+            "Prospective Studies",
+            "Prosthesis Design",
+            "Prosthesis Fitting"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Comparisons of absolute EOA values grouped by the manufacturers' valve sizes are misleading because of specific differences in geometric dimensions. The EOA:patient aortic annulus area ratio provides a new hemodynamic index which may facilitate objective comparisons between different valve types."
+    },
+    "17220021": {
+        "QUESTION": "Is there an increase in the incidence of gbs carrier rates among pregnant women in northern Israel?",
+        "CONTEXTS": [
+            "Group B Streptococci (GBS) asymptomatically colonize the vaginal or rectal areas of about 20% of pregnant women (4-40%). About 50% of infants to mothers with GBS colonization also become colonized at rectal, umbilical or oral sites. GBS is a leading bacterial cause of neonatal illness and death. The present prevalence rate of GBS carriers among parturients in the western Galilee in Israel is unknown.AIM: A prospective study of the GBS carrier rate according to origin and gestational age in the western Galilee in Israel.",
+            "A prospective study including 700 pregnant women. All women were screened for carriage of GBS by vaginal and rectal cultures.",
+            "Sixteen percent of the parturients were found to be GBS colonized. The prevalence of GBS was 13.7% in Jewish women and 19% in Arab women, P=0.038. The women were also divided into two groups according to the gestational age one group included 414 women in 24-37 weeks gestation, and the other group included 286 women in term pregnancy. No difference was found in the rate of GBS carriers between the two gestational age groups."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Carrier State",
+            "Female",
+            "Humans",
+            "Israel",
+            "Pregnancy",
+            "Pregnancy Complications, Infectious",
+            "Prevalence",
+            "Prospective Studies",
+            "Rectum",
+            "Streptococcal Infections",
+            "Streptococcus agalactiae",
+            "Vagina"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "In the present study we found a significant increase in the incidence of GBS colonization in pregnant women in northern Israel. We also found an increased rate of GBS carriers in Arab women relative to Jewish women."
+    },
+    "24793469": {
+        "QUESTION": "Is there any relation between cervical cord plaques and discopathy in patients with multiple sclerosis?",
+        "CONTEXTS": [
+            "Multiple sclerosis (MS) is the most common chronic autoimmune demyelinating disease of the central nervous system. The purpose of this study is to determine the relationship between the site of the cervical discopathy and cervical spinal cord plaque in MS patients.",
+            "This retrospective study included all patients with a definite diagnosis of MS who were treated at an outpatient clinic between September 2004 and September 2011. All patients underwent cervical magnetic resonance imaging (MRI) for primary investigation of the disease. Cervical MRI scans were evaluated for detection of any evidence of cervical discopathy and cervical MS plaques. Any correlation between the site of the MS lesions and discopathy was recorded.",
+            "From 536 patients who were involved in the study, 214 patients had both cervical discopathy and cervical cord plaques. In this group 148 (69.1% of patients) had cervical plaque at the same site of cervical discopathy. The number of patients with cervical cord plaque and discopathy at same site was significantly higher than those with plaque and discopathy at different sites (P<0.05)."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Cervical Cord",
+            "Female",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Multiple Sclerosis",
+            "Retrospective Studies",
+            "Young Adult"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The study data suggests a possible correlation between cervical discopathy and cervical MS plaque."
+    },
+    "24315783": {
+        "QUESTION": "Aripiprazole: a new risk factor for pathological gambling?",
+        "CONTEXTS": [
+            "It is commonly accepted that pathological gambling results from the interaction of multiple risk factors. Among these, dopamine replacement therapy (DRT) prescribed for Parkinson disease can be cited. Another dopamine agonist, aripiprazole, could be a new risk factor. We decided to explore this potential adverse drug reaction (ADR).",
+            "Based on a cohort of 166 pathological gamblers starting treatment in our department, data of each of the 8 patients treated by aripiprazole at inclusion were analyzed.",
+            "The patients involved were schizophrenic or bipolar, mostly young men with a history of addictive disorders and regular gambling prior to the prescription of aripiprazole. For each one of them, the causality of aripiprazole was considered, using an algorithm. The probability that pathological gambling is actually due to aripiprazole is \"possible\" in 7 cases out of 8, and \"doubtful\" in one."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Antipsychotic Agents",
+            "Aripiprazole",
+            "Bipolar Disorder",
+            "Dopamine Agonists",
+            "Female",
+            "Gambling",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Piperazines",
+            "Quinolones",
+            "Risk Factors",
+            "Schizophrenia",
+            "Young Adult"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Adverse drug reactions were confronted with other already published case reports. Dopamine partial agonist mechanism of aripiprazole could explain the occurrence of pathological gambling."
+    },
+    "19309468": {
+        "QUESTION": "Does a febrile reaction to platelets predispose recipients to red blood cell alloimmunization?",
+        "CONTEXTS": [
+            "A variable effect of inflammation on alloimmunization to transfused red blood cells (RBCs) in mice has been recently reported. We investigated whether RBC alloimmunization in humans was affected by transfusion of blood products in temporal proximity to experiencing a febrile transfusion reaction (FTR) to platelets (PLTs), an event predominantly mediated by inflammatory cytokines.",
+            "Blood bank databases were used to identify patients who experienced an FTR or possible FTR to PLTs from August 2000 to March 2008 (FTR group). The control group of patients received a PLT transfusion on randomly selected dates without experiencing an FTR. The \"event\" was defined as the PLT transfusion that caused the FTR in the FTR group or the index PLT transfusion in the control group. The number of transfused blood products and their proximity to the event were recorded along with other recipient data. The primary endpoint was the rate of RBC alloimmunization between the two groups.",
+            "There were 190 recipients in the FTR group and 245 in the control group. Overall, the recipients in the control group were younger and received more blood products on the day of their event and over the subsequent 10 days. The alloimmunization rate among recipients in the FTR group was higher than in the control group (8% vs. 3%, respectively; p = 0.026)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "STUDY DESIGN AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Erythrocytes",
+            "Fever",
+            "Humans",
+            "Isoantibodies",
+            "Middle Aged",
+            "Platelet Transfusion"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "These preliminary data support our hypothesis that recipient inflammation may affect RBC alloimmunization in humans; however, a more detailed understanding of the pathophysiologic association between inflammation and alloimmunization is required before definitive conclusions can be reached."
+    },
+    "24142776": {
+        "QUESTION": "Steroids in aminoglycoside-containing ear drops: do they reduce cochlear toxicity?",
+        "CONTEXTS": [
+            "To determine whether betamethasone (BM) reduces the cochlear toxicity of otic gentamicin (GM) if given together.",
+            "Controlled animal study.",
+            "Thirty-four mice were assigned at random to receive intratympanic injections of either 0.1 % BM (11 mice), 0.3% GM (13 mice), or a combination of both (GM/BM) with benzalkonium chloride (10 mice) in the left ear (treated) and saline on the right (untreated). Six injections were given on alternate days. Auditory brainstem response thresholds were assessed at 1 month, 2 months, and>2 months.",
+            "There was a significantly greater degree of hearing loss in the BM-treated ears compared to the untreated ears (6.48 dB hearing loss, P = .007) and in the GM-treated ears compared to untreated ears (6.59 dB hearing loss, P = .010,). However, otic GM/BM and benzalkonium chloride did not cause significant additional hearing loss compared with the untreated ears (3.56 dB hearing loss, P = .242)."
+        ],
+        "LABELS": [
+            "HYPOTHESIS",
+            "STUDY DESIGN",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aminoglycosides",
+            "Animals",
+            "Benzalkonium Compounds",
+            "Betamethasone",
+            "Cochlea",
+            "Evoked Potentials, Auditory, Brain Stem",
+            "Injections",
+            "Mice",
+            "Mice, Inbred C57BL",
+            "Random Allocation"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Our data suggest that hearing loss caused by GM otic drops may be reduced by the inclusion of BM and benzalkonium chloride. Our finding that BM alone was associated with hearing loss suggests that the benzalkonium chloride may be the protective agent in combination otic drops."
+    },
+    "2224269": {
+        "QUESTION": "Should general practitioners call patients by their first names?",
+        "CONTEXTS": [
+            "To assess the acceptability to patients of the use of patients' first names by doctors and doctors' first names by patients in general practice.",
+            "An administered questionnaire survey.",
+            "5 General practices in Lothian.",
+            "475 Patients consulting 30 general practitioners.",
+            "Response by patients to questionnaire on attitude to use of first names.",
+            "Most of the patients either liked (223) or did not mind (175) being called by their first names. Only 77 disliked it, most of whom were aged over 65. Most patients (324) did not, however, want to call the doctor by his or her first name."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PATIENTS",
+            "MAIN OUTCOME MEASURE",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Age Factors",
+            "Aged",
+            "Attitude",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Physician-Patient Relations",
+            "Physicians, Family",
+            "Social Class"
+        ],
+        "YEAR": "1990",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "General practitioners should consider using patients' first names more often, particularly with younger patients."
+    },
+    "12153648": {
+        "QUESTION": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?",
+        "CONTEXTS": [
+            "Women's experiences of childbirth may affect their future reproduction, and the model of care affects their experiences, suggesting that a causal link may exist between model of care and future reproduction. The study objective was to examine whether the birth center model of care during a woman's first pregnancy affects whether or not she has a second baby, and on the spacing to the next birth.",
+            "Between October 1989 and July 1993, a total of 1860 women at low medical risk in early pregnancy, who participated in a randomized controlled trial of in-hospital birth center care versus standard care, gave birth. The 1063 primiparas in the trial, 543 in the birth center group and 520 in the standard care group, were included in a secondary analysis in which women's personal identification codes were linked to the Swedish National Birth Register, which included information about their subsequent birth during the following 7 to 10 years. Time to an event curves were constructed by means of the Kaplan Meier method.",
+            "The observation period after the first birth was on average 8.8 years in the birth center group and 8.7 years in the standard care group. No statistical difference was found between the groups in time to second birth, which was 2.85 and 2.82 years, respectively (median; log-rank 1.26; p=0.26)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Birth Intervals",
+            "Birthing Centers",
+            "Continuity of Patient Care",
+            "Delivery Rooms",
+            "Female",
+            "Humans",
+            "Maternal Health Services",
+            "Models, Nursing",
+            "Nurse Midwives",
+            "Parity",
+            "Patient Care Team",
+            "Patient Satisfaction",
+            "Pregnancy",
+            "Registries",
+            "Reproduction",
+            "Surveys and Questionnaires",
+            "Sweden"
+        ],
+        "YEAR": "2002",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "A woman's model of care, such as birth center care, during her first pregnancy does not seem to be a sufficiently important factor to affect subsequent reproduction in Sweden."
+    },
+    "21402341": {
+        "QUESTION": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+        "CONTEXTS": [
+            "Extracranial internal carotid artery stenosis is a risk factor for perioperative stroke in patients undergoing coronary artery bypass surgery (CAB). Although selective and non-selective methods of preoperative carotid screening have been advocated, it remains unclear if this screening is clinically relevant.AIM: To test whether selective carotid screening is as effective as non-selective screening in detecting significant carotid disease.",
+            "The case records of patients consecutively undergoing CAB were reviewed. Patients were stratified retrospectively into high- or low-risk groups according to risk factors for significant carotid stenosis and perioperative stroke: peripheral vascular disease (PVD), carotid bruit, diabetes mellitus, age>70 years and/or history of cerebrovascular disease. Prevalence of carotid stenosis detected by ultrasonography, surgical management and perioperative stroke rates were determined in each group.",
+            "Overall, 205 consecutive patients underwent preoperative carotid screening. The prevalence of significant carotid stenosis was 5.8%. Univariate analysis confirmed that PVD (P=0.005), carotid bruit (P=0.003) and diabetes mellitus (P=0.05) were significant risk factors for stenosis. Carotid stenosis was a risk factor for stroke (P=0.03). Prevalence of carotid stenosis was higher in the high-risk group (9.1%) than the low-risk group (1.2%) (P<0.05). All concomitant or staged carotid endarterectomies/CAB (5/205) and all patients who had perioperative strokes (5/205) were in the high-risk group (P=0.01)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Algorithms",
+            "Carotid Stenosis",
+            "Chi-Square Distribution",
+            "Coronary Artery Bypass",
+            "Coronary Artery Disease",
+            "Endarterectomy, Carotid",
+            "Female",
+            "France",
+            "Humans",
+            "Male",
+            "Patient Selection",
+            "Predictive Value of Tests",
+            "Preoperative Care",
+            "Prevalence",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Risk Factors",
+            "Severity of Illness Index",
+            "Stroke",
+            "Ultrasonography, Doppler, Duplex"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "no",
+        "LONG_ANSWER": "In our cohort, selective screening of patients aged>70 years, with carotid bruit, a history of cerebrovascular disease, diabetes mellitus or PVD would have reduced the screening load by 40%, with trivial impact on surgical management or neurological outcomes."
+    },
+    "22521460": {
+        "QUESTION": "Does route of delivery affect maternal and perinatal outcome in women with eclampsia?",
+        "CONTEXTS": [
+            "The route of delivery in eclampsia is controversial. We hypothesized that adverse maternal and perinatal outcomes may not be improved by early cesarean delivery.",
+            "This was a randomized controlled exploratory trial carried out in a rural teaching institution. In all, 200 eclampsia cases, carrying \u226534 weeks, were allocated to either cesarean or vaginal delivery. Composite maternal and perinatal event rates (death and severe morbidity) were compared by intention-to-treat principle.",
+            "Groups were comparable at baseline with respect to age and key clinical parameters. Maternal event rate was similar: 10.89% in the cesarean arm vs 7.07% for vaginal delivery (relative risk, 1.54; 95% confidence interval, 0.62-3.81). Although the neonatal event rate was less in cesarean delivery-9.90% vs 19.19% (relative risk, 0.52; 95% confidence interval, 0.25-1.05)-the difference was not significant statistically."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "STUDY DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Anticonvulsants",
+            "Antihypertensive Agents",
+            "Apgar Score",
+            "Cesarean Section",
+            "Critical Care",
+            "Eclampsia",
+            "Female",
+            "Humans",
+            "Infant, Newborn",
+            "Intention to Treat Analysis",
+            "Labetalol",
+            "Magnesium Sulfate",
+            "Outcome Assessment (Health Care)",
+            "Perinatal Mortality",
+            "Pilot Projects",
+            "Pregnancy",
+            "Pregnancy Outcome",
+            "Time Factors"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "A policy of early cesarean delivery in eclampsia, carrying \u226534 weeks, is not associated with better outcomes."
+    },
+    "18096128": {
+        "QUESTION": "Cervical spine fractures in geriatric blunt trauma patients with low-energy mechanism: are clinical predictors adequate?",
+        "CONTEXTS": [
+            "Studies have identified clinical predictors to guide radiologic evaluation of the cervical spine in geriatric patients. We hypothesized that clinical predictors are not adequate in the identification of cervical spine fractures in geriatric blunt trauma patients with low-energy mechanism.",
+            "A retrospective case-control study was performed on geriatric blunt trauma patients sustaining low-energy trauma from January 2000 to January 2006. A data form including 8 clinical predictors was completed for each group.",
+            "There were 35 study and 64 control patients identified. Both groups were similar in age (study 83.6 vs control 81.2) and injury severity score (study 9.06 vs control 9.61). Only neck tenderness exceeded the expected occurrence in the presence of a cervical spine injury (chi(2) = 18.1, P = .001) in just 45.5% of the study group."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Accidental Falls",
+            "Age Factors",
+            "Aged",
+            "Aged, 80 and over",
+            "Case-Control Studies",
+            "Cervical Vertebrae",
+            "Female",
+            "Geriatric Assessment",
+            "Humans",
+            "Incidence",
+            "Injury Severity Score",
+            "Male",
+            "Physical Examination",
+            "Predictive Value of Tests",
+            "Probability",
+            "Retrospective Studies",
+            "Sensitivity and Specificity",
+            "Spinal Fractures",
+            "Tomography, X-Ray Computed",
+            "Wounds, Nonpenetrating"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Clinical predictors appear inadequate for the evaluation of the cervical spine in geriatric trauma patients with low-energy mechanism."
+    },
+    "16241924": {
+        "QUESTION": "Does parity increase insulin resistance during pregnancy?",
+        "CONTEXTS": [
+            "To study the effect of parity on impairment of insulin sensitivity during pregnancy and on the risk of gestational diabetes (GDM).",
+            "We studied the relationship between parity and peripheral insulin sensitivity index (ISI(OGTT)) or GDM in 1880 caucasian women, who underwent a 100-g, 3-h oral glucose tolerance test (OGTT) between the 24th and 28th gestational week and in 75 women who underwent an OGTT in two consecutive pregnancies. A proxy for beta-cell function (basal plasma C peptide/fasting plasma glucose; CP/FPG) was also measured.",
+            "By univariate analysis parity was related to decreased ISI(OGTT) and to increased CP/FPG in those with parity>3 and likewise GDM, diagnosed in 124 women (6.58%), was linearly related to parity (P = 0.0034) and strongly age dependent. The relationships between parity and ISI(OGTT), CP/FPG and GDM were no longer significant after adjustment for age, pregestational body mass index (BMI), and weight gain. GDM was significantly related to age and pregestational weight, while ISI(OGTT) and CP/FPG were inversely related to prepregnancy BMI or weight gain. In comparison with the index pregnancy, the subsequent pregnancy was characterized by an increase in actual and prepregnancy BMI, in 2 h area under curve (AUC) glucose and by a decrease in ISI(OGTT) (P = 0.0001). The longer the time interval between pregnancies and the higher the increment in pregestational BMI or in weight gain during the pregnancy, the greater were the ISI(OGTT) decrease and 2-h AUC glucose increase."
+        ],
+        "LABELS": [
+            "AIMS",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Blood Glucose",
+            "Body Mass Index",
+            "Cross-Sectional Studies",
+            "Diabetes, Gestational",
+            "Female",
+            "Glucose Tolerance Test",
+            "Humans",
+            "Insulin Resistance",
+            "Parity",
+            "Pregnancy",
+            "Pregnancy Trimester, Third",
+            "Retrospective Studies",
+            "Risk Factors",
+            "Weight Gain"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Parity is not directly linked to insulin sensitivity deterioration, to CP/FPG increase during pregnancy, or to GDM appearance, although it is linked through the mediation of progressive ageing and weight gain either before or during pregnancy, when there is a sufficiently long time interval between pregnancies."
+    },
+    "24450673": {
+        "QUESTION": "Delayed imaging in routine CT examinations of the abdomen and pelvis: is it worth the additional cost of radiation and time?",
+        "CONTEXTS": [
+            "The purpose of this study was to retrospectively assess the potential benefits of delayed phase imaging series in routine CT scans of the abdomen and pelvis.",
+            "Routine contrast-enhanced abdominopelvic CT scans of 1000 consecutively examined patients (912 men, 88 women; average age, 60 years; range, 22-94 years) were retrospectively evaluated, and the added benefits of the delayed phase series through the abdomen were recorded for each examination. Examinations performed for indications requiring multiphasic imaging were excluded. Images were reviewed by two fellowship-trained abdominal radiologists, who were blinded to official CT reports. All examinations were performed between July 2008 and February 2010 at a single institution. Radiation doses for both the portal venous and delayed phases, when available, were analyzed to assess the effect of the delayed phase on overall radiation exposure.",
+            "Forty-two patients (4.2%) had findings that were further characterized or were observed only in the delayed phase. Most were incidental findings that could have been confirmed at noninvasive follow-up imaging, such as sonography or unenhanced CT or MRI. The most common findings were liver hemangioma (n = 12), adrenal adenoma (n = 12), and parapelvic renal cysts (n = 6). The most important finding was detection of a renal mass in one patient (0.1%). The mass was seen only on the delayed phase images but was difficult to appreciate in the portal venous phase. In the other 958 patients (95.8%), delayed imaging was of no benefit. In addition, use of the delayed phase resulted in a mean 59.5% increase in effective radiation dose."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Contrast Media",
+            "Female",
+            "Humans",
+            "Incidental Findings",
+            "Iohexol",
+            "Male",
+            "Middle Aged",
+            "Pelvis",
+            "Radiation Dosage",
+            "Radiography, Abdominal",
+            "Retrospective Studies",
+            "Time Factors",
+            "Tomography, X-Ray Computed",
+            "Triiodobenzoic Acids"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "An additional delayed phase through the abdomen in routine contrast-enhanced CT examinations of the abdomen and pelvis is of low yield, particularly if reliable follow-up imaging to further elucidate uncertain findings is available."
+    },
+    "22900881": {
+        "QUESTION": "Should pulp chamber pulpotomy be seen as a permanent treatment?",
+        "CONTEXTS": [
+            "Seventeen patients, aged 7-54\u00a0years (mean of 37.2\u00a0year), were treated by pulpotomy and filling with ProRoot MTA(\u00ae)  in premolar or molar teeth with vital pulps and without clinical evidence of irreversible pulpitis. The patients were then followed up for 12 to 24\u00a0months and the teeth then assessed by clinical and radiographic examination. Statistical analysis was performed with Kaplan-Meier survival probability statistics to estimate the survival of the treated teeth.",
+            "At 24\u00a0months, the survival rate without any complementary treatment was estimated to be 82%. Two of the 17 treated teeth required root canal treatment for pain control and one for prosthetic reasons."
+        ],
+        "LABELS": [
+            "METHODOLOGY",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aluminum Compounds",
+            "Bicuspid",
+            "Calcium Compounds",
+            "Child",
+            "Composite Resins",
+            "Crowns",
+            "Dental Caries",
+            "Dental Materials",
+            "Dental Pulp",
+            "Dental Pulp Cavity",
+            "Dental Pulp Test",
+            "Drug Combinations",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Inlays",
+            "Male",
+            "Middle Aged",
+            "Molar",
+            "Oxides",
+            "Pain Measurement",
+            "Post and Core Technique",
+            "Pulp Capping and Pulpectomy Agents",
+            "Pulpotomy",
+            "Radiography",
+            "Silicates",
+            "Survival Rate",
+            "Young Adult"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Under the conditions of this study, pulpotomy offered a viable alternative to root canal treatment for teeth with vital pulps in the short term. However, there is insufficient clinical evidence to consider this technique for the treatment of every permanent tooth. Nevertheless, it should be considered as a potential alternative approach to be further developed for future applications."
+    },
+    "27909738": {
+        "QUESTION": "Prostate bed target interfractional motion using RTOG consensus definitions and daily CT on rails : Does target motion differ between superior and inferior portions of the clinical target volume?",
+        "CONTEXTS": [
+            "Using high-quality CT-on-rails imaging, the daily motion of the prostate bed clinical target volume (PB-CTV) based on consensus Radiation Therapy Oncology Group (RTOG) definitions (instead of surgical clips/fiducials) was studied. It was assessed whether PB motion in the superior portion of PB-CTV (SUP-CTV) differed from the inferior PB-CTV (INF-CTV).",
+            "Eight pT2-3bN0-1M0 patients underwent postprostatectomy intensity-modulated radiotherapy, totaling 300\u00a0fractions. INF-CTV and SUP-CTV were defined as PB-CTV located inferior and superior to the superior border of the pubic symphysis, respectively. Daily pretreatment CT-on-rails images were compared to the planning CT in the left-right (LR), superoinferior (SI), and anteroposterior (AP) directions. Two parameters were defined: \"total PB-CTV motion\" represented total shifts from skin tattoos to RTOG-defined anatomic areas; \"PB-CTV target motion\" (performed for both SUP-CTV and INF-CTV) represented shifts from bone to RTOG-defined anatomic areas (i.\u2009e., subtracting shifts from skin tattoos to bone).",
+            "Mean (\u00b1 standard deviation, SD) total PB-CTV motion was -1.5\u00a0(\u00b1\u202f6.0), 1.3\u00a0(\u00b1\u202f4.5), and 3.7\u00a0(\u00b1\u202f5.7)\u00a0mm in LR, SI, and AP directions, respectively. Mean (\u00b1\u202fSD) PB-CTV target motion was 0.2\u00a0(\u00b11.4), 0.3\u00a0(\u00b12.4), and 0\u00a0(\u00b13.1)\u00a0mm in the LR, SI, and AP directions, respectively. Mean (\u00b1\u202fSD) INF-CTV target motion was 0.1\u00a0(\u00b1\u202f2.8), 0.5\u00a0(\u00b1\u202f2.2), and 0.2 (\u00b1\u202f2.5)\u00a0mm, and SUP-CTV target motion was 0.3\u00a0(\u00b1\u202f1.8), 0.5\u00a0(\u00b1\u202f2.3), and 0\u00a0(\u00b1\u202f5.0)\u00a0mm in LR, SI, and AP directions, respectively. No statistically significant differences between INF-CTV and SUP-CTV motion were present in any direction."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Artifacts",
+            "Guideline Adherence",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Motion",
+            "Patient Positioning",
+            "Practice Guidelines as Topic",
+            "Radiation Oncology",
+            "Radiotherapy Dosage",
+            "Radiotherapy Planning, Computer-Assisted",
+            "Radiotherapy, Image-Guided",
+            "Radiotherapy, Intensity-Modulated",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity",
+            "Tomography, X-Ray Computed",
+            "Treatment Outcome",
+            "Tumor Burden",
+            "United States"
+        ],
+        "YEAR": "2017",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "There are no statistically apparent motion differences between SUP-CTV and INF-CTV. Current uniform planning target volume (PTV) margins are adequate to cover both portions of the CTV."
+    },
+    "20842006": {
+        "QUESTION": "Neck pain treatment with acupuncture: does the number of needles matter?",
+        "CONTEXTS": [
+            "Acupuncture has been successfully used in myofascial pain syndromes. However, the number of needles used, that is, the dose of acupuncture stimulation, to obtain the best antinociceptive efficacy is still a matter of debate. The question was addressed comparing the clinical efficacy of two different therapeutic schemes, characterized by a different number of needles used on 36 patients between 29-60 years of age with by a painful cervical myofascial syndrome.",
+            "Patients were divided into two groups; the first group of 18 patients were treated with 5 needles and the second group of 18 patients were treated with 11 needles, the time of needle stimulation was the same in both groups: 100 seconds. Each group underwent six cycles of somatic acupuncture. Pain intensity was evaluated before, immediately after and 1 and 3 months after the treatment by means of both the Mc Gill Pain Questionnaire and the Visual Analogue Scale (VAS). In both groups, the needles were fixed superficially excluding the two most painful trigger points where they were deeply inserted.",
+            "Both groups, independently from the number of needles used, obtained a good therapeutic effect without clinically relevant differences."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acupuncture Therapy",
+            "Adult",
+            "Humans",
+            "Middle Aged",
+            "Myofascial Pain Syndromes",
+            "Neck Pain",
+            "Needles",
+            "Pain Measurement",
+            "Severity of Illness Index",
+            "Surveys and Questionnaires",
+            "Treatment Outcome"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "For this pathology, the number of needles, 5 or 11, seems not to be an important variable in determining the therapeutic effect when the time of stimulation is the same in the two groups."
+    },
+    "19268855": {
+        "QUESTION": "Application of computer-aided diagnosis (CAD) in MR-mammography (MRM): do we really need whole lesion time curve distribution analysis?",
+        "CONTEXTS": [
+            "The identification of the most suspect enhancing part of a lesion is regarded as a major diagnostic criterion in dynamic magnetic resonance mammography. Computer-aided diagnosis (CAD) software allows the semi-automatic analysis of the kinetic characteristics of complete enhancing lesions, providing additional information about lesion vasculature. The diagnostic value of this information has not yet been quantified.",
+            "Consecutive patients from routine diagnostic studies (1.5 T, 0.1 mmol gadopentetate dimeglumine, dynamic gradient-echo sequences at 1-minute intervals) were analyzed prospectively using CAD. Dynamic sequences were processed and reduced to a parametric map. Curve types were classified by initial signal increase (not significant, intermediate, and strong) and the delayed time course of signal intensity (continuous, plateau, and washout). Lesion enhancement was measured using CAD. The most suspect curve, the curve-type distribution percentage, and combined dynamic data were compared. Statistical analysis included logistic regression analysis and receiver-operating characteristic analysis.",
+            "Fifty-one patients with 46 malignant and 44 benign lesions were enrolled. On receiver-operating characteristic analysis, the most suspect curve showed diagnostic accuracy of 76.7 +/- 5%. In comparison, the curve-type distribution percentage demonstrated accuracy of 80.2 +/- 4.9%. Combined dynamic data had the highest diagnostic accuracy (84.3 +/- 4.2%). These differences did not achieve statistical significance. With appropriate cutoff values, sensitivity and specificity, respectively, were found to be 80.4% and 72.7% for the most suspect curve, 76.1% and 83.6% for the curve-type distribution percentage, and 78.3% and 84.5% for both parameters."
+        ],
+        "LABELS": [
+            "RATIONALE AND OBJECTIVES",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Algorithms",
+            "Artificial Intelligence",
+            "Breast Neoplasms",
+            "Humans",
+            "Image Enhancement",
+            "Image Interpretation, Computer-Assisted",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Pattern Recognition, Automated",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "no",
+        "LONG_ANSWER": "The integration of whole-lesion dynamic data tends to improve specificity. However, no statistical significance backs up this finding."
+    },
+    "24652474": {
+        "QUESTION": "Clinical identifiers for early-stage primary/idiopathic adhesive capsulitis: are we seeing the real picture?",
+        "CONTEXTS": [
+            "Adhesive capsulitis is often difficult to diagnose in its early stage and to differentiate from other common shoulder disorders.",
+            "The aim of this study was to validate any or all of the 8 clinical identifiers of early-stage primary/idiopathic adhesive capsulitis established in an earlier Delphi study.",
+            "This was a cross-sectional study.",
+            "Sixty-four patients diagnosed with early-stage adhesive capsulitis by a physical therapist or medical practitioner were included in the study. Eight active and 8 passive shoulder movements and visual analog scale pain scores for each movement were recorded prior to and immediately following an intra-articular injection of corticosteroid and local anesthetic. Using the local anesthetic as the reference standard, pain relief of \u226570% for passive external rotation was deemed a positive anesthetic response (PAR).",
+            "Sixteen participants (25%) demonstrated a PAR. Univariate logistic regression identified that of the proposed identifiers, global loss of passive range of movement (odds ratio [OR]=0.26, P=.03), pain at the end of range of all measured active movements (OR=0.06, P=.02), and global loss of passive glenohumeral movements (OR=0.23, P=.02) were associated with a PAR. Following stepwise removal of the variables, pain at the end of range of all measured active movements remained the only identifier but was associated with reduced odds of a PAR.",
+            "The lack of a recognized reference standard for diagnosing early-stage adhesive capsulitis remains problematic in all related research."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "DESIGN",
+            "METHODS",
+            "RESULTS",
+            "LIMITATIONS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Anesthetics, Local",
+            "Arthralgia",
+            "Bursitis",
+            "Cross-Sectional Studies",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Movement",
+            "Pain Measurement",
+            "Range of Motion, Articular",
+            "Rotation",
+            "Shoulder Joint"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "None of the clinical identifiers for early-stage adhesive capsulitis previously proposed by expert consensus have been validated in this study. Clinicians should be aware that commonly used clinical identifiers may not be applicable to this stage."
+    },
+    "25417760": {
+        "QUESTION": "Risk factors for major depression during midlife among a community sample of women with and without prior major depression: are they the same or different?",
+        "CONTEXTS": [
+            "Women's vulnerability for a first lifetime-onset of major depressive disorder (MDD) during midlife is substantial. It is unclear whether risk factors differ for first lifetime-onset and recurrent MDD. Identifying these risk factors can provide more focused depression screening and earlier intervention. This study aims to evaluate whether lifetime psychiatric and health histories, personality traits, menopausal status and factors that vary over time, e.g. symptoms, are independent risk factors for first-onset or recurrent MDD across 13 annual follow-ups.",
+            "Four hundred and forty-three women, aged 42-52 years, enrolled in the Study of Women's Health Across the Nation in Pittsburgh and participated in the Mental Health Study. Psychiatric interviews obtained information on lifetime psychiatric disorders at baseline and on occurrences of MDD episodes annually. Psychosocial and health-related data were collected annually. Cox multivariable analyses were conducted separately for women with and without a MDD history at baseline.",
+            "Women without lifetime MDD at baseline had a lower risk of developing MDD during midlife than those with a prior MDD history (28% v. 59%) and their risk profiles differed. Health conditions prior to baseline and during follow-ups perception of functioning (ps<0.05) and vasomotor symptoms (VMS) (p = 0.08) were risk factors for first lifetime-onset MDD. Being peri- and post-menopausal, psychological symptoms and a prior anxiety disorder were predominant risk factors for MDD recurrence."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Depressive Disorder, Major",
+            "Female",
+            "Health Status",
+            "Humans",
+            "Longitudinal Studies",
+            "Menopause",
+            "Middle Aged",
+            "Pennsylvania",
+            "Personality",
+            "Psychiatric Status Rating Scales",
+            "Recurrence",
+            "Risk Factors"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "no",
+        "LONG_ANSWER": "The menopausal transition warrants attention as a period of vulnerability to MDD recurrence, while health factors and VMS should be considered important risk factors for first lifetime-onset of MDD during midlife."
+    },
+    "23147106": {
+        "QUESTION": "Is peak concentration needed in therapeutic drug monitoring of vancomycin?",
+        "CONTEXTS": [
+            "We analyzed the pharmacokinetic-pharmacodynamic relationship of vancomycin to determine the drug exposure parameters that correlate with the efficacy and nephrotoxicity of vancomycin in patients with methicillin-resistant Staphylococcus aureus pneumonia and evaluated the need to use peak concentration in therapeutic drug monitoring (TDM).",
+            "Serum drug concentrations of 31 hospitalized patients treated with vancomycin for methicillin-resistant S. aureus pneumonia were collected.",
+            "Significant differences in trough concentration (Cmin)/minimum inhibitory concentration (MIC) and area under the serum concentration-time curve (AUC0-24)/MIC were observed between the response and non-response groups. Significant differences in Cmin and AUC0-24 were observed between the nephrotoxicity and non-nephrotoxicity groups. Receiver operating characteristic curves revealed high predictive values of Cmin/MIC and AUC0-24/MIC for efficacy and of Cmin and AUC0-24 for safety of vancomycin."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Anti-Bacterial Agents",
+            "Area Under Curve",
+            "Female",
+            "Half-Life",
+            "Humans",
+            "Male",
+            "Methicillin-Resistant Staphylococcus aureus",
+            "Microbial Sensitivity Tests",
+            "Middle Aged",
+            "Pneumonia",
+            "ROC Curve",
+            "Retrospective Studies",
+            "Vancomycin"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "These results suggest little need to use peak concentration in vancomycin TDM because Cmin/MIC and Cmin are sufficient to predict the efficacy and safety of vancomycin."
+    },
+    "17595200": {
+        "QUESTION": "Is there an intrauterine influence on obesity?",
+        "CONTEXTS": [
+            "It has been suggested that increasing obesity levels in young women lead to intrauterine environments that, in turn, stimulate increased obesity among their offspring, generating an intergenerational acceleration of obesity levels. If this mechanism is important, the association of maternal body mass index (BMI) with offspring BMI should be stronger than the association of paternal with offspring BMI.",
+            "To compare the relative strengths of association of maternal and paternal BMI with offspring BMI at age 7.5, taking into account the possible effect of non-paternity.",
+            "We compared strength of association for maternal-offspring and paternal-offspring BMI for 4654 complete parent-offspring trios in the Avon Longitudinal Study of Parents and Children (ALSPAC), using unstandardised and standardised regression analysis. We carried out a sensitivity analysis to investigate the influence of non-paternity on these associations.",
+            "The strength of association between parental BMI and offspring BMI at age 7.5 was similar for both parents. Taking into account correlations between maternal and paternal BMI, performing standardised rather than unstandardised regression and carrying out a sensitivity analysis for non-paternity emphasised the robustness of the general similarity of the associations. The associations between high parental BMI (top decile) and offspring BMI are also similar for both parents."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Body Mass Index",
+            "Child",
+            "Child, Preschool",
+            "Cross-Sectional Studies",
+            "Fathers",
+            "Female",
+            "Health Surveys",
+            "Humans",
+            "Longitudinal Studies",
+            "Male",
+            "Mothers",
+            "Obesity",
+            "Parent-Child Relations",
+            "Pregnancy",
+            "United Kingdom"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Comparison of mother-offspring and father-offspring associations for BMI suggests that intergenerational acceleration mechanisms do not make an important contribution to levels of childhood BMI within the population. Associations at later ages and for different components of body composition now require study."
+    },
+    "17008699": {
+        "QUESTION": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+        "CONTEXTS": [
+            "Examine whether patients with prostate cancer choose the more aggressive of two radiotherapeutic options, whether this choice is reasoned, and what the determinants of the choice are.",
+            "One hundred fifty patients with primary prostate cancer (T(1-3)N(0)M(0)) were informed by means of a decision aid of two treatment options: radiotherapy with 70 Gy versus 74 Gy. The latter treatment is associated with more cure and more toxicity. The patients were asked whether they wanted to choose, and if so which treatment they preferred. They also assigned importance weights to the probability of various outcomes, such as survival, cure and adverse effects. Patients who wanted to choose their own treatment (n = 119) are described here.",
+            "The majority of these patients (75%) chose the lower radiation dose. Their choice was highly consistent (P<or = .001), with the importance weights assigned to the probability of survival, cure (odds ratio [OR] = 6.7 and 6.9) and late GI and genitourinary adverse effects (OR = 0.1 and 0.2). The lower dose was chosen more often by the older patients, low-risk patients, patients without hormone treatment, and patients with a low anxiety or depression score."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Anxiety",
+            "Decision Making",
+            "Depression",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Odds Ratio",
+            "Patient Satisfaction",
+            "Prostatic Neoplasms",
+            "Radiometry",
+            "Radiotherapy Planning, Computer-Assisted",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Most patients with localized prostate cancer prefer the lower radiation dose. Our findings indicate that many patients attach more weight to specific quality-of-life aspects (eg, GI toxicity) than to improving survival. Treatment preferences of patients with localized prostate cancer can and should be involved in radiotherapy decision making."
+    },
+    "12142826": {
+        "QUESTION": "Pertrochanteric fractures: is there an advantage to an intramedullary nail?",
+        "CONTEXTS": [
+            "To compare the results between a sliding compression hip screw and an intramedullary nail in the treatment of pertrochanteric fractures.",
+            "Prospective computer-generated randomization of 206 patients into two study groups: those treated by sliding compression hip screw (Group 1; n = 106) and those treated by intramedullary nailing (Group 2; n = 100).",
+            "University Level I trauma center.",
+            "All patients over the age of fifty-five years presenting with fractures of the trochanteric region caused by a low-energy injury, classified as AO/OTA Type 31-A1 and A2.",
+            "Treatment with a sliding compression hip screw (Dynamic Hip Screw; Synthes-Stratec, Oberdorf, Switzerland) or an intramedullary nail (Proximal Femoral Nail; Synthes-Stratec, Oberdorf, Switzerland).",
+            "Intraoperative: operative and fluoroscopy times, the difficulty of the operation, intraoperative complications, and blood loss. Radiologic: fracture healing and failure of fixation. Clinical: pain, social functioning score, and mobility score.",
+            "The minimum follow-up was one year. We did not find any statistically significant difference, intraoperatively, radiologically, or clinically, between the two groups of patients."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "DESIGN",
+            "SETTING",
+            "PATIENTS",
+            "INTERVENTION",
+            "MAIN OUTCOME MEASUREMENTS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Bone Nails",
+            "Bone Screws",
+            "Equipment Design",
+            "Female",
+            "Fracture Fixation, Intramedullary",
+            "Hip Fractures",
+            "Humans",
+            "Male",
+            "Prospective Studies"
+        ],
+        "YEAR": "2002",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "There is no advantage to an intramedullary nail versus a sliding compression hip screw for low-energy pertrochanteric fractures AO/OTA 31-A1 and A2, specifically with its increased cost and lack of evidence to show decreased complications or improved patient outcome."
+    },
+    "12068831": {
+        "QUESTION": "Do nontriploid partial hydatidiform moles exist?",
+        "CONTEXTS": [
+            "To study whether nontriploid partial hydatidiform moles truly exist.",
+            "We conducted a reevaluation of pathology and ploidy in 19 putative nontriploid partial hydatidiform moles using standardized histologic diagnostic criteria and repeat flow cytometric testing by the Hedley technique.",
+            "On review of the 19 moles, 53% (10/19) were diploid nonpartial moles (initially pathologically misclassified), and 37% (7/19) were triploid partial moles (initial ploidy misclassifications). One additional case (5%) was a diploid early complete mole (initially pathologically misclassified)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "STUDY DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Boston",
+            "Diagnostic Errors",
+            "Female",
+            "Flow Cytometry",
+            "Histological Techniques",
+            "Humans",
+            "Hydatidiform Mole",
+            "Polyploidy",
+            "Pregnancy",
+            "Uterine Neoplasms"
+        ],
+        "YEAR": "2002",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Nontriploid partial moles probably do not exist: careful reevaluation of putative specimens will probably uncover pathologic or ploid errors in almost all cases."
+    },
+    "22849512": {
+        "QUESTION": "Are neighbourhood social capital and availability of sports facilities related to sports participation among Dutch adolescents?",
+        "CONTEXTS": [
+            "The aim of this study is to explore whether availability of sports facilities, parks, and neighbourhood social capital (NSC) and their interaction are associated with leisure time sports participation among Dutch adolescents.",
+            "Cross-sectional analyses were conducted on complete data from the last wave of the YouRAction evaluation trial. Adolescents (n\u2009=\u2009852) completed a questionnaire asking for sports participation, perceived NSC and demographics. Ecometric methods were used to aggregate perceived NSC to zip code level. Availability of sports facilities and parks was assessed by means of geographic information systems within the zip-code area and within a 1600 meter buffer. Multilevel logistic regression analyses, with neighborhood and individual as levels, were conducted to examine associations between physical and social environmental factors and leisure time sports participation. Simple slopes analysis was conducted to decompose interaction effects.",
+            "NSC was significantly associated with sports participation (OR: 3.51 (95%CI: 1.18;10.41)) after adjustment for potential confounders. Availability of sports facilities and availability of parks were not associated with sports participation. A significant interaction between NSC and density of parks within the neighbourhood area (OR: 1.22 (90%CI: 1.01;1.34)) was found. Decomposition of the interaction term showed that adolescents were most likely to engage in leisure time sports when both availability of parks and NSC were highest."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Cross-Sectional Studies",
+            "Female",
+            "Fitness Centers",
+            "Humans",
+            "Leisure Activities",
+            "Male",
+            "Netherlands",
+            "Odds Ratio",
+            "Public Facilities",
+            "Social Environment",
+            "Sports"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "The results of this study indicate that leisure time sports participation is associated with levels of NSC, but not with availability of parks or sports facilities. In addition, NSC and availability of parks in the zip code area interacted in such a way that leisure time sports participation is most likely among adolescents living in zip code areas with higher levels of NSC, and higher availability of parks. Hence, availability of parks appears only to be important for leisure time sports participation when NSC is high."
+    },
+    "26686513": {
+        "QUESTION": "Cycloplegic autorefraction in young adults: is it mandatory?",
+        "CONTEXTS": [
+            "The precise correction of refractive error is especially important in young adults. It is unclear whether cycloplegic refraction is necessary in this age group. The purpose of this study was to compare the non-cycloplegic and cycloplegic spherical equivalent (SE) refractive error measured in young adults.",
+            "This was a prospective study of 1400 eyes (n\u2009=\u2009700) of enlisted soldiers aged 18 to 21\u00a0years who were consecutively evaluated in an outpatient army ophthalmology clinic. One drop of cyclopentolate 1\u00a0% was installed twice 10\u00a0min apart, and cycloplegic refraction was performed in both eyes 40\u00a0min later using an auto-refractor. The difference between non-cycloplegic and cycloplegic refractive measurements was analyzed.",
+            "The mean difference in SE between non-cycloplegic and cycloplegic measurements was 0.68\u2009\u00b1\u20090.83\u00a0D (95\u00a0% CI, 0.64-0.72). Significantly greater differences were observed in hypermetropes than myopes (1.30\u2009\u00b1\u20090.90\u00a0D versus 0.46\u2009\u00b1\u20090.68\u00a0D, p\u2009<\u20090.001). Moderate hypermetropes (2 to 5\u00a0D) demonstrated significantly greater refractive error than mild (0.5 to 2\u00a0D) or severe (>5\u00a0D) hypermetropes (1.71\u2009\u00b1\u20091.18\u00a0D versus 1.19\u2009\u00b1\u20090.74\u00a0D and 1.16\u2009\u00b1\u20091.08\u00a0D respectively, p\u2009<\u20090.001)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Cyclopentolate",
+            "Female",
+            "Humans",
+            "Hyperopia",
+            "Male",
+            "Military Personnel",
+            "Mydriatics",
+            "Myopia",
+            "Prospective Studies",
+            "Pupil",
+            "Refraction, Ocular",
+            "Retinoscopy",
+            "Young Adult"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Young hypermetropic adults possessed +1 to +2\u00a0D of latent hypermetropia. In contrast, young myopic adults revealed pseudomyopia of -0.5\u00a0D. Cycloplegic refraction should be performed in young hypermetropic adults complaining of various signs of asthenopia."
+    },
+    "17179167": {
+        "QUESTION": "Human papillomavirus and pterygium. Is the virus a risk factor?",
+        "CONTEXTS": [
+            "Pterygium is a disease of unknown origin and pathogenesis that might be vision threatening. It is characterised by a wing-like conjunctival overgrowth of the cornea. Several studies have investigated human papillomavirus (HPV) as a risk factor for the development of pterygia, but the results are inconclusive.AIM: To investigate a large sample of pterygia for the presence of HPV in order to clarify the putative association between pterygia and HPV.",
+            "100 specimens of pterygium from Danish patients and 20 normal conjunctival biopsy specimens were investigated for the presence of HPV with PCR technique using beta-globin primers to access the quality of the extracted DNA and the HPV primers MY09/11 and GP5+/6+. HPV-positive specimens underwent subsequent HPV typing with type-specific HPV primers and further investigation with DNA in situ hybridisation (ISH).",
+            "90 of 100 investigated pterygia proved suitable for HPV analysis by PCR. As beta-globin could not be amplified, 10 specimens were excluded from the study. 4 of 90 pterygia harboured HPV. HPV type 6 was identified in all four HPV-positive pterygia. The 20 normal conjunctival biopsy specimens were beta-globin positive and HPV negative. All four pterygia that were HPV type 6 positive were DNA ISH negative."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Cornea",
+            "DNA, Viral",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Papillomaviridae",
+            "Papillomavirus Infections",
+            "Polymerase Chain Reaction",
+            "Pterygium",
+            "Risk Factors",
+            "Tumor Virus Infections"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "no",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "The low presence of HPV DNA in pterygia does not support the hypothesis that HPV is involved in the development of pterygia in Denmark."
+    },
+    "22302658": {
+        "QUESTION": "Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?",
+        "CONTEXTS": [
+            "Patients with aggressive lower extremity musculoskeletal tumors may be candidates for either above-knee amputation or limb-salvage surgery. However, the subjective and objective benefits of limb-salvage surgery compared with amputation are not fully clear.QUESTIONS/",
+            "We therefore compared functional status and quality of life for patients treated with above-knee amputation versus limb-salvage surgery.",
+            "We reviewed 20 of 51 patients aged 15 years and older treated with above-knee amputation or limb-salvage surgery for aggressive musculoskeletal tumors around the knee between 1994 and 2004 as a retrospective cohort study. At last followup we obtained the Physiological Cost Index, the Reintegration to Normal Living Index, SF-36, and the Toronto Extremity Salvage Score questionnaires. The minimum followup was 12 months (median, 56 months; range, 12-108 months).",
+            "Compared with patients having above-knee amputation, patients undergoing limb-salvage surgery had superior Physiological Cost Index scores and Reintegration to Normal Living Index. The Toronto Extremity Salvage scores and SF-36 scores were similar in the two groups."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "PURPOSES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Activities of Daily Living",
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Amputation",
+            "Amputees",
+            "Artificial Limbs",
+            "Bone Neoplasms",
+            "Female",
+            "Humans",
+            "Limb Salvage",
+            "Lower Extremity",
+            "Male",
+            "Middle Aged",
+            "Patient Selection",
+            "Perception",
+            "Prosthesis Fitting",
+            "Quality of Life",
+            "Recovery of Function",
+            "Retrospective Studies",
+            "Soft Tissue Neoplasms",
+            "Surveys and Questionnaires",
+            "Texas",
+            "Time Factors",
+            "Treatment Outcome",
+            "Young Adult"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "These data suggest that limb-salvage surgery offers better gait efficiency and return to normal living compared with above-knee amputation, but does not improve the patient's perception of quality of life."
+    },
+    "22954812": {
+        "QUESTION": "Are bipolar disorders underdiagnosed in patients with depressive episodes?",
+        "CONTEXTS": [
+            "Recent reports indicate that the prevalence of bipolar disorder (BD) in patients with an acute major depressive episode might be higher than previously thought. We aimed to study systematically all patients who sought therapy for major depressive episode (MDE) within the BRIDGE study in Germany, reporting on an increased number (increased from 2 in the international BRIDGE report to 5) of different diagnostic algorithms.",
+            "A total of 252 patients with acute MDE (DSM-IV confirmed) were examined for the existence of BD (a) according to DSM-IV criteria, (b) according to modified DSM-IV criteria (without the exclusion criterion of 'mania not induced by substances/antidepressants'), (c) according to a Bipolarity Specifier Algorithm which expands the DSM-IV criteria, (d) according to HCL-32R (Hypomania-Checklist-32R), and (e) according to a criteria-free physician's diagnosis.",
+            "The five different diagnostic approaches yielded immensely variable prevalences for BD: (a) 11.6; (b) 24.8%; (c) 40.6%; (d) 58.7; e) 18.4% with only partial overlap between diagnoses according to the physician's diagnosis or HCL-32R with diagnoses according to the three DSM-based algorithms."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Algorithms",
+            "Antidepressive Agents",
+            "Bipolar Disorder",
+            "Checklist",
+            "Comorbidity",
+            "Cross-Sectional Studies",
+            "Depressive Disorder, Major",
+            "Diagnosis, Differential",
+            "Diagnostic Errors",
+            "Diagnostic and Statistical Manual of Mental Disorders",
+            "Female",
+            "Germany",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Prevalence",
+            "Young Adult"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "The diagnosis of BD in patients with MDE depends strongly on the method and criteria employed. The considerable difference between criteria-free physician's diagnosis and the remaining algorithms indicate the usefulness of criteria lists within the everyday clinical setting."
+    },
+    "24183388": {
+        "QUESTION": "Is the Hawkins sign able to predict necrosis in fractures of the neck of the astragalus?",
+        "CONTEXTS": [
+            "To assess if the Hawkins sign can predict whether or not astragalus fractures of the neck will develop avascular necrosis. It is also assessed whether the occurrence of this complication is related to the displacement of the fracture, soft tissue injury, or delay in the reduction or surgery. The results were compared with those found in the literature.",
+            "A retrospective study was conducted on 23 talar neck fractures recorded over a a period of thirteen years. The following variables were analysed: displacement of the fracture, soft tissue injury, delay and type of treatment, complications, observation of the Hawkins sign, and functional outcome.",
+            "There were 7 type I Hawkins fractures, 11 type II, and 4 type III and 1 type IV. Four cases developed avascular necrosis (2 Hawkins type II and 2 type III). Hawkins sign was observed in 12 cases, of which none developed necrosis. Four cases with negative Hawkins sign developed necrosis. No statistically significant differences were found when comparing the development of avascular necrosis with the displacement of the fracture, soft tissue injury, or delay in treatment. Differences were found when comparing the development of avascular necrosis with the Hawkins sign (P=.03)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "MATERIAL AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Child",
+            "Child, Preschool",
+            "Female",
+            "Fractures, Bone",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Osteonecrosis",
+            "Prognosis",
+            "Retrospective Studies",
+            "Talus",
+            "Young Adult"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "A positive Hawkins sign rules out that the fractured talus has developed avascular necrosis, but its absence does not confirm it."
+    }
+}
