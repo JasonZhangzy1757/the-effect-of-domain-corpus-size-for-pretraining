@@ -12,6 +12,7 @@ Preprocessing/size_count.txt
 Preprocessing/Encodings/
 Modeling/checkpoints/
 *.pt
+*.zip
 
 # Distribution / packaging
 .Python
