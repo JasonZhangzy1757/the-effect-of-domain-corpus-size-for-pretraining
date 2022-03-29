@@ -172,107 +172,81 @@ del encodings
 
 logger.info(f'Total of {len(loader)} batches.')
 
+
+#optimizer = torch.optim.AdamW(model.parameters(), lr=1e-4)
+
+##########################################################
+# DeepSpeed Integration #
+##########################################################
+with open('ds_config.json') as f:
+    ds_config = json.loads(f.read())
+
+# must run before instantiating the model to detect zero 3
 logger.info('Creating model')
-config = BertConfig(vocab_size=30500,num_hidden_layers=12)
+hfds_config = HfDeepSpeedConfig(ds_config)
+config = BertConfig(vocab_size=30500)
 model = BertForMaskedLM(config)
 logger.info('Model creation completed')
-
-optimizer = torch.optim.AdamW(model.parameters(), lr=1e-4)
-
 logger.info("Creating DeepSpeed engine")
-ds_config = {
-  "train_micro_batch_size_per_gpu": BATCH_SIZE,
-  # "optimizer": {
-  #     "type": "Adam",
-  #     "params": {
-  #         "lr": 1e-4
-  #     }
-  # },
-  "fp16": {
-      "enabled": True
-  },
-  "zero_optimization": {
-      "stage": 1,
-      "offload_optimizer": {
-         "device": "cpu"
-      }
-  }
-}
 
-model, optim, _, _ = deepspeed.initialize(model=model, 
-                                      optimizer=optimizer,
-                                      model_parameters=model.parameters(), 
-                                      config=ds_config)
+engine, _, _, _ = deepspeed.initialize(model=model,
+                              model_parameters=model.parameters(), 
+                              config=ds_config)
 
 logger.info("DeepSpeed engine created")
 
 logger.info(f"Total number of model parameters: {sum([p.numel() for p in model.parameters()]):,d}")
+engine.train()
 
-model.train()
 losses = []
 epochs = 2
 step = 0
 num_batches = len(loader)
+loss_check = floor(num_batches/10)
+checkpoint = floor(num_batches/2)
 
 for epoch in range(epochs):    
-    for step, batch in enumerate(data_loader):
-    #forward() method
-    loss = model_engine(batch)
-
-    #runs backpropagation
-    model_engine.backward(loss)
-
-    #weight update
-    model_engine.step()
-    
-    for batch in loader:
+    for step, batch in enumerate(loader):
         step += 1
-        # initialize calculated gradients (from prev step)
-        optim.zero_grad()
-        # pull all tensor batches required for training
-        input_ids = batch['input_ids'].to(device)
-        attention_mask = batch['attention_mask'].to(device)
-        labels = batch['labels'].to(device)
+        for key, value in batch.items():
+            batch[key] = value.to(device)
+        #forward() method
+        loss = engine(**batch)
+        logger.info(loss)
+        #runs backpropagation
+        engine.backward(loss)
 
-        # process
-        outputs = model(input_ids, attention_mask=attention_mask,
-                        labels=labels)
-        # extract loss
-        loss = outputs.loss
-        # calculate loss for every parameter that needs grad update
-        loss.sum().backward()
-        # update parameters
-        optim.step()
-        # print relevant info to progress barI 
-        loop.set_description(f'Epoch {epoch}')
-
-        loss_check = floor(num_batches/10)
-        checkpoint = floor(num_batches/2)
-
+        #weight update
+        engine.step()
+        
+        losses.append(loss.item())
+        
         if step % loss_check == 0:
-            logger.info(f'Loss: {loss.sum()}')
-
-    model.module.save_pretrained(f'checkpoints/run_4GB_Mar25_1000pm/model-trained-{epoch}-{step}.pt') 
-
-# for epoch in range(epochs):
-#     # Move the tensors to device
+            logger.info(f'Loss: {np.mean(losses)}')
+        
+    engine.save_16bit_model('./checkpoints/deepspeed/')
+    
 #     for batch in loader:
 #         step += 1
-#         for key, value in batch.items():
-#             batch[key] = value.to(device)
-#     # Forward pass
-#     outputs = model(**batch)
-#     loss = outputs.loss
-#     logger.info(loss.item())
-    
-#     # Backward pass
-#     model.backward(loss)
-#     # Optimizer Step
-#     model.step()
-#     losses.append(loss.item())
-#     if step % 10 == 0:
-#         logger.info("Loss: {0:.4f}".format(np.mean(losses)))
+#         # initialize calculated gradients (from prev step)
+#         optim.zero_grad()
+#         # pull all tensor batches required for training
+#         input_ids = batch['input_ids'].to(device)
+#         attention_mask = batch['attention_mask'].to(device)
+#         labels = batch['labels'].to(device)
+
+#         # process
+#         outputs = model(input_ids, attention_mask=attention_mask,
+#                         labels=labels)
+#         # extract loss
+#         loss = outputs.loss
+#         # calculate loss for every parameter that needs grad update
+#         loss.sum().backward()
+#         # update parameters
+#         optim.step()
+#         # print relevant info to progress barI 
+#         loop.set_description(f'Epoch {epoch}')
+
         
-#     model.module.save_pretrained(f'checkpoints/run_test_Mar26_1130AM/model-trained-{epoch}-{step}.pt') 
 
-
+        
