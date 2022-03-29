@@ -19,10 +19,10 @@ import torch
 from torch.nn.parallel import DataParallel
 import deepspeed
 from transformers.deepspeed import HfDeepSpeedConfig
-import nvgpu 
+import nvgpu
 
 #tokenizers and datasets
-from tokenizers import BertWordPieceTokenizer 
+from tokenizers import BertWordPieceTokenizer
 from tokenizers.processors import TemplateProcessing
 import tokenizers
 
@@ -35,7 +35,7 @@ logger = loguru.logger
 
 for gpu in nvgpu.gpu_info():
     logger.info(gpu)
-    
+
 local_rank = 0
 device = (
         torch.device("cuda", local_rank)
@@ -72,7 +72,7 @@ def load_data_seq_512(path: str, sample_size:int=None) -> List[str]:
             lines = [line.strip() for line in f.readlines()[:sample_size]]
         else:
             lines = [line.strip() for line in f.readlines()]
-    
+
     return lines
 
 #create masked tokens
@@ -81,18 +81,18 @@ def mlm_pipe(batch: List[tokenizers.Encoding], mlm_prob=0.15) -> dict:
     Given a single instance from a batch of encodings, return masked inputs and associated arrays.
     Converts tokenizer.Encoding into a pytorch tensor.
     '''
-    
+
     labels = torch.tensor([x.ids for x in tqdm(batch, 'Labels')])
     mask = torch.tensor([x.attention_mask for x in tqdm(batch, 'Attention Mask')])
     input_ids = labels.detach().clone()
-    
-    #default masking prob = 15%, don't mask special tokens 
+
+    #default masking prob = 15%, don't mask special tokens
     rand = torch.rand(input_ids.shape)
     mask_arr = (rand < mlm_prob) * (input_ids > 4)
     for i in tqdm(range(input_ids.shape[0]), 'Masking Words'):
         selection = torch.flatten(mask_arr[i].nonzero()).tolist()
         input_ids[i, selection] = 4
-        
+
     encodings = {'input_ids': input_ids, 'attention_mask': mask, 'labels': labels}
     return encodings
 
@@ -126,10 +126,10 @@ logger.info(f'Total of {round(percent * 100,2)}% of tokens are masked.')
 class Dataset(torch.utils.data.Dataset):
     def __init__(self, encodings):
         self.encodings = encodings
-        
+
     def __len__(self):
         return self.encodings['input_ids'].shape[0]
-    
+
     def __getitem__(self, i):
         return {key : tensor[i] for key, tensor in self.encodings.items()}
 
@@ -154,9 +154,9 @@ def run():
     num_batches = len(loader)
     epochs = 50
     step = 0
-    
+
     model.train()
-    
+
     for epoch in range(epochs):
 
         loop = tqdm(loader, leave=True)
@@ -174,22 +174,22 @@ def run():
                             labels=labels)
             # extract loss
             loss = outputs.loss
-            
+
             # calculate loss for every parameter that needs grad update
             loss.sum().backward()
-            
+
             # update parameters
             optimizer.step()
-            
-            # print relevant info to progress barI 
+
+            # print relevant info to progress barI
             loop.set_description(f'Epoch {epoch}')
-            
+
             loss_check = floor(num_batches/10)
-            
+
             if step % loss_check == 0:
                 logger.info(f'Loss: {loss.sum()}')
-        
+
         #save checkpoint model after every epoch
-        model.module.save_pretrained(f'checkpoints/run_4GB_Mar28/model-trained-{epoch}-{step}.pt') 
+        model.module.save_pretrained(f'checkpoints/run_4GB_Mar28/model-trained-{epoch}-{step}.pt')
 
 run()
