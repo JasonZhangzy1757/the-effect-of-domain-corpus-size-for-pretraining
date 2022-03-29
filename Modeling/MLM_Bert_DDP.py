@@ -46,7 +46,7 @@ device = (
         else torch.device("cpu")
     )
 tokenizer_path = '/home/studio-lab-user/NationalSecurityBERT/Preprocessing/Tokenization/wp-vocab-30500-vocab.txt'
-text_data_path = '/home/studio-lab-user/NationalSecurityBERT//Data/'
+text_data_path = '/home/studio-lab-user/Data/'
 
 files = [f for f in os.listdir(text_data_path) if os.path.isfile(os.path.join(text_data_path, f))]
 logger.info(f'{files}')
