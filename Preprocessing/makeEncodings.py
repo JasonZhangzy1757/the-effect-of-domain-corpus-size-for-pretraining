@@ -4,6 +4,7 @@ import os
 from typing import List
 import time
 from tqdm.auto import tqdm
+import sys
 
 #tokenizers and datasets
 import tokenizers
@@ -12,13 +13,10 @@ from tokenizers.processors import TemplateProcessing
 from transformers import BertTokenizer
 
 vm_tok_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Preprocessing/Tokenization/wp-vocab-30500-vocab.txt'
-vm_data = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/Text/'
-working_data = 'combined_4Gb.txt'
-out_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/Encodings/'
-
-
-#files = [f for f in os.listdir(vm_data) if os.path.isfile(os.path.join(vm_data, f))]
-files = [os.path.join(vm_data, working_data)]
+text_data_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/text/partials/'
+out_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/encodings/test/'
+files = [file for file in os.listdir(text_data_path) if not file.endswith('test')]
+print(files)
 
 def load_tokenizer_from_file(vocab_path: str) -> BertWordPieceTokenizer:
     tokenizer = BertWordPieceTokenizer(vocab_path, strip_accents=True, lowercase=True)
@@ -70,29 +68,30 @@ def mlm_pipe(batch: List[tokenizers.Encoding], mlm_prob=0.15) -> dict:
     return encodings
 
 
-tokenizer = load_tokenizer_from_file('/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Preprocessing/Tokenization/wp-vocab-30500-vocab.txt')
+tokenizer = load_tokenizer_from_file(vm_tok_path)
 
 for i, file in enumerate(files):
-    
     print(f'Loading data from {file} file....')
-    data = load_data_seq_512(os.path.join(vm_data, file))
+    data = load_data_seq_512(os.path.join(text_data_path, file))
     print('Data in memory...')
     
-    print('Starting batch encoding...this will take 1 minute...')
+    print('Starting batch encoding...this will take a few minutes...')
     s = time.perf_counter()
     batch = tokenizer.encode_batch(data)
     e = time.perf_counter() - s
     total = len(batch)
-    
+    del data
     print(f'Completed batch {i} of {len(files)} files...')
     print(f'Total time: {round(e,2)} seconds to encode {total} samples...')
-    
+    time.sleep(2)
     print(f'Starting masked token creation at 15%.')
     encodings = mlm_pipe(batch)
+    del batch
     masked_percent = sum(sum(encodings['input_ids'].detach().numpy() == 4)) / sum(sum(encodings['labels'].detach().numpy() != 4))
     print(f'Masked token encodings completed, {round(masked_percent * 100,2)}% tokens are masked...')
     print(f'Serializing tensors...')
     
-    torch.save(encodings, f'{out_path}encodings_{i}_{total}.pt') 
-    del data, batch, encodings
+    torch.save(encodings, f'{out_path}encodings_{total}_{file}.pt') 
+    print(f'Serialization completed, moving on to next file')
+    del encodings
     
