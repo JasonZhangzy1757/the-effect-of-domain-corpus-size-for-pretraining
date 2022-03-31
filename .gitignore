@@ -9,6 +9,9 @@ __pycache__/
 #Data
 Data/
 Preprocessing/size_count.txt
+Preprocessing/Encodings/
+Modeling/checkpoints/
+*.pt
 
 # Distribution / packaging
 .Python
