@@ -26,8 +26,8 @@ from transformers import BertForMaskedLM, BertConfig, AdamW
 
 logger = loguru.logger
 
-for gpu in nvgpu.gpu_info():
-    logger.info(gpu)
+# for gpu in nvgpu.gpu_info():
+#     logger.info(gpu)
     
 local_rank = 0
 device = (
@@ -36,10 +36,10 @@ device = (
         else torch.device("cpu")
     )
 
-# encodings_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/encodings/'
-# files = [f for f in os.listdir(encodings_path) if f.endswith('pt')]
-encodings_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/encodings/test/'
-files = [f for f in os.listdir(encodings_path) if not f.endswith('test')]
+encodings_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/encodings/'
+files = [f for f in os.listdir(encodings_path) if f.endswith('pt')]
+# encodings_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/encodings/test/'
+# files = [f for f in os.listdir(encodings_path) if f.endswith('pt')][:2]
 logger.info(files)
 
 ############################################################
@@ -60,7 +60,7 @@ BATCH_SIZE = 112
 def assemble(file_path: str):
     encodings = torch.load(file_path)
     dataset = Dataset(encodings)
-    loader = torch.utils.data.DataLoader(d, batch_size=BATCH_SIZE, num_workers=6, pin_memory=True, shuffle=True)
+    loader = torch.utils.data.DataLoader(dataset, batch_size=BATCH_SIZE, num_workers=6, pin_memory=True, shuffle=True)
     del encodings
     return loader
 
@@ -73,6 +73,7 @@ model = BertForMaskedLM(config)
 model = DataParallel(model)
 model.to(device)
 logger.info('Model creation completed')
+logger.info(model.device_ids)
 
 optimizer = torch.optim.AdamW(model.parameters(), lr=1e-4)
 
@@ -81,7 +82,7 @@ optimizer = torch.optim.AdamW(model.parameters(), lr=1e-4)
 ############################################################
 model.train()
 
-epochs = 2
+epochs = 50
 overall_steps = 0
 mean_losses = []
 
@@ -91,12 +92,16 @@ for epoch in range(epochs):
         
         data_loader = assemble(os.path.join(encodings_path, file))
         num_batches = len(data_loader)
+        logger.info(f'Total batches for this load: {num_batches}')
+        
         loss_check = floor(num_batches/10)
         steps = 0
         for batch in tqdm(data_loader, f'Epoch: {epoch}'):
             steps += 1           
+            
             # initialize calculated gradients (from prev step)
             optimizer.zero_grad()
+            
             # pull all tensor batches required for training
             input_ids = batch['input_ids'].to(device)
             attention_mask = batch['attention_mask'].to(device)
@@ -113,16 +118,24 @@ for epoch in range(epochs):
             # update parameters
             optimizer.step()
 
-            if step % loss_check == 0:
+            if steps % loss_check == 0:
                 logger.info(f'Loss: {loss.sum()}')
-                mean_losses.append(loss.sum())
+                steps_loss = loss.sum().detach().cpu()
+                mean_losses.append(steps_loss.numpy())
                 with open('./checkpoints/run_12GB_losses.txt', 'a') as f:
-                    f.write(loss.sum())
+                    f.write(f'{steps_loss}')
                     f.write('\n')
                     
         overall_steps += steps
+        logger.info('Deleting dataloader from memory')
         del data_loader
         
     logger.info(f'Average Loss for Epoch: {np.round(np.mean(mean_losses), 3)}')
+    
+    with open('./checkpoints/run_12GB_epoch_losses.txt', 'a') as f:
+        f.write(f'{np.round(np.mean(mean_losses), 3)}')
+        f.write('\n')
+                
+    mean_losses = []
     timestamp = str(datetime.datetime.now()).split('.')[0].replace(' ','_')
-    model.module.save_pretrained(f'checkpoints/run_12GB_{timestamp}/model-trained-{epoch}-{overall_steps}.pt') 
+    model.module.save_pretrained(f'checkpoints/run_12GB_{timestamp}/model-trained-{epoch}-{overall_steps}') 
