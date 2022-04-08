@@ -1,0 +1,1787 @@
+{
+    "18603989": {
+        "QUESTION": "Can homemade alcohol (Raksi) be useful for preserving dead bodies?",
+        "CONTEXTS": [
+            "Embalming is the through disinfection and art of preserving bodies after death using chemical substances. It keeps a body life like in appearance during the time it lies in a state prior to funeral.",
+            "This study was undertaken to investigate the effectiveness of Raksi in sacrificed rats in arresting postmortem changes and establishing scientific fact whether Raksi can be an alternative to standard embalming constituent if it is not available.",
+            "50 albino rats were systematically randomized into control and experiment groups. Raksi and distilled water were injected for embalming purpose intraventricularly in experiment and control groups of rats respectively and kept for 48 to 96 hours for observation for postmortem changes.",
+            "Observations made at 48 and 72 hours of embalming revealed that Raksi can arrest postmortem changes in the rats up to 72 hours (3rd day) successfully in the experimental group whereas moderate to severe postmortem changes were seen in the control group. The experimental group showed mild degree of putrefactive changes, liberation of gases and liquefaction of tissues only at 96 hours (4th day) of embalming.",
+            "The Raksi used in this experiment contained 34% of alcohol, which was determined by an alcohol hydrometer. Experiment clearly demonstrated from its result that raksi can be utilised temporarily for embalming since it contains alcohol and has preservative, bactericidal and disinfectant properties."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "OBJECTIVE",
+            "MATERIAL AND METHODS",
+            "RESULT",
+            "DISCUSSION"
+        ],
+        "MESHES": [
+            "Alcohols",
+            "Animals",
+            "Embalming",
+            "Nepal",
+            "Postmortem Changes",
+            "Random Allocation",
+            "Rats",
+            "Rats, Wistar"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "It is concluded from the study that this knowledge if applied to dead human subjects, may preserve dead bodies temporarily allowing delayed funeral."
+    },
+    "19822586": {
+        "QUESTION": "Autoerotic asphyxiation: secret pleasure--lethal outcome?",
+        "CONTEXTS": [
+            "Voluntary asphyxiation among children, preteens, and adolescents by hanging or other means of inducing hypoxia/anoxia to enhance sexual excitement is not uncommon and can lead to unintended death. This study addresses autoerotic asphyxiation (AEA) with the intent of increasing pediatricians' knowledge of the syndrome and awareness of its typical onset among young patients. AEA is characteristically a clandestine and elusive practice. Provided with relevant information, pediatricians can identify the syndrome, demonstrate a willingness to discuss concerns about it, ameliorate distress, and possibly prevent a tragedy.",
+            "A retrospective study was undertaken of published cases both fatal and nonfatal and included personal communications, referenced citations, clinical experience, and theoretical formulations as to causation. Characteristic AEA manifestations, prevalence, age range, methods of inducing hypoxia/anoxia, and gender weighting are presented. All sources were used as a basis for additional considerations of etiology and possibilities for intervention.",
+            "AEA can be conceptualized as a personalized, ritualized, and symbolic biopsychosocial drama. It seems to be a reenactment of intense emotional feeling-states involving an identification and sadomasochistic relationship with a female figure. Inept AEA practitioners can miscalculate the peril of the situation that they have contrived and for numerous reasons lose their gamble with death."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Asphyxia",
+            "Child",
+            "Female",
+            "Humans",
+            "Male",
+            "Paraphilic Disorders"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Pediatricians should be alert to the earliest manifestations of AEA. Awareness of choking games among the young and, of those, a subset who eventually progress to potentially fatal AEA is strongly encouraged among all primary care professionals who may be able to interrupt the behavior."
+    },
+    "24374414": {
+        "QUESTION": "Does health information exchange reduce redundant imaging?",
+        "CONTEXTS": [
+            "Broad-based electronic health information exchange (HIE), in which patients' clinical data follow them between care delivery settings, is expected to produce large quality gains and cost savings. Although these benefits are assumed to result from reducing redundant care, there is limited supporting empirical evidence.",
+            "To evaluate whether HIE adoption is associated with decreases in repeat imaging in emergency departments (EDs).DATA SOURCE/",
+            "ED discharge data from the State Emergency Department Databases for California and Florida for 2007-2010 were merged with Health Information Management Systems Society data that report hospital HIE participation.",
+            "Using regression with ED fixed effects and trends, we performed a retrospective analysis of the impact of HIE participation on repeat imaging, comparing 37 EDs that initiated HIE participation during the study period to 410 EDs that did not participate in HIE during the same period. Within 3 common types of imaging tests [computed tomography (CT), ultrasound, and chest x-ray), we defined a repeat image for a given patient as the same study in the same body region performed within 30 days at unaffiliated EDs.",
+            "In our sample there were 20,139 repeat CTs (representing 14.7% of those cases with CT in the index visit), 13,060 repeat ultrasounds (20.7% of ultrasound cases), and 29,703 repeat chest x-rays (19.5% of x-ray cases). HIE was associated with reduced probability of repeat ED imaging in all 3 modalities: -8.7 percentage points for CT [95% confidence interval (CI): -14.7, -2.7], -9.1 percentage points for ultrasound (95% CI: -17.2, -1.1), and -13.0 percentage points for chest x-ray (95% CI: -18.3, -7.7), reflecting reductions of 44%-67% relative to sample means."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "STUDY SETTING",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Age Factors",
+            "California",
+            "Continuity of Patient Care",
+            "Diagnostic Imaging",
+            "Electronic Health Records",
+            "Emergency Service, Hospital",
+            "Female",
+            "Florida",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Retrospective Studies",
+            "Sex Factors",
+            "Socioeconomic Factors"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "HIE was associated with reduced repeat imaging in EDs. This study is among the first to find empirical support for this anticipated benefit of HIE."
+    },
+    "18086459": {
+        "QUESTION": "Long-term significance of postictal psychotic episodes II. Are they predictive of interictal psychotic episodes?",
+        "CONTEXTS": [
+            "The aim of this study was to determine whether postictal psychotic episodes (PIPE) are predictive of the development of interictal psychotic episodes (IPE).",
+            "This was a retrospective study of 18 consecutive adults with a partial seizure disorder and PIPE (study group) and 36 patients with a partial seizure disorder but without PIPE (control group). These two groups were compared with respect to the likelihood of developing IPE over an 8-year follow-up period and the variables operant in the development of IPE. Statistical analyses consisted of logistic regression models to identify the variables predictive of the development of IPE. Predictors included: number and location of ictal foci, seizure type, etiology, age at seizure onset, duration of seizure disorder, MRI abnormalities, and psychiatric history prior to the index video/EEG monitoring (other than PIPE).",
+            "Seven patients with PIPE and one control patient went on to develop an IPE. Predictors of IPE in univariate logistic regression analyses included a history of PIPE (P=0.006), male gender (P=0.028), and having bilateral ictal foci (P=0.048). Significance disappeared for all of these variables when they were entered into a multivariate analysis."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Disease Progression",
+            "Electroencephalography",
+            "Epilepsy",
+            "Female",
+            "Humans",
+            "Longitudinal Studies",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Predictive Value of Tests",
+            "Psychiatric Status Rating Scales",
+            "Psychotic Disorders",
+            "Video Recording"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A history of PIPE may be a risk factor for the development of IPE. Yet, the disappearance of significance on multivariate analysis indicates that it is not an independent predictor."
+    },
+    "17483607": {
+        "QUESTION": "Does topical N-acetylcysteine application after myringotomy cause severe otorrhea?",
+        "CONTEXTS": [
+            "The effect of topical N-acetylcysteine (NAC) application was investigated on the healing of acute experimental tympanic membrane perforations.",
+            "Twenty guinea pigs were used in this study. Under intraperitoneal ketamine anesthesia, incisional myringotomies were performed in the posterosuperior quadrant of the tympanic membranes with a straight otologic hook. The diameter of the perforations was approximately 2 mm. Perforations in both ears were treated with freshly prepared sponges soaked in either 0.1 ml 0.9% NaCl solution (10 control animals) or 0.6 mg/0.1 ml NAC (10 animals) for three consecutive days. All the tympanic membranes were examined by otomicroscopy on the third, fifth, seventh, and ninth days.",
+            "In the control group, all the perforations were completely closed at the end of nine days. During the same period, only 40% of the perforations were completely closed in the NAC group. The remaining ears exhibited otorrhea by the third day."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acetylcysteine",
+            "Administration, Topical",
+            "Animals",
+            "Anti-Inflammatory Agents, Non-Steroidal",
+            "Guinea Pigs",
+            "Otitis Media, Suppurative",
+            "Severity of Illness Index",
+            "Tympanic Membrane Perforation"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "N-acetylcysteine may cause severe otorrhea in the healing process of tympanic membrane perforations. Further studies including histopathological examinations are required to elucidate this condition."
+    },
+    "22449464": {
+        "QUESTION": "Do general practice selection scores predict success at MRCGP?",
+        "CONTEXTS": [
+            "Selection into general practice training is undertaken using a competency based approach. The clear advantage of this approach over traditional methods has been demonstrated through evaluation of its validity and reliability. However, the relationship between selection  and performance in the Royal College of General Practitioner examinations (MRCGP) has yet to be explored. The MRCGP comprises of an applied knowledge test (AKT), a clinical skills assessment (CSA) and workplace-based assessments (WPBA).AIM: To explore the predictive validity of general  practice selection scores using the AKT and CSA elements of the MRCGP as a final outcome measure.",
+            "This study carried out a retrospective analysis of 101 trainees from the Wales Deanery who were successfully selected on to general practice training in 2007. Selection data consisted  of an overall selection score as well as scores from each individual stage of selection. Correlation was used to explore associations between selection scores and examination scores.",
+            "The score for overall performance at selection achieved statistically significant correlation  with examination performance (r = 0.491 for the AKT and r = 0.526 for the CSA, P<0.01)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Achievement",
+            "Clinical Competence",
+            "Female",
+            "General Practice",
+            "Humans",
+            "Internship and Residency",
+            "Male",
+            "Retrospective Studies",
+            "School Admission Criteria",
+            "United Kingdom"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The general practice selection process is predictive of future performance in the MRCGP."
+    },
+    "23899611": {
+        "QUESTION": "Attenuation of ischemia/reperfusion-induced ovarian damage in rats: does edaravone offer protection?",
+        "CONTEXTS": [
+            "Twenty-eight female Sprague Dawley rats were allocated randomly to 4 groups. The sham group (group 1) was only subjected to catheter insertion, not to pneumoperitoneum. Group 2 received a 1 mg/kg dose of 0.9% sodium chloride by the intraperitoneal route for 10 min before pneumoperitoneum. Groups 3 and 4 received 6 and 12 mg/kg edaravone, respectively, by the intraperitoneal route for 10 min before pneumoperitoneum. After 60 min of pneumoperitoneum, the gas was deflated. Immediately after the reperfusion period, both ovaries were excised for histological scoring, caspase-3 immunohistochemistry and biochemical evaluation including glutathione (GSH) and malondialdehyde (MDA) levels. Also, total antioxidant capacity (TAC) was measured in plasma samples to evaluate the antioxidant effect of edaravone.",
+            "Ovarian sections in the saline group revealed higher scores for follicular degeneration and edema (p<0.0001) when compared with the sham group. Administration of different doses of edaravone in rats significantly prevented degenerative changes in the ovary (p<0.0001). Caspase-3 expression was only detected in the ovarian surface epithelium in all groups, and there was a significant difference between the treatment groups and the saline group (p<0.0001). Treatment of rats with edaravone reduced caspase-3 expression in a dose-dependent manner. Moreover, biochemical measurements of oxidative stress markers (MDA, GSH and TAC) revealed that prophylactic edaravone treatment attenuated oxidative stress induced by I/R injury."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Animals",
+            "Antipyrine",
+            "Caspase 3",
+            "Female",
+            "Free Radical Scavengers",
+            "Glutathione",
+            "Immunohistochemistry",
+            "Malondialdehyde",
+            "Ovary",
+            "Rats",
+            "Rats, Sprague-Dawley",
+            "Reperfusion Injury"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "These results indicate that prophylactic treatment with edaravone prevents I/R-induced ovarian damage during pneumoperitoneum in an experimental rat model."
+    },
+    "17601244": {
+        "QUESTION": "Are there associations of health status, disease activity and damage in SLE patients?",
+        "CONTEXTS": [
+            "A cross sectional study of 38 patients fulfilling the classification criteria for SLE. The patients visited a rheumatology outpatient clinic in Switzerland between January 2002 and December 2004. The last assessment during this period was used for the study. The assessment included, besides demographic data, the measurement of disease activity using the BILAG index, the measurement of disease damage using the SLICC/ACR damage index (SDI), as well as the patient's self assessed health status using the patient's questionnaire Medical Outcome Survey Short Form 36 (SF-36).",
+            "A total of 36 women and 2 men were included in the study (median age: 43 yrs, median disease duration: 11 yrs). Increased disease activity (total BILAG) was shown to be significantly correlated with reduced physical function. A greater damage (total SDI) correlated significantly with reduced role function due to emotional limitations. Neither age nor disease duration showed any significant correlation with health status in this study."
+        ],
+        "LABELS": [
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Activities of Daily Living",
+            "Adult",
+            "Ambulatory Care",
+            "Cohort Studies",
+            "Female",
+            "Humans",
+            "Lupus Erythematosus, Systemic",
+            "Male",
+            "Middle Aged",
+            "Quality of Life",
+            "Severity of Illness Index",
+            "Sickness Impact Profile",
+            "Statistics as Topic",
+            "Switzerland"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The present study, which is based on internationally accepted assessment tools for SLE patients, shows a significant relationship between increased disease activity and reduced physical function. This result emphasizes the importance of optimizing treatment aiming at reducing disease activity."
+    },
+    "15475728": {
+        "QUESTION": "Alcohol consumption and acute myocardial infarction: a benefit of alcohol consumed with meals?",
+        "CONTEXTS": [
+            "The apparent favorable effect of alcohol on the risk of acute myocardial infarction (MI) may be related to its hypoinsulinemic effect when consumed with meals. We studied how the timing of alcohol consumption in relation to meals might affect the risk of MI in a population with relatively high regular alcohol consumption.",
+            "We conducted a case-control study between 1995 and 1999 in Milan, Italy. Cases were 507 subjects with a first episode of nonfatal acute MI, and controls were 478 patients admitted to hospitals for other acute diseases. Odds ratios (ORs) and 95% confidence intervals (CIs) were calculated by multiple logistic regression models.",
+            "Compared with nondrinkers, an inverse trend in risk was observed when alcohol was consumed during meals only (for>or =3 drinks per day: OR = 0.50; 95% CI = 0.30-0.82). In contrast, no consistent trend in risk was found for subjects drinking outside of meals (for>or =3 drinks per day: 0.98; 0.49-1.96). The pattern of risk was similar when we considered people who drank only wine."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Age Factors",
+            "Alcohol Drinking",
+            "Feeding Behavior",
+            "Female",
+            "Humans",
+            "Italy",
+            "Male",
+            "Multivariate Analysis",
+            "Myocardial Infarction",
+            "Odds Ratio",
+            "Risk Factors",
+            "Time Factors"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Alcohol drinking during meals was inversely related with risk of acute MI, whereas alcohol drinking outside meals only was unrelated to risk."
+    },
+    "20497146": {
+        "QUESTION": "A model of healing of Los Angeles grades C and D reflux oesophagitis: is there an optimal time of acid suppression for maximal healing?",
+        "CONTEXTS": [
+            "In patients with Los Angeles (LA) grade C or D oesophagitis, a positive relationship has been established between the duration of intragastric acid suppression and healing.AIM: To determine whether there is an apparent optimal time of intragastric acid suppression for maximal healing of reflux oesophagitis.",
+            "Post hoc analysis of data from a proof-of-concept, double-blind, randomized study of 134 adult patients treated with esomeprazole (10 or 40 mg od for 4 weeks) for LA grade C or D oesophagitis. A curve was fitted to pooled 24-h intragastric pH (day 5) and endoscopically assessed healing (4 weeks) data using piecewise quadratic logistic regression.",
+            "Maximal reflux oesophagitis healing rates were achieved when intragastric pH>4 was achieved for approximately 50-70% (12-17 h) of the 24-h period. Acid suppression above this threshold did not yield further increases in healing rates."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Dose-Response Relationship, Drug",
+            "Double-Blind Method",
+            "Esomeprazole",
+            "Esophageal pH Monitoring",
+            "Esophagitis, Peptic",
+            "Female",
+            "Humans",
+            "Hydrogen-Ion Concentration",
+            "Los Angeles",
+            "Male",
+            "Middle Aged",
+            "Wound Healing",
+            "Young Adult"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "After 4 weeks' acid-suppressive therapy for LA grade C or D oesophagitis, successful healing appears to reach a threshold above which improvements are unlikely to be achieved despite an increase in number of hours with intragastric pH>4."
+    },
+    "19648304": {
+        "QUESTION": "Does sonographic needle guidance affect the clinical outcome of intraarticular injections?",
+        "CONTEXTS": [
+            "This randomized controlled study addressed whether sonographic needle guidance affected clinical outcomes of intraarticular (IA) joint injections.",
+            "In total, 148 painful joints were randomized to IA triamcinolone acetonide injection by conventional palpation-guided anatomic injection or sonographic image-guided injection enhanced with a one-handed control syringe (the reciprocating device). A one-needle, 2-syringe technique was used, where the first syringe was used to introduce the needle, aspirate any effusion, and anesthetize and dilate the IA space with lidocaine. After IA placement and synovial space dilation were confirmed, a syringe exchange was performed, and corticosteroid was injected with the second syringe through the indwelling IA needle. Baseline pain, procedural pain, pain at outcome (2 weeks), and changes in pain scores were measured with a 0-10 cm visual analog pain scale (VAS).",
+            "Relative to conventional palpation-guided methods, sonographic guidance resulted in 43.0% reduction in procedural pain (p<0.001), 58.5% reduction in absolute pain scores at the 2 week outcome (p<0.001), 75% reduction in significant pain (VAS pain score>or = 5 cm; p<0.001), 25.6% increase in the responder rate (reduction in VAS score>or = 50% from baseline; p<0.01), and 62.0% reduction in the nonresponder rate (reduction in VAS score<50% from baseline; p<0.01). Sonography also increased detection of effusion by 200% and volume of aspirated fluid by 337%."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adrenal Cortex Hormones",
+            "Adult",
+            "Aged",
+            "Arthritis, Rheumatoid",
+            "Female",
+            "Humans",
+            "Injections, Intra-Articular",
+            "Joints",
+            "Male",
+            "Middle Aged",
+            "Osteoarthritis",
+            "Outcome Assessment (Health Care)",
+            "Pain Measurement",
+            "Treatment Outcome",
+            "Triamcinolone Acetonide",
+            "Ultrasonography"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Sonographic needle guidance significantly improves the performance and outcomes of outpatient IA injections in a clinically significant manner."
+    },
+    "9278754": {
+        "QUESTION": "Are head and neck specific quality of life measures necessary?",
+        "CONTEXTS": [
+            "The purpose of this study was to determine whether head and neck-specific health status domains are distinct from those assessed by general measures of quality-of-life (QOL).",
+            "Cross-sectional study of 55 head and neck cancer patients in tertiary academic center was made. Three head and neck-specific measures,-including the Head&Neck Survey (H&NS); a brief, multi-item test which generates domain scores; and a general health measure,-were administered.",
+            "The H&NS was highly reliable and more strongly correlated to the specific measures than to the general measure. Eating/swallowing (ES) and speech/communication (SC) were not well correlated with general health domains. Head and neck pain was highly correlated to general bodily pain (0.88, p<.0001). Despite correlations to some general health domains, appearance (AP) was not fully reflected by any other domain."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Activities of Daily Living",
+            "Attitude to Health",
+            "Carcinoma, Squamous Cell",
+            "Communication",
+            "Cross-Sectional Studies",
+            "Deglutition",
+            "Eating",
+            "Emotions",
+            "Face",
+            "Female",
+            "Follow-Up Studies",
+            "Head and Neck Neoplasms",
+            "Health Status",
+            "Humans",
+            "Life Style",
+            "Male",
+            "Mental Health",
+            "Middle Aged",
+            "Pain",
+            "Pain Management",
+            "Quality of Life",
+            "Reproducibility of Results",
+            "Role",
+            "Social Adjustment",
+            "Speech"
+        ],
+        "YEAR": "1997",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Head and neck-specific QOL measures are necessary and should include domains that reflect ES, SC, and AP."
+    },
+    "17329379": {
+        "QUESTION": "Are the GFRUP's recommendations for withholding or withdrawing treatments in critically ill children applicable?",
+        "CONTEXTS": [
+            "To evaluate feasibility of the guidelines of the Groupe Francophone de R\u00e9animation et Urgence P\u00e9diatriques (French-speaking group of paediatric intensive and emergency care; GFRUP) for limitation of treatments in the paediatric intensive care unit (PICU).",
+            "A 2-year prospective survey.",
+            "A 12-bed PICU at the H\u00f4pital Jeanne de Flandre, Lille, France.",
+            "Were included when limitation of treatments was expected.",
+            "Of 967 children admitted, 55 were included with a 2-day median delay. They were younger than others (24 v 60 months), had a higher paediatric risk of mortality (PRISM) score (14 v 4), and a higher paediatric overall performance category (POPC) score at admission (2 v 1); all p<0.002. 34 (50% of total deaths) children died. A limitation decision was made without meeting for 7 children who died: 6 received do-not-resuscitate orders (DNROs) and 1 received withholding decision. Decision-making meetings were organised for 31 children, and the following decisions were made: 12 DNROs (6 deaths and 6 survivals), 4 withholding (1 death and 3 survivals), with 14 withdrawing (14 deaths) and 1 continuing treatment (survival). After limitation, 21 (31% of total deaths) children died and 10 survived (POPC score 4). 13 procedures were interrupted because of death and 11 because of clinical improvement (POPC score 4). Parents' opinions were obtained after 4 family conferences (for a total of 110 min), 3 days after inclusion. The first meeting was planned for 6 days after inclusion and held on the 7th day after inclusion; 80% of parents were immediately informed of the decision, which was implemented after half a day."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PATIENTS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Child, Preschool",
+            "Critical Illness",
+            "Decision Making",
+            "France",
+            "Humans",
+            "Infant",
+            "Infant Mortality",
+            "Infant, Newborn",
+            "Intensive Care, Neonatal",
+            "Parents",
+            "Patient Discharge",
+            "Practice Guidelines as Topic",
+            "Prognosis",
+            "Prospective Studies",
+            "Time Factors",
+            "Withholding Treatment"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "GFRUPs procedure was applicable in most cases. The main difficulties were anticipating the correct date for the meeting and involving nurses in the procedure. Children for whom the procedure was interrupted because of clinical improvement and who survived in poor condition without a formal decision pointed out the need for medical criteria for questioning, which should systematically lead to a formal decision-making process."
+    },
+    "22564465": {
+        "QUESTION": "Mammographic screening in Sami speaking municipalities and a control group. Are early outcome measures influenced by ethnicity?",
+        "CONTEXTS": [
+            "Female citizens of Sami (the indigenous people of Norway) municipalities in northern Norway have a low risk of breast cancer. The objective of this study was to describe the attendance rate and outcome of the Norwegian Breast Cancer Screening Program (NBCSP) in the Sami-speaking municipalities and a control group.",
+            "A retrospective registry-based study.",
+            "The 8 municipalities included in the administration area of the Sami language law (Sami) were matched with a control group of 11 municipalities (non-Sami). Population data were accessed from Statistics Norway. Data regarding invitations and outcome in the NBCSP during the period 2001-2010 was derived from the Cancer Registry of Norway (CRN). The NBCSP targets women aged 50-69 years. Rates and percentages were compared using chi-square test with a p-value<0.05 as statistical significant.",
+            "The attendance rate in the NBCSP was 78% in the Sami and 75% in the non-Sami population (p<0.01). The recall rates were 2.4 and 3.3% in the Sami and non-Sami population, respectively (p<0.01). The rate of invasive screen detected cancer was not significantly lower in the Sami group (p=0.14). The percentage of all breast cancers detected in the NBCSP among the Sami (67%) was lower compared with the non-Sami population (86%, p=0.06)."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "STUDY DESIGN",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Breast Neoplasms",
+            "Cohort Studies",
+            "Ethnic Groups",
+            "Female",
+            "Humans",
+            "Mammography",
+            "Middle Aged",
+            "Norway",
+            "Population Groups",
+            "Registries",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Despite a lower risk of breast cancer, the Sami attended the NBCSP more frequently than the control group. The recall and cancer detection rate was lower among the Sami compared with the non-Sami group."
+    },
+    "23072266": {
+        "QUESTION": "Has the use of complementary and alternative medicine therapies by U.S. adults with chronic disease-related functional limitations changed from 2002 to 2007?",
+        "CONTEXTS": [
+            "This study examined changes in the use of complementary and alternative medicine (CAM) therapies by U.S. adults aged 18 years or older with chronic disease-related functional limitations between 2002 and 2007.",
+            "The study was a cross-sectional survey.SETTING/",
+            "The study was conducted in the United States.",
+            "The study comprised adults aged 18 years or older with chronic disease-related functional limitations.",
+            "Data were obtained from the 2002 and 2007 U.S. National Health Interview Survey to compare the use of 22 CAM therapies (n=9313 and n=7014, respectively). Estimates were age adjusted to the year 2000 U.S. standard population.",
+            "The unadjusted and age-standardized prevalence of overall CAM use (22 therapies comparable between both survey years) was higher in 2007 than in 2002 (30.6% versus 26.9%, p<0.001 and 34.4% versus 30.6%, p<0.001, respectively). Adults with functional limitations that included changing and maintaining body position experienced a significant increase in CAM use between 2002 and 2007 (31.1%-35.0%, p<0.01). The use of deep breathing exercises was the most prevalent CAM therapy in both 2002 and 2007 and increased significantly during this period (from 17.9% to 19.9%, p<0.05). The use of meditation, massage, and yoga also increased significantly from 2002 and 2007 (11.0%-13.5%, p<0.01; 7.0%-10.9%, p<0.0001; and 5.1% to 6.6%, p<0.05, respectively), while the use of the Atkins diet decreased (2.2%- 1.4%, p<0.01)."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "DESIGN",
+            "LOCATION",
+            "SUBJECTS",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Activities of Daily Living",
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Chronic Disease",
+            "Complementary Therapies",
+            "Cross-Sectional Studies",
+            "Diet Therapy",
+            "Female",
+            "Health Care Surveys",
+            "Humans",
+            "Male",
+            "Massage",
+            "Middle Aged",
+            "Mind-Body Therapies",
+            "Patient Acceptance of Health Care",
+            "Posture",
+            "United States",
+            "Young Adult"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Among U.S. adults with chronic disease-related functional limitations, the overall increase in CAM use from 2002 to 2007 was significant, particularly among those with changing and maintaining body position limitations."
+    },
+    "27216167": {
+        "QUESTION": "Gynecological cancer alarm symptoms: is contact with specialist care associated with lifestyle and socioeconomic status?",
+        "CONTEXTS": [
+            "The aim of this study was to determine the proportion of patients who were referred to specialist care after reporting gynecological cancer alarm symptoms to their general practitioner. We sought to investigate whether contact with specialist care was associated with lifestyle factors or socioeconomic status.",
+            "Nationwide population-based prospective cohort study in Denmark, based on a random sample of 51 090 women aged 20 years or older from the general population. A web-based questionnaire regarding gynecological alarm symptoms and lifestyle was distributed to the invited individuals. Data about contact with specialist care were obtained from the National Patient Register and the National Health Insurance Service Registry, whereas information about socioeconomic status was collected from Statistics Denmark. Main outcome measures were percentages of patients having contact with specialist care and odds ratios (ORs) for associations between specialist care contact, lifestyle factors and socioeconomic status.",
+            "The study included 25 866 nonpregnant women; 2957 reported the onset of at least one gynecological cancer alarm symptom, and 683 of these (23.1%) reported symptoms to their general practitioner. The proportion of individuals having contact with specialist care ranged from 39.3% (pain during intercourse) to 47.8% (bleeding during intercourse). Individuals with higher educational level had significantly higher odds of contact with a specialist (OR 1.86, 95% CI 1.17-2.95)."
+        ],
+        "LABELS": [
+            "INTRODUCTION",
+            "MATERIAL AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Cohort Studies",
+            "Coitus",
+            "Denmark",
+            "Educational Status",
+            "Female",
+            "General Practitioners",
+            "Genital Neoplasms, Female",
+            "Humans",
+            "Life Style",
+            "Middle Aged",
+            "Pain",
+            "Patient Acceptance of Health Care",
+            "Pelvic Pain",
+            "Postmenopause",
+            "Referral and Consultation",
+            "Social Class",
+            "Surveys and Questionnaires",
+            "Uterine Hemorrhage"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Educational level influences contact with specialist care among patients with gynecological cancer alarm symptoms. Future studies should investigate inequalities in access to the secondary healthcare system."
+    },
+    "22955530": {
+        "QUESTION": "Type II supracondylar humerus fractures: can some be treated nonoperatively?",
+        "CONTEXTS": [
+            "The range of injury severity that can be seen within the category of type II supracondylar humerus fractures (SCHFs) raises the question whether some could be treated nonoperatively. However, the clinical difficulty in using this approach lies in determining which type II SCHFs can be managed successfully without a surgical intervention.",
+            "We reviewed clinical and radiographic information on 259 pediatric type II SCHFs that were enrolled in a prospective registry of elbow fractures. The characteristics of the patients who were treated without surgery were compared with those of patients who were treated surgically. Treatment outcomes, as assessed by the final clinical and radiographic alignment, range of motion of the elbow, and complications, were compared between the groups to define clinical and radiographic features that related to success or failure of nonoperative management.",
+            "During the course of treatment, 39 fractures were found to have unsatisfactory alignment with nonoperative management and were taken for surgery. Ultimately, 150 fractures (57.9%) were treated nonoperatively, and 109 fractures (42.1%) were treated surgically. At final follow-up, outcome measures of change in carrying angle, range of motion, and complications did not show clinically significant differences between treatment groups. Fractures without rotational deformity or coronal angulation and with a shaft-condylar angle of>15 degrees were more likely to be associated with successful nonsurgical treatment. A scoring system was developed using these features to stratify the severity of the injury. Patients with isolated extension deformity, but none of the other features, were more likely to complete successful nonoperative management."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Algorithms",
+            "Child",
+            "Child, Preschool",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Humeral Fractures",
+            "Infant",
+            "Male",
+            "Orthopedic Procedures",
+            "Range of Motion, Articular",
+            "Registries",
+            "Retrospective Studies",
+            "Trauma Severity Indices",
+            "Treatment Outcome"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "This study suggests that some of the less severe pediatric type II SCHFs can be successfully treated without surgery if close follow-up is achieved. Fractures with initial rotational deformity, coronal malalignment, and significant extension of the distal fragment are likely to fail a nonoperative approach. An algorithm using the initial radiographic characteristics can aid in distinguishing groups."
+    },
+    "24098953": {
+        "QUESTION": "Are IgM-enriched immunoglobulins an effective adjuvant in septic VLBW infants?",
+        "CONTEXTS": [
+            "All VLBW infants from January 2008 to December 2012 with positive blood culture beyond 72 hours of life were enrolled in a retrospective cohort study. Newborns born after June 2010 were treated with IgM-eIVIG, 250 mg/kg/day iv for three days in addition to standard antibiotic regimen and compared to an historical cohort born before June 2010, receiving antimicrobial regimen alone. Short-term mortality (i.e. death within 7 and 21 days from treatment) was the primary outcome. Secondary outcomes were: total mortality, intraventricular hemorrhage, necrotizing enterocolitis, periventricular leukomalacia, bronchopulmonary dysplasia at discharge.",
+            "79 neonates (40 cases) were enrolled. No difference in birth weight, gestational age or SNAP II score (disease severity score) were found. Significantly reduced short-term mortality was found in treated infants (22% vs 46%; p = 0.005) considering all microbial aetiologies and the subgroup affected by Candida spp. Secondary outcomes were not different between groups."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adjuvants, Immunologic",
+            "Analysis of Variance",
+            "Cohort Studies",
+            "Confidence Intervals",
+            "Dose-Response Relationship, Drug",
+            "Drug Administration Schedule",
+            "Drug Combinations",
+            "Female",
+            "Hospital Mortality",
+            "Humans",
+            "Immunoglobulin A",
+            "Immunoglobulin M",
+            "Immunoglobulins, Intravenous",
+            "Infant, Newborn",
+            "Infant, Very Low Birth Weight",
+            "Infusions, Intravenous",
+            "Intensive Care Units, Neonatal",
+            "Italy",
+            "Length of Stay",
+            "Male",
+            "Odds Ratio",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Sepsis",
+            "Severity of Illness Index",
+            "Survival Rate",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "This hypothesis-generator study shows that IgM-eIVIG is an effective adjuvant therapy in VLBW infants with proven sepsis. Randomized controlled trials are warranted to confirm this pilot observation."
+    },
+    "21276532": {
+        "QUESTION": "Does preoperative anemia adversely affect colon and rectal surgery outcomes?",
+        "CONTEXTS": [
+            "Complications associated with blood transfusions have resulted in widespread acceptance of low hematocrit levels in surgical patients. However, preoperative anemia seems to be a risk factor for adverse postoperative outcomes in certain surgical patients. This study investigated the National Surgical Quality Improvement Program (NSQIP) database to determine if preoperative anemia in patients undergoing open and laparoscopic colectomies is an independent predictor for an adverse composite outcome (CO) consisting of myocardial infarction, stroke, progressive renal insufficiency or death within 30 days of operation, or for an increased hospital length of stay (LOS).",
+            "Hematocrit levels were categorized into 4 classes: severe, moderate, mild, and no anemia. From 2005 to 2008, the NSQIP database recorded 23,348 elective open and laparoscopic colectomies that met inclusion criteria. Analyses using multivariable models, controlling for potential confounders and stratifying on propensity score, were performed.",
+            "Compared with nonanemic patients, those with severe, moderate, and mild anemia were more likely to have the adverse CO with odds ratios of 1.83 (95% CI 1.05 to 3.19), 2.19 (95 % CI 1.63 to 2.94), and 1.49 (95% CI 1.20 to 1.86), respectively. Patients with a normal hematocrit had a reduced hospital LOS, compared with those with severe, moderate, and mild anemia (p<0.01). A history of cardiovascular disease did not significantly influence these findings."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "STUDY DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Anemia, Hypochromic",
+            "Colectomy",
+            "Comorbidity",
+            "Female",
+            "Hematocrit",
+            "Humans",
+            "Laparoscopy",
+            "Length of Stay",
+            "Logistic Models",
+            "Male",
+            "Middle Aged",
+            "Multivariate Analysis",
+            "Myocardial Infarction",
+            "Odds Ratio",
+            "Perioperative Period",
+            "Postoperative Complications",
+            "Renal Insufficiency",
+            "Risk Factors",
+            "Severity of Illness Index",
+            "Stroke",
+            "Transfusion Reaction",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "This large multicenter database analysis suggests that the presence of severe and moderate and even mild preoperative anemia is an independent risk factor for complications and a longer hospital stay after colon surgery."
+    },
+    "17890090": {
+        "QUESTION": "Can computerised tomography replace bone scintigraphy in detecting bone metastases from breast cancer?",
+        "CONTEXTS": [
+            "The aim of this study was to determine whether bone scans (BS) can be avoided if pelvis was included in CT thorax and abdomen to detect bony metastases from breast cancer.",
+            "Results of 77 pairs of CT (thorax, abdomen, and pelvis) and BS in newly diagnosed patients with metastatic breast cancer (MBC) were compared prospectively for 12 months. Both scans were blindly assessed by experienced radiologists and discussed at multidisciplinary team meetings regarding the diagnosis of bone metastases.",
+            "CT detected metastatic bone lesions in 43 (98%) of 44 patients with bone metastases. The remaining patient had a solitary, asymptomatic bony metastasis in shaft of femur. BS was positive in all patients with bone metastases. There were 11 cases of false positive findings on BS."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Bone Neoplasms",
+            "Breast Neoplasms",
+            "Female",
+            "Humans",
+            "Middle Aged",
+            "Neoplasm Staging",
+            "Pelvis",
+            "Prospective Studies",
+            "Radiography, Abdominal",
+            "Radiography, Thoracic",
+            "Radionuclide Imaging",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity",
+            "Tomography, X-Ray Computed"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Our findings suggest routine BS of patients presenting with MBC is not required if CT (thorax, abdomen, and pelvis) is performed."
+    },
+    "9550200": {
+        "QUESTION": "Does lunar position influence the time of delivery?",
+        "CONTEXTS": [
+            "To study the relationship between lunar position and the day of delivery; to investigate the synodic distribution of spontaneous deliveries, especially in relation to the presence of a full moon.",
+            "Retrospective analysis of 1248 spontaneous full-term deliveries in three-year period (36 lunar months), setted at Department of Obstetrics and Gynaecology, Civil Hospital, Fano (Marche, Italy), using circular statistics techniques.",
+            "A connection between the distribution of spontaneous full-term deliveries and the lunar month was found. The effect of the phases of the moon seems to be particularly relevant in multiparae and plurigravidae; in these cases, the mean day of delivery corresponds to the first or second day after the full moon."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "STUDY DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Confidence Intervals",
+            "Delivery, Obstetric",
+            "Female",
+            "Humans",
+            "Moon",
+            "Parity",
+            "Pregnancy",
+            "Pregnancy, Multiple",
+            "Retrospective Studies"
+        ],
+        "YEAR": "1998",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "In this paper the effect of lunar phases on the time of delivery is shown. This influence seems to be especially relevant in the case of multiparae and plurigravidae. Nevertheless, it is too weak to allow for prediction regarding the days with the highest frequency of deliveries."
+    },
+    "27078715": {
+        "QUESTION": "Digital Tomosynthesis: A Viable Alternative to Noncontrast Computed Tomography for the Follow-Up of Nephrolithiasis?",
+        "CONTEXTS": [
+            "Digital tomosynthesis (DT) is a new X-ray-based imaging technique that allows image enhancement with minimal increase in radiation exposure. The purpose of this study was to compare DT with noncontrast computed tomography (NCCT) and to evaluate its potential role for the follow-up of patients with nephrolithiasis in a nonemergent setting.",
+            "A retrospective review of patients with nephrolithiasis at our institution that underwent NCCT and DT from July 2012 to September 2013 was performed. Renal units (RUs) that did not undergo treatment or stone passage were randomly assigned to two blinded readers, who recorded stone count, size area (mm(2)), maximum stone length (mm), and location, for both DT and NCCT. Mean differences per RU were compared. Potential variables affecting stone detection rate, including stone size and body mass index (BMI), were evaluated. Interobserver agreement was determined using the intraclass correlation coefficient to measure the consistency of measurements made by the readers.",
+            "DT and NCCT demonstrated similar stone detection rates in terms of stone counts and stone area mm(2). Of the 79 RUs assessed, 41 RUs showed exact stone counts on DT and NCCT. The mean difference in stone area was 16.5\u2009mm(2) (-4.6 to 38.5), p\u2009=\u20090.121. The mean size of the largest stone on NCCT and DT was 9.27 and 8.87\u2009mm, respectively. Stone size and BMI did not cause a significant difference in stone detection rates. Interobserver agreement showed a strong correlation between readers and adequate reproducibility."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Costs and Cost Analysis",
+            "Follow-Up Studies",
+            "Humans",
+            "Kidney Calculi",
+            "Lithotripsy",
+            "Observer Variation",
+            "Radiographic Image Enhancement",
+            "Radiography",
+            "Random Allocation",
+            "Reproducibility of Results",
+            "Retrospective Studies",
+            "Tomography, X-Ray Computed"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "We found DT to be a comparable imaging modality to NCCT for the detection of intrarenal stones, without a significant effect from stone size and BMI and adequate reproducibility between multiple readers. DT appears to be an ideal alternative for following patients with nephrolithiasis due to its acceptable stone detection rates, low radiation exposure, and decreased cost compared to NCCT."
+    },
+    "21457946": {
+        "QUESTION": "Are there progressive brain changes in schizophrenia?",
+        "CONTEXTS": [
+            "It is well established that schizophrenia is associated with structural brain abnormalities, but whether these are static or progress over time remains controversial.",
+            "A systematic review of longitudinal volumetric studies using region-of-interest structural magnetic resonance imaging in patients with schizophrenia and healthy control subjects. The percentage change in volume between scans for each brain region of interest was obtained, and data were combined using random effects meta-analysis.",
+            "Twenty-seven studies were included in the meta-analysis, with 928 patients and 867 control subjects, and 32 different brain regions of interest. Subjects with schizophrenia showed significantly greater decreases over time in whole brain volume, whole brain gray matter, frontal gray and white matter, parietal white matter, and temporal white matter volume, as well as larger increases in lateral ventricular volume, than healthy control subjects. The time between baseline and follow-up magnetic resonance imaging scans ranged from 1 to 10 years. The differences between patients and control subjects in annualized percentage volume change were -.07% for whole brain volume, -.59% for whole brain gray matter, -.32% for frontal white matter, -.32% for parietal white matter, -.39% for temporal white matter, and +.36% for bilateral lateral ventricles."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Atrophy",
+            "Brain",
+            "Cerebral Ventricles",
+            "Disease Progression",
+            "Humans",
+            "Longitudinal Studies",
+            "Magnetic Resonance Imaging",
+            "Neural Pathways",
+            "Publication Bias",
+            "Schizophrenia"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "These findings suggest that schizophrenia is associated with progressive structural brain abnormalities, affecting both gray and white matter. We found no evidence to suggest progressive medial temporal lobe involvement but did find evidence that this may be partly explained by heterogeneity between studies in patient age and illness duration. The causes and clinical correlates of these progressive brain changes should now be the focus of investigation."
+    },
+    "19401574": {
+        "QUESTION": "Gadofosveset-enhanced MR angiography of carotid arteries: does steady-state imaging improve accuracy of first-pass imaging?",
+        "CONTEXTS": [
+            "To evaluate the diagnostic accuracy of gadofosveset-enhanced magnetic resonance (MR) angiography in the assessment of carotid artery stenosis, with digital subtraction angiography (DSA) as the reference standard, and to determine the value of reading first-pass, steady-state, and \"combined\" (first-pass plus steady-state) MR angiograms.",
+            "This study was approved by the local ethics committee, and all subjects gave written informed consent. MR angiography and DSA were performed in 84 patients (56 men, 28 women; age range, 61-76 years) with carotid artery stenosis at Doppler ultrasonography. Three readers reviewed the first-pass, steady-state, and combined MR data sets, and one independent observer evaluated the DSA images to assess stenosis degree, plaque morphology and ulceration, stenosis length, and tandem lesions. Interobserver agreement regarding MR angiographic findings was analyzed by using intraclass correlation and Cohen kappa coefficients. Sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were calculated by using the McNemar test to determine possible significant differences (P<.05).",
+            "Interobserver agreement regarding all MR angiogram readings was substantial. For grading stenosis, sensitivity, specificity, PPV, and NPV were, respectively, 90%, 92%, 91%, and 91% for first-pass imaging; 95% each for steady-state imaging; and 96%, 99%, 99%, and 97% for combined imaging. For evaluation of plaque morphology, respective values were 84%, 86%, 88%, and 82% for first-pass imaging; 98%, 97%, 98%, and 97% for steady-state imaging; and 98%, 100%, 100%, and 97% for combined imaging. Differences between the first-pass, steady-state, and combined image readings for assessment of stenosis degree and plaque morphology were significant (P<.001)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Angiography, Digital Subtraction",
+            "Carotid Stenosis",
+            "Contrast Media",
+            "Female",
+            "Gadolinium",
+            "Humans",
+            "Image Enhancement",
+            "Magnetic Resonance Angiography",
+            "Male",
+            "Middle Aged",
+            "Organometallic Compounds",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Gadofosveset-enhanced MR angiography is a promising technique for imaging carotid artery stenosis. Steady-state image reading is superior to first-pass image reading, but the combined reading protocol is more accurate."
+    },
+    "25150098": {
+        "QUESTION": "Can common carotid intima media thickness serve as an indicator of both cardiovascular phenotype and risk among black Africans?",
+        "CONTEXTS": [
+            "It is not known whether common carotid intima media thickness (CIMT) can serve as a surrogate marker of cardiovascular risk among black Africans. Therefore, we examined whether CIMT differed significantly among individuals with distinct cardiovascular phenotype and correlated significantly with traditional cardiovascular risk factors in a black African population.",
+            "CIMT was measured in 456 subjects with three distinct cardiovascular phenotypes - 175 consecutive Nigerian African stroke patients, 161 hypertensive patients without stroke and 120 normotensive non-smoking adults. For each pair of cardiovascular phenotypes, c-statistics were obtained for CIMT and traditional vascular risk factors (including age, gender, weight, waist circumference, smoking, alcohol, systolic and diastolic blood pressures, fasting plasma glucose, fasting total cholesterol). Pearson's correlation coefficients were calculated to quantify bivariate relationships.",
+            "Bilaterally, CIMT was significantly different among the three cardiovascular phenotypes (right: p\u2009<\u20090.001, F\u2009=\u200933.8; left: p\u2009<\u20090.001, F\u2009=\u200948.6). CIMT had a higher c-statistic for differentiating stroke versus normotension (c\u2009=\u20090.78 right; 0.82 left, p\u2009<\u20090.001) and hypertension versus normotension (c\u2009=\u20090.65 right; 0.71 left, p\u2009<\u20090.001) than several traditional vascular risk factors. Bilaterally, combining all subjects, CIMT was the only factor that correlated significantly (right: 0.12\u2009\u2264\u2009r\u2009\u2264\u20090.41, 0.018\u2009\u2264\u2009p\u2009<\u20090.0001; left: 0.18\u2009\u2264\u2009r\u2009\u2264\u20090.41, 0.005\u2009\u2264\u2009p\u2009<\u20090.0001) to all the traditional cardiovascular risk factors assessed."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "FINDINGS"
+        ],
+        "MESHES": [
+            "Adult",
+            "African Continental Ancestry Group",
+            "Aged",
+            "Carotid Artery Diseases",
+            "Carotid Artery, Common",
+            "Carotid Intima-Media Thickness",
+            "Case-Control Studies",
+            "Cross-Sectional Studies",
+            "Female",
+            "Humans",
+            "Hypertension",
+            "Male",
+            "Middle Aged",
+            "Nigeria",
+            "Phenotype",
+            "Predictive Value of Tests",
+            "Risk Assessment",
+            "Risk Factors",
+            "Stroke"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Our findings support CIMT as a significant indicator of both cardiovascular risk and phenotype among adult black Africans. However, specific thresholds need to be defined based on prospective studies."
+    },
+    "10430303": {
+        "QUESTION": "Does laparoscopic cholecystectomy influence peri-sinusoidal cell activity?",
+        "CONTEXTS": [
+            "To investigate the influence of laparoscopic procedures on perisinusoidal cell function.",
+            "In 31 patients who underwent laparoscopic cholecystectomy for symptomatic cholelithiasis, the serum levels of beta-N-acetyl hexosaminidase (beta-NAH) and hyaluronic acid (HA) were measured. Six female patients, who underwent other laparoscopic procedures, not involving the hepatobiliary system, served as controls.",
+            "HA serum levels increased significantly in both study and control groups, while beta-NAH serum levels remained within normal values. Post-operative AST and ALT serum levels increased significantly only in the study group. No elevation of serum ALP was noted in any of our patients, and post-operative bilirubin levels did not increase in patients with normal pre-operative levels."
+        ],
+        "LABELS": [
+            "AIMS",
+            "METHODOLOGY",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Cholecystectomy, Laparoscopic",
+            "Cholelithiasis",
+            "Endothelium, Vascular",
+            "Female",
+            "Humans",
+            "Hyaluronic Acid",
+            "Kupffer Cells",
+            "Liver Function Tests",
+            "Middle Aged",
+            "Postoperative Complications",
+            "beta-N-Acetylhexosaminidases"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Laparoscopic procedures caused detectable damage to Kupffer and endothelial cells as reflected by elevation of post-operative HA serum levels. The damage to the liver hepatocytes and perisinusoidal cells has no clinical significance and the laparoscopic procedure itself is the probable cause of the Kupffer and endothelial cells damage, while other mechanisms caused damage to the hepatocytes."
+    },
+    "26418796": {
+        "QUESTION": "Do Wound Cultures Give Information About the Microbiology of Blood Cultures in Severe Burn Patients?",
+        "CONTEXTS": [
+            "Blood stream infection (BSI) and the subsequent development of sepsis are among the most common infection complications occurring in severe burn patients. This study was designed to evaluate the relationship between the burn wound flora and BSI pathogens.",
+            "Documentation of all bacterial and fungal wound and blood isolates from severe burn patients hospitalized in the burn unit and intensive care unit was obtained from medical records retrieved retrospectively from a computerized, hospital-wide database over a 13-year period. All data were recorded in relation to the Ryan score.",
+            "Of 195 severe burn patients, 88 had at least 1 BSI episode. Transmission of the same pathogen from wound to blood was documented in 30% of the patients, with a rising BSI frequency as the Ryan score increased. There were a total of 263 bacteremic episodes in 88 study patients, 44% of blood isolates were documented previously in wound cultures, and transmission of the same pathogen from wound to blood was noted in 65% of bacteremic patients."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Anti-Bacterial Agents",
+            "Bacteremia",
+            "Burn Units",
+            "Burns",
+            "Chi-Square Distribution",
+            "Cohort Studies",
+            "Confidence Intervals",
+            "Databases, Factual",
+            "Female",
+            "Fungemia",
+            "Humans",
+            "Injury Severity Score",
+            "Israel",
+            "Male",
+            "Microbial Sensitivity Tests",
+            "Middle Aged",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Severity of Illness Index",
+            "Wound Infection"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "When there is clinical suspicion of sepsis, appropriate empirical systemic antibiotic therapy should be broad spectrum and should rely on the susceptibility of the organisms from recent cultures of the burn wound surface, until the blood cultures results are completed."
+    },
+    "20011163": {
+        "QUESTION": "Can Roux-en-Y gastric bypass provide a lifelong solution for diabetes mellitus?",
+        "CONTEXTS": [
+            "The surgical treatment of diabetes had witnessed progressive development and success since the first case of pancreatic transplantation. Although this was a great step, wide clinical application was limited by several factors. Bariatric surgery such as gastric bypass is emerging as a promising option in obese patients with type 2 diabetes. The aim of this article is to explore the current application of gastric bypass in patients with type 2 diabetes and the theoretical bases of gastric bypass as a treatment option for type 1 diabetes.",
+            "We performed a MEDLINE search for articles published from August 1955 to December 2008 using the words \"surgical treatment of diabetes,\" \"etiology of diabetes\" and \"gastric bypass.\"",
+            "We identified 3215 studies and selected 72 relevant papers for review. Surgical treatment of diabetes is evolving from complex pancreatic and islets transplantation surgery for type 1 diabetes with critical postoperative outcome and follow-up to a metabolic surgery, including gastric bypass. Gastric bypass (no immune suppression or graft rejection) has proven to be highly effective treatment for obese patients and nonobese animals with type 2 diabetes. There are certain shared criteria between types 1 and 2 diabetes, making a selected spectrum of the disease a potential target for metabolic surgery to improve or cure diabetes."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Diabetes Mellitus, Type 1",
+            "Diabetes Mellitus, Type 2",
+            "Gastric Bypass",
+            "Humans",
+            "Obesity, Morbid"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Roux-en-Y gastric bypass is a promising option for lifelong treatment of type 2 diabetes. It has the potential to improve or cure a selected spectrum of type 1 diabetes when performed early in the disease. Further animal model studies or randomized controlled trials are needed to support our conclusion."
+    },
+    "21166749": {
+        "QUESTION": "Is patient outcome compromised during the initial experience with robot-assisted radical cystectomy?",
+        "CONTEXTS": [
+            "\u2022 Robot-assisted radical cystectomy (RARC) remains controversial in terms of oncologic outcomes, especially during the initial experience. The purpose of this study was to evaluate the impact of initial experience of robotic cystectomy programs on oncologic outcomes and overall survival.",
+            "\u2022 Utilizing a prospectively maintained, single institution robotic cystectomy database, we identified 164 consecutive patients who underwent RARC since November 2005. \u2022 After stratification by age group, gender, pathologic T stage, lymph node status, surgical margin status, and sequential case number; we used chi-squared analyses to correlate sequential case number to operative time, surgical blood loss, lymph node yield, and surgical margin status. \u2022 We also addressed the relationship between complications and sequential case number. We then utilized Cox proportional hazard modeling and Kaplan-Meier survival analyses to correlate variables to overall mortality.",
+            "\u2022 Sequential case number was not significantly associated with increased incidence of complications, surgical blood loss, or positive surgical margins (P= 0.780, P= 0.548, P= 0.545). Case number was, however, significantly associated with shorter operative time and mean number of lymph nodes retrieved (P<0.001, P<0.001). \u2022 Sequential case number was not significantly associated with survival; however, tumour stage, the presence of lymph node metastases, and positive surgical margins were significantly associated with death. \u2022 Although being the largest of its kind, this was a small study with short follow-up when compared to open cystectomy series."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Age Factors",
+            "Aged",
+            "Aged, 80 and over",
+            "Blood Loss, Surgical",
+            "Chemotherapy, Adjuvant",
+            "Clinical Competence",
+            "Cystectomy",
+            "Female",
+            "Humans",
+            "Learning Curve",
+            "Lymphatic Metastasis",
+            "Male",
+            "Middle Aged",
+            "Postoperative Complications",
+            "Prospective Studies",
+            "Risk Factors",
+            "Robotics",
+            "Survival Analysis",
+            "Treatment Outcome",
+            "Urinary Bladder Neoplasms",
+            "Urology"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "\u2022 Initial experience with RARC did not affect the incidence of positive surgical margins, operative/postoperative complications, or overall survival in a single-institution series."
+    },
+    "11500608": {
+        "QUESTION": "Does short-term treatment with proton pump inhibitors cause rebound aggravation of symptoms?",
+        "CONTEXTS": [
+            "Rebound acid hypersecretion might occur after treatment with proton pump inhibitors. This study looks for a rebound aggravation of symptoms after short-term treatment with lansoprazole.STUDY: Sixty-two patients (19 men and 43 women; mean age, 54 years; range, 32-77 years) with heartburn and regurgitation and normal upper endoscopy findings were studied in a randomized, double-blind, placebo-controlled trial with a crossover design. There were two 5-day treatment periods with lansoprazole 60 mg once daily or placebo in random order, separated by a 9-day washout period. Reflux, total, and antacid scores were calculated for each of the treatment periods. Higher scores during the placebo period in the group given lansoprazole first than in the group given placebo first indicated a rebound aggravation of symptoms.",
+            "The mean symptom scores during the placebo period in the groups given lansoprazole first and placebo first were as follows: reflux score, 21.5 and 17.6, respectively (not significant); total score, 11.2 and 10.3, respectively (not significant); and antacid score, 8.2 and 7.2, respectively (not significant)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "2-Pyridinylmethylsulfinylbenzimidazoles",
+            "Cross-Over Studies",
+            "Double-Blind Method",
+            "Enzyme Inhibitors",
+            "Female",
+            "Gastric Acid",
+            "Gastroesophageal Reflux",
+            "Heartburn",
+            "Humans",
+            "Lansoprazole",
+            "Male",
+            "Middle Aged",
+            "Omeprazole",
+            "Proton Pump Inhibitors",
+            "Time Factors"
+        ],
+        "YEAR": "2001",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "There is no indication of a rebound aggravation of symptoms 12 to 14 days after a 5-day treatment with lansoprazole 60 mg once daily in patients with reflux symptoms."
+    },
+    "28127977": {
+        "QUESTION": "Are serum leptin levels a prognostic factor in advanced lung cancer?",
+        "CONTEXTS": [
+            "There are 71 previously untreated patients with cytological or histological evidence of primary lung cancer who were admitted to the oncology department between November 2013 and August 2014. Forty-five healthy individuals with age, sex and BMI matching the lung cancer patients, were recruited to take part in the study as a control group. Leptin levels were measured quantitatively by using a microELISA kit.",
+            "The serum leptin levels at diagnosis were significantly lower in lung cancer patients than those in control subjects (4.75\u00b14.91 ng/ml, 9.67\u00b18.02 ng/ml; p<0.001). We did not find any significant difference in leptin values related to clinicopathological parameters such as ECOG PS, weight loss, histological type, disease stage and TNM classification. Nevertheless, we demonstrated a significant correlation between serum leptin levels and BMI in lung cancer patients (correlation coefficient: 0.303; p>0.010). The analysis of serum leptin values did not show any association with the overall survival of the patients."
+        ],
+        "LABELS": [
+            "MATERIAL AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Biomarkers, Tumor",
+            "Body Mass Index",
+            "Female",
+            "Humans",
+            "Leptin",
+            "Lung Neoplasms",
+            "Male",
+            "Middle Aged",
+            "Neoplasm Staging",
+            "Prognosis",
+            "Reference Values",
+            "Statistics as Topic"
+        ],
+        "YEAR": "2017",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Our results showed that the serum leptin level has no prognostic indications in advanced lung cancer patients. Leptin is decreased in lung cancer, and there is lack of correlation with tumour\u2011related factors including prognosis. Therefore, leptin is not a useful clinical marker in lung cancer (Tab. 2, Fig. 2, Ref. 22)."
+    },
+    "21880023": {
+        "QUESTION": "Does exercise during pregnancy prevent postnatal depression?",
+        "CONTEXTS": [
+            "To study whether exercise during pregnancy reduces the risk of postnatal depression.",
+            "Randomized controlled trial.",
+            "Trondheim and Stavanger University Hospitals, Norway.",
+            "Eight hundred and fifty-five pregnant women were randomized to intervention or control groups.",
+            "The intervention was a 12 week exercise program, including aerobic and strengthening exercises, conducted between week 20 and 36 of pregnancy. One weekly group session was led by physiotherapists, and home exercises were encouraged twice a week. Control women received regular antenatal care.",
+            "Edinburgh Postnatal Depression Scale (EPDS) completed three months after birth. Scores of 10 or more and 13 or more suggested probable minor and major depression, respectively.",
+            "Fourteen of 379 (3.7%) women in the intervention group and 17 of 340 (5.0%) in the control group had an EPDS score of \u226510 (p=0.46), and four of 379 (1.2%) women in the intervention group and eight of 340 (2.4%) in the control group had an EPDS score of \u226513 (p=0.25). Among women who did not exercise prior to pregnancy, two of 100 (2.0%) women in the intervention group and nine of 95 (9.5%) in the control group had an EPDS score of \u226510 (p=0.03)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "POPULATION AND SAMPLE",
+            "METHODS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Depression, Postpartum",
+            "Exercise",
+            "Exercise Therapy",
+            "Female",
+            "Humans",
+            "Pregnancy",
+            "Prenatal Care",
+            "Self Report",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "We did not find a lower prevalence of high EPDS scores among women randomized to regular exercise during pregnancy compared with the control group. However, a subgroup of women in the intervention group who did not exercise regularly prior to pregnancy had a reduced risk of postnatal depression."
+    },
+    "21558951": {
+        "QUESTION": "Are there effects of intrauterine cocaine exposure on delinquency during early adolescence?",
+        "CONTEXTS": [
+            "To ascertain whether level of intrauterine cocaine exposure (IUCE) is associated with early adolescent delinquent behavior, after accounting for prenatal exposures to other psychoactive substances and relevant psychosocial factors.",
+            "Ninety-three early adolescents (12.5-14.5 years old) participating since birth in a longitudinal study of IUCE reported delinquent acts via an audio computer-assisted self-interview. Level of IUCE and exposure to cigarettes, alcohol, and marijuana were determined by maternal report, maternal and infant urine assays, and infant meconium assays at birth. Participants reported their exposure to violence on the Violence Exposure Scale for Children-Revised at ages 8.5, 9.5, and 11 years and during early adolescence, and the strictness of supervision by their caregivers during early adolescence.",
+            "Of the 93 participants, 24 (26%) reported \u2265 3 delinquent behaviors during early adolescence. In the final multivariate model (including level of IUCE and cigarette exposure, childhood exposure to violence, and caregiver strictness/supervision) \u2265 3 delinquent behaviors were not significantly associated with level of IUCE but were significantly associated with intrauterine exposure to half a pack or more of cigarettes per day and higher levels of childhood exposure to violence, effects substantially unchanged after control for early adolescent violence exposure."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Chi-Square Distribution",
+            "Child",
+            "Cocaine",
+            "Cocaine-Related Disorders",
+            "Female",
+            "Humans",
+            "Juvenile Delinquency",
+            "Longitudinal Studies",
+            "Male",
+            "Multivariate Analysis",
+            "Odds Ratio",
+            "Pregnancy",
+            "Prenatal Exposure Delayed Effects",
+            "Smoking",
+            "Socioeconomic Factors",
+            "Violence"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "In this cohort, prospectively ascertained prenatal exposure to cigarettes and childhood exposure to violence are associated with self-reported delinquent behaviors during early adolescence. Contrary to initial popular predictions, intrauterine cocaine is not a strong predictor of adolescent delinquent behaviors in this cohort."
+    },
+    "22349635": {
+        "QUESTION": "Do elderly patients benefit from surgery in addition to radiotherapy for treatment of metastatic spinal cord compression?",
+        "CONTEXTS": [
+            "Treatment of elderly cancer patients has gained importance. One question regarding the treatment of metastatic spinal cord compression (MSCC) is whether elderly patients benefit from surgery in addition to radiotherapy? In attempting to answer this question, we performed a matched-pair analysis comparing surgery followed by radiotherapy to radiotherapy alone.",
+            "Data from 42 elderly (age>\u200965 years) patients receiving surgery plus radiotherapy (S\u2009+\u2009RT) were matched to 84 patients (1:2) receiving radiotherapy alone (RT). Groups were matched for ten potential prognostic factors and compared regarding motor function, local control, and survival. Additional matched-pair analyses were performed for the subgroups of patients receiving direct decompressive surgery plus stabilization of involved vertebrae (DDSS, n\u2009=\u200981) and receiving laminectomy (LE, n\u2009=\u200945).",
+            "Improvement of motor function occurred in 21% after S\u2009+\u2009RT and 24% after RT (p\u2009=\u20090.39). The 1-year local control rates were 81% and 91% (p\u2009=\u20090.44), while the 1-year survival rates were 46% and 39% (p\u2009=\u20090.71). In the matched-pair analysis of patients receiving DDSS, improvement of motor function occurred in 22% after DDSS\u2009+\u2009RT and 24% after RT alone (p\u2009=\u20090.92). The 1-year local control rates were 95% and 89% (p\u2009=\u20090.62), and the 1-year survival rates were 54% and 43% (p\u2009=\u20090.30). In the matched-pair analysis of patients receiving LE, improvement of motor function occurred in 20% after LE\u2009+\u2009RT and 23% after RT alone (p\u2009=\u20090.06). The 1-year local control rates were 50% and 92% (p\u2009=\u20090.33). The 1-year survival rates were 32% and 32% (p\u2009=\u20090.55)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Female",
+            "Humans",
+            "Male",
+            "Matched-Pair Analysis",
+            "Neoplasms",
+            "Radiotherapy",
+            "Spinal Cord Compression",
+            "Survival Analysis",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Elderly patients with MSCC did not benefit from surgery in addition to radiotherapy regarding functional outcome, local control of MSCC, or survival."
+    },
+    "22440363": {
+        "QUESTION": "Mitral replacement or repair for functional mitral regurgitation in dilated and ischemic cardiomyopathy: is it really the same?",
+        "CONTEXTS": [
+            "This was a study to compare the results of mitral valve (MV) repair and MV replacement for the treatment of functional mitral regurgitation (MR) in advanced dilated and ischemic cardiomyopathy (DCM).",
+            "One-hundred and thirty-two patients with severe functional MR and systolic dysfunction (mean ejection fraction 0.32 \u00b1 0.078) underwent mitral surgery in the same time frame. The decision to replace rather than repair the MV was taken when 1 or more echocardiographic predictors of repair failure were identified at the preoperative echocardiogram. Eighty-five patients (64.4%) received MV repair and 47 patients (35.6%) received MV replacement. Preoperative characteristics were comparable between the 2 groups. Only ejection fraction was significantly lower in the MV repair group (0.308 \u00b1 0.077 vs 0.336 \u00b1 0.076, p = 0.04).",
+            "Hospital mortality was 2.3% for MV repair and 12.5% for MV replacement (p = 0.03). Actuarial survival at 2.5 years was 92 \u00b1 3.2% for MV repair and 73 \u00b1 7.9% for MV replacement (p = 0.02). At a mean follow-up of 2.3 years (median, 1.6 years), in the MV repair group LVEF significantly increased (from 0.308 \u00b1 0.077 to 0.382 \u00b1 0.095, p<0.0001) and LV dimensions significantly decreased (p = 0.0001). On the other hand, in the MV replacement group LVEF did not significantly change (from 0.336 \u00b1 0.076 to 0.31 \u00b1 0.11, p = 0.56) and the reduction of LV dimensions was not significant. Mitral valve replacement was identified as the only predictor of hospital (odds ratio, 6; 95% confidence interval, 1.1 to 31; p = 0.03) and overall mortality (hazard ratio, 3.1; 95% confidence interval, 1.1 to 8.9; p = 0.02)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Cardiomyopathy, Dilated",
+            "Echocardiography",
+            "Female",
+            "Heart Valve Prosthesis Implantation",
+            "Hospital Mortality",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Mitral Valve",
+            "Mitral Valve Insufficiency",
+            "Myocardial Ischemia",
+            "Retrospective Studies",
+            "Ventricular Function, Left"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "In patients with advanced dilated and ischemic cardiomyopathy and severe functional MR, MV replacement is associated with higher in-hospital and late mortality compared with MV repair. Therefore, mitral repair should be preferred whenever possible in this clinical setting."
+    },
+    "15703931": {
+        "QUESTION": "Does diabetes mellitus influence the efficacy of FDG-PET in the diagnosis of cervical cancer?",
+        "CONTEXTS": [
+            "Compared with computed tomography (CT) and magnetic resonance imaging (MRI), positron emission tomography (PET) may have additional value in the assessment of primary and recurrent cervical cancer. However, the degree of tumour uptake of (18)F-2-fluoro-2-deoxy-D: -glucose (FDG) uptake is sometimes influenced by diabetes mellitus (DM). Therefore, we conducted this prospective study to compare the diagnostic ability of FDG-PET in patients with cervical cancer complicated by DM and those without DM.",
+            "Patients with untreated locally advanced primary or clinically curable recurrent cervical carcinoma were enrolled. Both FDG-PET and MRI/CT scans were performed within 2 weeks. Patients were categorised into the following groups: hyperglycaemic DM (fasting blood sugar>126 mg/dl), euglycaemic DM and non-DM. The lesions were confirmed histologically or by clinical follow-up. The receiver operating characteristic curve method, with calculation of the area under the curve (AUC), was used to evaluate the discriminative power.",
+            "From February 2001 to January 2003, 219 patients (75 with primary and 144 with recurrent cervical cancer) were eligible for analysis. Sixteen had hyperglycaemic DM, 12 had euglycaemic DM and 191 were in the non-DM group. The diagnostic power of PET in the hyperglycaemic DM, euglycaemic DM and non-DM groups did not differ significantly with regard to the identification of either metastatic lesions (AUC, 0.967/0.947/0.925, P>0.05) or primary tumours/local recurrence (AUC, 0.950/0.938/0.979, P>0.05). Considering all DM patients, PET showed a significantly higher detection power than MRI/CT scans in respect of metastatic lesions (AUC=0.956 vs 0.824, P=0.012)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Artifacts",
+            "Diabetes Complications",
+            "Female",
+            "Fluorodeoxyglucose F18",
+            "Humans",
+            "Middle Aged",
+            "Positron-Emission Tomography",
+            "Radiopharmaceuticals",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity",
+            "Uterine Cervical Neoplasms"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "In comparison with its accuracy in non-DM patients, the accuracy of PET in cervical cancer patients with mild to moderate DM was not significantly reduced."
+    },
+    "10473855": {
+        "QUESTION": "Is delayed gastric emptying following pancreaticoduodenectomy related to pylorus preservation?",
+        "CONTEXTS": [
+            "Delayed gastric emptying (DGE) is the most frequent postoperative complication after pylorus-preserving pancreaticoduodenectomy (PPPD). This prospective, non-randomized study was undertaken to determine whether the incidence of DGE may be reduced by modifying the original reconstructive anatomy with a retrocolic duodenojejunostomy towards an antecolic duodenojejunostomy.",
+            "The study was comprised of 51 patients who underwent PPPD between August 1994 and November 1997. The operation was carried out as originally described but was modified by performing the duodenojejunostomy antecolically. Clinical data were recorded prospectively, with special regard to DGE.",
+            "After PPPD, the nasogastric tube could be removed at a median of 2 days (range 1-22 days) postoperatively; in two patients, the nasogastric tube was reinserted because of vomiting and nausea. A liquid diet was started at a median of 5 days (3-11 days); the patients were able to tolerate a full, regular diet at a median of 10 days (7-28 days). The overall incidence of DGE was 12% (n=6). No postoperative complications other than DGE were exhibited by 36 patients (71%). In this group, DGE was only seen in one patient (3%). In the second group, where postoperative complications other than DGE occurred (n=15), five patients (30%) exhibited DGE (P=0.002)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Female",
+            "Gastric Emptying",
+            "Humans",
+            "Incidence",
+            "Male",
+            "Middle Aged",
+            "Pancreaticoduodenectomy",
+            "Postoperative Complications",
+            "Prospective Studies",
+            "Pylorus"
+        ],
+        "YEAR": "1999",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "DGE after PPPD seems to be of minor clinical importance following uncomplicated surgery. When taking the results into consideration, it can be said that, despite the lack of a control group, antecolic duodenojejunostomy might be the key to a low incidence of DGE after PPPD. In our experience, DGE is linked to the occurrence of other postoperative complications rather than to pylorus preservation."
+    },
+    "9444542": {
+        "QUESTION": "Does hippocampal atrophy on MRI predict cognitive decline?",
+        "CONTEXTS": [
+            "To investigate whether the presence of hippocampal atrophy (HCA) on MRI in Alzheimer's disease (AD) leads to a more rapid decline in cognitive function. To investigate whether cognitively unimpaired controls and depressed subjects with HCA are at higher risk than those without HCA of developing dementia.",
+            "A prospective follow-up of subjects from a previously reported MRI study.",
+            "Melbourne, Australia.",
+            "Five controls with HCA and five age-matched controls without HCA, seven depressed subjects with HCA and seven without HCA, and 12 subjects with clinically diagnosed probable AD with HCA and 12 without HCA were studied. They were followed up at approximately 2 years with repeat cognitive testing, blind to initial diagnosis and MRI result.",
+            "HCA was rated by two radiologists blind to cognitive test score results. Cognitive assessment was by the Cambridge Cognitive Examination (CAMCOG).",
+            "No significant differences in rate of cognitive decline, mortality or progression to dementia were found between subjects with or without HCA."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "DESIGN",
+            "SETTING",
+            "PARTICIPANTS",
+            "MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Alzheimer Disease",
+            "Atrophy",
+            "Case-Control Studies",
+            "Cognition Disorders",
+            "Depression",
+            "Disease Progression",
+            "Female",
+            "Follow-Up Studies",
+            "Geriatric Assessment",
+            "Hippocampus",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Prognosis",
+            "Prospective Studies"
+        ],
+        "YEAR": "1997",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "HCA was not found to be a predictor of subsequent cognitive decline in this series."
+    },
+    "17403428": {
+        "QUESTION": "Recurrent spontaneous abortion and skewed X-inactivation: is there an association?",
+        "CONTEXTS": [
+            "The purpose of this study was to determine whether there is an association between skewed X-inactivation and recurrent spontaneous abortion in a large, well-defined sample of women with recurrent loss.",
+            "X-chromosome inactivation patterns were compared in 5 groups of women. Group 1 (recurrent spontaneous abortion) consisted of 357 women with 2 or more spontaneous losses. In group 2 (infertility), there were 349 subjects from infertility practices recruited at the time of a positive serum beta-human chorionic gonadotropin. Group 3 (spontaneous abortion) women (n = 81) were recruited at the time of an ultrasound diagnosis of an embryonic demise or an anembryonic gestation. Groups 4 (primiparous) and 5 (multiparous) were healthy pregnant subjects previously enrolled in another study to determine the incidence and cause of pregnancy complications, such as preeclampsia and intrauterine growth restriction. The Primiparous group included 114 women in their first pregnancy, whereas the Multiparous group consisted of 79 women with 2 or more pregnancies but without pregnancy loss.",
+            "The rate of extreme skewing (90% or greater) in the recurrent spontaneous abortion population was 8.6%, and not statistically different from any of the other groups, except the Primiparous group (1.0%, P<.01). The incidence of X-inactivation skewing of 90% or greater was no different whether there had been at least 1 live birth (9.9%), or no previous live births and at least 3 losses (5.6%, P>.05). When age and skewing of 90% or greater are compared, subjects with extreme skewing have a mean age of 2 years older than those without extreme skewing (P<.05)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "STUDY DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Abortion, Habitual",
+            "Abortion, Spontaneous",
+            "Adult",
+            "Aneuploidy",
+            "Case-Control Studies",
+            "Cohort Studies",
+            "Female",
+            "Follow-Up Studies",
+            "Genetic Predisposition to Disease",
+            "Humans",
+            "Incidence",
+            "Parity",
+            "Pregnancy",
+            "Pregnancy Outcome",
+            "Probability",
+            "Prospective Studies",
+            "Reference Values",
+            "Risk Assessment",
+            "Statistics, Nonparametric",
+            "X Chromosome Inactivation"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Skewed X-inactivation is not associated with recurrent spontaneous abortion but is associated with increasing maternal age."
+    },
+    "11759976": {
+        "QUESTION": "Advanced epithelial ovarian carcinoma in Thai women: should we continue to offer second-look laparotomy?",
+        "CONTEXTS": [
+            "To determine survival among patients with epithelial ovarian carcinoma (EOC) who underwent a second-look laparotomy (SLL) and those refusing the procedure. Also to analyze factor(s) influencing the survival of the patients.",
+            "Medical records were reviewed of patients with advanced EOC who were clinically free of disease after primary surgery and platinum-based chemotherapy between January 1, 1992, and December 31, 1998. All of them were offered SLL. Measurement outcomes include patient survival and disease-free survival.",
+            "There were 50 patients with clinically complete remission after chemotherapy. Sixteen patients underwent SLL, and thirty-four patients refused the procedure (NSLL). Seven patients (43.8%) were reported to have positive SLL. After the median follow-up time of 35 months, 12 patients had died, and 5 patients were lost to follow-up. The median survival time for patients with SLL was about 60 months. Five-year survival rates of patients in the SLL, and NSLL groups were 37 per cent (95%CI = 7%-69%), and 88 per cent (95%CI = 65%-96%) respectively (P<0.001). The median time to relapse was about 25 months for patients with negative SLL. Five-year disease-free survival rates of patients in the negative SLL, and NSLL groups were 28 per cent (95%CI = 4%-59%), and 54 per cent (95%CI = 34%-70%) respectively (P=0.251). By Cox regression analysis, tumor grade was the only significant prognostic factor influencing patients' survival (HR = 6, 95%CI of HR = 1.2-34.2)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHOD AND MATERIAL",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Chemotherapy, Adjuvant",
+            "Disease-Free Survival",
+            "Female",
+            "Humans",
+            "Incidence",
+            "Neoplasm Recurrence, Local",
+            "Ovarian Neoplasms",
+            "Proportional Hazards Models",
+            "Second-Look Surgery",
+            "Survival Rate",
+            "Thailand"
+        ],
+        "YEAR": "2001",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "The second-look laparotomy doesn't have a favorable impact on overall and disease-free survival. Tumor grade is the only independent prognostic variable for survival of the patients."
+    },
+    "23234860": {
+        "QUESTION": "Delays in time to primary treatment after a diagnosis of breast cancer: does it impact survival?",
+        "CONTEXTS": [
+            "Treatment delays in breast cancer are generally thought to affect prognosis but the impact on survival remains unclear. Indicators for breast cancer care include time to primary treatment. The purpose of this study was to evaluate whether time to primary treatment (TPT) in breast cancer impacts survival.",
+            "A total of 648 breast cancer patients treated in the University Malaya Medical Center (UMMC), Malaysia between 2004 and 2005 were included in the study. TPT was calculated from the date of pathological diagnosis to the date of primary treatment. Mortality data was obtained from the National Registry of Births and Deaths. Last date of follow-up was November 2010.",
+            "Median TPT was 18 days. Majority 508 (69.1%) of the patients received treatment within 30 days after diagnosis. The majority was surgically treated. Ethnicity (p=0.002) and stage at presentation (p=0.007) were significantly associated with delayed TPT. Malay ethnicity had delayed TPT compared to the Chinese; Hazard Ratio (HR) 1.9 (Confidence Interval (CI) 1.237, 2.987). Delayed TPT did not affect overall survival on univariate and multivariate analyses."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Breast Neoplasms",
+            "Female",
+            "Humans",
+            "Malaysia",
+            "Middle Aged",
+            "Neoplasm Staging",
+            "Retrospective Studies",
+            "Survival Analysis",
+            "Time Factors"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Time to primary treatment after a diagnosis of breast cancer had no impact on overall survival. Further studies on care before diagnosis are important in drawing up meaningful quality indicators."
+    },
+    "19615731": {
+        "QUESTION": "Does higher body mass index contribute to worse asthma control in an urban population?",
+        "CONTEXTS": [
+            "Epidemiologic findings support a positive association between asthma and obesity.",
+            "Determine whether obesity or increasing level of body mass index (BMI) are associated with worse asthma control in an ethnically diverse urban population.",
+            "Cross-sectional assessment of asthma control was performed in patients with asthma recruited from primary care offices by using 4 different validated asthma control questionnaires: the Asthma Control and Communication Instrument (ACCI), the Asthma Control Test (ACT), the Asthma Control Questionnaire (ACQ), and the Asthma Therapy Assessment Questionnaire (ATAQ). Multiple linear regression analysis was performed to evaluate the association between obesity and increasing BMI level and asthma control.",
+            "Of 292 subjects with a mean age of 47 years, the majority were women (82%) and African American (67%). There was a high prevalence of obesity with 63%, with only 15% normal weight. The mean score from all 4 questionnaires showed an average suboptimal asthma control (mean score/maximum possible score): ACCI (8.3/19), ACT (15.4/25), ACQ (2.1/6), and ATAQ (1.3/4). Regression analysis showed no association between obesity or increasing BMI level and asthma control using all 4 questionnaires. This finding persisted even after adjusting for FEV(1), smoking status, race, sex, selected comorbid illnesses, and long-term asthma controller use."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Anti-Asthmatic Agents",
+            "Asthma",
+            "Body Mass Index",
+            "Cross-Sectional Studies",
+            "Female",
+            "Humans",
+            "Linear Models",
+            "Male",
+            "Middle Aged",
+            "Obesity",
+            "Prescription Drugs",
+            "Spirometry",
+            "Surveys and Questionnaires",
+            "United States",
+            "Urban Population"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Using 4 validated asthma control questionnaires, we failed to find an association between obesity and asthma control in an urban population with asthma. Weight loss may not be an appropriate strategy to improve asthma control in this population."
+    },
+    "12607120": {
+        "QUESTION": "Does anastomotic leakage affect functional outcome after rectal resection for cancer?",
+        "CONTEXTS": [
+            "Anastomotic leakage is the most threatening early complication in sphincter-preserving rectal cancer surgery. While the oncological consequences have been well examined, only few data exist about the functional outcome.",
+            "We investigated continence function in 150 patients after curative sphincter-preserving rectal cancer surgery. Functional results were compared in 22 patients with a clinically relevant anastomotic leakage, confirmed radiologically or endoscopically, and 128 patients with uneventful recovery. Evaluation of continence function was based on the Cleveland Clinic Continence Score and was examined in all patients with anastomotic leakage and in 111 patients without complications 107+/-46 weeks postoperatively. Additionally, 14 patients with anastomotic leakage and 58 patients with uneventful recovery underwent anorectal manometry 26+/-15 weeks postoperatively.",
+            "The continence score in patients after anastomotic leakage did not differ significantly from that in patients without complications. Sphincter function was similar. Maximum tolerable volume and rectal compliance were slightly but not significantly worse after leakage."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Anastomosis, Surgical",
+            "Fecal Incontinence",
+            "Female",
+            "Humans",
+            "Male",
+            "Manometry",
+            "Middle Aged",
+            "Postoperative Complications",
+            "Rectal Neoplasms",
+            "Rectum",
+            "Statistics, Nonparametric",
+            "Surgical Wound Dehiscence",
+            "Surveys and Questionnaires",
+            "Treatment Failure"
+        ],
+        "YEAR": "2003",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Continence function remained undisturbed after anastomotic leakage due to rectal resection"
+    },
+    "16319544": {
+        "QUESTION": "Is high-sensitivity C-reactive protein associated with carotid atherosclerosis in healthy Koreans?",
+        "CONTEXTS": [
+            "There is a positive association between chronic inflammation and the risk of cardiovascular disease, but whether there is an association between C-reactive protein (CRP) and carotid atherosclerosis is controversial. We investigated the relationship between high-sensitivity CRP (hsCRP) levels and carotid intima-media thickness (IMT) in healthy Koreans.",
+            "We measured hsCRP levels, the carotid IMT, and conventional cardiovascular risk factors including obesity parameters, blood pressure, lipid profiles, insulin resistance, and smoking habits in 820 volunteers (35-79 years old) in a cross-sectional study.",
+            "Higher hsCRP quartile groups had higher mean IMTs, as compared with the lowest quartile (P<0.001 for the trend across quartiles). However, after adjustment for age, the relationship between hsCRP level and IMT was substantially weaker (P = 0.018). After additional adjustments for conventional cardiovascular risk factors, no significant association was observed (P = 0.548). The unadjusted risk for a high carotid IMT value (>or = 1.0 mm) was also positively related to hsCRP quartile, but this relationship was not significant after adjustment for age and other cardiovascular risk factors."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Biomarkers",
+            "C-Reactive Protein",
+            "Carotid Artery Diseases",
+            "Carotid Artery, Common",
+            "Cross-Sectional Studies",
+            "Female",
+            "Humans",
+            "Korea",
+            "Male",
+            "Middle Aged",
+            "Nephelometry and Turbidimetry",
+            "Prevalence",
+            "Reference Values",
+            "Retrospective Studies",
+            "Risk Factors",
+            "Tunica Intima",
+            "Ultrasonography"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Both hsCRP levels and the carotid IMT were strongly correlated with conventional cardiovascular risk factors, but there was no independent association between hsCRP levels and carotid IMT in healthy Korean adults."
+    },
+    "18847643": {
+        "QUESTION": "Therapeutic anticoagulation in the trauma patient: is it safe?",
+        "CONTEXTS": [
+            "Trauma patients who require therapeutic anticoagulation pose a difficult treatment problem. The purpose of this study was to determine: (1) the incidence of complications using therapeutic anticoagulation in trauma patients, and (2) if any patient factors are associated with these complications.",
+            "An 18-month retrospective review was performed on trauma patients>or= 15 years old who received therapeutic anticoagulation using unfractionated heparin (UH) and/or fractionated heparin (FH). Forty different pre-treatment and treatment patient characteristics were recorded. Complications of anticoagulation were documented and defined as any unanticipated discontinuation of the anticoagulant for bleeding or other adverse events.",
+            "One-hundred-fourteen trauma patients were initiated on therapeutic anticoagulation. The most common indication for anticoagulation was deep venous thrombosis (46%). Twenty-four patients (21%) had at least 1 anticoagulation complication. The most common complication was a sudden drop in hemoglobin concentration requiring blood transfusion (11 patients). Five patients died (4%), 3 of whom had significant hemorrhage attributed to anticoagulation. Bivariate followed by logistic regression analysis identified chronic obstructive pulmonary disease (OR = 9.2, 95%CI = 1.5-54.7), UH use (OR = 3.8, 95%CI = 1.1-13.0), and lower initial platelet count (OR = 1.004, 95%CI = 1.000-1.008) as being associated with complications. Patients receiving UH vs. FH differed in several characteristics including laboratory values and anticoagulation indications."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Anticoagulants",
+            "Cohort Studies",
+            "Confidence Intervals",
+            "Emergency Treatment",
+            "Female",
+            "Follow-Up Studies",
+            "Heparin, Low-Molecular-Weight",
+            "Humans",
+            "Injury Severity Score",
+            "Male",
+            "Middle Aged",
+            "Odds Ratio",
+            "Postoperative Care",
+            "Preoperative Care",
+            "Probability",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Safety Management",
+            "Survival Analysis",
+            "Thromboembolism",
+            "Thrombolytic Therapy",
+            "Trauma Centers",
+            "Treatment Outcome",
+            "Warfarin",
+            "Wounds and Injuries"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Trauma patients have a significant complication rate related to anticoagulation therapy, and predicting which patients will develop a complication remains unclear. Prospective studies are needed to determine which treatment regimen, if any, is appropriate to safely anticoagulate this high risk population."
+    },
+    "21756515": {
+        "QUESTION": "Does solid culture for tuberculosis influence clinical decision making in India?",
+        "CONTEXTS": [
+            "Medical units at an academic tertiary referral hospital in Southern India.",
+            "To investigate the impact of solid culture on L\u00f6wenstein-Jensen medium on clinical decision making.",
+            "In a retrospective review of 150 culture-positive and 150 culture-negative consecutively sampled tuberculosis (TB) suspects, treatment decisions were analysed at presentation, after the availability of culture detection results and after the availability of drug susceptibility testing (DST) culture results.",
+            "A total of 124 (82.7%) culture-positive patients and 35 (23.3%) culture-negative patients started anti-tuberculosis treatment prior to receiving their culture results; 101 patients (33.7%) returned for their results; two (1.3%) initiated treatment based on positive culture and no culture-negative patients discontinued treatment. DST was performed on 119 (79.3%) positive cultures: 30 (25.2%) showed any resistance, eight (6.7%) showed multidrug resistance and one (0.84%) showed extensively drug-resistant TB. Twenty-eight patients (23.5%) returned for their DST results. Based on DST, treatment was modified in four patients (3.4%)."
+        ],
+        "LABELS": [
+            "SETTING",
+            "OBJECTIVE",
+            "DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Antitubercular Agents",
+            "Culture Media",
+            "Decision Making",
+            "Extensively Drug-Resistant Tuberculosis",
+            "Female",
+            "Humans",
+            "India",
+            "Male",
+            "Microbial Sensitivity Tests",
+            "Middle Aged",
+            "Mycobacterium tuberculosis",
+            "Retrospective Studies",
+            "Tuberculosis",
+            "Tuberculosis, Multidrug-Resistant",
+            "Young Adult"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Using solid culture, 150 cultures need to be tested for one treatment modification and 30 for DST. The cost of the widespread application of culture will need to be balanced against its impact on treatment decisions in India."
+    },
+    "22867778": {
+        "QUESTION": "Does responsibility affect the public's valuation of health care interventions?",
+        "CONTEXTS": [
+            "Health services often spend more on safety interventions than seems cost-effective. This study investigates whether the public value safety-related health care improvements more highly than the same improvements in contexts where the health care system is not responsible.",
+            "An online survey was conducted to elicit the relative importance placed on preventing harms caused by 1) health care (hospital-acquired infections, drug administration errors, injuries to health care staff), 2) individuals (personal lifestyle choices, sports-related injuries), and 3) nature (genetic disorders). Direct valuations were obtained from members of the public by using a person trade-off or \"matching\" method. Participants were asked to choose between two preventative interventions of equal cost and equal health benefit per person for the same number of people, but differing in causation. If participants indicated a preference, their strength of preference was measured by using person trade-off.",
+            "Responses were obtained from 1030 people, reflecting the sociodemographic mix of the UK population. Participants valued interventions preventing hospital-acquired infections (1.31) more highly than genetic disorders (1.0), although drug errors were valued similarly to genetic disorders (1.07), and interventions to prevent injury to health care staff were given less weight than genetic disorders (0.71). Less weight was also given to interventions related to lifestyle (0.65) and sports injuries (0.41)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Athletic Injuries",
+            "Attitude to Health",
+            "Choice Behavior",
+            "Cost-Benefit Analysis",
+            "Cross Infection",
+            "Data Collection",
+            "Delivery of Health Care",
+            "Female",
+            "Genetic Diseases, Inborn",
+            "Harm Reduction",
+            "Humans",
+            "Internet",
+            "Life Style",
+            "Male",
+            "Medication Errors",
+            "Middle Aged",
+            "Occupational Injuries",
+            "Patient Preference",
+            "Patient Safety",
+            "Social Values",
+            "United Kingdom",
+            "Young Adult"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Our results suggest that people do not attach a simple fixed premium to \"safety-related\" interventions but that preferences depend more subtly on context. The use of the results of such public preference surveys to directly inform policy would therefore be premature."
+    },
+    "15381614": {
+        "QUESTION": "Cutaneous melanoma in a multiethnic population: is this a different disease?",
+        "CONTEXTS": [
+            "Cutaneous melanoma in nonwhite persons has a manifestation and a prognosis that are different than those of cutaneous melanoma in white persons.",
+            "Case series.",
+            "Tertiary care university-affiliated community medical center located in a multiethnic state in which white persons are a minority of the population.",
+            "Consecutive series of 357 patients with melanoma seen between January 1994 and August 2003.",
+            "Ethnicity, age, sex, primary site, tumor thickness, nodal status, stage at diagnosis, and survival.",
+            "There were 208 men and 149 women who ranged in age from 15 to 93 years (mean, 58 years). Twenty-two patients initially had unknown primary sites. Of these 357 patients, 67 (18.7%) were nonwhite. There was no statistically significant difference in the age (P =.10) or sex (P =.57) distribution of these 2 populations. Nonwhite patients at initial diagnosis had thicker tumors (P =.002), more frequently had ulcerated primary tumors (P<.001), more frequently had positive nodes (P =.004), and were at a more advanced stage (P =.002) than their white counterparts. The anatomic distribution between the 2 populations was significantly different (P<.001), with a high incidence of melanoma on the sole and subungual locations and a substantially less frequent occurrence on the head and neck, trunk, and extremities in the nonwhite population when compared with the white population. The overall survival rate of the nonwhite patients was significantly worse than that of the white patients, but when stratified by stage at initial diagnosis, there was no difference in outcome."
+        ],
+        "LABELS": [
+            "HYPOTHESIS",
+            "DESIGN",
+            "SETTING",
+            "PATIENTS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Chi-Square Distribution",
+            "Combined Modality Therapy",
+            "Female",
+            "Humans",
+            "Male",
+            "Melanoma",
+            "Middle Aged",
+            "Phenotype",
+            "Proportional Hazards Models",
+            "Skin Neoplasms"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "In a multiethnic population, cutaneous melanoma in nonwhite persons is unusual but not rare. Although the diagnoses are distinctly different at initial examinations, suggesting a potential biological component, stage-for-stage outcomes are similar between white and nonwhite persons and suggest a need for early diagnostic interventions with unusual pigmented lesions in nonwhite persons."
+    },
+    "11034241": {
+        "QUESTION": "Is routine intraoperative frozen-section examination of sentinel lymph nodes in breast cancer worthwhile?",
+        "CONTEXTS": [
+            "Routine intraoperative frozen section (FS) of sentinel lymph nodes (SLN) can detect metastatic disease, allowing immediate axillary dissection and avoiding the need for reoperation. Routine FS is also costly, increases operative time, and is subject to false-negative results. We examined the benefit of routine intraoperative FS among the first 1000 patients at Memorial Sloan Kettering Cancer Center who had SLN biopsy for breast cancer.",
+            "We performed SLN biopsy with intraoperative FS in 890 consecutive breast cancer patients, none of whom had a back-up axillary dissection planned in advance. Serial sections and immunohistochemical staining for cytokeratins were performed on all SLN that proved negative on FS. The sensitivity of FS was determined as a function of (1) tumor size and (2) volume of metastatic disease in the SLN, and the benefit of FS was defined as the avoidance of a reoperative axillary dissection.",
+            "The sensitivity of FS ranged from 40% for patients with Tla to 76% for patients with T2 cancers. The volume of SLN metastasis was highly correlated with tumor size, and FS was far more effective in detecting macrometastatic disease (sensitivity 92%) than micrometastases (sensitivity 17%). The benefit of FS in avoiding reoperative axillary dissection ranged from 4% for Tla (6 of 143) to 38% for T2 (45 of 119) cancers."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Breast Neoplasms",
+            "Female",
+            "Frozen Sections",
+            "Humans",
+            "Immunohistochemistry",
+            "Intraoperative Period",
+            "Lymphatic Metastasis",
+            "Middle Aged",
+            "Predictive Value of Tests",
+            "Sensitivity and Specificity",
+            "Sentinel Lymph Node Biopsy"
+        ],
+        "YEAR": "2000",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "In breast cancer patients having SLN biopsy, the failure of routine intraoperative FS is largely the failure to detect micrometastatic disease. The benefit of routine intraoperative FS increases with tumor size. Routine FS may not be indicated in patients with the smallest invasive cancers."
+    },
+    "19542542": {
+        "QUESTION": "Is there a uniform basal endometrial gene expression profile during the implantation window in women who became pregnant in a subsequent ICSI cycle?",
+        "CONTEXTS": [
+            "To understand which genes are really involved in the implantation process, we planned to study the gene basal expression profile during the window of implantation (WOI) of patients who became pregnant in a subsequent ICSI cycle.",
+            "Women attending their first ICSI cycle at ANDROS Day Surgery for severe male factor infertility were included in the study. An endometrial biopsy was performed during the WOI, in one of the last two cycles before the ICSI cycle. Forty-seven selected gene profiles were analyzed using Low Density Array technology. Only biopsies from women who subsequently became pregnant were evaluated, to exclude any bias regarding embryo viability and embryo transfer difficulties.",
+            "Fifteen patients were included in the analysis as they became pregnant after ICSI procedure. Four of 47 selected genes were excluded from the analysis. Of the 43 genes analyzed, only 6 genes (VEGFA, PLA2G2A, ALPL, LIF, NNMT and STC1) showed a statistically uniform expression among patients who subsequently became pregnant. For all the other genes analyzed there were considerable differences in their expression levels amongst women who subsequently became pregnant."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Embryo Implantation",
+            "Endometrium",
+            "Female",
+            "Gene Expression Profiling",
+            "Humans",
+            "Oligonucleotide Array Sequence Analysis",
+            "Pregnancy",
+            "Sperm Injections, Intracytoplasmic"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Our data suggest that very few genes, which change their expression level during the WOI, show a quantitative homogeneous expression in endometrially-receptive patients. In conclusion, in this study only six genes showed a homogeneous expression, and are probably involved in embryo implantation mechanisms."
+    }
+}

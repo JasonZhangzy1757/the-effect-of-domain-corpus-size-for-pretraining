@@ -1,0 +1,10 @@
+{"model_name": "bert-base-uncased", "seeds": [], "batch_size": 8, "epochs": 8, "metric": "accuracy", "scores": [0.621429, 0.671429, 0.714286, 0.742857, 0.671429], "mean_score": 0.6843}
+{"model_name": "model-trained-0-3531-4GB", "seeds": [], "batch_size": 8, "epochs": 8, "metric": "accuracy", "scores": [0.671429, 0.671429, 0.671429, 0.671429, 0.671429], "mean_score": 0.6714}
+{"model_name": "model-trained-18-67089-4GB", "seeds": [], "batch_size": 8, "epochs": 8, "metric": "accuracy", "scores": [0.671429, 0.671429, 0.671429, 0.671429, 0.671429], "mean_score": 0.6714}
+{"model_name": "model-trained-36-130647-4GB", "seeds": [], "batch_size": 8, "epochs": 8, "metric": "accuracy", "scores": [0.671429, 0.671429, 0.671429, 0.664286, 0.671429], "mean_score": 0.67}
+{"model_name": "run_8GB_model-trained-0-7063", "seeds": [], "batch_size": 16, "epochs": 8, "metric": "accuracy", "scores": [0.671429, 0.671429, 0.671429, 0.671429, 0.671429], "mean_score": 0.6714}
+{"model_name": "run_8GB_model-trained-8-63567", "seeds": [], "batch_size": 16, "epochs": 8, "metric": "accuracy", "scores": [0.671429, 0.671429, 0.671429, 0.671429, 0.671429], "mean_score": 0.6714}
+{"model_name": "run_8GB_model-trained-22-162449", "seeds": [], "batch_size": 16, "epochs": 8, "metric": "accuracy", "scores": [0.671429, 0.671429, 0.735714, 0.671429, 0.671429], "mean_score": 0.6843}
+{"model_name": "model-trained-0-10596-12GB", "seeds": [], "batch_size": 8, "epochs": 8, "metric": "accuracy", "scores": [0.671429, 0.671429, 0.657143, 0.671429, 0.671429], "mean_score": 0.6686}
+{"model_name": "model-trained-3-42384-12GB", "seeds": [], "batch_size": 8, "epochs": 8, "metric": "accuracy", "scores": [0.671429, 0.671429, 0.671429, 0.671429, 0.671429], "mean_score": 0.6714}
+{"model_name": "model-trained-5-63576-12GB", "seeds": [], "batch_size": 8, "epochs": 8, "metric": "accuracy", "scores": [0.671429, 0.671429, 0.671429, 0.671429, 0.671429], "mean_score": 0.6714}

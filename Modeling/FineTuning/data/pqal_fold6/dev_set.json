@@ -1,0 +1,1734 @@
+{
+    "22205377": {
+        "QUESTION": "Some aspects of social exclusion: do they influence suicide mortality?",
+        "CONTEXTS": [
+            "The current study is aimed to assess the relationship between the 'economic/employment' and 'social/welfare' dimensions of social exclusion and suicide mortality in Europe.",
+            "Suicide rates for 26 countries were obtained from the WHO. Data on social expenditure were obtained from the OECD database. Employment rates and GDP were obtained from the Total Economy Database. Questions about citizens' attitudes towards different aspects of social exclusion were taken from the European Social Survey. Structural equation modelling was applied to research the theoretical structure of the variables.",
+            "All variables are statistically significant in male and female models except of the relationships between 'economic/employment' and 'social/welfare' dimensions and female suicides; and the relationship between 'employment rates' and 'economic/employment' dimension. Suicide mortality rates among both males and females are influenced negatively by 'economic/employment' and 'social/welfare' dimensions. Among females, the influence of 'social/welfare' dimension is stronger compared to the 'economic/employment' dimension. The remaining influence of GDP is positive in both models."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Employment",
+            "Europe",
+            "Female",
+            "Humans",
+            "Male",
+            "Risk Factors",
+            "Sex Distribution",
+            "Social Distance",
+            "Social Welfare",
+            "Socioeconomic Factors",
+            "Suicide"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Both 'economic/employment' and 'social/welfare' dimensions of social exclusion significantly influence suicide mortality among males. The influence of 'economic/employment' and 'social/welfare' dimensions of social exclusion on female suicide mortality is controversial. Social exclusion might be considered as a risk factor for suicide mortality in Europe."
+    },
+    "16151770": {
+        "QUESTION": "Memory-provoked rCBF-SPECT as a diagnostic tool in Alzheimer's disease?",
+        "CONTEXTS": [
+            "Alzheimer's disease (AD) is a primary degenerative disease that progressively affects all brain functions, with devastating consequences for the patient, the patient's family and society. Rest regional cerebral blood flow (rCBF) could have a strategic role in differentiating between AD patients and normal controls, but its use for this purpose has a low discriminatory capacity. The purpose of this study was to evaluate whether the diagnostic sensitivity of rCBF single-photon emission computed tomography (SPECT) could be increased by using an episodic memory task provocation, i.e. memory-provoked rCBF-SPECT (MP-SPECT).",
+            "Eighteen persons (73.2+/-4.8 years) with mild AD and 18 healthy elderly (69.4+/-3.9 years) were included in the study. The subjects were injected with (99m)Tc-hexamethylpropylene amine oxime (HMPAO) during memory provocation with faces and names, followed by an rCBF-SPECT study. The rCBF (99m)Tc-HMPAO SPECT images were analysed using statistical parametric mapping (SPM2). Peaks with a false discovery rate corrected value of 0.05 were considered significant.",
+            "On MP-SPECT, the AD group showed a significant rCBF reduction in the left parietal cortex in comparison with healthy elderly. At rest, no significant group differences were seen."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Alzheimer Disease",
+            "Brain",
+            "Brain Mapping",
+            "Cerebrovascular Circulation",
+            "Evoked Potentials",
+            "Female",
+            "Humans",
+            "Image Interpretation, Computer-Assisted",
+            "Male",
+            "Memory",
+            "Radiopharmaceuticals",
+            "Reproducibility of Results",
+            "Sensitivity and Specificity",
+            "Technetium Tc 99m Exametazime",
+            "Tomography, Emission-Computed, Single-Photon"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Memory provocation increased the sensitivity of rCBF-SPECT for the detection of AD-related blood flow changes in the brain at the group level. Further studies are needed to evaluate MP-SPECT as a diagnostic tool at the individual level. If a higher sensitivity for AD at the individual level is verified in future studies, a single MP-SPECT study might be sufficient in the clinical setting."
+    },
+    "11601252": {
+        "QUESTION": "Is endothelin-1 an aggravating factor in the development of acute pancreatitis?",
+        "CONTEXTS": [
+            "We have reported previously that cerulein-induced edematous pancreatitis would transform into hemorrhagic pancreatitis by administration of endothelin-1 in rats. In the present study, we tried to protect rat model from developing into hemorrhagic pancreatitis with BQ123 (an ETA receptor antagonist).",
+            "The rat model was made by 5-hour restraint water-immersion stress and two intraperitoneal injections of cerulein (40 micrograms/kg) at hourly interval. BQ123 (3 or 6 mg/kg) was administered intravenously 30 minutes before and 2 hours after the first cerulein injection.",
+            "Acute hemorrhagic pancreatitis was induced in all rats treated with cerulin + stress. The score for pancreatic hemorrhage was 2.4 +/- 0.2 in this group. In the rats pretreated with BQ123, the score was reduced to 1.0 +/- 0.0, pancreas wet weight and serum amylase activity were significantly reduced, and histologic alterations in the pancreas lightened, also the local pancreatic blood flow improved without affecting the systemic blood pressure."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acute Disease",
+            "Animals",
+            "Ceruletide",
+            "Endothelin Receptor Antagonists",
+            "Endothelin-1",
+            "Male",
+            "Pancreatitis",
+            "Peptides, Cyclic",
+            "Rats",
+            "Rats, Sprague-Dawley"
+        ],
+        "YEAR": "1999",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "These results suggest that endothelin-1 should play a role in aggravating the development of acute hemorrhagic pancreatitis, through its action on the pancreatic microcirculation."
+    },
+    "23453079": {
+        "QUESTION": "Does prostate morphology affect outcomes after holmium laser enucleation?",
+        "CONTEXTS": [
+            "To determine whether prostate morphology or technique used has any effect on postoperative outcomes after holmium laser enucleation of the prostate.",
+            "A retrospective review of prospectively collected data was completed for all patients undergoing a holmium laser enucleation of the prostate at our institution. Prostate morphology was classified as either \"bilobar\" or \"trilobar\" according to the cystoscopic appearance. The baseline characteristics, complications, and postoperative outcomes were collected.",
+            "A total of 304 patients with either \"bilobar\" (n\u00a0= 142) or \"trilobar\" (n\u00a0= 162) prostate morphology were included. The trilobar group was more likely to have longer operative times (112 vs 100 minutes, P\u00a0= .04), although this difference was not significant on multivariate analysis. The postoperative outcomes were similar between the 2 groups for American Urological Association symptom score, change in American Urological Association symptom score, bother score, maximal flow rate, change in maximal flow rate, postvoid residual urine volume, and complication rate. However, the trilobar group had a significantly greater decrease in their PVR urine volume (296 vs 176 mL, P\u00a0= .01), a difference that persisted on multivariate analysis. A subset analysis of the trilobar prostates revealed that performing a 2-lobe technique achieved shorter operative and enucleation times, although the difference was not significant."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Humans",
+            "Laser Therapy",
+            "Lasers, Solid-State",
+            "Male",
+            "Middle Aged",
+            "Prostate",
+            "Prostatectomy",
+            "Prostatic Hyperplasia",
+            "Retrospective Studies",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Those patients with trilobar prostate morphology are more likely to achieve a greater decrease in the PVR urine volume after holmium laser enucleation of the prostate. All other outcomes appeared to be similar between the 2 groups. In addition, a 2-lobe technique can be safely used for trilobar prostates when deemed feasible by the surgeon."
+    },
+    "10411439": {
+        "QUESTION": "Lloyd-Davies position with Trendelenburg--a disaster waiting to happen?",
+        "CONTEXTS": [
+            "Lower limb compartment syndrome has been reported to occur after colorectal, urological, and gynecological procedures during which the patient's lower limbs are elevated for prolonged periods of time.",
+            "We investigated lower limb perfusion in a group of patients undergoing prolonged pelvic surgery both during and immediately after surgery, using intra-arterial blood pressure monitoring, laser doppler flowmetry, and pulse oximetry.",
+            "Use of the modified lithotomy position was not associated with any demonstrable decrease in lower limb perfusion. The addition of 15 degrees head-down tilt, however, during pelvic dissection, led to an immediate and significant drop in lower limb perfusion (P<0.05; Mann-Whitney U test). The subgroup of patients analyzed postoperatively showed a ten-fold increase (P<0.01) in perfusion that was confined to the muscle compartment with no demonstrable increase in skin perfusion or intra-arterial pedal blood pressure."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Colectomy",
+            "Colonic Diseases",
+            "Compartment Syndromes",
+            "Head-Down Tilt",
+            "Humans",
+            "Ischemia",
+            "Leg",
+            "Postoperative Complications",
+            "Rectal Diseases"
+        ],
+        "YEAR": "1999",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The use of the modified lithotomy position during pelvic surgery is not associated with lower limb ischemia. Addition of Trendelenburg position, however, causes profound ischemia of the lower limbs, and this is followed during the recovery period by hyperperfusion that is confined to the muscle compartments, which may put patients at risk of developing lower limb compartment syndrome."
+    },
+    "10811329": {
+        "QUESTION": "Are 99mTc leukocyte scintigraphy and SBFT studies useful in children suspected of having inflammatory bowel disease?",
+        "CONTEXTS": [
+            "The goal of this retrospective study was to assess whether 99mTc-white blood cell (WBC) scintigraphy and upper gastrointestinal small bowel follow-through (UGI-SBFT) could exclude inflammation in children suspected of having inflammatory bowel disease (IBD).",
+            "Of a population of 313 children who had a 99mTc-WBC scan, 130 children were studied exclusively to rule out IBD. Sixty-nine colonoscopies with biopsies were done within a short time interval of the 99mTc-WBC scans. There were also 51 controls studied with 99mTc-WBC scintigraphy.",
+            "Of the 130 children studied to exclude IBD, the final diagnosis was Crohn's disease in 27, ulcerative colitis in nine, miscellaneous colitis in 13, probably normal in 42, and normal in 39. The 99mTc-WBC scans were positive in all but three newly diagnosed Crohn's disease, ulcerative colitis, or miscellaneous colitis children. The false-negative 99mTc-WBC studies were seen in children with mild inflammation on biopsies and normal UGI-SBFT studies. In the 46 children with a true-positive 99mTc-WBC scan, 81% (17/21) of UGI-SBFT studies were normal. In five children with equivocal UGI-SBFT studies, the 99mTc-WBC scan correctly predicted if inflammation was present in the terminal ileum."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Child",
+            "Colitis, Ulcerative",
+            "Colonoscopy",
+            "Crohn Disease",
+            "Female",
+            "Humans",
+            "Inflammatory Bowel Diseases",
+            "Intestines",
+            "Leukocytes",
+            "Male",
+            "Predictive Value of Tests",
+            "Radiography",
+            "Retrospective Studies",
+            "Sensitivity and Specificity",
+            "Technetium",
+            "Tomography, Emission-Computed, Single-Photon"
+        ],
+        "YEAR": "2000",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Our results suggest that 99mTc-WBC is useful as an initial screening modality to exclude IBD, and is more sensitive than UGI-SBFT studies."
+    },
+    "9569972": {
+        "QUESTION": "Proliferative index obtained by DNA image cytometry. Does it add prognostic information in Auer IV breast cancer?",
+        "CONTEXTS": [
+            "To investigate whether the S + G2/M fraction (proliferative index) is a prognostic determinant in breast cancers classified as Auer IV.",
+            "Prognostic evaluation of Auer IV DNA histograms with respect to the high versus low S + G2/M fraction, obtained by image cytometry on consecutive breast cancer imprint preparations.",
+            "When studying recurrence-free survival (n = 136), the prognostic value of S + G2/M was found to vary with time: it was negligible before the median time to relapse (1.5 years) but thereafter statistically significant, in both univariate and multivariate analysis. The same pattern was found when overall survival was used as the end point; the effect was delayed to about the median time until death (three years). Tumors with a low S + G2/M fraction were smaller and more often estrogen receptor- and progesterone receptor-positive than those with a high S + G2/M fraction."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "STUDY DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Breast Neoplasms",
+            "DNA, Neoplasm",
+            "Disease-Free Survival",
+            "Female",
+            "G2 Phase",
+            "Humans",
+            "Image Cytometry",
+            "Mitosis",
+            "Prognosis",
+            "S Phase",
+            "Survivors"
+        ],
+        "YEAR": "1998",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "According to ICM-DNA values corresponding to the S + G2/M region, patients with breast cancers classified as Auer IV can be divided into subgroups with different tumor characteristics and prognoses."
+    },
+    "27896825": {
+        "QUESTION": "Is it time to reconsider lobectomy in low-risk paediatric thyroid cancer?",
+        "CONTEXTS": [
+            "Current guidelines recommend total thyroidectomy for nearly all children with well-differentiated thyroid cancer (WDTC). These guidelines, however, derive from older data accrued prior to current high-resolution imaging. We speculate that there is a subpopulation of children who may be adequately treated with lobectomy.",
+            "Retrospective analysis of prospectively maintained database.",
+            "Seventy-three children with WDTC treated between 2004 and 2015.",
+            "We applied two different risk-stratification criteria to this population. First, we determined the number of patients meeting American Thyroid Association (ATA) 'low-risk' criteria, defined as disease grossly confined to the thyroid with either N0/Nx or incidental microscopic N1a disease. Second, we defined a set of 'very-low-risk' histopathological criteria, comprising unifocal tumours \u22644 cm without predefined high-risk factors, and determined the proportion of patients that met these criteria.",
+            "Twenty-seven (37%) males and 46 (63%) females were included in this study, with a mean age of 13\u00b74 years. Ipsilateral- and contralateral multifocality were identified in 27 (37\u00b70%) and 19 (26\u00b70%) of specimens. Thirty-seven (51%) patients had lymph node metastasis (N1a = 18/N1b = 19). Pre-operative ultrasound identified all cases with clinically significant nodal disease. Of the 73 patients, 39 (53\u00b74%) met ATA low-risk criteria and 16 (21\u00b79%) met 'very-low-risk' criteria. All 'very-low-risk' patients demonstrated excellent response to initial therapy without persistence/recurrence after a mean follow-up of 36\u00b74 months."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "PATIENTS",
+            "MEASUREMENTS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Child",
+            "Endocrine Surgical Procedures",
+            "Female",
+            "Humans",
+            "Lymphatic Metastasis",
+            "Male",
+            "Neoplasm Recurrence, Local",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Thyroid Neoplasms",
+            "Thyroidectomy"
+        ],
+        "YEAR": "2017",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Ultrasound and histopathology identify a substantial population that may be candidates for lobectomy, avoiding the risks and potential medical and psychosocial morbidity associated with total thyroidectomy. We propose a clinical framework to stimulate discussion of lobectomy as an option for low-risk patients."
+    },
+    "12684740": {
+        "QUESTION": "Cue-induced behavioural activation: a novel model of alcohol craving?",
+        "CONTEXTS": [
+            "Alcohol-associated cues elicit craving in human addicts but little is known about craving mechanisms. Current animal models focus on relapse and this may confound the effect of environmental cues. OBJECTIVES. To develop a model to study the effects of environmental cues on alcohol consumption in animals not experiencing withdrawal or relapse.",
+            "Rats were trained to orally self-administer an alcohol (5% w/v)/saccharin (0.2%) solution 30 min a day for 20 days. After stable responding on a free choice between alcohol/saccharin and water, rats were exposed to 5, 10 or 15 min of alcohol-associated cues or 5 min of non-alcohol associated cues. The effect of a 5-min cue was measured after a 10-day break from training or pre-treatment with 0.03, 0.1 or 1 mg/kg naltrexone.",
+            "Rats given 5 min of alcohol-associated cues responded significantly more on the active lever (26% increase) and consumed more alcohol as verified by increased blood alcohol levels (8.9 mM versus control 7.5 mM). Ten or 15 min of cues did not change alcohol consumption and 5 min in a novel environment decreased response by 66%. After a 10-day break in training, 5 min of alcohol-associated cues still increased alcohol consumption (29% increase) and the cue effect could be dose-dependently blocked by naltrexone (143% decrease at 0.03 mg/kg)."
+        ],
+        "LABELS": [
+            "RATIONALE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Alcohol Drinking",
+            "Animals",
+            "Behavior, Addictive",
+            "Cues",
+            "Discrimination Learning",
+            "Environment",
+            "Ethanol",
+            "Male",
+            "Models, Psychological",
+            "Naltrexone",
+            "Narcotic Antagonists",
+            "Rats",
+            "Rats, Wistar",
+            "Reinforcement (Psychology)",
+            "Self Administration",
+            "Time Factors"
+        ],
+        "YEAR": "2003",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Cue-induced behavioural activation was specific to alcohol cues, reproducible, persistent and could be blocked by naltrexone, and its correlation with human self-report of craving makes it a potentially useful model for studying alcohol craving."
+    },
+    "22324545": {
+        "QUESTION": "Are polymorphisms in oestrogen receptors genes associated with lipid levels in response to hormone therapy?",
+        "CONTEXTS": [
+            "Polymorphisms in the oestrogen receptor 1 (ESR1) and oestrogen receptor 2 (ESR2) genes are associated with intermediate or endpoint markers of cardiovascular disease and with the efficacy of postmenopausal hormone therapy (HT). Contradictory findings have been described in the past and the role of these genetics variants remains unclear.",
+            "A cross-sectional study was carried out with 266 postmenopausal women, of whom 115 received oral HT (HT+) and 151 did not receive any HT (HT-). We analysed three single-nucleotide polymorphisms (SNPs) in ESR1 (rs1801132, rs7757956 and rs2813544) and two in ESR2 (rs3020450 and rs7154455) and derived haplotypes with three additional polymorphisms that had been previously investigated by our group (ESR1 rs2234693 and ESR2 rs1256049 and rs4986938).",
+            "The ESR1 rs2813544 polymorphism was associated with low-density lipoprotein cholesterol (LDL-C) in HT+ postmenopausal women (p\u2009=\u20090.044; pC\u2009=\u20090.388), while one ESR2 gene haplotype was associated with total cholesterol (T-chol) (p\u2009=\u20090.015; pC\u2009=\u20090.090) and LDL-C in HT+ postmenopausal women (p\u2009=\u20090.021; pC\u2009=\u20090.126)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Biomarkers, Pharmacological",
+            "Brazil",
+            "Cardiovascular Diseases",
+            "Cholesterol",
+            "Cholesterol, LDL",
+            "Cross-Sectional Studies",
+            "Estrogen Receptor alpha",
+            "Estrogen Receptor beta",
+            "Estrogen Replacement Therapy",
+            "Estrogens",
+            "Female",
+            "Genetic Association Studies",
+            "Humans",
+            "Hyperlipidemias",
+            "Middle Aged",
+            "Polymorphism, Single Nucleotide",
+            "Postmenopause",
+            "Reproducibility of Results",
+            "Risk Factors"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Our findings suggest that, in HT+ postmenopausal women, the rs2813544 polymorphism may influence LDL-C levels and, as previously described, ESR2 rs1256049 is associated with T-chol and LDL-C. No previous study has investigated the association of this SNP set with lipoprotein levels in women while taking into account the hormonal status of the patients."
+    },
+    "24153338": {
+        "QUESTION": "Is aneurysm repair justified for the patients aged 80 or older after aneurysmal subarachnoid hemorrhage?",
+        "CONTEXTS": [
+            "With the advancement of an aging society in the world, an increasing number of elderly patients have been hospitalized due to aneurysmal subarachnoid hemorrhage (aSAH). There is no study that compares the elderly cases of aSAH who receive the definitive treatment with those who treated conservatively. The aim of this study was to investigate the feasibility of the definitive surgery for the acute subarachnoid cases aged 80 or older.",
+            "We reviewed 500 consecutive cases with acute aSAH with surgical indication for aneurysm repair. Inoperable cases such as dead-on-arrival and the cases with both pupils dilated were excluded. We compared the cases aged 80 or older that received clipping or coil embolization with the controls that the family selected conservative treatment.",
+            "69 cases were included in this study (ranged 80-98, male:female=9:60). 56 cases (81.2%) had an aneurysm in the anterior circulation. 23 cases received clipping, 20 cases coil embolization and 26 cases treated conservatively. The cases with aneurysm repair showed significantly better clinical outcome than the controls, while World Federation of Neurological Surgeons (WFNS) grade on admission and premorbid modified Rankin Scale showed no difference between them."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged, 80 and over",
+            "Aneurysm, Ruptured",
+            "Cerebrovascular Circulation",
+            "Cohort Studies",
+            "Embolization, Therapeutic",
+            "Female",
+            "Humans",
+            "Male",
+            "Neurosurgical Procedures",
+            "Prognosis",
+            "Retrospective Studies",
+            "Subarachnoid Hemorrhage",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Better prognosis was obtained when ruptured aneurysm was repaired in the elderly than it was treated conservatively. From the results of this study, we should not hesitate to offer the definitive surgery for the elderly with aSAH."
+    },
+    "14978612": {
+        "QUESTION": "Does positron emission tomography change management in primary rectal cancer?",
+        "CONTEXTS": [
+            "The influence of positron emission tomography in the management of recurrent rectal cancer is well established but its role in primary rectal cancer remains uncertain. This study therefore prospectively assesses the impact of position emission tomography scanning on the management of primary rectal cancer.",
+            "Forty-six patients with advanced primary rectal cancer referred for consideration of adjuvant preoperative therapy underwent position emission tomography scanning. The referring physicians prospectively recorded each patient's stage following conventional imaging and the proposed treatment plan prior to position emission tomography scanning. This was then compared with subsequent stage and actual management implemented, and the appropriateness of position emission tomography-induced changes was noted by subsequent clinical follow-up.",
+            "The surgical management of 36 of 46 patients (78 percent) was unchanged as a result of position emission tomography, even though position emission tomography upstaged disease in 3 of 36 cases (8 percent) and downstaged disease in 5 of 36 cases (14 percent). In 8 of 46 cases (17 percent), management was altered because of the position emission tomography scan findings, including 6 cases (13 percent) in which surgery was cancelled and 2 other cases (4 percent) in which the radiotherapy field was changed. Where available, follow-up confirmed the appropriateness of position emission tomography-induced management change in each case. Two patients had a change in therapy independent of the position emission tomography scan due to clinical circumstances. Overall tumor stage was changed following position emission tomography in 18 of 46 patients (39 percent)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Carcinoma",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Neoplasm Recurrence, Local",
+            "Neoplasm Staging",
+            "Patient Care Planning",
+            "Predictive Value of Tests",
+            "Prognosis",
+            "Prospective Studies",
+            "Radiotherapy, Adjuvant",
+            "Rectal Neoplasms",
+            "Sensitivity and Specificity",
+            "Tomography, Emission-Computed"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Position emission tomography scanning appears to accurately change the stage or appropriately alter the therapy of almost a third of patients with advanced primary rectal cancer. In view of this, we suggest that position emission tomography scanning be considered part of standard workup for such patients, particularly if neoadjuvant chemoradiation is being considered as part of primary management."
+    },
+    "23792130": {
+        "QUESTION": "Can magnetic resonance-ultrasound fusion biopsy improve cancer detection in enlarged prostates?",
+        "CONTEXTS": [
+            "Patients with an enlarged prostate and suspicion of prostate cancer pose a diagnostic dilemma. The prostate cancer detection rate of systematic 12-core transrectal ultrasound guided biopsy is between 30% and 40%. For prostates greater than 40 cc this decreases to 30% or less. Magnetic resonance-ultrasound fusion biopsy has shown superior prostate cancer detection rates. We defined the detection rate of magnetic resonance-ultrasound fusion biopsy in men with an enlarged prostate gland.",
+            "We retrospectively analyzed the records of patients who underwent multiparametric prostate magnetic resonance imaging followed by magnetic resonance-ultrasound fusion biopsy at our institution. Whole prostate volumes were calculated using magnetic resonance imaging reconstructions. Detection rates were analyzed with respect to age, prostate specific antigen and whole prostate volumes. Multivariable logistic regression was used to assess these parameters as independent predictors of prostate cancer detection.",
+            "We analyzed 649 patients with a mean\u00b1SD age of 61.8\u00b17.9 years and a median prostate specific antigen of 6.65 ng/ml (IQR 4.35-11.0). Mean whole prostate volume was 58.7\u00b134.3 cc. The overall detection rate of the magnetic resonance-ultrasound fusion platform was 55%. For prostates less than 40 cc the detection rate was 71.1% compared to 57.5%, 46.9%, 46.9% 33.3%, 36.4% and 30.4% for glands 40 to 54.9, 55 to 69.9, 70 to 84.9, 85 to 99.9, 100 to 114.9 and 115 cc or greater, respectively (p<0.0001). Multivariable logistic regression showed a significant inverse association of magnetic resonance imaging volume with prostate cancer detection, controlling for age and prostate specific antigen."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Biopsy, Needle",
+            "Humans",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Multimodal Imaging",
+            "Prostatic Hyperplasia",
+            "Prostatic Neoplasms",
+            "Retrospective Studies",
+            "Ultrasonography, Interventional"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Transrectal ultrasound guided and fusion biopsy cancer detection rates decreased with increasing prostate volume. However, magnetic resonance-ultrasound fusion biopsy had a higher prostate cancer detection rate compared to that of transrectal ultrasound guided biopsy in the literature. Magnetic resonance-ultrasound fusion biopsy represents a promising solution for patients with suspicion of prostate cancer and an enlarged prostate."
+    },
+    "24487044": {
+        "QUESTION": "Pharmacologic regimens for knee osteoarthritis prevention: can they be cost-effective?",
+        "CONTEXTS": [
+            "We sought to determine the target populations and drug efficacy, toxicity, cost, and initiation age thresholds under which a pharmacologic regimen for knee osteoarthritis (OA) prevention could be cost-effective.",
+            "We used the Osteoarthritis Policy (OAPol) Model, a validated state-transition simulation model of knee OA, to evaluate the cost-effectiveness of using disease-modifying OA drugs (DMOADs) as prophylaxis for the disease. We assessed four cohorts at varying risk for developing OA: (1) no risk factors, (2) obese, (3) history of knee injury, and (4) high-risk (obese with history of knee injury). The base case DMOAD was initiated at age 50 with 40% efficacy in the first year, 5% failure per subsequent year, 0.22% major toxicity, and annual cost of $1,000. Outcomes included costs, quality-adjusted life expectancy (QALE), and incremental cost-effectiveness ratios (ICERs). Key parameters were varied in sensitivity analyses.",
+            "For the high-risk cohort, base case prophylaxis increased quality-adjusted life-years (QALYs) by 0.04 and lifetime costs by $4,600, and produced an ICER of $118,000 per QALY gained. ICERs>$150,000/QALY were observed when comparing the base case DMOAD to the standard of care in the knee injury only cohort; for the obese only and no risk factors cohorts, the base case DMOAD was less cost-effective than the standard of care. Regimens priced at $3,000 per year and higher demonstrated ICERs above cost-effectiveness thresholds consistent with current US standards."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Age Factors",
+            "Aged",
+            "Aged, 80 and over",
+            "Computer Simulation",
+            "Cost-Benefit Analysis",
+            "Female",
+            "Humans",
+            "Knee Injuries",
+            "Male",
+            "Middle Aged",
+            "Obesity",
+            "Osteoarthritis, Knee",
+            "Quality-Adjusted Life Years",
+            "Risk Factors",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The cost-effectiveness of DMOADs for OA prevention for persons at high risk for incident OA may be comparable to other accepted preventive therapies."
+    },
+    "25489696": {
+        "QUESTION": "Does radiotherapy of the primary rectal cancer affect prognosis after pelvic exenteration for recurrent rectal cancer?",
+        "CONTEXTS": [
+            "Radiotherapy reduces local recurrence rates but is also capable of short- and long-term toxicity. It may also render treatment of local recurrence more challenging if it develops despite previous radiotherapy.",
+            "This study examined the impact of radiotherapy for the primary rectal cancer on outcomes after pelvic exenteration for local recurrence.",
+            "We conducted a retrospective review of exenteration databases.",
+            "The study took place at a quaternary referral center that specializes in pelvic exenteration.",
+            "Patients referred for pelvic exenteration from October 1994 to November 2012 were reviewed. Patients who did and did not receive radiotherapy as part of their primary rectal cancer treatment were compared.",
+            "The main outcomes of interest were resection margins, overall survival, disease-free survival, and surgical morbidities.",
+            "There were 108 patients, of which 87 were eligible for analysis. Patients who received radiotherapy for their primary rectal cancer (n = 41) required more radical exenterations (68% vs 44%; p = 0.020), had lower rates of clear resection margins (63% vs 87%; p = 0.010), had increased rates of surgical complications per patient (p = 0.014), and had a lower disease-free survival (p = 0.022). Overall survival and disease-free survival in patients with clear margins were also lower in the primary irradiated patients (p = 0.049 and p<0.0001). This difference in survival persisted in multivariate analysis that corrected for T and N stages of the primary tumor.",
+            "This study is limited by its retrospective nature and heterogeneous radiotherapy regimes among radiotherapy patients."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PATIENTS",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS",
+            "LIMITATIONS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Combined Modality Therapy",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Neoplasm Recurrence, Local",
+            "Neoplasm Staging",
+            "Pelvic Exenteration",
+            "Prognosis",
+            "Rectal Neoplasms",
+            "Retrospective Studies",
+            "Survival Rate",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Patients who previously received radiotherapy for primary rectal cancer treatment have worse oncologic outcomes than those who had not received radiotherapy after pelvic exenteration for locally recurrent rectal cancer."
+    },
+    "10577397": {
+        "QUESTION": "Is a pressor necessary during aortic perfusion and oxygenation therapy of cardiac arrest?",
+        "CONTEXTS": [
+            "Occlusion of the descending aorta and infusion of oxygenated ultrapurified polymerized bovine hemoglobin may improve the efficacy of advanced cardiac life support (ACLS). Because selective aortic perfusion and oxygenation (SAPO) directly increases coronary perfusion pressure, exogenous epinephrine may not be required. The purpose of this study was to determine whether exogenous epinephrine is necessary during SAPO by comparing the rate of return of spontaneous circulation and aortic and coronary perfusion pressures during ACLS-SAPO in animals treated with either intra-aortic epinephrine or saline solution.",
+            "A prospective, randomized, interventional before-after trial with a canine model of ventricular fibrillation cardiac arrest and ACLS based on external chest compression was performed. The ECG, right atrial, aortic arch, and esophageal pulse pressures were measured continuously. A descending aortic occlusion balloon catheter was placed through the femoral artery. Ventricular fibrillation was induced, and no therapy was given during the 10-minute arrest time. Basic life support was then initiated and normalized by standardization of esophageal pulse pressure and central aortic blood gases. After 3 minutes of basic life support, the aortic occlusion balloon was inflated, and 0.01 mg/kg epinephrine or saline solution was administered through the aortic catheter followed by 450 mL of ultrapurified polymerized bovine hemoglobin over 2 minutes. Defibrillation was then attempted. The outcomes and changes in intravascular pressures were compared.",
+            "Aortic pressures were higher during infusions in animals treated with epinephrine. During infusion, the mean aortic relaxation pressure increased by 58+/-5 mm Hg in animals that had received epinephrine versus 20+/-11 mm Hg in those that had received saline placebo. The coronary perfusion pressure during infusion increased by 52+/-8 mm Hg in animals that had received epinephrine versus 26+/-10 mm Hg in those that had received saline. Only 2 of 7 animals in the placebo group had return of spontaneous circulation versus 7 of 8 in the epinephrine group."
+        ],
+        "LABELS": [
+            "STUDY OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adrenergic Agonists",
+            "Animals",
+            "Aorta",
+            "Blood Pressure",
+            "Cardiopulmonary Resuscitation",
+            "Coronary Circulation",
+            "Dogs",
+            "Epinephrine",
+            "Heart Arrest",
+            "Injections, Intra-Arterial",
+            "Prospective Studies",
+            "Random Allocation",
+            "Vasoconstrictor Agents"
+        ],
+        "YEAR": "1999",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The addition of epinephrine to ACLS-SAPO increases vital organ perfusion pressures and improves outcome from cardiac arrest. There appears to be a profound loss of arterial vasomotor tone after prolonged arrest. This loss of vasomotor tone may make exogenous pressors necessary for resuscitation after prolonged cardiac arrest."
+    },
+    "20684175": {
+        "QUESTION": "Vitamin D supplementation and regulatory T cells in apparently healthy subjects: vitamin D treatment for autoimmune diseases?",
+        "CONTEXTS": [
+            "Epidemiological data show significant associations of vitamin D deficiency and autoimmune diseases. Vitamin D may prevent autoimmunity by stimulating naturally occurring regulatory T cells.",
+            "To elucidate whether vitamin D supplementation increases Tregs frequency (%Tregs) within circulating CD4+ T cells.",
+            "We performed an uncontrolled vitamin D supplementation trial among 50 apparently healthy subjects including supplementation of 140,000 IU at baseline and after 4 weeks (visit 1). The final follow-up visit was performed 8 weeks after the baseline examination (visit 2). Blood was drawn at each study visit to determine 25-hydroxyvitamin D levels and %Tregs. Tregs were characterized as CD4+CD25++ T cells with expression of the transcription factor forkhead box P3 and low or absent expression of CD127.",
+            "Forty-six study participants (65% females, mean age +/- SD 31 +/- 8 years) completed the trial. 25(OH)D levels increased from 23.9 +/- 12.9 ng/ml at baseline to 45.9 +/- 14.0 ng/ml at visit 1 and 58.0 +/- 15.1 ng/ml at visit 2. %Tregs at baseline were 4.8 +/- 1.4. Compared to baseline levels we noticed a significant increase of %Tregs at study visit 1 (5.9 +/- 1.7, P<0.001) and 2 (5.6 +/- 1.6, P<0.001)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "C-Reactive Protein",
+            "CD4 Lymphocyte Count",
+            "CD4-Positive T-Lymphocytes",
+            "Calcium",
+            "Dietary Supplements",
+            "Female",
+            "Follow-Up Studies",
+            "Forkhead Transcription Factors",
+            "Humans",
+            "Immunologic Factors",
+            "Interleukin-2 Receptor alpha Subunit",
+            "Interleukin-7 Receptor alpha Subunit",
+            "Male",
+            "Pilot Projects",
+            "T-Lymphocytes, Regulatory",
+            "Vitamin D",
+            "Vitamins"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Vitamin D supplementation was associated with significantly increased %Tregs in apparently healthy individuals. This immunomodulatory effect of vitamin D might underlie the associations of vitamin D deficiency and autoimmune diseases. Hence, our finding provides a rationale for further studies to investigate vitamin D effects on autoimmunological processes."
+    },
+    "19653482": {
+        "QUESTION": "Do familiar teammates request and accept more backup?",
+        "CONTEXTS": [
+            "The present study investigated factors that explain when and why different groups of teammates are more likely to request and accept backup from one another when needed in an environment characterized by extreme time pressure and severe consequences of error: commercial air traffic control (ATC).",
+            "Transactive memory theory states that teammates develop consensus regarding the distribution of their relative expertise as well as confidence in that expertise over time and that this facilitates coordination processes. The present study investigated whether this theory could help to explain between-team differences in requesting and accepting backup when needed.",
+            "The present study used cross-sectional data collected from 51 commercial ATC teams. Hypotheses were tested using multiple regression analysis.",
+            "Teammates with greater experience working together requested and accepted backup from one another more than those with lesser experience working together. Teammate knowledge consensus and perceived team efficacy appear to have mediated this relationship."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "BACKGROUND",
+            "METHOD",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aviation",
+            "Efficiency, Organizational",
+            "Humans",
+            "Institutional Management Teams",
+            "Interprofessional Relations",
+            "Memory",
+            "Professional Competence",
+            "Regression Analysis",
+            "Task Performance and Analysis"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Transactive memory theory extends to high-stress environments in which members' expertise is highly overlapping. Teammates' shared mental models about one another increase the likelihood that they will request and accept backup."
+    },
+    "21398266": {
+        "QUESTION": "Do symptoms matter when considering patients for phase I clinical trials?",
+        "CONTEXTS": [
+            "Older adults (OA) with advanced cancer (AC) undergoing phase I clinical trials (PICT) have poor prognosis. There are no studies which describe symptoms experienced by OA.",
+            "Retrospective chart review of PICT participants>60 years. OA were compared by age (>65 vs 60-65) and by number of symptoms (>3 vs \u22643).",
+            "N = 56. Mean age = 67.09; 48.21% female. Median life-expectancy = 5 months (interquartile range = 2-9 months); 80.36% had pain; of those 64% without pain scale. Most did not have interdisciplinary professionals or hospice referrals. Older adults with>3 symptoms had more admissions (37.5% vs 14.29%; P = .0335), complications (46.43% vs 16.07%; P = .0026), and greater decline in functional status (24 participants>3 symptoms vs 8; P = .0173). There were no significant differences comparing OA by age."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Clinical Protocols",
+            "Clinical Trials, Phase I as Topic",
+            "Female",
+            "Health Status",
+            "Humans",
+            "Life Expectancy",
+            "Male",
+            "Middle Aged",
+            "Neoplasms",
+            "Pain",
+            "Patient Admission",
+            "Patient Selection",
+            "Pilot Projects",
+            "Quality of Life",
+            "Research Design",
+            "Retrospective Studies"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Older adults enrolled in PICT with more symptoms may sacrifice QOL for experimental treatment."
+    },
+    "18403945": {
+        "QUESTION": "Does laparoscopic antireflux surgery improve quality of life in patients whose gastro-oesophageal reflux disease is well controlled with medical therapy?",
+        "CONTEXTS": [
+            "Both medical therapy and laparoscopic antireflux surgery have been shown to improve quality of life in gastro-oesophageal reflux disease. Although patients with poor symptom control or side effects on medical therapy might be expected to have improved quality of life after surgery, our aim was to determine, for the first time, whether patients whose symptoms are well controlled on medical therapy but who decide to undergo surgery (patient preference) would experience improved quality of life.",
+            "Retrospective analysis of our patient database (1998-2003, n=313) identified 60 patients who underwent laparoscopic antireflux surgery for the indication of patient preference. Two generic quality-of-life questionnaires (Short Form 36 and Psychological General Well-Being index) and a gastrointestinal symptom questionnaire (Gastrointestinal Symptom Rating Scale) were completed preoperatively, while on medical therapy, and 6 months after surgery.",
+            "Thirty-eight patients completed all three questionnaires at both time intervals: 31 males, seven females; mean age 42 (15-66) years. Preoperative scores while on medical therapy were significantly improved after surgery: Short Form 36 median physical composite scores 52.0 and 54.0 (P=0.034) and mental composite scores 51.0 and 56.0 (P=0.020); Psychological General Well-Being median total scores 78.0 and 90.0 (P=0.0001); Gastrointestinal Symptom Rating Scale median total scores 2.13 and 1.73 (P=0.0007) and reflux scores 2.50 and 1.00 (P<0.0001)."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Female",
+            "Gastroesophageal Reflux",
+            "Humans",
+            "Laparoscopy",
+            "Male",
+            "Middle Aged",
+            "Patient Satisfaction",
+            "Proton Pump Inhibitors",
+            "Psychometrics",
+            "Quality of Life",
+            "Retrospective Studies",
+            "Severity of Illness Index",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Laparoscopic antireflux surgery significantly improved quality of life in reflux patients whose symptoms were well controlled on medical therapy. Although on the basis of a noncomparative trial with a relatively short follow-up period, we believe such patients should be considered for laparoscopic antireflux surgery."
+    },
+    "25885219": {
+        "QUESTION": "Maternal creatine homeostasis is altered during gestation in the spiny mouse: is this a metabolic adaptation to pregnancy?",
+        "CONTEXTS": [
+            "Pregnancy induces adaptations in maternal metabolism to meet the increased need for nutrients by the placenta and fetus. Creatine is an important intracellular metabolite obtained from the diet and also synthesised endogenously. Experimental evidence suggests that the fetus relies on a maternal supply of creatine for much of gestation. However, the impact of pregnancy on maternal creatine homeostasis is unclear. We hypothesise that alteration of maternal creatine homeostasis occurs during pregnancy to ensure adequate levels of this essential substrate are available for maternal tissues, the placenta and fetus. This study aimed to describe maternal creatine homeostasis from mid to late gestation in the precocial spiny mouse.",
+            "Plasma creatine concentration and urinary excretion were measured from mid to late gestation in pregnant (n = 8) and age-matched virgin female spiny mice (n = 6). At term, body composition and organ weights were assessed and tissue total creatine content determined. mRNA expression of the creatine synthesising enzymes arginine:glycine amidinotransferase (AGAT) and guanidinoacetate methyltransferase (GAMT), and the creatine transporter (CrT1) were assessed by RT-qPCR. Protein expression of AGAT and GAMT was also assessed by western blot analysis.",
+            "Plasma creatine and renal creatine excretion decreased significantly from mid to late gestation (P<0.001, P<0.05, respectively). Pregnancy resulted in increased lean tissue (P<0.01), kidney (P<0.01), liver (P<0.01) and heart (P<0.05) mass at term. CrT1 expression was increased in the heart (P<0.05) and skeletal muscle (P<0.05) at term compared to non-pregnant tissues, and creatine content of the heart (P<0.05) and kidney (P<0.001) were also increased at this time. CrT1 mRNA expression was down-regulated in the liver (<0.01) and brain (<0.01) of pregnant spiny mice at term. Renal AGAT mRNA (P<0.01) and protein (P<0.05) expression were both significantly up-regulated at term, with decreased expression of AGAT mRNA (<0.01) and GAMT protein (<0.05) observed in the term pregnant heart. Brain AGAT (<0.01) and GAMT (<0.001) mRNA expression were also decreased at term."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Amidinotransferases",
+            "Animals",
+            "Blotting, Western",
+            "Creatine",
+            "Female",
+            "Gene Expression Regulation",
+            "Guanidinoacetate N-Methyltransferase",
+            "Homeostasis",
+            "Membrane Transport Proteins",
+            "Murinae",
+            "Pregnancy",
+            "RNA, Messenger",
+            "Reverse Transcriptase Polymerase Chain Reaction"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Change of maternal creatine status (increased creatine synthesis and reduced creatine excretion) may be a necessary adjustment of maternal physiology to pregnancy to meet the metabolic demands of maternal tissues, the placenta and developing fetus."
+    },
+    "24172579": {
+        "QUESTION": "Does sex influence the response to intravenous thrombolysis in ischemic stroke?",
+        "CONTEXTS": [
+            "Women are more likely to have a worse outcome after an acute stroke than men. Some studies have suggested that women also benefit less from intravenous thrombolysis after an acute ischemic stroke, but others found no sex differences in safety and efficacy. We aimed to evaluate differences in 3-month outcome between sexes in intravenous tissue-type plasminogen activator-treated patients registered in the Safe Implementation of Treatments in Stroke-International Stroke Thrombolysis Register.",
+            "A total of 45 079 patients treated with intravenous alteplase were recorded from 2002 to 2011. Main outcome measures were symptomatic intracerebral hemorrhage, functional independence (modified Rankin Scale score, 0-2), and mortality at 3 months.",
+            "Among 25 777 (57.2%) men and 19 302 (42.8%) women, we found no difference in the rate of symptomatic intracerebral hemorrhage (P=0.13), a significantly higher likelihood of functional independence at 3 months in men (P<0.0001) and a higher mortality in women when compared with men (P<0.00001). After adjustment for confounding variables, we did not observe any difference between sexes in functional outcome (odds ratio, 1.03; 95% confidence interval, 0.97-1.09; P=0.39), whereas male sex was related to a higher risk of mortality (odds ratio, 1.19; 95% confidence interval, 1.10-1.29; P=0.00003) and symptomatic intracerebral hemorrhage (odds ratio, 1.25, 95% confidence interval, 1.04-1.51; P=0.02)."
+        ],
+        "LABELS": [
+            "BACKGROUND AND PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Administration, Intravenous",
+            "Aged",
+            "Aged, 80 and over",
+            "Body Weight",
+            "Brain Ischemia",
+            "Female",
+            "Fibrinolytic Agents",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Registries",
+            "Sex Factors",
+            "Stroke",
+            "Thrombolytic Therapy",
+            "Tissue Plasminogen Activator",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Data from Safe Implementation of Treatments in Stroke-International Stroke Thrombolysis Register suggest that intravenous thrombolysis may modify the observed survival and recovery advantage for men expected in the natural course of an ischemic stroke, with a possible larger beneficial treatment effect in women when compared with men."
+    },
+    "27448572": {
+        "QUESTION": "Is duration of psychological treatment for depression related to return into treatment?",
+        "CONTEXTS": [
+            "There is increasing pressure on mental health providers to reduce the duration of treatments, while retaining level of quality and effectiveness. The risk is that the population is underserved and therefore needs new treatment episodes. The primary aim of this study was to investigate whether duration of treatment and return into mental health care were related.",
+            "This study examined Dutch patients with an initial treatment episode in 2009 or 2010 in specialized mental health settings for depressive disorder (N\u00a0=\u00a085,754). Follow-up data about treatment episodes were available up until 2013. The data set included demographic (age, gender), and clinical factors (comorbidity with other DSM-IV Axis; scores on the 'Global Assessment of Functioning'). Cox regression analyses were used to assess whether duration of treatment and relapse into mental health care were related.",
+            "The majority of patients did not return into mental health care (86\u00a0%). Patients with a shorter duration of treatment (5-250\u00a0min; 251-500\u00a0min and 751-1000\u00a0min) were slightly more likely to return (reference group:>1000\u00a0min) (HR 1.19 95\u00a0% CI 1.13-1.26; HR 1.11 95\u00a0% CI 1.06-1.17; HR 1.18 95\u00a0% CI 1.11-1.25), adjusted for demographic and clinical variables."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Depression",
+            "Depressive Disorder",
+            "Diagnostic and Statistical Manual of Mental Disorders",
+            "Female",
+            "Humans",
+            "Male",
+            "Mental Health Services",
+            "Middle Aged",
+            "Psychotherapy",
+            "Recurrence",
+            "Time Factors"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The results suggest that a longer duration of treatment may prevent return into mental health care in some groups. However, because of the design of the study, no causal inference can be drawn. Further research, preferably in a RCT, is needed to determine whether the trend towards lower intensity treatments is associated with repeated mental health care use."
+    },
+    "19131405": {
+        "QUESTION": "Diffusion-weighted echo-planar MR imaging of primary parotid gland tumors: is a prediction of different histologic subtypes possible?",
+        "CONTEXTS": [
+            "Our aim was to determine the value of echo-planar diffusion-weighted MR imaging (epiDWI) in differentiating various types of primary parotid gland tumors.",
+            "One hundred forty-nine consecutive patients with suspected tumors of the parotid gland were examined with an epiDWI sequence by using a 1.5T unit. Image analysis was performed by 2 radiologists independently, and the intraclass correlation coefficient was computed. Histologic diagnosis was obtained in every patient. For comparison of apparent diffusion coefficients (ADCs), a paired 2-tailed Student t test with a Bonferroni correction was used.",
+            "In 136 patients, a primary parotid gland tumor was confirmed by histology. Among the observers, a high correlation was calculated (0.98). ADC values of pleomorphic adenomas were significantly higher than those of all other entities, except for myoepithelial adenomas (P = .054). ADC values of Warthin tumors were different from those of myoepithelial adenomas, lipomas, and salivary duct carcinomas (P<.001, 0.013, and .037, respectively). Mucoepidermoid carcinomas, acinic cell carcinomas, and basal cell adenocarcinomas were not differentiable from Warthin tumors (P = .094, .396, and .604, respectively)."
+        ],
+        "LABELS": [
+            "BACKGROUND AND PURPOSE",
+            "MATERIALS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adenolymphoma",
+            "Adenoma, Pleomorphic",
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Carcinoma, Basal Cell",
+            "Carcinoma, Mucoepidermoid",
+            "Diagnosis, Differential",
+            "Echo-Planar Imaging",
+            "Female",
+            "Humans",
+            "Lipoma",
+            "Male",
+            "Middle Aged",
+            "Myoepithelioma",
+            "Parotid Gland",
+            "Prospective Studies",
+            "Salivary Gland Neoplasms",
+            "Young Adult"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "epiDWI has the potential to differentiate pleomorphic adenoma and myoepithelial adenomas from all other examined entities. Due to an overlap not only within the group of benign and malignant lesions but also between groups, diagnoses should not be addressed on the basis of ADC values solely. Therefore, further studies combining DWI, morphologic criteria, and probably other MR imaging techniques seem warranted."
+    },
+    "24519615": {
+        "QUESTION": "Does patella position influence ligament balancing in total knee arthroplasty?",
+        "CONTEXTS": [
+            "In vivo comparative gap measurements were performed in three different patella positions (reduced, subluxated and everted) using offset-type-force-controlled-spreader-system.",
+            "Prospectively, 50 knees were operated by total knee arthroplasty using a navigation-assisted gap-balancing technique. The offset-type-force-controlled-spreader-system was used for gap measurements. This commercially available instrument allows controllable tension in patella-reduced position. The mediolateral gaps of knee extension (0\u00b0) and flexion (90\u00b0) angle were recorded in three different patella positions; reduced, subluxated and everted. Any gap differences of more than 3 mm were considered as a meaningful difference. Correlation between the difference with the demographic data, preoperative radiologic alignment and intraoperative data was analysed. For statistical analysis, ANOVA and Pearson's correlation test were used.",
+            "The gaps in patella eversion demonstrated smaller gaps both in knee extension and flexion position compared to the gaps of patella reduction position. The amount of decreased gaps was more definite in knee flexion position. Statistically significant difference was observed for the lateral gap of patella eversion compared to gap of patella reduction in knee flexion position (p<0.05). There were notable cases of variability in knee flexion position. Significant portion of 12 (24 %) knees of patella subluxation and 33 (66 %) knees of patella evertion demonstrated either increased or decreased gaps in knee flexion position compared to the gaps of patella reduction position."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Arthroplasty, Replacement, Knee",
+            "Body Weights and Measures",
+            "Female",
+            "Genu Varum",
+            "Humans",
+            "Knee Joint",
+            "Male",
+            "Osteoarthritis, Knee",
+            "Patella",
+            "Patellar Ligament",
+            "Range of Motion, Articular",
+            "Surgery, Computer-Assisted"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The gaps in patella eversion demonstrated smaller gaps both in knee extension and flexion position compared to the gaps of patella reduction position. The amount of decreased gaps was more definite in knee flexion position. Therefore, the intraoperative patellar positioning has influence on the measurement of the joint gap. Keeping the patella in reduced position is important during gap balancing."
+    },
+    "26222664": {
+        "QUESTION": "The Deformity Angular Ratio: Does It Correlate With High-Risk Cases for Potential Spinal Cord Monitoring Alerts in Pediatric 3-Column Thoracic Spinal Deformity Corrective Surgery?",
+        "CONTEXTS": [
+            "A retrospective analysis.",
+            "The purpose of this study was to determine whether the deformity angular ratio (DAR) can reliably assess the neurological risks of patients undergoing deformity correction.",
+            "Identifying high-risk patients and procedures can help ensure that appropriate measures are taken to minimize neurological complications during spinal deformity corrections. Subjectively, surgeons look at radiographs and evaluate the riskiness of the procedure. However, 2 curves of similar magnitude and location can have significantly different risks of neurological deficit during surgery. Whether the curve spans many levels or just a few can significantly influence surgical strategies. Lenke et al have proposed the DAR, which is a measure of curve magnitude per level of deformity.",
+            "The data from 35 pediatric spinal deformity correction procedures with thoracic 3-column osteotomies were reviewed. Measurements from preoperative radiographs were used to calculate the DAR. Binary logistic regression was used to model the relationship between DARs (independent variables) and presence or absence of an intraoperative alert (dependent variable).",
+            "In patients undergoing 3-column osteotomies, sagittal curve magnitude and total curve magnitude were associated with increased incidence of transcranial motor evoked potential changes. Total DAR greater than 45\u00b0 per level and sagittal DAR greater than 22\u00b0 per level were associated with a 75% incidence of a motor evoked potential alert, with the incidence increasing to 90% with sagittal DAR of 28\u00b0 per level."
+        ],
+        "LABELS": [
+            "STUDY DESIGN",
+            "OBJECTIVE",
+            "SUMMARY OF BACKGROUND DATA",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Electromyography",
+            "Evoked Potentials, Motor",
+            "Evoked Potentials, Somatosensory",
+            "Humans",
+            "Intraoperative Neurophysiological Monitoring",
+            "Kyphosis",
+            "Osteotomy",
+            "Radiography",
+            "Retrospective Studies",
+            "Risk Assessment",
+            "Spinal Cord Injuries",
+            "Spinal Curvatures",
+            "Spine"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "In patients undergoing 3-column osteotomies for severe spinal deformities, the DAR was predictive of patients developing intraoperative motor evoked potential alerts. Identifying accurate radiographical, patient, and procedural risk factors in the correction of severe deformities can help prepare the surgical team to improve safety and outcomes when carrying out complex spinal corrections."
+    },
+    "17312514": {
+        "QUESTION": "Does quilting suture prevent seroma in abdominoplasty?",
+        "CONTEXTS": [
+            "Seroma is the most frequent complication in abdominoplasty. Some patients are more prone to develop this complication. Ultrasound is a well-known method with which to diagnose seroma in the abdominal wall. The purpose of this study was to verify the efficacy of the use of quilting suture to prevent seroma.",
+            "Twenty-one female patients who presented with abdominal deformity type III/A according to the authors' classification of abdominal skin and myoaponeurotic deformity had undergone abdominoplasty. The selected patients should have had at least one of the following characteristics: body mass index greater than 25 kg/m; weight loss greater than 10 kg; previous incision in the supraumbilical region; or present thinning of the subcutaneous in the area above the umbilicus. Ultrasound was performed for every patient from 15 to 18 days after the operation to search for fluid collection in the abdominal wall.",
+            "The average fluid collection found was 8.2 cc per patient. Only two patients underwent aspiration because ultrasound showed greater than 20 cc collected above the fascial layer. These patients did not present with recurrence of seroma after aspiration."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Abdominal Wall",
+            "Cosmetic Techniques",
+            "Female",
+            "Humans",
+            "Postoperative Complications",
+            "Seroma",
+            "Suture Techniques",
+            "Ultrasonography"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "The quilting suture seems to be an efficient technique with which to prevent seroma formation."
+    },
+    "27050505": {
+        "QUESTION": "Does angiotensin-converting enzyme-1 (ACE-1) gene polymorphism lead to chronic kidney disease among hypertensive patients?",
+        "CONTEXTS": [
+            "Hypertension is one of the important contributing factors linked with both causation and development of kidney disease. It is a multifactorial, polygenic, and complex disorder due to interaction of several risk genes with environmental factors. The present study was aimed to explore genetic polymorphism in ACE-1 gene as a risk factor for CKD among hypertensive patients.",
+            "Three hundred patients were enrolled in the study. Ninety were hypertensive patients with CKD taken as cases, whereas 210 hypertensive patients without CKD were taken as controls. Demographic data including age, sex, Body mass index (BMI), and other risk factors were also recorded. DNA was extracted from blood by salting out method. Genotyping of ACE gene was done by PCR technique. All the statistical analysis was done by using Epi Info and SPSS version 16 software (SPSS Inc., Chicago, IL).",
+            "Mean age was higher in the control group (p\u2009<\u20090.05). Variables among two groups were compared out of which age, BMI, hemoglobin (Hb) was found to be statistically significant whereas other variables like systolic blood pressure, triglyceride and low-density lipoprotein were not. Blood urea and serum creatinine levels were statistically significant in the two genotypes (p\u2009<\u20090.05). Total and HDL cholesterol were statistically significant for DD genotype of ACE gene (OR\u2009=\u20091.42, 95% CI\u2009=\u20090.72-2.81). Similarly, the risk for CKD among hypertensive patients was also associated with D allele of ACE gene (OR\u2009=\u20091.25, 95% CI\u2009=\u20090.86-1.79)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Female",
+            "Gene-Environment Interaction",
+            "Genetic Predisposition to Disease",
+            "Humans",
+            "Hypertension",
+            "Kidney Function Tests",
+            "Male",
+            "Middle Aged",
+            "Peptidyl-Dipeptidase A",
+            "Polymorphism, Genetic",
+            "Renal Insufficiency, Chronic"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "It is concluded that ACE-DD genotype may be a risk factor for the causation and development of chronic kidney failure among hypertensive patients."
+    },
+    "22519710": {
+        "QUESTION": "Will clinical studies elucidate the connection between the length of storage of transfused red blood cells and clinical outcomes?",
+        "CONTEXTS": [
+            "The temporal pattern of the biologic mechanism linking red blood cell (RBC) storage duration with clinical outcomes is yet unknown. This study investigates how such a temporal pattern can affect the power of randomized controlled trials (RCT) to detect a relevant clinical outcome mediated by the transfusion of stored RBCs.",
+            "This study was a computer simulation of four RCTs, each using a specific categorization of the RBC storage time. The trial's endpoint was evaluated assuming five hypothetical temporal patterns for the biologic mechanism linking RBC storage duration with clinical outcomes.",
+            "Power of RCTs to unveil a significant association between RBC storage duration and clinical outcomes was critically dependent on a complex interaction among three factors: 1) the way the RBC storage time is categorized in the trial design, 2) the temporal pattern assumed for the RBC storage lesion, and 3) the age distribution of RBCs in the inventory from which they are picked up for transfusion. For most combinations of these factors, the power of RCTs to detect a significant treatment effect was below 80%. All the four simulated RCTs had a very low power to disclose a harmful clinical effect confined to last week of the maximum 42-day shelf life of stored RBCs."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "STUDY DESIGN AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Blood Preservation",
+            "Computer Simulation",
+            "Erythrocyte Transfusion",
+            "Erythrocytes",
+            "Humans",
+            "Randomized Controlled Trials as Topic",
+            "Time Factors"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Ongoing RCTs may lack enough power to settle the issue of whether or not the transfusion of stored blood has a negative clinical impact. A precautionary reduction of the maximum storage time to 35 days is advisable."
+    },
+    "19643525": {
+        "QUESTION": "Can vaginal pH be measured from the wet mount slide?",
+        "CONTEXTS": [
+            "To assess the accuracy of vaginal pH measurement on wet mount microscopy slides compared with direct measurements on fresh vaginal fluid. We also tested whether differences in accuracy were dependent on the sampling devices used or on the diagnosis of the vaginal infections.",
+            "Using a cotton swab, cytobrush or wooden spatula a vaginal fluid specimen was collected from 84 consecutive women attending a vulvo-vaginitis clinic. A pH strip (pH range 4-7, Merck) was brought in contact with the vaginal fluid on the sampling device and on the glass slide after adding one droplet of saline and performing microscopy by two different people unaware of the microscopy results of the clinical exam. Values were compared by Fisher exact and Student's t-tests.",
+            "pH measurement from microscopy slides after the addition of saline causes systematic increases of pH leading to false positive readings. This is true for all types of disturbance of the flora and infections studied, and was seen in the abnormal as well as in the normal or intermediate pH range."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "STUDY DESIGN",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Body Fluids",
+            "False Positive Reactions",
+            "Female",
+            "Humans",
+            "Hydrogen-Ion Concentration",
+            "Microscopy",
+            "Middle Aged",
+            "Sodium Chloride",
+            "Vagina",
+            "Vaginal Smears",
+            "Vaginitis"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "yes",
+        "final_decision": "no",
+        "LONG_ANSWER": "Vaginal pH should be measured by bringing the pH strip in direct contact with fresh vaginal fluid without first adding saline."
+    },
+    "23052500": {
+        "QUESTION": "Staging laparoscopy in patients with hepatocellular carcinoma: is it useful?",
+        "CONTEXTS": [
+            "Staging laparoscopy (SL) is not regularly performed for patients with hepatocellular carcinoma (HCC). It may change treatment strategy, preventing unnecessary open exploration. An additional advantage of SL is possible biopsy of the nontumorous liver to assess fibrosis/cirrhosis. This study aimed to determine whether SL for patients with HCC still is useful.",
+            "Patients with HCC who underwent SL between January 1999 and December 2011 were analyzed. Their demographics, preoperative imaging studies, surgical findings, and histology were assessed.",
+            "The 56 patients (34 men and 22 women; mean age, 60 \u00b1 14 years) in this study underwent SL for assessment of extensive disease or metastases. For two patients, SL was unsuccessful because of intraabdominal adhesions. For four patients (7.1 %), SL showed unresectability because of metastases (n = 1), tumor progression (n = 1), or severe cirrhosis in the contralateral lobe (n = 2). An additional five patients did not undergo laparotomy due to disease progression detected on imaging after SL. Exploratory laparotomy for the remaining 47 patients showed 6 (13 %) additional unresectable tumors due to advanced tumor (n = 5) or nodal metastases (n = 1). Consequently, the yield of SL was 7 % (95 % confidence interval (CI), 3-17 %), and the accuracy was 27 % (95 % CI, 11-52 %). A biopsy of the contralateral liver was performed for 45 patients who underwent SL, leading to changes in management for 4 patients (17 %) with cirrhosis."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Carcinoma, Hepatocellular",
+            "Female",
+            "Humans",
+            "Laparoscopy",
+            "Laparotomy",
+            "Liver Cirrhosis",
+            "Liver Neoplasms",
+            "Magnetic Resonance Imaging",
+            "Male",
+            "Middle Aged",
+            "Neoplasm Metastasis",
+            "Neoplasm Recurrence, Local",
+            "Neoplasm Staging",
+            "Tomography, X-Ray Computed"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "The overall yield of SL for HCC was 7 %, and the accuracy was 27 %. When accurate imaging methods are available and additional percutaneous liver biopsy is implemented as a standard procedure in the preoperative workup of patients with HCC, the benefit of SL will become even less."
+    },
+    "8200238": {
+        "QUESTION": "Must early postoperative oral intake be limited to laparoscopy?",
+        "CONTEXTS": [
+            "This prospective, randomized study was designed to evaluate whether or not early postoperative feeding (claimed as a unique benefit of laparoscopic surgery) is possible after laparotomy and colorectal resection.",
+            "The trial was performed between July 1, 1992 and October 31, 1992 and included all 64 consecutive patients who underwent laparotomy with either a colonic or an ileal resection. In all cases the nasogastric tube was removed immediately after the operation. Group 1 consisted of 32 patients (age range, 15-81 years; mean, 52 years) who received a regular diet on the first postoperative morning. Group 2 consisted of 32 patients (age range, 15-87 years; mean, 52 years) who were fed in a traditional manner. Regular food was permitted after resolution of ileus as defined by resumption of bowel movements in the absence of abdominal distention, nausea, or vomiting.",
+            "The rate of nasogastric tube reinsertion for distention with persistent vomiting was 18.7 percent (six patients) in Group 1 and 12.5 percent (four patients) in Group 2. Although vomiting was experienced more frequently by patients in Group 1 (44 percent vs. 25 percent, respectively), there was no difference between the two groups with regard to the duration of postoperative ileus (3.6 vs. 3.4 days, respectively). In the 26 patients from Group 1 who did not require nasogastric tube reinsertion, there was a trend toward shorter hospitalization (6.7 vs. 8.0 days, respectively)."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Eating",
+            "Female",
+            "Humans",
+            "Intestinal Obstruction",
+            "Intestines",
+            "Intubation, Gastrointestinal",
+            "Laparoscopy",
+            "Length of Stay",
+            "Male",
+            "Middle Aged",
+            "Postoperative Care",
+            "Postoperative Complications",
+            "Prospective Studies",
+            "Vomiting"
+        ],
+        "YEAR": "1994",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Early oral intake is possible after laparotomy and colorectal resection. Thus, the laparoscopic surgeon's claim of early tolerated oral intake may not be unique to laparoscopy."
+    },
+    "10575390": {
+        "QUESTION": "Do follow-up recommendations for abnormal Papanicolaou smears influence patient adherence?",
+        "CONTEXTS": [
+            "To compare adherence to follow-up recommendations for colposcopy or repeated Papanicolaou (Pap) smears for women with previously abnormal Pap smear results.",
+            "Retrospective cohort study.",
+            "Three northern California family planning clinics.",
+            "All women with abnormal Pap smear results referred for initial colposcopy and a random sample of those referred for repeated Pap smear. Medical records were located and reviewed for 90 of 107 women referred for colposcopy and 153 of 225 women referred for repeated Pap smears.",
+            "Routine clinic protocols for follow-up--telephone call, letter, or certified letter--were applied without regard to the type of abnormality seen on a Pap smear or recommended examination.",
+            "Documented adherence to follow-up within 8 months of an abnormal result. Attempts to contact the patients for follow-up, adherence to follow-up recommendations, and patient characteristics were abstracted from medical records. The probability of adherence to follow-up vs the number of follow-up attempts was modeled with survival analysis. Cox proportional hazards models were used to examine multivariate relationships related to adherence.",
+            "The rate of overall adherence to follow-up recommendations was 56.0% (136/243). Adherence to a second colposcopy was not significantly different from that to a repeated Pap smear (odds ratio, 1.40; 95% confidence interval, 0.80-2.46). The use of as many as 3 patient reminders substantially improved adherence to follow-up. Women without insurance and women attending 1 of the 3 clinics were less likely to adhere to any follow-up recommendation (hazard ratio for no insurance, 0.43 [95% confidence interval, 0.20-0.93], and for clinic, 0.35 [95% confidence interval, 0.15-0.73])."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "DESIGN",
+            "SETTING",
+            "PATIENTS",
+            "INTERVENTION",
+            "MAIN OUTCOME MEASURES",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Aged",
+            "Cervix Uteri",
+            "Colposcopy",
+            "Female",
+            "Humans",
+            "Middle Aged",
+            "Papanicolaou Test",
+            "Patient Compliance",
+            "Retrospective Studies",
+            "Uterine Cervical Neoplasms",
+            "Vaginal Smears"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Adherence to follow-up was low in this family planning clinic population, no matter what type of follow-up was advised. Adherence was improved by the use of up to 3 reminders. Allocating resources to effective methods for improving adherence to follow-up of abnormal results may be more important than which follow-up procedure is recommended."
+    },
+    "24973051": {
+        "QUESTION": "Medical student education in emergency medicine: do students meet the national standards for clinical encounters of selected core conditions?",
+        "CONTEXTS": [
+            "Establishing a core curriculum for undergraduate Emergency Medicine (EM) education is crucial to development of the specialty. The Clerkship Directors in Emergency Medicine (CDEM) National Curriculum Task Force recommended that all students in a 4(th)-year EM clerkship be exposed to 10 emergent clinical conditions.",
+            "To evaluate the feasibility of encountering recommended core conditions in a clinical setting during a 4(th)-year EM clerkship.",
+            "Students from three institutions participated in this ongoing, prospective observation study. Students' patient logs were collected during 4-week EM clerkships between July 2011 and June 2012. De-identified logs were reviewed and the number of patient encounters for each of the CDEM-identified emergent conditions was recorded. The percentage of students who saw each of the core complaints was calculated, as was the average number of core complaints seen by each.",
+            "Data from 130 students at three institutions were captured; 15.4% of students saw all 10 conditions during their rotation, and 76.9% saw at least eight. The average number of conditions seen per student was 8.4 (range of 7.0-8.6). The percentage of students who saw each condition varied, ranging from 100% (chest pain and abdominal pain) to 31% (cardiac arrest)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Clinical Clerkship",
+            "Curriculum",
+            "Education, Medical, Undergraduate",
+            "Emergency Medicine",
+            "Feasibility Studies",
+            "Humans",
+            "Prospective Studies"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Most students do not encounter all 10 conditions during patient encounters throughout a 4-week EM rotation, although most have exposure to at least eight. Certain conditions are far less likely than others to be encountered, and may need to be taught in a nonclinical setting."
+    },
+    "17502203": {
+        "QUESTION": "Cholestasis associated with small bowel atresia: do we always need to investigate?",
+        "CONTEXTS": [
+            "Cholestasis occurs frequently in patients with small bowel atresia (SBA) and is often attributed to prolonged parental nutrition. When severe or prolonged, patients may undergo unnecessary intensive or invasive investigation. We characterized cholestasis and analyzed the pertinence of investigating this patient population.",
+            "With Research Ethics Board approval, patients with SBA between 1996 and 2005 were retrospectively reviewed. Demographics, location of atresia, operative findings, complications, investigations, resumption of feeding, duration of prolonged parental nutrition, and follow-up information were examined. Cholestasis was evaluated for incidence, severity, and evolution.",
+            "Fifty-five patients (29 male, 26 female), with a median gestational age and birth weight of 36 weeks and 2025 g, respectively, were reviewed. Care was withdrawn for 2 patients before repair. For the remaining 53 patients, SBA were duodenal atresia in 18, jejunoileal atresia in 32, and multiple atresia in 3. Of 53, 24 (45%) patients developed cholestasis postoperatively (direct/total bilirubin>20%). All patients with short bowel (4) and 60% (6/10) of patients with a delay of enteral feeding more than 14 days postoperatively had cholestasis. Ten patients (36%) proceeded with in-depth evaluations for cholestasis, with 8 (28%) undergoing liver biopsy. No patient had biliary atresia. No deaths were related to isolated cholestasis/cirrhosis. Cholestasis resolved spontaneously in all the survivors."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Cholestasis",
+            "Female",
+            "Gestational Age",
+            "Humans",
+            "Incidence",
+            "Infant, Newborn",
+            "Infant, Premature",
+            "Intestinal Atresia",
+            "Intestine, Small",
+            "Male",
+            "Parenteral Nutrition",
+            "Retrospective Studies",
+            "Risk Factors"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Small bowel atresia is frequently associated with postoperative cholestasis that will resolve with time. We recommend a more selective and expectant approach to SBA-associated cholestasis to minimize unnecessary investigations."
+    },
+    "9446993": {
+        "QUESTION": "Can dentists recognize manipulated digital radiographs?",
+        "CONTEXTS": [
+            "To determine the ability of dentists to recognize digitally manipulated radiographs.",
+            "A poster was presented at the Annual Meeting of the German Society for Periodontology displaying the intra-oral radiographs of 12 different patients. Half of the radiographs were subjected to digital manipulation to add or remove specific features. Dentists were asked to identify these radiographs by means of a questionnaire.",
+            "Thirty-nine dentists submitted usable questionnaires. Statistical evaluation revealed a distribution of hits similar to the random distribution. None of the dentists detected all the six manipulated radiographs; three dentists had five correct, but there were five with only one. An authentic radiograph scored highest as a manipulation."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Clinical Competence",
+            "Dentists",
+            "Health Knowledge, Attitudes, Practice",
+            "Humans",
+            "Image Processing, Computer-Assisted",
+            "Observer Variation",
+            "Probability",
+            "Radiography, Dental, Digital",
+            "Sensitivity and Specificity",
+            "Surveys and Questionnaires"
+        ],
+        "YEAR": "1997",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Image manipulations which alter the diagnostic content of a radiograph are unlikely to be detected by dentists. Digital radiography requires additional measures for data protection."
+    },
+    "15112004": {
+        "QUESTION": "Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?",
+        "CONTEXTS": [
+            "Little is known about the nutritional adequacy and feasibility of breastmilk replacement options recommended by WHO/UNAIDS/UNICEF. The study aim was to explore suitability of the 2001 feeding recommendations for infants of HIV-infected mothers for a rural region in KwaZulu Natal, South Africa specifically with respect to adequacy of micronutrients and essential fatty acids, cost, and preparation times of replacement milks.",
+            "Nutritional adequacy, cost, and preparation time of home-prepared replacement milks containing powdered full cream milk (PM) and fresh full cream milk (FM) and different micronutrient supplements (2 g UNICEF micronutrient sachet, government supplement routinely available in district public health clinics, and best available liquid paediatric supplement found in local pharmacies) were compared. Costs of locally available ingredients for replacement milk were used to calculate monthly costs for infants aged one, three, and six months. Total monthly costs of ingredients of commercial and home-prepared replacement milks were compared with each other and the average monthly income of domestic or shop workers. Time needed to prepare one feed of replacement milk was simulated.",
+            "When mixed with water, sugar, and each micronutrient supplement, PM and FM provided<50% of estimated required amounts for vitamins E and C, folic acid, iodine, and selenium and<75% for zinc and pantothenic acid. PM and FM made with UNICEF micronutrient sachets provided 30% adequate intake for niacin. FM prepared with any micronutrient supplement provided no more than 32% vitamin D. All PMs provided more than adequate amounts of vitamin D. Compared with the commercial formula, PM and FM provided 8-60% of vitamins A, E, and C, folic acid, manganese, zinc, and iodine. Preparations of PM and FM provided 11% minimum recommended linoleic acid and 67% minimum recommended alpha-linolenic acid per 450 ml mixture. It took 21-25 minutes to optimally prepare 120 ml of replacement feed from PM or commercial infant formula and 30-35 minutes for the fresh milk preparation. PM or FM cost approximately 20% of monthly income averaged over the first six months of life; commercial formula cost approximately 32%."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "FINDINGS"
+        ],
+        "MESHES": [
+            "HIV Infections",
+            "Humans",
+            "Infant Food",
+            "Infant, Newborn",
+            "Infectious Disease Transmission, Vertical",
+            "Milk Substitutes",
+            "South Africa",
+            "United Nations",
+            "World Health Organization"
+        ],
+        "YEAR": "2004",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "No home-prepared replacement milks in South Africa meet all estimated micronutrient and essential fatty acid requirements of infants aged<6 months. Commercial infant formula is the only replacement milk that meets all nutritional needs. Revisions of WHO/UNAIDS/UNICEF HIV and infant feeding course replacement milk options are needed. If replacement milks are to provide total nutrition, preparations should include vegetable oils, such as soybean oil, as a source of linoleic and alpha-linolenic acids, and additional vitamins and minerals."
+    },
+    "20530150": {
+        "QUESTION": "Is cholecystectomy really an indication for concomitant splenectomy in mild hereditary spherocytosis?",
+        "CONTEXTS": [
+            "Children referred with symptomatic gallstones complicating HS between April 1999 and April 2009 were prospectively identified and reviewed retrospectively. During this period, the policy was to undertake concomitant splenectomy only if indicated for haematological reasons and not simply because of planned cholecystectomy.",
+            "A total of 16 patients (mean age 10.4, range 3.7 to 16 years, 11 women) with HS and symptomatic gallstones underwent cholecystectomy. Three patients subsequently required a splenectomy for haematological reasons 0.8-2.5 years after cholecystectomy; all three splenectomies were performed laparoscopically. There were no postoperative complications in the 16 patients; postoperative hospital stay was 1-3 days after either cholecystectomy or splenectomy. The 13 children with a retained spleen remain under regular review by a haematologist (median follow-up 4.6, range 0.5 to 10.6 years) and are well and transfusion independent."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Child",
+            "Child, Preschool",
+            "Cholecystectomy",
+            "Female",
+            "Follow-Up Studies",
+            "Gallstones",
+            "Humans",
+            "Laparoscopy",
+            "Male",
+            "Retrospective Studies",
+            "Spherocytosis, Hereditary",
+            "Splenectomy",
+            "Treatment Outcome",
+            "Unnecessary Procedures"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "no",
+        "LONG_ANSWER": "The advice to perform a concomitant splenectomy in children with mild HS undergoing cholecystectomy for symptomatic gallstones needs revisiting. In the era of minimal access surgery, the need for splenectomy in such children should be judged on its own merits."
+    },
+    "22186742": {
+        "QUESTION": "Does a colonoscopy after acute diverticulitis affect its management?",
+        "CONTEXTS": [
+            "Medical records of 220 patients hospitalized for acute diverticulitis between June 1, 2002 and September 1, 2009 were reviewed. Acute diverticulitis was diagnosed by clinical criteria and characteristic CT findings. Fifteen patients were excluded either because of questionable CT or hematochezia. Mean age was 61.8\u00b114.3 years (61% females). Clinical parameters, laboratory results, imaging, endoscopic and histopathological reports, and long-term patients' outcome were analyzed.",
+            "One hundred patients (aged 61.8\u00b113.3 y, 54.1% females), underwent an early (4 to 6 wk) colonoscopy after hospital discharge. There were no significant differences in patients' characteristics or survival between those with or without colonoscopy (4\u00b11.9 vs. 4.2\u00b12.1 y, P=0.62). No colonic malignancy was detected. However, in 32 patients (32%) at least 1 polyp was found. Only 1 was determined as an advanced adenoma. No new or different diagnosis was made after colonoscopy."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acute Disease",
+            "Aged",
+            "Colonoscopy",
+            "Diverticulitis, Colonic",
+            "Female",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Retrospective Studies",
+            "Survival Rate",
+            "Tomography, X-Ray Computed"
+        ],
+        "YEAR": "2012",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Our results suggest that colonoscopy does not affect the management of patients with acute diverticulitis nor alter the outcome. The current practice of a routine colonoscopy after acute diverticulitis, diagnosed by typical clinical symptoms and CT needs to be reevaluated."
+    },
+    "10927144": {
+        "QUESTION": "Can p53 alterations be used to predict tumour response to pre-operative chemo-radiotherapy in locally advanced rectal cancer?",
+        "CONTEXTS": [
+            "To examine whether p53 tumour suppressor gene alterations can be used to predict tumour response to pre-operative chemo-radiation in locally advanced rectal cancer in terms of reduction in tumour size and local failure.",
+            "p53 alterations were studied in pre-treatment biopsy specimens of rectal carcinomas from 48 patients by immunohistochemistry (IHC) and polymerase chain reaction/single strand conformation polymorphism (PCR-SSCP) gene mutation analysis. Pre-operative pelvic radiotherapy was delivered with four fields, 45 Gy to the ICRU point in 25 fractions over 5 weeks. A radio-sensitising dose of 5-fluorouracil (500 mg/m(2)) was delivered concurrently for 6 days of the 5-week schedule (days 1, 2, 3 and days 22, 23 and 24). Total meso-rectal excision was planned 4 to 6 weeks from completion of pre-operative treatment. Response to therapy was assessed by macroscopic measurement of the surgical specimen by a pathologist who was unaware of the pre-treatment tumour size or of the p53 status.",
+            "IHC evidence of p53 protein accumulation was found in 40% of tumours, p53 gene mutation in 35% and p53 alteration (either or both changes) in 46%. The average reduction in tumour size was 53% in the group with 'wild-type' p53 (IHC-/SSCP-) and 63% in the group with altered p53 (either IHC+ or SSCP+; P=0.18). No significant differences in tumour size reduction or local failure were observed in the groups with p53 overexpression or p53 mutation compared with normal."
+        ],
+        "LABELS": [
+            "PURPOSE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adenocarcinoma",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Antimetabolites, Antineoplastic",
+            "Biomarkers, Tumor",
+            "Chemotherapy, Adjuvant",
+            "Female",
+            "Fluorouracil",
+            "Follow-Up Studies",
+            "Humans",
+            "Male",
+            "Middle Aged",
+            "Preoperative Care",
+            "Probability",
+            "Prognosis",
+            "Prospective Studies",
+            "Radiotherapy, Adjuvant",
+            "Rectal Neoplasms",
+            "Sensitivity and Specificity",
+            "Survival Analysis",
+            "Treatment Outcome",
+            "Tumor Suppressor Protein p53"
+        ],
+        "YEAR": "2000",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "p53 alteration detected by IHC or SSCP analysis is not a clinically useful predictor of local response to pre-operative adjuvant therapy in advanced rectal carcinoma."
+    },
+    "24074624": {
+        "QUESTION": "Is intensive monitoring during the first transfusion in pediatric patients necessary?",
+        "CONTEXTS": [
+            "Some pediatric patients, typically those that are very young or felt to be especially sick are temporarily admitted to the intensive care unit (ICU) for observation during their first transfusion. If a significant reaction that requires ICU management does not occur, these patients are then transferred to a regular ward where future blood products are administered. The aim of this project was to determine if heightened observation such as temporary ICU admissions for the first transfusion are warranted.",
+            "From the blood bank records of a tertiary care pediatric hospital, a list of patients on whom a transfusion reaction was reported between 2007 and 2012, the type of reaction and the patient's transfusion history, were extracted. The hospital location where the transfusion occurred, and whether the patient was evaluated by the ICU team or transferred to the ICU for management of the reaction was determined from the patient's electronic medical record.",
+            "There were 174 acute reactions in 150 patients. Of these 150 patients, 13 (8.7%) different patients experienced a reaction during their first transfusion; all 13 patients experienced clinically mild reactions (8 febrile non-hemolytic, 4 mild allergic, and 1 patient who simultaneously had a mild allergic and a febrile non-hemolytic), and none required ICU management. Six severe reactions (6 of 174, 3.4%) involving significant hypotension and/or hypoxia that required acute and intensive management occurred during subsequent (i.e. not the first) transfusion in six patients."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adolescent",
+            "Adult",
+            "Blood Component Transfusion",
+            "Blood Transfusion",
+            "Child",
+            "Child, Preschool",
+            "Critical Care",
+            "Humans",
+            "Infant",
+            "Infant, Newborn",
+            "Intensive Care Units",
+            "Population Surveillance",
+            "Transfusion Reaction",
+            "Young Adult"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "The practice of intensive observation for the first transfusion in pediatric patients is probably unnecessary."
+    },
+    "12855939": {
+        "QUESTION": "Is ankle/arm pressure predictive for cardiovascular mortality in older patients living in nursing homes?",
+        "CONTEXTS": [
+            "longitudinal descriptive study.",
+            "2 large nursing homes in Turin, Italy.",
+            "418 dependent elderly (83 males, 335 females, mean age 83.7+/-8.5 y, range 55-102) living in the nursing homes.",
+            "the prevalence of peripheral arterial disease (PAD) was evaluated using a Doppler Ultrasound measurement of AAI (Ankle/Arm blood pressure Index). Death causes according to ICD-9-CM were ascertained on patient's clinical records.",
+            "Diagnosis of PAD was made in 122 subjects (29.2%) with AAI<0.90. After a 3 year follow-up 203 patients (48.6%) died. The presence of PAD was not related to total mortality or to mortality for ischemic heart disease (IHD), cerebrovascular disease or other causes. IHD mortality was significantly and independently related to low haemoglobin values, previous cerebrovascular disease, polypharmacy and poor mobility conditions."
+        ],
+        "LABELS": [
+            "DESIGN",
+            "SETTING",
+            "SUBJECTS",
+            "MEASUREMENTS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Aged",
+            "Aged, 80 and over",
+            "Ankle",
+            "Arm",
+            "Blood Pressure",
+            "Cardiovascular Diseases",
+            "Female",
+            "Humans",
+            "Longitudinal Studies",
+            "Male",
+            "Nursing Homes",
+            "Prognosis"
+        ],
+        "YEAR": "2003",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "The prevalence of PAD is high in nursing home residents. AAI is not predictive for IHD mortality in this population. In very frail elderly traditional risk factors and PAD are less important predictors of death compared to poor functional status, nutritional factors and previous cardiovascular disease."
+    },
+    "18801797": {
+        "QUESTION": "Household and food shopping environments: do they play a role in socioeconomic inequalities in fruit and vegetable consumption?",
+        "CONTEXTS": [
+            "Fruit and vegetables are protective of a number of chronic diseases; however, their intakes have been shown to vary by socioeconomic position (SEP). Household and food shopping environmental factors are thought to contribute to these differences. To determine whether household and food shopping environmental factors are associated with fruit and vegetable (FV) intakes, and contribute to socioeconomic inequalities in FV consumption.",
+            "Cross-sectional data were obtained by a postal questionnaire among 4333 adults (23-85 years) living in 168 neighbourhoods in the south-eastern Netherlands. Participants agreed/disagreed with a number of statements about the characteristics of their household and food shopping environments, including access, prices and quality. Education was used to characterise socioeconomic position (SEP). Main outcome measures were whether or not participants consumed fruit or vegetables on a daily basis. Multilevel logistic regression models examined between-area variance in FV consumption and associations between characteristics of the household and food shopping environments and FV consumption.",
+            "Only a few household and food shopping environmental factors were significantly associated with fruit and vegetable consumption, and their prevalence was low. Participants who perceived FV to be expensive were more likely to consume them. There were significant socioeconomic inequalities in fruit and vegetable consumption (ORs of not consuming fruit and vegetables were 4.26 and 5.47 among the lowest-educated groups for fruit and vegetables, respectively); however, these were not explained by any household or food shopping environmental factors."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Age Factors",
+            "Aged",
+            "Aged, 80 and over",
+            "Commerce",
+            "Educational Status",
+            "Environment",
+            "Epidemiologic Methods",
+            "Feeding Behavior",
+            "Food Supply",
+            "Fruit",
+            "Humans",
+            "Middle Aged",
+            "Netherlands",
+            "Sex Factors",
+            "Social Class",
+            "Vegetables",
+            "Young Adult"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Improving access to FV in the household and food shopping environments will only make a small contribution to improving population consumption levels, and may only have a limited effect in reducing socioeconomic inequalities in their consumption."
+    },
+    "24446763": {
+        "QUESTION": "The secular growth acceleration: does it appear during fetal life?",
+        "CONTEXTS": [
+            "To test if secular growth acceleration occurs during fetal life.",
+            "ANOVA Kruskal-Wallis and Mann-Whitney U-test have been used for the biometric characteristics comparison of nowadays fetal population with those three decades ago and to test the hypothesis about the existence of secular growth acceleration during fetal life. For this purpose, we first calculated mean values of particular biometric parameters for the whole pregnancy. During the period 2002-2009 biparietal diameter, fetal length and abdominal circumference measurements in singleton uncomplicated pregnancies between 22 and 41 gestational weeks were obtained. Gestational age was estimated according to Naegele's rule and confirmed with an early ultrasound examination. Pregnancies with fetal cromosomopathies and malformations were excluded as well as those resulting in perinatal death.",
+            "There were no statistically significant differences of the examined fetal biometric parameters measured by ultrasound between contemporary fetal population and those from 35 years ago."
+        ],
+        "LABELS": [
+            "OBJECTIVE",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acceleration",
+            "Birth Weight",
+            "Female",
+            "Fetal Development",
+            "Gestational Age",
+            "Humans",
+            "Infant, Newborn",
+            "Population Growth",
+            "Pregnancy",
+            "Reference Values",
+            "Ultrasonography, Prenatal"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Our investigation did not undoubtedly prove that significant changes of fetal biometric parameters occurred in the last three decades. It is possible that secular growth acceleration does not exist in prenatal period but also the observed time period could have been short for this phenomenon to manifest."
+    },
+    "15787677": {
+        "QUESTION": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+        "CONTEXTS": [
+            "Twenty-seven healthy normal glucose-tolerant humans with either a previous diagnosis of gestational diabetes or having two parents with Type 2 diabetes and 27 healthy adults who had no history of diabetes were recruited. Maximal oxygen uptake was assessed using an incremental exercise test to exhaustion. Skin microvascular function was assessed using laser Doppler techniques as the maximum skin hyperaemic response to a thermal stimulus (maximum hyperaemia) and the forearm skin blood flow response to the iontophoretic application of acetylcholine (ACh) and sodium nitroprusside.",
+            "Maximal oxygen uptake was not significantly different in the 'at-risk' group compared with healthy controls. Maximum hyperaemia was reduced in those 'at risk' (1.29 +/- 0.30 vs. 1.46 +/- 0.33 V, P = 0.047); however, the peak response to acetylcholine or sodium nitroprusside did not differ in the two groups. A significant positive correlation was demonstrated between maximal oxygen uptake and maximum hyperaemia (r = 0.52, P = 0.006 l/min and r = 0.60, P = 0.001 ml/kg/min) and peak ACh response (r = 0.40, P = 0.04 l/min and r = 0.47, P = 0.013 ml/kg/min) in the 'at-risk' group when expressed in absolute (l/min) or body mass-related (ml/kg/min) terms. No significant correlations were found in the control group."
+        ],
+        "LABELS": [
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Anthropometry",
+            "Blood Glucose",
+            "Blood Pressure",
+            "Diabetes Mellitus, Type 2",
+            "Diabetes, Gestational",
+            "Disease Susceptibility",
+            "Female",
+            "Glucose Tolerance Test",
+            "Humans",
+            "Insulin",
+            "Lipids",
+            "Male",
+            "Microcirculation",
+            "Middle Aged",
+            "Motor Activity",
+            "Oxygen Consumption",
+            "Physical Fitness",
+            "Pregnancy",
+            "Skin"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "In this 'at-risk' group with skin microvascular dysfunction maximal oxygen uptake was not reduced compared with healthy controls. However, in the 'at-risk' group alone, individuals with higher levels of aerobic fitness also had better microvascular and endothelial responsiveness."
+    },
+    "20871246": {
+        "QUESTION": "Young-Burgess classification of pelvic ring fractures: does it predict mortality, transfusion requirements, and non-orthopaedic injuries?",
+        "CONTEXTS": [
+            "The objectives of this study were to evaluate the ability of the Young-Burgess classification system to predict mortality, transfusion requirements, and nonorthopaedic injuries in patients with pelvic ring fractures and to determine whether mortality rates after pelvic fractures have changed over time.",
+            "Retrospective review.",
+            "Level I trauma center.",
+            "One thousand two hundred forty-eight patients with pelvic fractures during a 7-year period.",
+            "None.",
+            "Mortality at index admission, transfusion requirement during first 24 hours, and presence of nonorthopaedic injuries as a function of Young-Burgess pelvic classification type. Mortality compared with historic controls.",
+            "Despite a relatively large sample size, the ability of the Young-Burgess system to predict mortality only approached statistical significance (P = 0.07, Kruskal-Wallis). The Young-Burgess system differentiated transfusion requirements--lateral compression Type 3 (LC3) and anteroposterior compression Types 2 (APC2) and 3 (APC3) fractures had higher transfusion requirements than did lateral compression Type 1 (LC1), anteroposterior compression Type 1 (APC1), and vertical shear (VS) (P<0.05)--but was not as useful at predicting head, chest, or abdomen injuries. Dividing fractures into stable and unstable types allowed the system to predict mortality rates, abdomen injury rates, and transfusion requirements. Overall mortality in the study group was 9.1%, unchanged from original Young-Burgess studies 15 years previously (P = 0.3)."
+        ],
+        "LABELS": [
+            "OBJECTIVES",
+            "DESIGN",
+            "SETTING",
+            "PATIENTS",
+            "INTERVENTION",
+            "MAIN OUTCOME MEASUREMENTS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Blood Transfusion",
+            "Comorbidity",
+            "Fractures, Compression",
+            "Humans",
+            "Maryland",
+            "Pelvic Bones",
+            "Predictive Value of Tests",
+            "Retrospective Studies",
+            "Survival Rate",
+            "Tomography, X-Ray Computed",
+            "Trauma Centers",
+            "Trauma Severity Indices"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "The Young-Burgess system is useful for predicting transfusion requirements. For the system to predict mortality or nonorthopaedic injuries, fractures must be divided into stable (APC1, LC1) and unstable (APC2, APC3, LC2, LC3, VS, combined mechanism of injury) types. LC1 injuries are very common and not always benign (overall mortality rate, 8.2%)."
+    },
+    "18800356": {
+        "QUESTION": "The FOOTSTEP self-management foot care programme: are rheumatoid arthritis patients physically able to participate?",
+        "CONTEXTS": [
+            "The FOOTSTEP self-management foot care programme is a clinical and cost-effective programme for basic foot care in the elderly. The aim of this study was to determine if patients with rheumatoid arthritis (RA) would be physically able to participate.",
+            "A consecutive cohort of RA patients undergoing podiatry care underwent tests for sight, reach and grip strength to determine their physical ability to undertake self-managed foot care.",
+            "Thirty RA patients (10 male, 20 female), with a median age of 61 years (range 42 to 84) and disease duration of 10 years (range one to 40), were recruited. All patients passed the sight test, whereas the reach and grip tests were passed by 77% and 67% of patients, respectively. Only 57% of patients passed all the physical tests. Patients who failed the physical tests were older, and had longer disease duration and higher physical disability, pain and general health scores but these were not statistically different."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Activities of Daily Living",
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Arthritis, Rheumatoid",
+            "Disability Evaluation",
+            "Female",
+            "Foot Diseases",
+            "Humans",
+            "Hygiene",
+            "Male",
+            "Middle Aged",
+            "Patient Participation",
+            "Podiatry",
+            "Program Evaluation",
+            "Self Care"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Just over half the patients in this present cohort may be physically able to undertake some aspects of self-managed foot care, including nail clipping and filing, callus filing and daily hygiene and inspection."
+    },
+    "25636371": {
+        "QUESTION": "Is it possible to stop treatment with nucleos(t)ide analogs in patients with e-antigen negative chronic hepatitis B?",
+        "CONTEXTS": [
+            "Treatment of HBeAg-negative chronic hepatitis B (CHB) with nucleos(t)ide analogues (NA) is usually indefinite, since the loss of HBsAg, as a criterion for its discontinuation, is a rare event. Recent evidence suggests that discontinuing NA therapy may be feasible in selected patients.",
+            "To analyze the rate of virological relapse in patients with HBeAg-negative CHB who discontinued treatment with NAs.",
+            "We performed a single-center observational study that included 140 patients with HBsAg-negative CHB. Twenty-two patients, who received only NAs, discontinued treatment for different reasons and were subsequently monitored. All had normal ALT and AST, undetectable DNA and absence of cirrhosis or significant comorbidities before stopping treatment.",
+            "Twelve patients showed virologic relapse (54.54%). The mean interval between discontinuation and relapse was 6.38 months (\u00b1 1.9) (75% relapsed during the first 12 months after discontinuation). Five received adefovir, 1 lamivudine and adefovir, 1 tenofovir and 5 lamivudine alone. The mean treatment duration in this group was 38.5 months (\u00b1 4.5). The sustained response group had a higher mean age and longer treatment duration than patients with virologic relapse but these differences were not statistically significant."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Alanine Transaminase",
+            "Antiviral Agents",
+            "Aspartate Aminotransferases",
+            "DNA, Viral",
+            "Drug Therapy, Combination",
+            "Female",
+            "Hepatitis B e Antigens",
+            "Hepatitis B virus",
+            "Hepatitis B, Chronic",
+            "Humans",
+            "Liver Cirrhosis",
+            "Male",
+            "Middle Aged",
+            "Nucleotides",
+            "Recurrence",
+            "Treatment Outcome"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "The results suggest that NA treatment can be stopped in selected patients with CHB as long as they are not cirrhotic, have completed a minimum period of treatment, have normal ALT and sustained undetectable DNA. These patients should be closely monitored during the first year and then indefinitely."
+    },
+    "20082356": {
+        "QUESTION": "Should direct mesocolon invasion be included in T4 for the staging of gastric cancer?",
+        "CONTEXTS": [
+            "One of the sites most frequently invaded by gastric cancer is the mesocolon; however, the UICC does not mention this anatomical site as an adjacent structure involved in gastric cancer. The purpose of this study was to characterize and classify mesocolon invasion from gastric cancer.",
+            "We examined 806 patients who underwent surgery for advanced gastric carcinoma from 1992 to 2007 at the Department of Surgery, Gangnam Severance Hospital, Korea. Among these, patients who showed macroscopically direct invasion into the mesocolon were compared to other patients with advanced gastric cancer.",
+            "The curability, number and extent of nodal metastasis, and the survival of the mesocolon invasion group were significantly worse than these factors in the T3 group. However, the survival of the mesocolon invasion group after curative resection was much better than that of patients who had incurable factors."
+        ],
+        "LABELS": [
+            "BACKGROUND AND OBJECTIVES",
+            "METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Adult",
+            "Aged",
+            "Female",
+            "Humans",
+            "Lymphatic Metastasis",
+            "Male",
+            "Mesocolon",
+            "Middle Aged",
+            "Neoplasm Invasiveness",
+            "Neoplasm Staging",
+            "Stomach Neoplasms",
+            "Survival Rate"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Mesocolon invasion should be included in T4 for the staging of gastric cancer."
+    },
+    "23860049": {
+        "QUESTION": "Do we need imaging to diagnose appendicitis in children?",
+        "CONTEXTS": [
+            "To evaluate the role of clinical assessment with selective use of imaging studies in the management of suspected acute appendicitis in children.",
+            "Medical records of children referred to Emergency Room in 2010 for suspected appendicitis were retrospectively reviewed. Diagnostic investigations divided by age and sex were related to pathological findings. Negative appendectomy and complication rates were calculated.",
+            "923 children needed surgical assessment : In 75.7% of them surgical indication was excluded and 24.3% were admitted to surgical ward for observation. Appendectomy was eventually performed in 137 patients (61.9%), 82.4% of them without any preoperative imaging while 17.6% underwent selective studies, mainly abdominal ultrasonography (14.6%). Imaging was requested twice as frequently in not operated admitted children (39.3%) than in the operated ones (17.5%, P<0.001). Overall complicated appendicitis rate (peritonitis and abscess) resulted 26.4% and negative appendectomy rate 8.8%. Females older than 10 years presented histologically not-confirmed appendicitis in 22.2% of cases, while the younger ones presented more frequently complicated appendicitis (29.3%)."
+        ],
+        "LABELS": [
+            "BACKGROUND",
+            "PATIENTS AND METHODS",
+            "RESULTS"
+        ],
+        "MESHES": [
+            "Acute Disease",
+            "Adolescent",
+            "Appendectomy",
+            "Appendicitis",
+            "Child",
+            "Child, Preschool",
+            "Diagnosis, Differential",
+            "Diagnostic Errors",
+            "Diagnostic Imaging",
+            "Early Diagnosis",
+            "Female",
+            "Follow-Up Studies",
+            "Humans",
+            "Infant",
+            "Infant, Newborn",
+            "Male",
+            "Retrospective Studies"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Clinical assessment is the key to diagnose appendicitis. Nevertheless, in girls older than 10 years, selected use of imaging should be implemented to avoid unnecessary appendectomies. Imaging of choice in equivocal cases should be ultrasonography."
+    }
+}
