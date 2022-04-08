@@ -1,5 +1,5 @@
-# NationalSecurityBERT
-XSC224u Final Project: Pre-training BERT on national security domain corpus
+# (Corpus) Size Does Matter: The Effects of In-Domain Corpus Size on Language Model Performance
+XSC224u Final Project: Pre-training BERT from scratch on different sizes of biomedical domain corpora.
 
 ## Project Repo Framework
 ### 1. DataCollection

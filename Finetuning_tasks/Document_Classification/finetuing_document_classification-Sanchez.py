@@ -15,7 +15,7 @@ import os
 import loguru
 
 logger = loguru.logger
-
+model_path = 'bert-base-uncased'
 dirpath = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Finetuning_tasks/Document_Classification/DC_data/text/'
 files = [file for file in os.listdir(dirpath) if file.endswith('txt')]
 
@@ -98,7 +98,7 @@ class HoCDataset:
 class BERTClass(nn.Module):
     def __init__(self):
         super(BERTClass, self).__init__()
-        self.bert = transformers.BertModel.from_pretrained('../../Modeling/checkpoints/model-trained-36-130647.pt/')
+        self.bert = transformers.BertModel.from_pretrained(model_path)
         self.out = nn.Linear(768, 10)
 
     
@@ -157,7 +157,7 @@ def eval_loop_fn(data_loader, model, device):
 
 
 MAX_LEN = 512
-TRAIN_BATCH_SIZE = 8
+TRAIN_BATCH_SIZE = 4
 EPOCHS = 4
 SEED = 42
 LEARNING_RATE = 3e-5
@@ -217,8 +217,8 @@ output, target = eval_loop_fn(test_data_loader, model, device)
 from sklearn import metrics
 output = np.array(output) >= 0.5
 f1_score_micro = metrics.f1_score(target, output, average='micro')
-print(f"F1 Score (Micro) = {f1_score_micro} with a Batch Size of: {TRAIN_BATCH_SIZE}")
-print(f'Using model 36-130647')
+print(f"F1 Score (Micro) = {round(f1_score_micro,3)} with a Batch Size of: {TRAIN_BATCH_SIZE}")
+print(f'Using model {model_path}')
 
 
 

@@ -1,0 +1,11 @@
+model_name,metric,score,corpus_size,pretraining_steps
+bert-base-uncased,accuracy,0.5444,20GB,1000000
+model-trained-0-3531-4GB,accuracy,0.5524,4GB,3500
+model-trained-18-67089-4GB,accuracy,0.5492,4GB,67000
+model-trained-36-130647-4GB,accuracy,0.5516,4GB,130000
+model-trained-0-7063-8GB,accuracy,0.546,8GB,7063
+model-trained-8-63567-8GB,accuracy,0.5344,8GB,63500
+model-trained-22-162449-8GB,accuracy,0.5432,8GB,162449
+model-trained-0-10596-12GB,accuracy,0.5384,12GB,10500
+model-trained-3-42384-12GB,accuracy,0.5524,12GB,42000
+model-trained-5-63576-12GB,accuracy,0.5676,12GB,63500

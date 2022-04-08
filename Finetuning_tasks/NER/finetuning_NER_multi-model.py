@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+
 import numpy as np
 import pandas as pd
 import transformers
@@ -8,22 +9,14 @@ from torch.utils.data import Dataset, DataLoader, RandomSampler, SequentialSampl
 from transformers import BertForTokenClassification, BertTokenizer, BertConfig, BertModel
 from transformers import AdamW, get_linear_schedule_with_warmup
 import torch
+import json
+import os
+import time
 from torch.nn.parallel import DataParallel
 from sklearn.metrics import f1_score
 from collections import defaultdict
 from torch import cuda
-from pytorch_lightning import Trainer
-import loguru
-import os
 
-logger = loguru.logger
-
-model_path = '../../Modeling/checkpoints/model-trained-36-130647.pt/'
-token_path = '../../Preprocessing/Tokenization/wp-vocab-30500-vocab.txt'
-#model_path = '../../Modeling/checkpoints/blank_bert/'
-#token_path = 'bert-base-uncased'
-
-logger.info(f'Using {model_path} model and {token_path} tokenizer')
 
 def def_value():
     return 'O'
@@ -100,7 +93,7 @@ def get_data(df, label_vals):
     return sentences, labels
 
 
-# In[9]:
+# In[4]:
 
 
 class CustomDataset(Dataset):
@@ -119,8 +112,8 @@ class CustomDataset(Dataset):
             add_special_tokens=True,
             max_length=self.max_len,
             padding='max_length',
-            return_token_type_ids=True,
-            truncation=True
+            truncation=True,
+            return_token_type_ids=True
         )
         ids = inputs['input_ids']
         mask = inputs['attention_mask']
@@ -136,13 +129,13 @@ class CustomDataset(Dataset):
     
     def __len__(self):
         return self.len
-    
+
 class BERTClass(torch.nn.Module):
     def __init__(self, model_path):
         super(BERTClass, self).__init__()
-        self.bert = transformers.BertForTokenClassification.from_pretrained(model_path, num_labels=18)
-
-    
+        self.bert = transformers.BertForTokenClassification.from_pretrained(model_path, 
+                                                                            num_labels=18,
+                                                                            )
     def forward(self, ids, mask, labels):
         output = self.bert(ids, mask, labels = labels)
 
@@ -162,7 +155,7 @@ def train(epoch):
         loss.sum().backward()
         optimizer.step()
         
-        if step % 5==0:
+        if step % 10==0:
             print(f'Epoch: {epoch}  Step: {step}  Loss: {loss.sum()}')
             
 def valid(model, testing_loader, label_vals):
@@ -188,56 +181,110 @@ def valid(model, testing_loader, label_vals):
         print("Validation loss: {}".format(eval_loss))
         pred_tags = [label_vals[p_i] for p in predictions for p_i in p]
         valid_tags = [label_vals[l_ii] for l in true_labels for l_i in l for l_ii in l_i]
-        average = 'micro'
-        print(f'Using {average} average')
-        score = f1_score(pred_tags, valid_tags, average=average)
-        print(f"F1-Score: {round(score,3)}") 
-        
+        score = f1_score(pred_tags, valid_tags, average='micro')
+        print("F1-Score: {}".format(round(score, 4)))
     return pred_tags, valid_tags, score
+
+
+# In[5]:
 
 
 device = 'cuda' if cuda.is_available() else 'cpu'
 
-
 df_train = read_data('./NCBI-disease/NCBItrainset_corpus.txt')
 df_valid = read_data('./NCBI-disease/NCBIdevelopset_corpus.txt')
+df_test = read_data('./NCBI-disease/NCBItestset_corpus.txt')
 
 label_vals = list(df_train["label"].value_counts().keys())
 label2idx = {value: key for key, value in enumerate(label_vals)}
 
 train_sentences, train_labels = get_data(df_train, label_vals)
 valid_sentences, valid_labels = get_data(df_valid, label_vals)
-
-run_metric = []
-
-for run in range(5):
-    logger.info(f'Initiating model {model_path} for training')
-    model = BERTClass(model_path)
-    model = DataParallel(model)
-    model.to(device)
-    logger.info(f'Model device ids: {model.device_ids}')
-    tokenizer = BertTokenizer.from_pretrained(token_path)
-
-    #Defining some key variables that will be used later on in the training
-    MAX_LEN = 200
-    TRAIN_BATCH_SIZE = 16
-    VALID_BATCH_SIZE = 8
-    EPOCHS = 6
-    LEARNING_RATE = 5e-05
-    optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE)
-
-    training_set = CustomDataset(tokenizer, train_sentences, train_labels, MAX_LEN)
-    valid_set = CustomDataset(tokenizer, valid_sentences, valid_labels, MAX_LEN)
-
-    training_loader = DataLoader(training_set, batch_size=TRAIN_BATCH_SIZE, shuffle=True)
-    valid_loader = DataLoader(valid_set, batch_size=VALID_BATCH_SIZE, shuffle=True)
+test_sentences, test_labels = get_data(df_test, label_vals)
 
 
-    for epoch in range(EPOCHS):
-        train(epoch)
-    pred_tags, valid_tags, score = valid(model, valid_loader, label_vals)
-    run_metric.append(score)
-logger.info(f"Mean f1-score: {np.round(np.mean(run_metric), 4)}")
+# In[6]:
+
+
+# model_paths = ['bert-base-uncased',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/4GB-checkpoints/model-trained-0-3531-4GB/',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/4GB-checkpoints/model-trained-18-67089-4GB/',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/4GB-checkpoints/model-trained-36-130647-4GB/',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/12GB-checkpoints/model-trained-0-10596-12GB/',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/12GB-checkpoints/model-trained-3-42384-12GB/',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/12GB-checkpoints/model-trained-5-63576-12GB/'
+#               ]
+
+model_paths = ['/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/8GB-checkpoints/run_8GB_model-trained-0-7063/',
+               '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/8GB-checkpoints/run_8GB_model-trained-8-63567/',
+               '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/8GB-checkpoints/run_8GB_model-trained-22-162449/'
+               ]
+
+
+# In[7]:
+
+
+# Defining some key variables that will be used later on in the training
+MAX_LEN = 200
+TRAIN_BATCH_SIZE = 32
+VALID_BATCH_SIZE = 4
+EPOCHS = 4
+LEARNING_RATE = 5e-05
+
+start = time.perf_counter()
+
+for model_path in model_paths:
+    
+    tokenizer_path = ('bert-base-uncased' if model_path == 'bert-base-uncased' else '../../Preprocessing/Tokenization/wp-vocab-30500-vocab.txt')
+    tokenizer = BertTokenizer.from_pretrained(tokenizer_path)
+
+    model_name = model_path if model_path == 'bert-base-uncased' else model_path.split('/')[-2].split('.')[0]
+    model_stats = {'model_name':model_name,
+                   'seeds':[],
+                   'batch_size':TRAIN_BATCH_SIZE,
+                   'epochs':EPOCHS,
+                   'metric':'f1-score (micro)',
+                   'scores': [],
+                   'mean_score':0
+                    }
+    for num in range(1,6):
+        
+        training_set = CustomDataset(tokenizer, train_sentences, train_labels, MAX_LEN)
+        #valid_set = CustomDataset(tokenizer, valid_sentences, valid_labels, MAX_LEN)
+        test_set = CustomDataset(tokenizer, test_sentences, test_labels, MAX_LEN)
+        
+        training_loader = DataLoader(training_set, batch_size=TRAIN_BATCH_SIZE, shuffle=True, num_workers=8)
+        #valid_loader = DataLoader(valid_set, batch_size=VALID_BATCH_SIZE, shuffle=True, num_workers=8)
+        test_loader = DataLoader(test_set, batch_size=VALID_BATCH_SIZE, shuffle=True, num_workers=8)
+        
+        model = BERTClass(model_path)
+        model = DataParallel(model)
+        model.to(device)
+        optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE)
+        print(f'Using model {model_name}, with tokenizer {tokenizer_path}')
+        
+        for epoch in range(EPOCHS):
+            train(epoch)
+        pred_tags, test_tags, score = valid(model, test_loader, label_vals)
+        model_stats['scores'].append(round(score, 6))
+        #pred_tags, valid_tags = valid(model, valid_loader, label_vals)
+        torch.cuda.empty_cache()
+        time.sleep(3)
+        print(f'Training run {num} completed.')
+        print()
+        
+    print('Logging model stats....')
+    print()
+    final_score = np.round(np.mean(model_stats['scores']), 4)
+    model_stats['mean_score'] = final_score
+    with open('logs/NER_stats.txt', 'a') as f:
+        f.write(json.dumps(model_stats))
+        f.write('\n')
+        
+end = time.perf_counter() - start
+print(f'Total Training/Eval time: {round(end, 2)} seconds')
+
+
 
 
 
