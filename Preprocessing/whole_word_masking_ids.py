@@ -1,16 +1,29 @@
 import random as rng
 from collections import namedtuple
+from tokenizers import BertWordPieceTokenizer 
 
 MaskedLmInstance = namedtuple("MaskedLmInstance",
                                           ["index", "label"])
 
-def create_masked_lm_predictions(tokens: list, vocab_words: list, masked_lm_prob: float=0.15, max_predictions_per_seq: int=80):
+def create_masked_lm_ids(token_ids: list, 
+                         source_ids: list, 
+                         tokenizer: BertWordPieceTokenizer, 
+                         masked_lm_prob: float=0.15, 
+                         max_predictions_per_seq: int=80):
 
-  """Creates the predictions for the masked LM objective."""
+  """
+  Creates the predictions for the masked LM objective.
+
+  Args:
+  token_ids: list of tokenized ids (likely a sequence of len 512).
+  source_ids: source ids from tokenizer.  Len should equal len of tokenizer vocabulary.
+  tokenizer: currently only support Class BertWordPieceTokenizer
+
+  """
 
   cand_indexes = []
-  for (i, token) in enumerate(tokens):
-    if token == "[CLS]" or token == "[SEP]":
+  for (i, token) in enumerate(token_ids):
+    if token == 2 or token == 3:
       continue
     # Whole Word Masking means that if we mask all of the wordpieces
     # corresponding to an original word. When a word has been split into
@@ -21,17 +34,17 @@ def create_masked_lm_predictions(tokens: list, vocab_words: list, masked_lm_prob
     # Note that Whole Word Masking does *not* change the training code
     # at all -- we still predict each WordPiece independently, softmaxed
     # over the entire vocabulary.
-    if len(cand_indexes) >= 1 and token.startswith("##"):
+    if len(cand_indexes) >= 1 and tokenizer.id_to_token(token).startswith('##'):
       cand_indexes[-1].append(i)
     else:
       cand_indexes.append([i])
 
   rng.shuffle(cand_indexes)
 
-  output_tokens = list(tokens)
+  output_tokens = list(token_ids)
 
   num_to_predict = min(max_predictions_per_seq,
-                       max(1, int(round(len(tokens) * masked_lm_prob))))
+                       max(1, int(round(len(token_ids) * masked_lm_prob))))
 
   masked_lms = []
   covered_indexes = set()
@@ -55,18 +68,18 @@ def create_masked_lm_predictions(tokens: list, vocab_words: list, masked_lm_prob
       masked_token = None
       # 80% of the time, replace with [MASK]
       if rng.random() < 0.8:
-        masked_token = "[MASK]"
+        masked_token = tokenizer.token_to_id('[MASK]')
       else:
         # 10% of the time, keep original
         if rng.random() < 0.5:
-          masked_token = tokens[index]
+          masked_token = token_ids[index]
         # 10% of the time, replace with random word
         else:
-          masked_token = vocab_words[rng.randint(0, len(vocab_words) - 1)]
+          masked_token = source_ids[rng.randint(0, len(source_ids) - 1)]
 
       output_tokens[index] = masked_token
 
-      masked_lms.append(MaskedLmInstance(index=index, label=tokens[index]))
+      masked_lms.append(MaskedLmInstance(index=index, label=token_ids[index]))
   assert len(masked_lms) <= num_to_predict
   masked_lms = sorted(masked_lms, key=lambda x: x.index)
 
@@ -76,4 +89,4 @@ def create_masked_lm_predictions(tokens: list, vocab_words: list, masked_lm_prob
     masked_lm_positions.append(p.index)
     masked_lm_labels.append(p.label)
 
-  return output_tokens, tokens
+  return output_tokens
