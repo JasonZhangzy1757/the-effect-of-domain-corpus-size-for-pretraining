@@ -26,8 +26,8 @@ from transformers import BertForMaskedLM, BertConfig, AdamW
 
 logger = loguru.logger
 
-# for gpu in nvgpu.gpu_info():
-#     logger.info(gpu)
+for gpu in nvgpu.gpu_info():
+    logger.info(gpu)
     
 local_rank = 0
 device = (
@@ -36,10 +36,10 @@ device = (
         else torch.device("cpu")
     )
 
-encodings_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/encodings/'
-files = [f for f in os.listdir(encodings_path) if f.endswith('pt')]
+encodings_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/encodings/whole_word_masking/'
+files = sorted([f for f in os.listdir(encodings_path) if f.endswith('pt')])[:1]
 # encodings_path = '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Data/encodings/test/'
-# files = [f for f in os.listdir(encodings_path) if f.endswith('pt')][:2]
+file = 'encodings_395390_combined4Gb_1.pt'
 logger.info(files)
 
 ############################################################
@@ -60,7 +60,7 @@ BATCH_SIZE = 112
 def assemble(file_path: str):
     encodings = torch.load(file_path)
     dataset = Dataset(encodings)
-    loader = torch.utils.data.DataLoader(dataset, batch_size=BATCH_SIZE, num_workers=6, pin_memory=True, shuffle=True)
+    loader = torch.utils.data.DataLoader(dataset, batch_size=BATCH_SIZE, num_workers=20, pin_memory=True, shuffle=True)
     del encodings
     return loader
 
@@ -82,7 +82,7 @@ optimizer = torch.optim.AdamW(model.parameters(), lr=1e-4)
 ############################################################
 model.train()
 
-epochs = 50
+epochs = 100
 overall_steps = 0
 mean_losses = []
 
@@ -122,7 +122,7 @@ for epoch in range(epochs):
                 logger.info(f'Loss: {loss.sum()}')
                 steps_loss = loss.sum().detach().cpu()
                 mean_losses.append(steps_loss.numpy())
-                with open('./checkpoints/run_12GB_losses.txt', 'a') as f:
+                with open('./checkpoints/run_8GB_losses.txt', 'a') as f:
                     f.write(f'{steps_loss}')
                     f.write('\n')
                     
@@ -132,10 +132,10 @@ for epoch in range(epochs):
         
     logger.info(f'Average Loss for Epoch: {np.round(np.mean(mean_losses), 3)}')
     
-    with open('./checkpoints/run_12GB_epoch_losses.txt', 'a') as f:
+    with open('./checkpoints/run_8GB_epoch_losses.txt', 'a') as f:
         f.write(f'{np.round(np.mean(mean_losses), 3)}')
         f.write('\n')
                 
     mean_losses = []
     timestamp = str(datetime.datetime.now()).split('.')[0].replace(' ','_')
-    model.module.save_pretrained(f'checkpoints/run_12GB_{timestamp}/model-trained-{epoch}-{overall_steps}') 
+    model.module.save_pretrained(f'checkpoints/run_8GB_model-trained-{epoch}-{overall_steps}') 
