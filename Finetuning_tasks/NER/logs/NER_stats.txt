@@ -2,6 +2,9 @@
 {"model_name": "model-trained-0-3531-4GB", "seeds": [], "batch_size": 32, "epochs": 4, "metric": "f1-score (micro)", "scores": [0.86785, 0.8737, 0.86895, 0.86655, 0.8706], "mean_score": 0.8695}
 {"model_name": "model-trained-18-67089-4GB", "seeds": [], "batch_size": 32, "epochs": 4, "metric": "f1-score (micro)", "scores": [0.8795, 0.8728, 0.87855, 0.87585, 0.87855], "mean_score": 0.877}
 {"model_name": "model-trained-36-130647-4GB", "seeds": [], "batch_size": 32, "epochs": 4, "metric": "f1-score (micro)", "scores": [0.85695, 0.8723, 0.8759, 0.86815, 0.87605], "mean_score": 0.8699}
+{"model_name": "run_8GB_model-trained-0-7063", "seeds": [], "batch_size": 32, "epochs": 4, "metric": "f1-score (micro)", "scores": [0.8746, 0.87255, 0.86785, 0.87375, 0.8758], "mean_score": 0.8729}
+{"model_name": "run_8GB_model-trained-8-63567", "seeds": [], "batch_size": 32, "epochs": 4, "metric": "f1-score (micro)", "scores": [0.87975, 0.87325, 0.88, 0.8791, 0.88015], "mean_score": 0.8785}
+{"model_name": "run_8GB_model-trained-22-162449", "seeds": [], "batch_size": 32, "epochs": 4, "metric": "f1-score (micro)", "scores": [0.8768, 0.88025, 0.87565, 0.8691, 0.8699], "mean_score": 0.8743}
 {"model_name": "model-trained-0-10596-12GB", "seeds": [], "batch_size": 32, "epochs": 4, "metric": "f1-score (micro)", "scores": [0.87965, 0.8778, 0.8768, 0.8774, 0.87445], "mean_score": 0.8772}
 {"model_name": "model-trained-3-42384-12GB", "seeds": [], "batch_size": 32, "epochs": 4, "metric": "f1-score (micro)", "scores": [0.87975, 0.8806, 0.8806, 0.87945, 0.88105], "mean_score": 0.8803}
 {"model_name": "model-trained-5-63576-12GB", "seeds": [], "batch_size": 32, "epochs": 4, "metric": "f1-score (micro)", "scores": [0.8754, 0.881, 0.87825, 0.86835, 0.87595], "mean_score": 0.8758}

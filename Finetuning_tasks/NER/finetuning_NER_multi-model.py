@@ -1,20 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
-#!pip install seqeval
-
-
-# In[1]:
-
-
-get_ipython().system('nvidia-smi')
-
-
-# In[2]:
-
 
 import numpy as np
 import pandas as pd
@@ -30,9 +16,6 @@ from torch.nn.parallel import DataParallel
 from sklearn.metrics import f1_score
 from collections import defaultdict
 from torch import cuda
-
-
-# In[3]:
 
 
 def def_value():
@@ -223,14 +206,19 @@ test_sentences, test_labels = get_data(df_test, label_vals)
 # In[6]:
 
 
-model_paths = ['bert-base-uncased',
-'/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/4GB-checkpoints/model-trained-0-3531-4GB/',
-'/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/4GB-checkpoints/model-trained-18-67089-4GB/',
-'/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/4GB-checkpoints/model-trained-36-130647-4GB/',
-'/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/12GB-checkpoints/model-trained-0-10596-12GB/',
-'/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/12GB-checkpoints/model-trained-3-42384-12GB/',
-'/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/12GB-checkpoints/model-trained-5-63576-12GB/'
-              ]
+# model_paths = ['bert-base-uncased',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/4GB-checkpoints/model-trained-0-3531-4GB/',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/4GB-checkpoints/model-trained-18-67089-4GB/',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/4GB-checkpoints/model-trained-36-130647-4GB/',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/12GB-checkpoints/model-trained-0-10596-12GB/',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/12GB-checkpoints/model-trained-3-42384-12GB/',
+# '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/12GB-checkpoints/model-trained-5-63576-12GB/'
+#               ]
+
+model_paths = ['/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/8GB-checkpoints/run_8GB_model-trained-0-7063/',
+               '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/8GB-checkpoints/run_8GB_model-trained-8-63567/',
+               '/home/americanthinker/notebooks/pytorch/NationalSecurityBERT/Modeling/checkpoints/8GB-checkpoints/run_8GB_model-trained-22-162449/'
+               ]
 
 
 # In[7]:
@@ -247,7 +235,7 @@ start = time.perf_counter()
 
 for model_path in model_paths:
     
-    tokenizer_path = ('bert-base-uncased' if model_path == 'bert-base-uncased'                  else '../../Preprocessing/Tokenization/wp-vocab-30500-vocab.txt')
+    tokenizer_path = ('bert-base-uncased' if model_path == 'bert-base-uncased' else '../../Preprocessing/Tokenization/wp-vocab-30500-vocab.txt')
     tokenizer = BertTokenizer.from_pretrained(tokenizer_path)
 
     model_name = model_path if model_path == 'bert-base-uncased' else model_path.split('/')[-2].split('.')[0]
@@ -296,8 +284,6 @@ for model_path in model_paths:
 end = time.perf_counter() - start
 print(f'Total Training/Eval time: {round(end, 2)} seconds')
 
-
-# In[ ]:
 
 
 

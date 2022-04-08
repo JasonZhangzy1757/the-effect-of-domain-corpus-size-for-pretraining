@@ -1,0 +1,11 @@
+model_name,metric,score,corpus_size,pretraining_steps
+bert-base-uncased,f1-score (micro),0.7898,20GB,1000000
+model-trained-0-3531-4GB,f1-score (micro),0.7858,4GB,3500
+model-trained-18-67089-4GB,f1-score (micro),0.8114,4GB,67000
+model-trained-36-130647-4GB,f1-score (micro),0.8124,4GB,130000
+model-trained-0-7063-8GB,f1-score (micro),0.8051,8GB,7063
+model-trained-8-63567-8GB,f1-score (micro),0.825,8GB,63500
+model-trained-22-162449-8GB,f1-score (micro),0.8293,8GB,162449
+model-trained-0-10596-12GB,f1-score (micro),0.8111,12GB,10500
+model-trained-3-42384-12GB,f1-score (micro),0.8143,12GB,42000
+model-trained-5-63576-12GB,f1-score (micro),0.8246,12GB,63500
